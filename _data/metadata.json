@@ -1,11 +1,9 @@
 {
-  "title": "microsite",
-  "description": "Opinionated micro front-end that can be used to start a one-page site.",
+  "title": "Religion CFP | relcfp",
+  "description": "Religious studies call for papers is on hiatus.",
   "favicon": "/assets/icon.png",
   "share": "/assets/share-image.jpg",
-  "url": "https://voight-microsite.netlify.app",
-  "author": "Danny de Vries",
-  "mail": "hi@dandevri.es",
+  "url": "https://relcfp.com",
   "lang": "en",
-  "social": "@dandevri"
+  "social": "@relcfp"
 }
