@@ -1,0 +1,40 @@
+footer {
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    a:hover{
+        color: #bb4430; 
+    }
+    .container{
+        margin: 0 auto 20px;
+    }
+    .footer__text {
+        font-size: 12px;
+        line-height: 16px;
+        font-family: 'Playfair Display', serif;
+        font-weight: 700;
+        @media (min-width: 500px) {
+            line-height: 20px;
+            font-size: 16px;
+        }
+    }
+    .footer__social {
+        font-size: 12px;
+        font-family: 'Montserrat', sans-serif ;
+        padding: 5px 0;
+        @media (min-width: 500px) {
+            font-size: 16px;
+        }
+    }
+    .footer__copywrite {
+        p{
+        font-size: 10px;
+        font-family: 'Montserrat', sans-serif ;
+        }
+        @media (min-width: 500px) {
+            p{
+            font-size: 12px;
+            }
+        }
+    }
+}

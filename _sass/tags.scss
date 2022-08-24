@@ -1,0 +1,92 @@
+.container {
+
+    .tag__list {
+        display: grid;
+        width: 85%;
+        grid-template-columns: 1fr 1fr;
+        gap: 15px;
+        border: 1px solid #bb45303d;
+        box-shadow: -10px -10px #bb4530d4;
+        border-radius: 2px;
+        padding: 10px;
+        margin: 20px auto;
+        justify-items: center;
+        @media (min-width: 500px){
+            width: 95%;
+            grid-template-columns: 1fr 1fr 1fr; 
+        }
+        @media (min-width: 620px){
+            padding: 20px;
+        }
+        @media (min-width: 768px) {
+            width: 85%;
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+            box-shadow: -14px -14px #bb4530d4;
+
+        }
+        @media (min-width: 830px){
+            padding: 30px;
+        }
+    }
+    .list__items {
+        font-size: 12px;
+        line-height: 16px;
+        a:hover{
+            color: #bb4430;
+            font-weight: 600;
+        }
+        @media (min-width: 550px){
+            font-size: 16px;
+            line-height: 20px;
+        }
+    }
+    .tags__row {
+        width: 95%;
+        margin: 20px auto;
+        @media (min-width: 768px) {
+            width: 85%;
+        }
+        .tags__results {
+            padding:10px 0 20px;
+            &:nth-child(even){
+                border-top: 1px solid #bb44300f;
+                border-bottom: 1px solid #bb44300f;
+            }
+
+            .tags__items{
+                display: grid;
+                column-gap: 15px;
+                row-gap: 5px;
+                grid-template-columns: 1fr;
+                @media (min-width: 500px){
+                    row-gap: 10px;
+                }
+                @media (min-width: 768px) {
+                    grid-template-columns: 1fr 1fr;
+                }
+                .item {
+                    font-size: 14px;
+                    line-height: 18px;
+                    @media (min-width: 500px){
+                        font-size: 16px;
+                        line-height: 20px;
+                    }
+                    a:hover{
+                        color: #bb4430;
+                        font-weight: 600;
+                    }
+                }
+                small{
+                    font-size: 10px;
+                    line-height: 14px;
+                    font-weight: 300;
+                    color: rgba(153, 153, 153, 0.863);
+                    @media (min-width: 500px) {
+                        font-size: 14px;
+                        line-height: 18px;
+                    }
+                }
+            }
+        }
+    }
+}

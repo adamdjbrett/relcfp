@@ -1,0 +1,55 @@
+---
+layout: default
+section_id: posts
+pagination:
+  enabled: true
+---
+<div class="container">
+    <div class="post__header">
+        <h2>{{page.title}}</h2>
+        <div class="meta__info">
+            <ul class="post__info">
+            {%- for posts in page.author -%}
+                <li class="post__author">{{page.author}}</li>
+            {%- endfor -%}
+                <li class="posts__time">{{page.date | date_to_long_string}}</li>
+            </ul>
+        </div>
+        
+    </div>
+    <div class="post__content">
+        <div class="post__img">
+            {%- if page.image -%}
+                <img src="{{page.image}}" alt="{{page.title}}">
+            {%- endif -%}
+        </div>
+        {{content}}
+        <div class="post__tag">
+            <h3>Tags:</h3>
+            <div class="tags">
+                {%- for tag in page.tags -%}
+                <a href="{{site.baseurl}}/tag.html#{{tag}}">&nbsp;#{{tag}}</a>
+                {%- endfor -%}
+            </div>
+        </div>
+    </div>
+
+    {%- for author in page.author -%}
+    <div class="author__details">
+        <div class="author__avatar">
+            <img src="{{page.author_img}}" alt="">
+        </div>
+        <div class="author__description">
+            <h4>{{page.author}}</a></h4>
+            <p class="author__text">{{page.author_desc}}</p>
+            <div class="author__links">
+                {%- for s in page.socials -%}
+                <a href="{{s.link}}" target="_blank" rel="noopener"><i class='{{s.icon}}' aria-hidden="true"></i></a>
+                {%- endfor -%}
+            </div>
+        </div>
+        {%- endfor -%}
+    </div>     
+</div>
+{%- include pagination.html -%}
+
