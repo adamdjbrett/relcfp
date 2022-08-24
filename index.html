@@ -1,0 +1,31 @@
+---
+layout: default
+section_id: home
+ 
+---
+
+<div class="container" style="margin: 0 auto 20px">
+    <script type="text/javascript">
+        function loadXMLDoc(dname) {
+          xhttp = new XMLHttpRequest();
+          xhttp.open("GET",dname,false);
+          xhttp.send("");
+         return xhttp.responseXML;
+        }
+   
+        var processor = new XSLTProcessor();
+        var theXML = loadXMLDoc('feed.xml');
+        var theXSL = loadXMLDoc('feed.xsl');
+   
+        // prepare the processor
+        processor.importStylesheet(theXSL);
+   
+        var theResult = processor.transformToDocument(theXML);
+        // now you have a DomDocument with the result
+        // if you want to serialize (transform to a string) it you van use
+   
+        document.write(new XMLSerializer().serializeToString(theResult));  
+     </script>
+
+</div>
+

@@ -1,0 +1,122 @@
+title: RELCFP
+email: contact@relcfp.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Dedicated to call for papers & publications in Religious Studies/Religion, Philosophy, & Theology. Contributions Welcome.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+facebook_url: https://www.facebook.com/relcfp
+twitter_url:  https://twitter.com/relcfp
+
+
+pagination:
+  enabled: true
+  debug: false
+  collection: 'posts'
+  per_page: 12
+  permalink: '/page/:num/' # Pages are index.html inside 
+  title: ':title - page :num'
+  limit: 0
+  sort_field: 'date'
+  sort_reverse: true
+  category: 'posts'
+  tag: ''
+  locale: '' 
+  trail: 
+    before: 2
+    after: 2
+  extension: html
+  indexpage: 'index'
+
+incremental: true
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+gems:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-paginate-multiple
+
+paginate: 6
+paginate_path: "/posts/page:num/"
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+
+tag_page_layout: tag_page
+tag_page_dir: tag
+tag_permalink_style: pretty
+
+collections:
+  episodes:
+    output: true
+defaults:
+  - scope:
+      path: ""
+      type: "tags"
+    values:
+      layout: "posts"
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+autopages:
+  enabled: true
+  tags: 
+    layouts: 
+      - tags.html
+    enabled: true
+    slugify:
+      mode: 'ascii'
+      cased: true
+  categories:
+    layouts:
+      - category.html
+    enabled: true
+    slugify:
+      mode: 'ascii'
+      cased: true
+  collections:
+    layouts:
+      - autopage_collection.html
+    enabled: true
+    slugify:
+      mode: 'ascii'
+      cased: true
+  posts:
+    layouts: 
+      - posts.html
+    enabled: true
+    slugify:
+      mode: 'ascii'
+      cased: true
+# Exclude from processing.
+# The following items will not be processed, by default.
+# Any item listed under the `exclude:` key here will be automatically added to
+# the internal "default list".
+#
+# Excluded items can be processed by explicitly listing the directories or
+# their entries' file path in the `include:` list.
+#
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

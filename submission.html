@@ -1,0 +1,42 @@
+---
+layout: default
+title: Submission
+permalink: "/submission/"
+section_id: submission
+---
+
+<div class="submission">
+  <div class="container">
+    <div class="submission__content">
+      <div class="submission__header">
+        <h2>Submit a post</h2>
+        <p>Submissions must be a call for papers, presentation, publication, 
+        or a submissions that would be of interest to a graduate student in religion in the broadest possible sense. 
+        All submissions are reviewed before posting.</p>
+      </div>
+        <div class="submission-form">
+          <form name="fileForm" enctype="multipart/form-data" data-netlify="true">
+            <label>
+              <input name="name" placeholder="Name" type="text"/>
+            </label>
+            <label>
+              <input name="email" placeholder="Email" type="email"/>
+            </label>
+            <label>
+              <label><textarea rows="5" placeholder="Message" name="message"></textarea></label>
+            </label>
+            <p>
+              <label>
+                <span>Add file:</span>
+                <input name="file" type="file"/>
+              </label>
+            </p>
+            <button>Submit</button>
+          </form>
+          <p class="results"></p>
+          </form>
+        </div>
+    </div>
+
+  </div>
+</div>

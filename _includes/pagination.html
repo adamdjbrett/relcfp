@@ -1,0 +1,26 @@
+<div class="container">
+  {% for post in paginator.posts %}
+          <h2>{{post.title}}</h2>
+      {%- endfor -%}
+      <div class="pagination">
+          <div class="previous">
+              {% if page.previous.url %}
+                  <a href="{{page.previous.url}}" class="previous__btn"><h3>&#x2190; Previous Post</h3></a>
+                  <a href="{{page.previous.url}}" class="previous__btn-mobile"><h3>&#x2190; Previous</h3></a>
+                  <!-- use this if you want to display title page -->
+                  <p>&laquo; {{page.previous.title}} &raquo;</p> 
+                  <span class="posts__time">{{page.date | date_to_long_string}}</span>
+              {% endif %}
+          </div>
+          <div class="next">
+              {% if page.next.url %}	
+              <a href="{{page.next.url}}" class="next__btn"><h3>Next Post	&#8594;</h3></a>
+              <a href="{{page.next.url}}" class="next__btn-mobile"><h3>Next &#8594;</h3></a>
+              <!-- use this if you want to display title page -->
+
+              <p>&laquo; {{page.next.title}} &raquo;</p> 
+              <span class="posts__time">{{page.date | date_to_long_string}}</span>
+              {% endif %}
+          </div>
+      </div>
+</div>
