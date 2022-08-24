@@ -25,5 +25,7 @@ jobs:
         with: { ref: main }
 
       # Runs a single command using the runners shell
+      - name: Get RSS
+        run: ./get_rss.sh 
       - name: Deploy to Netlify
         run: curl -X POST -d {} https://api.netlify.com/build_hooks/6306aae7a6be6803755be05c
