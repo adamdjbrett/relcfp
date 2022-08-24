@@ -1,0 +1,12 @@
+- name: Home
+  path: /
+  section_id: home
+- name: About
+  path: /about/
+  section_id: about
+- name: Posts
+  path: /posts/
+  section_id: posts
+- name: Submission
+  path: /submission/
+  section_id: submission

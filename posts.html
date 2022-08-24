@@ -1,0 +1,57 @@
+---
+layout: default
+title: Posts
+section_id: posts
+permalink: "/posts/"
+---
+<div class="container">
+    <h2 style="text-align: center; margin-bottom: 20px;">A curated blog about everyday religion</h2>
+    <div class="cards__grid">
+        {% for post in site.posts %}
+        <div class="card__item">
+            <div class="meta__info">
+                <ul>
+                    <li class="posts-time">{{post.date | date_to_long_string}}</li>
+                </ul>
+            </div>
+            <div class="post__thumb">
+
+                <a href="{{post.url}}">
+                    <img class="post__img" src="{{post.image}}" alt="{{post.title}}"/>
+                </a>
+            </div>
+            <h3>{{post.title}}</h3>
+            <p>{{post.excerpt | strip_html | truncatewords:"30"}}</p>
+            
+            <div class="post__tag">
+                {%- for tag in post.tags -%}
+                <a href="{{site.baseurl}}/tag.html#{{tag}}">&nbsp;#{{tag}}</a>
+                {%- endfor -%}
+            </div>
+            
+            <div class="link__box">
+                <a href="{{post.url}}">Read More</a>
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    <div id="loadMore">
+        Load More
+    </div>
+</div>
+<script>
+let loadMoreBtn = document.querySelector('#loadMore');
+let currentItem = 6;
+
+loadMoreBtn.onclick = () =>{
+   let boxes = [...document.querySelectorAll('.cards__grid .card__item')];
+   for (var i = currentItem; i < currentItem + 3; i++){
+      boxes[i].style.display = 'inline-block';
+   }
+   currentItem += 3;
+   if(currentItem >= boxes.length){
+      loadMoreBtn.style.display = 'none';
+   }
+
+}
+</script>

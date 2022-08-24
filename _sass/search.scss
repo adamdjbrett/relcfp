@@ -1,0 +1,34 @@
+.header__search {
+
+}
+#search{
+    background-color: transparent;
+}
+#closer{
+    width: 100%;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+    text-align: right;
+    position: relative;
+    z-index: 1;
+    margin-top: -20px;
+    padding: 10px;
+    @media (min-width: 768px) {
+        padding: 30px;
+        width: 80%;
+    }
+}
+.results__found{
+    text-align: left;
+    padding-bottom: 10px;
+}
+.list__item{
+    text-align: left;
+    border-top: 1px solid #bb443024;
+    border-bottom: 1px solid #bb443024;
+    padding: 7px;
+    @media (min-width: 500px){
+        padding: 20px;
+    }
+}

@@ -1,0 +1,42 @@
+<header>
+    <div class="container">
+        <div class="header__title">
+            <a href="/index"><h1>Religion Call for Papers | @relcfp</h1></a>
+        </div>
+        <div class="header__discription">
+            <p>RELCFP is a religious studies call for papers repository. 
+                <a href="/submission">Submissions welcomed</a>.  Follow us on <a href="https://www.facebook.com/">Facebook</a> and <a href="https://www.twitter.com/">Twitter</a> 
+            </p>
+        </div>
+        <div class="header__search">
+            <!-- <form action="/search.html"> -->
+            <form>
+                <input type="text" id="search" placeholder="Search.." name="search">
+                <button type="submit" style="background-color: white;" > <i class="fas fa-search" style="color:#bb4430"></i></button>
+
+            </form>
+        </div>
+        <div class="header__navigation">
+            <nav id="nav" >
+                <div class="navbar" id="myNavbar">
+                  {% for item in site.data.navigation %} 
+                  {% if item.section_id == page.section_id %} 
+                  {% assign active_class = "active_border" %} 
+                  {% else %} 
+                  {% assign active_class = "" %} 
+                  {% endif %} 
+                  <a href="{{item.path}}" class="nav_link {{active_class}}">{{item.name}}</a>
+                  {% endfor %}
+                </div> 
+            </nav>
+        </div>
+        <div id="closer" style="cursor: pointer; display: none;" >               
+            <img src="/assets/images/android-close.svg" alt="closer" title="Close search results"
+            style="width: 20px;">
+            <div id="search-results" class="search-results">
+        </div>
+        </div>
+    </div>
+</header>
+
+</div>

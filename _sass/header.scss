@@ -1,0 +1,96 @@
+header{
+    text-align: center;
+    .header__title {
+        h1{
+            font-weight: 700;
+            font-size: 30px;
+            line-height: 35px;
+            padding-bottom: 20px;
+            color: #012044;
+            @media (min-width: 500px) {
+                font-size: 40px; 
+                line-height: 50px;
+            }
+        }
+    }
+    .header__discription {
+        width: 100%;
+        margin: 0 auto;
+        font-size: 16px;
+        line-height: 18px;
+        font-family: 'Montserrat', sans-serif ;
+        @media (min-width: 500px) {
+            width: 80%;
+            font-size: 18px;
+            line-height: 25px;
+        }
+        a:hover{
+           color: #bb4430; 
+        }
+    }
+    .header__search {
+        margin: 20px auto;
+        width: 70%;
+        height: auto;
+        padding: 5px;
+        background-color: rgba(255, 255, 255, 0.651);
+        border: 2px solid #bb4430;
+        border-radius: 50px;
+        @media (min-width: 500px) {
+            padding: 10px;
+            width: 65%;
+        }
+        @media (min-width: 768px) {
+            width: 43%;
+        }
+        @media (min-width: 968px) {
+            width: 33%;
+        }
+        @media (min-width: 1300px) {
+            width: 30%;
+        }
+        input{
+            font-size: 12px;
+            @media (min-width: 500px) {
+                font-size: 16px;
+            }
+        }
+    }
+    .header__navigation {
+        .navbar {
+            max-width: 90%;
+            margin: 0 auto;
+            display: flex;
+            justify-content: space-between;
+            .active_border{
+                border-bottom: 2px solid #bb4430;
+            }
+            @media (min-width: 768px) {
+                max-width: 50%;
+            }
+            a{
+                font-size: 12px;
+                @media (min-width: 500px) {
+                    font-size: 16px;
+                }
+                &:hover{
+                    border-bottom: 2px solid #bb4430;
+                    transition: all .05s ease;
+                }
+            }
+        }
+    }
+    .nav_link {
+    }  
+    
+}
+.result{
+    width: 80%;
+    margin: 0 auto;
+    background-color: white;
+    text-align: left;
+    position: relative;
+    z-index: 1;
+    margin-top: -20px;
+    padding: 30px;
+ }
