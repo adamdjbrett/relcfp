@@ -1,23 +1,21 @@
 ---
 layout: default
-title: About
-section_id: about
-permalink: "/about/"
+title: "About"
+date: 2022-01-21T15:34:30-04:00
+permalink: /about/
 ---
 
-
-    <div class="container">
+{%- assign a = site.data.about -%}
+    <div class="container" style="margin: 0 auto 20px">
         <div class="about">
-        {%- for s in site.data.about -%}
         <div class="about__box">
             <div class="about__text">
-                <h2>{{s.title}}</h2>
-                <p>{{s.text}}</p>
+                <h2>{{a.title}}</h2>
+                <p>{{a.text}}</p>
             </div>
             <div class="about__img">
-                <img src="{{s.image}}" alt="{{s.alt}}">
+                <img src="{{a.image}}" alt="{{a.alt}}">
             </div>
         </div>
-        {%- endfor -%}
     </div>
 </div>

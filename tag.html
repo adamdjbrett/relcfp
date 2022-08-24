@@ -7,7 +7,7 @@ description : Hastag Relcfp
 {% capture site_tags %}{% for tag in site.tags %}{{ tag | first }}{% unless forloop.last %},{% endunless %}{% endfor %}{% endcapture %}
 {% assign tag_words = site_tags | split:',' | sort %}
 
-<div class="container">
+<div class="container " style="margin: 0 auto 20px">
     <h2 style="text-align: center;">Tags of Relcfp site</h2>
     <div class="tag__list">
         {% for this_word in tag_words %}
