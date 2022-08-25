@@ -28,7 +28,7 @@ jobs:
       - uses: actions/checkout@v2
         with:
           repository: adamdjbrett/relcfp
-          token: ${{ secrets.RELCFPCHRONJOB }}
+          token: ${{ secrets.relcfpchronjobPAT }}
           ref: ${{ github.event.inputs.branch }}
 
       # Runs a single command using the runners shell
