@@ -31,6 +31,8 @@ jobs:
 #           token: ${{ secrets.RELCFPCHRONJOB }}
 
 
+      - name: Change permission
+        run: git update-index --chmod=+x ./get_rss.sh
       # Runs a single command using the runners shell
       - name: Get RSS
         run: ./get_rss.sh 
