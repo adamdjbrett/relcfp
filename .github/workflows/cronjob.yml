@@ -2,11 +2,11 @@
 
 name: Daily rebuild
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # Triggers the workflow on push or pull request events but only for the main branch
   schedule:
-    - cron: '0 0 1 * *' 
+    - cron: "0 0 1 * *"
   push:
     branches: [main]
   pull_request:
@@ -26,15 +26,12 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v3
-#         with:
-#           repository: adamdjbrett/relcfp
-#           token: ${{ secrets.RELCFPCHRONJOB }}
+      #         with:
+      #           repository: adamdjbrett/relcfp
+      #           token: ${{ secrets.RELCFPCHRONJOB }}
 
-
-      - name: Change permission
-        run: git update-index --chmod=+x ./get_rss.sh
       # Runs a single command using the runners shell
       - name: Get RSS
-        run: ./get_rss.sh 
+        run: ./get_rss.sh
       - name: Deploy to Netlify
         run: curl -X POST -d {} https://api.netlify.com/build_hooks/6306aae7a6be6803755be05c
