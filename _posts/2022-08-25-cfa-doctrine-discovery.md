@@ -8,27 +8,26 @@ categories:
 tags:
   - call for authors
   - doctrine-discovery
-adamdjbrett:
-  name: Adam DJ Brett
-  author_desc: "Exploring American Religion and digital culture."
-  author_img: /assets/images/adamdjbrett.png
-  paginate: true
-  socials:
-    - label: "Website"
-      icon: "fas fa-globe-americas"
-      url: "https://adamdjbrett.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/__adjb"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "http://instagram.com/__adjb"
-    - label: "Github"
-      icon: "fab fa-fw fa-github-square"
-      url: "https://github.com/adamdjbrett"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adamdjbrett"
+paginate: true
+author: Adam DJ Brett
+author_desc: "Exploring American Religion and digital culture."
+author_img: /assets/images/adamdjbrett.png
+socials:
+  - label: "Website"
+    icon: "fas fa-globe-americas"
+    url: "https://adamdjbrett.com"
+  - label: "Twitter"
+    icon: "fab fa-fw fa-twitter-square"
+    url: "https://twitter.com/__adjb"
+  - label: "Instagram"
+    icon: "fab fa-fw fa-instagram"
+    url: "http://instagram.com/__adjb"
+  - label: "Github"
+    icon: "fab fa-fw fa-github-square"
+    url: "https://github.com/adamdjbrett"
+  - label: "LinkedIn"
+    icon: "fab fa-fw fa-linkedin"
+    url: "https://www.linkedin.com/in/adamdjbrett"
 ---
 We are now accepting applications for partnership and collaboration with The Doctrine of Discovery Project. We are interested in publishing original essays roughly 1,000-3,000 words in length for [doctrineofdiscovery.org](https://doctrineofdiscovery.org/). Applicants must have specific knowledge pertaining to Indigenous Peoples issues and/or graduate level training in religious studies, law, humanities, social sciences, or ecology. This partnership is open to faculty, independent scholars, graduate students and Haudenosaunee and Indigenous knowledge sharers. Stipends are available.
   
