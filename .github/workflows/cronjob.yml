@@ -30,6 +30,8 @@ jobs:
       #           repository: adamdjbrett/relcfp
       #           token: ${{ secrets.RELCFPCHRONJOB }}
 
+      - name: Make executeable
+        run: chmod +x ./get_rss.sh
       # Runs a single command using the runners shell
       - name: Get RSS
         run: ./get_rss.sh
