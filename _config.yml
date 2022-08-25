@@ -33,7 +33,7 @@ incremental: true
 markdown: kramdown
 theme: minima
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
