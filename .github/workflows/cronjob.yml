@@ -28,8 +28,10 @@ jobs:
       - uses: actions/checkout@v2
         with:
           repository: adamdjbrett/relcfp
-          token: ${{ secrets.relcfpchronjobPAT }}
-          ref: ${{ github.event.inputs.branch }}
+          persist-credentials: false
+          token: ${{ secrets.RELCFPCHRONJOB }}
+          path: relcfp
+          ref: main
 
       # Runs a single command using the runners shell
       - name: Get RSS
