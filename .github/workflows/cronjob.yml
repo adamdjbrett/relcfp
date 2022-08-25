@@ -26,6 +26,13 @@ jobs:
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
+      - run: |
+          date > generated.txt
+          git config adamdjbrett github-actions
+          git config adamdjbrett@users.noreply.github.com github-actions@github.com
+          git add .
+          git commit -m "generated"
+          git push
         with:
           repository: adamdjbrett/relcfp
           persist-credentials: false
