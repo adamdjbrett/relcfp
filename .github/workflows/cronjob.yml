@@ -23,7 +23,7 @@ jobs:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
       - uses: actions/checkout@v2
         with:
-          repo-token: ${{ secrets.relcfp-cronjob }}
+          token: ${{ secrets.relcfp-cronjob }}
           target_branch: 'main'
 
       # Runs a single command using the runners shell
