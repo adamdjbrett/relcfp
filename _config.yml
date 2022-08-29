@@ -33,13 +33,12 @@ incremental: true
 markdown: kramdown
 theme: minima
 
-gems:
+plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
-  - jekyll-paginate-multiple
 
 permalink: pretty
 paginate: 6

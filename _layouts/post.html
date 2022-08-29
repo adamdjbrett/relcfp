@@ -4,13 +4,14 @@ section_id: posts
 pagination:
   enabled: true
 ---
+{%- assign author = site.data.authors[page.author] -%}
 <div class="container">
     <div class="post__header">
         <h2>{{page.title}}</h2>
         <div class="meta__info">
             <ul class="post__info">
             {%- for posts in page.author -%}
-                <li class="post__author">{{page.author}}</li>
+                <li class="post__author">{{author.name}}</li>
             {%- endfor -%}
                 <li class="posts__time">{{page.date | date_to_long_string}}</li>
             </ul>
@@ -34,22 +35,39 @@ pagination:
         </div>
     </div>
 
-    {%- for author in page.author -%}
+
+    {% if author %}
     <div class="author__details">
+        {% if author.author_img %}
         <div class="author__avatar">
-            <img src="{{page.author_img}}" alt="">
+            <img src="{{author.author_img}}" alt="{{author.name}}">
         </div>
+        {% endif %} 
         <div class="author__description">
-            <h4>{{page.author}}</a></h4>
-            <p class="author__text">{{page.author_desc}}</p>
+            <h4>{{author.name}}</a></h4>
+            {% if author.author_desc %}
+            <p class="author__text">{{author.author_desc}}</p>
+            {% endif %} 
             <div class="author__links">
-                {%- for s in page.socials -%}
-                <a href="{{s.link}}" target="_blank" rel="noopener"><i class='{{s.icon}}' aria-hidden="true"></i></a>
-                {%- endfor -%}
+                {% if author.website %}
+                    <a href="{{author.website}}"><i class="fas fa-globe-americas"></i></a>
+                {% endif %} 
+                {% if author.twitter %}
+                    <a href="{{author.twitter}}"><i class="fab fa-fw fa-twitter-square"></i></a>
+                {% endif %} 
+                {% if author.instagram %}
+                    <a href="{{author.instagram}}"><i class="fab fa-fw fa-instagram"></i></a>
+                {% endif %} 
+                {% if author.github %}
+                    <a href="{{author.github}}"><i class="fab fa-fw fa-github-square"></i></a>
+                {% endif %} 
+                {% if author.linkedin %}
+                    <a href="{{author.linkedin}}"><i class="fab fa-fw fa-linkedin"></i></a>
+                {% endif %} 
             </div>
         </div>
-        {%- endfor -%}
-    </div>     
+    </div> 
+    {% endif %} 
 </div>
 {%- include pagination.html -%}
 

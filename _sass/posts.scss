@@ -12,12 +12,35 @@
     @media (min-width: 1150px) {
         width: 100%;
     }
+    &.recent{
+        display: grid;
+        grid-template-columns: 1fr;
+        gap: 20px;
+        margin: 0 auto;
+        @media (min-width: 650px){
+            grid-template-columns: 1fr 1fr; 
+        }
+        @media (min-width: 1150px) {
+            grid-template-columns: 1fr 1fr 1fr 1fr;
+        }
+    }
     .card__item {
         border: 1px solid #012044;
         padding: 20px;
         border-radius: 5px;
         box-shadow: 2px 4px 16px #ddd;
         display: none;
+        img{
+            width: 100%;
+            height: 100%;
+            overflow: hidden;
+            @media (min-width: 650px) {
+                height: 220px;
+            }
+            @media (min-width: 1150px) {
+                height: 160px;
+            }
+        }
         &:hover{
             transform: scale(1.01);
             box-shadow: 2px 3px 3px #bb45302d;
