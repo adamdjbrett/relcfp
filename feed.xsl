@@ -6,7 +6,7 @@
       <head>
         <style>
           main{
-            padding: 10px; 
+            padding-bottom: 10px; 
             margin-left: auto; 
             margin-right: auto; 
             max-width: 1200px; 
@@ -73,7 +73,7 @@
           }
           @media (min-width: 550px) {
             main{
-            padding: 30px;
+            padding: 0 10px 10px;
             }
             .feed {
             gap: 30px;
@@ -82,7 +82,7 @@
             height: 500px;
             }
             .feed_description{
-              font-size: 1.1rem;
+              font-size: 1.15rem;
             }
             small{
               font-size: 0.9rem;
@@ -93,6 +93,9 @@
               border-radius: 8px;
               box-shadow: 2px 4px 16px #ddd;
             }
+          }
+          @media (min-width: 768px){
+            padding: 0 30px 30px;
           }
         </style>
       </head>
@@ -106,9 +109,9 @@
                   <xsl:attribute name="href">
                     <xsl:value-of select="link" />
                   </xsl:attribute>
-                <h2>
+                <h3>
                   <xsl:value-of select="title" />
-                </h2>
+                </h3>
                 </a>
                 <small>
                   <span>Publication date:
