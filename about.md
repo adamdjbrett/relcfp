@@ -6,8 +6,7 @@ permalink: "/about/"
 ---
 
 ## About
-RELCFP is a religious studies call for papers repository. Submissions welcomed. 
-
+RELCFP is a religious studies call for papers repository. [Submissions welcomed](/submission/). Our email is relcfp at relcfp dot com.
 
 ## ACREL
 #acrel is a hashtag that stands for “the academic study of religion.” It was developed by religious studies scholars as a way of keeping track of the field (discipline ?) online. Follow #acrel on [twitter](https://twitter.com/search?q=%23acrel "#acrel on Tumblr") or [tumblr](https://www.tumblr.com/tagged/acrel "#acrel on Tumblr"). Thank you to @[burnidge](https://twitter.com/burnidge) for coining [#acrel](https://twitter.com/search?q=%23acrel&f=live "#acrel").
@@ -15,7 +14,7 @@ RELCFP is a religious studies call for papers repository. Submissions welcomed.
 
 ## Proposal Writing
 
-**How to Write a Successful Proposal:**
+### How to Write a Successful Proposal
 
 * [The American Academy of Religion](http://aarweb.org "American Academy of Religion (AAR)") provides an excellent guide on how to write a successful paper proposal.
 
@@ -23,16 +22,12 @@ RELCFP is a religious studies call for papers repository. Submissions welcomed.
 
 
 ## Other CFP Sites
-* [Boston University - Religious Studies Call For Papers](https://href.li/?http://www.bu.edu/drts/resources/announcements/call-for-papers-announcements/ "BU - Religious Studies CFP")
+* [The Religious Studies Project Digest](https://www.religiousstudiesproject.com/digest/)
 
-* [NSRN: Nonreligion and Secularity Research Network](https://href.li/?http://nsrn.net/category/calls-for-papers/ "NSRN: CFP")
+* [Society for Phenomenology and Existential Philosophy](http://www.spep.org/resources)
 
-* [The Religious Studies Project Call for Papers](https://href.li/?http://www.religiousstudiesproject.com/tag/call-for-papers/ "The Religious Studies Project - Call for Papers")
+* [Southwest Commission on Religious Studies](http://www.swcrs-online.org/swcrs-conference/call-for-papers/)
 
-* [Society for Phenomenology and Existential Philosophy](https://href.li/?http://www.spep.org/resources/call-for-papers/ "SPEP - CFP")
+* [wikiCFP](http://www.wikicfp.com/cfp/)
 
-* [Southwest Commission on Religious Studies](https://href.li/?https://sites.google.com/site/swcrsaarsblasorassr/ "SWCRS - CFP")
-
-* [wikiCFP](https://href.li/?http://www.wikicfp.com/cfp/ "WikiCFP")
-
-* [UPenn CFP](https://href.li/?http://call-for-papers.sas.upenn.edu/category/religion "UPenn CFP")
+* [UPenn CFP](http://call-for-papers.sas.upenn.edu/category/religion)
