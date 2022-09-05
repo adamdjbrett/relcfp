@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet version="1.0" xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
-<xsl:output method="html"/>
-<xsl:template match="/">
+  <xsl:template match="/">
     <html>
-	 <head>
+      <head>
         <style>
-	 main{
+          main{
             padding-bottom: 10px; 
             margin-left: auto; 
             margin-right: auto; 
             max-width: 1200px; 
-            display: flexbox; 
+            display: grid; 
           }
           p {
             margin-block-start: 0.5em;
@@ -24,7 +23,7 @@
             font-size: 1.4rem;
           }
           .feed {
-            display: flexbox;
+            display: grid;
             gap: 20px;
           }
           @media (min-width: 1024px) {
@@ -34,23 +33,29 @@
           }
           .feed_card {
             position: relative;
-            display: flexbox;
+            display: grid;
             padding: 10px;
+            border: 1px solid #012044;
+            border-radius: 5px;
+            box-shadow: 2px 4px 16px #ddd;
           }
           .feed_card_inner::after {
             content: "";
-            position: flexbox;
+            background-image: linear-gradient( to bottom, transparent, transparent 60%, #fff 100%);
+            position: absolute;
             bottom: 0;
+            border-radius: 8px;
             left: 0;
             right: 0;
-            height: 100%;
+            height: 50%;
             width: 100%;
           }
             .feed_card:hover {
             transform: scale(1.01);
+            box-shadow: 2px 3px 3px #bb45302d;
           }
           .feed_card_inner {
-            height: 100%;
+            height: 350px;
             overflow-y: hidden;
             word-break: break-word;
             display: grid;
@@ -60,7 +65,7 @@
           .feed_description{
             font-family: 'Montserrat';
             font-size: 0.8rem;
-            line-height: 100%;
+            line-height: 1.1;
           }
           small{
             font-size: 0.9rem;
@@ -74,10 +79,7 @@
             gap: 30px;
           }
             .feed_card_inner {
-            height: 100%;
-            }
-            .card_inner {
-            height: 100%;
+            height: 500px;
             }
             .feed_description{
               font-size: 1.15rem;
@@ -87,6 +89,9 @@
             }
             .feed_card {
               padding: 26px;
+              border: 1px solid #012044;
+              border-radius: 8px;
+              box-shadow: 2px 4px 16px #ddd;
             }
           }
           @media (min-width: 768px){
@@ -98,22 +103,16 @@
         <main>
           <div class="feed">
             <xsl:for-each select="rss/channel/item">
-             <div class="feed_card">
+              <div class="feed_card">
                 <div class="feed_card_inner">
                 <a>
                   <xsl:attribute name="href">
-                   <xsl:value-of select="link" />
+                    <xsl:value-of select="link" />
                   </xsl:attribute>
-                <br/>
-				<h3>
+                <h3>
                   <xsl:value-of select="title" />
                 </h3>
                 </a>
-				<p>
-				<xsl:attribute name="link">
-                   <xsl:value-of select="link" />
-                  </xsl:attribute>
-				</p>
                 <small>
                   <span>Publication date:
                   <b>
@@ -121,30 +120,10 @@
                   </b>
                   </span>
                 </small>
-                <p>
-				<small>
-                  <span>Categories:
-                  <b>
-                    <xsl:value-of select="category" />
-                  </b>
-                  </span>
-                </small> 
-				<br/>
-				<small>
-                  <span>Link :
-                  <b><a>
-                  <xsl:attribute name="href">
-                   <xsl:value-of select="link" />
-                  </xsl:attribute>
-                    <xsl:value-of select="link" />
-                </a>
-                  </b>
-                  </span>
-                </small> 
-				</p>
-               <p class="feed_description">
+                
+                <div class="feed_description">
                   <xsl:value-of select="description" />
-                </p>
+                </div>
                 </div>
               </div>
             </xsl:for-each>
