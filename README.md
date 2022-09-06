@@ -1,4 +1,4 @@
-[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine) [![Jekyll](https://img.shields.io/badge/built%20for-Jekyll-red.svg)](https://jekyllrb.com/) ![GitHub branch checks state](https://img.shields.io/github/checks-status/adamdjbrett/relcfp/main) ![GitHub Workflow Status (event)](https://img.shields.io/github/workflow/status/adamdjbrett/relcfp/cronjob.yml?event=push)
+[![Support Ukraine Badge](https://bit.ly/support-ukraine-now)](https://github.com/support-ukraine/support-ukraine) [![Jekyll](https://img.shields.io/badge/built%20for-Jekyll-red.svg)](https://jekyllrb.com/) ![GitHub branch checks state](https://img.shields.io/github/checks-status/adamdjbrett/relcfp/main) 
 
 # Religion Call for Papers | RELCFP
 The new and improved 2.0 version of relcfp.
