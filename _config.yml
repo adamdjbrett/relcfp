@@ -47,11 +47,6 @@ paginate_path: "/posts/page:num/"
 feed:
   path: /posts/feed.atom
 
-exclude:
-  - Gemfile
-  - Gemfile.lock
-
-
 tag_page_layout: tag_page
 tag_page_dir: tag
 tag_permalink_style: pretty
@@ -113,6 +108,7 @@ autopages:
 # their entries' file path in the `include:` list.
 #
 exclude:
+  - .DS_Store
   - .sass-cache/
   - .jekyll-cache/
   - gemfiles/
