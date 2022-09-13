@@ -4,7 +4,7 @@ section_id: posts
 title: "Call for Papers - National Association of Baptist Professors of Religion"
 date: 2022-09-13-01T14:54:46
 excerpt: "National Association of Baptist Professors of Religion Annual Meeting at Gardner Webb Uniersity, May 22-24 2023"
-image: "/images/gardner-webb-university-colleges-and-universities-nc-1440.jpg"
+image: "/assets/images/gardner-webb-university-colleges-and-universities-nc-1440.jpg"
 categories:
   - Blog
 tags:
