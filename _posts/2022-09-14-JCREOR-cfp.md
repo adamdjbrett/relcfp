@@ -13,8 +13,8 @@ tags:
   - religion
 paginate: true
 author: adamdjbrett
-
 ---
+
 ### What Does the United Nations Represent? Reflecting on 75 years of Conflict Resolution and the Promotion of Equity and Human Rights
 
 The editors of McGill’s _JCREOR: The Journal of the Council for Research on Religion_ are pleased to announce a call for papers for our forthcoming volume (Vol. 4, Issue 1). This issue will be dedicated to critical reflection on 75 years of the United Nations as a global organization. Celebrations began on September 21st, 2020, and will continue until 2025, a period which commemorates the 5-year drafting process of the Charter of the United Nations.
