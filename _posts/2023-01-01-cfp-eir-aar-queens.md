@@ -4,7 +4,7 @@ section_id: posts
 title: "CFP: The Other, Persecution and Response"
 date: 2023-01-01T14:54:46
 excerpt: "CALL FOR PAPERS 2023 Eastern International Regional Meeting of the American Academy of Religion May 6-7, 2023 Queen's University, Kingston, Ontario Deadline for submissions is February 1, 2023"
-image: "/assets/images/2023-eir-aar-flyer.jpg"
+image: "/assets/images/2023-EIR-AAR-CFP_Logo.png"
 categories:
   - Blog
 tags:
