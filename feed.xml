@@ -3,9 +3,151 @@
 		<title>Main stream | FreshRSS</title>
 		<link>https://input.relcfp.com/p</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Sat, 04 Mar 2023 12:20:04 +0000</pubDate>
-		<lastBuildDate>Sat, 04 Mar 2023 12:20:04 GMT</lastBuildDate>
+		<pubDate>Sun, 05 Mar 2023 12:20:18 +0000</pubDate>
+		<lastBuildDate>Sun, 05 Mar 2023 12:20:18 GMT</lastBuildDate>
 		<atom:link href="https://input.relcfp.com/p/i/?a=rss&amp;rid=6304038b62d7d&amp;user=wyattphd-admin&amp;token=b5142b8a9c4208e145af4be2c86d4ad4&amp;hours=168" rel="self" type="application/rss+xml" />
+		<item>
+			<title>FreshRSS 1.21.0</title>
+			<link>https://github.com/FreshRSS/FreshRSS/releases/tag/1.21.0</link>
+						<dc:creator>Alkarex</dc:creator>
+			<description><ul>
+<li><a href="https://github.com/FreshRSS/FreshRSS/milestones/1.21.0">Milestone</a></li>
+</ul>
+<p>A few highlights <g-emoji alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji>:</p>
+<ul>
+<li>Require PHP 7.2+ (drop support for PHP 7.0 and 7.1) <a href="https://github.com/FreshRSS/FreshRSS/pull/4848" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4848/hovercard">#4848</a></li>
+<li>New <em>XML+XPath</em> mode for fetching XML documents when there is no RSS/ATOM feed <a href="https://github.com/FreshRSS/FreshRSS/pull/5076" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5076/hovercard">#5076</a></li>
+<li>Better support of feed enclosures (image / audio / video attachments) <a href="https://github.com/FreshRSS/FreshRSS/pull/4944" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4944/hovercard">#4944</a></li>
+<li>User-defined time-zone <a href="https://github.com/FreshRSS/FreshRSS/pull/4906" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4906/hovercard">#4906</a></li>
+<li>New CLI script <code>cli/sensitive-log.sh</code> to help e.g. Apache clear logs for sensitive information such as credentials <a href="https://github.com/FreshRSS/FreshRSS/pull/5001" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5001/hovercard">#5001</a>
+<ul>
+<li>See also <a href="https://github.com/FreshRSS/FreshRSS/security/advisories/GHSA-8vvv-jxg6-8578">CVE-2023-22481</a></li>
+</ul>
+</li>
+<li>Mark some themes as tentatively deprecated: <em>BlueLagoon</em>, <em>Flat</em>, <em>Screwdriver</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4807" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4807/hovercard">#4807</a>
+<ul>
+<li><g-emoji alias="raising_hand" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64b.png">🙋</g-emoji> Reach out if you disagree, especially if you are interested in helping maintaining one of them</li>
+</ul>
+</li>
+<li>Many UI improvements</li>
+</ul>
+<p>This release has been made by several new contributors <a data-hovercard-type="user" data-hovercard-url="/users/axeleroy/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/axeleroy">@axeleroy</a>, <a data-hovercard-type="user" data-hovercard-url="/users/hippothomas/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hippothomas">@hippothomas</a>, <a data-hovercard-type="user" data-hovercard-url="/users/mincerafter42/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mincerafter42">@mincerafter42</a>, <a data-hovercard-type="user" data-hovercard-url="/users/sad270/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/sad270">@sad270</a>, <a data-hovercard-type="user" data-hovercard-url="/users/zhzy0077/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zhzy0077">@zhzy0077</a>, in addition to our regular contributors <a data-hovercard-type="user" data-hovercard-url="/users/Alkarex/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Alkarex">@Alkarex</a>, <a data-hovercard-type="user" data-hovercard-url="/users/ColonelMoutarde/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ColonelMoutarde">@ColonelMoutarde</a>, <a data-hovercard-type="user" data-hovercard-url="/users/Frenzie/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Frenzie">@Frenzie</a>, <a data-hovercard-type="user" data-hovercard-url="/users/Myuki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Myuki">@Myuki</a>, <a data-hovercard-type="user" data-hovercard-url="/users/aledeg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/aledeg">@aledeg</a>, <a data-hovercard-type="user" data-hovercard-url="/users/marienfressinaud/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/marienfressinaud">@marienfressinaud</a>, <a data-hovercard-type="user" data-hovercard-url="/users/math-GH/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/math-GH">@math-GH</a>, <a data-hovercard-type="user" data-hovercard-url="/users/miicat/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/miicat">@miicat</a>, <a data-hovercard-type="user" data-hovercard-url="/users/nicofrand/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/nicofrand">@nicofrand</a>, <a data-hovercard-type="user" data-hovercard-url="/users/yzqzss/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/yzqzss">@yzqzss</a> ... Thank you!</p>
+<p>Detailed <a href="https://github.com/FreshRSS/FreshRSS/compare/1.20.2...1.21.0">tracked changes</a>.</p>
+<p>Full <a href="https://github.com/FreshRSS/FreshRSS/blob/1.21.0/CHANGELOG.md">changelog</a>:</p>
+<ul>
+<li>Features
+<ul>
+<li>New <em>XML+XPath</em> mode for fetching XML documents when there is no RSS/ATOM feed <a href="https://github.com/FreshRSS/FreshRSS/pull/5076" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5076/hovercard">#5076</a></li>
+<li>Better support of feed enclosures (image / audio / video attachments) <a href="https://github.com/FreshRSS/FreshRSS/pull/4944" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4944/hovercard">#4944</a></li>
+<li>User-defined time-zone <a href="https://github.com/FreshRSS/FreshRSS/pull/4906" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4906/hovercard">#4906</a></li>
+<li>Improve HTML+XPath mode by allowing HTML content <a href="https://github.com/FreshRSS/FreshRSS/pull/4878" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4878/hovercard">#4878</a></li>
+<li>Search only on full tag names and not on parts of tag names <a href="https://github.com/FreshRSS/FreshRSS/pull/4882" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4882/hovercard">#4882</a></li>
+<li>Allows searching for parentheses with <code>\(</code> or <code>\)</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/4989" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4989/hovercard">#4989</a></li>
+<li>Firefox-compatible sharing service for <code>mailto:</code> links for webmail services <a href="https://github.com/FreshRSS/FreshRSS/pull/4680" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4680/hovercard">#4680</a></li>
+<li>Add sharing to <a href="https://archive.org/" rel="nofollow">archive.org</a> <a href="https://github.com/FreshRSS/FreshRSS/pull/5096" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5096/hovercard">#5096</a></li>
+<li>Increase max HTTP timeout to 15 minutes <a href="https://github.com/FreshRSS/FreshRSS/pull/5074" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5074/hovercard">#5074</a></li>
+</ul>
+</li>
+<li>Compatibility
+<ul>
+<li>Require PHP 7.2+ (drop support for PHP 7.0 and 7.1) <a href="https://github.com/FreshRSS/FreshRSS/pull/4848" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4848/hovercard">#4848</a></li>
+<li>Workaround disabled <code>openlog()</code> or <code>syslog()</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/5054" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5054/hovercard">#5054</a></li>
+</ul>
+</li>
+<li>Deployment
+<ul>
+<li>Docker default image (Debian 11 Bullseye) updated to PHP 7.4.33</li>
+<li>Docker: alternative image updated to Alpine 3.17 with PHP 8.1.16 and Apache 2.4.55 <a href="https://github.com/FreshRSS/FreshRSS/pull/4886" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4886/hovercard">#4886</a></li>
+<li>More uniform time-zone behaviour <a href="https://github.com/FreshRSS/FreshRSS/pull/4903" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4903/hovercard">#4903</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4905" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4905/hovercard">#4905</a></li>
+<li>New CLI script <code>cli/sensitive-log.sh</code> to help e.g. Apache clear logs for sensitive information such as credentials <a href="https://github.com/FreshRSS/FreshRSS/pull/5001" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5001/hovercard">#5001</a></li>
+<li>New CLI script <code>cli/access-permissions.sh</code> to help apply file permissions correctly <a href="https://github.com/FreshRSS/FreshRSS/pull/5062" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5062/hovercard">#5062</a></li>
+<li>Improve file permissions on <code>./extensions/</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/4956" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4956/hovercard">#4956</a></li>
+<li>Update Apache mime type <code>font/woff</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/4894" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4894/hovercard">#4894</a></li>
+<li>Re-added a git <code>latest</code> branch (instead of a tag) to track the latest FreshRSS stable releases <a href="https://github.com/FreshRSS/FreshRSS/pull/5148" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5148/hovercard">#5148</a></li>
+</ul>
+</li>
+<li>Bug fixing
+<ul>
+<li>Fix allow disabling curl proxy for specific feed, when proxy is defined globally <a href="https://github.com/FreshRSS/FreshRSS/pull/5082" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5082/hovercard">#5082</a></li>
+<li>NFS-friendly <code>is_writable()</code> checks <a href="https://github.com/FreshRSS/FreshRSS/pull/4780" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4780/hovercard">#4780</a></li>
+<li>Fix error handling when updating feed URL <a href="https://github.com/FreshRSS/FreshRSS/pull/5039" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5039/hovercard">#5039</a></li>
+<li>Fix feed favicon after editing feed URL <a href="https://github.com/FreshRSS/FreshRSS/pull/4975" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4975/hovercard">#4975</a></li>
+<li>Fix allow <kbd>Ctrl</kbd>+<kbd>Click</kbd> to open <em>Manage feeds</em> in new tab <a href="https://github.com/FreshRSS/FreshRSS/pull/4980" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4980/hovercard">#4980</a></li>
+<li>Fix empty window opened when pressing space after page load <a href="https://github.com/FreshRSS/FreshRSS/pull/5146" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5146/hovercard">#5146</a></li>
+<li>Fix keep current view when searching <a href="https://github.com/FreshRSS/FreshRSS/pull/4981" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4981/hovercard">#4981</a></li>
+<li>Fix mobile view: scroll main area again after closing slider <a href="https://github.com/FreshRSS/FreshRSS/pull/5092" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5092/hovercard">#5092</a></li>
+<li>Fix change confirmation when leaving sharing service config <a href="https://github.com/FreshRSS/FreshRSS/pull/5098" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5098/hovercard">#5098</a></li>
+<li>Fix sharing to Lemmy <a href="https://github.com/FreshRSS/FreshRSS/pull/5020" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5020/hovercard">#5020</a></li>
+</ul>
+</li>
+<li>Security
+<ul>
+<li>API avoid logging passwords <a href="https://github.com/FreshRSS/FreshRSS/security/advisories/GHSA-8vvv-jxg6-8578">CVE-2023-22481</a></li>
+<li>Remove execution rights on some files not needing it <a href="https://github.com/FreshRSS/FreshRSS/pull/5065" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5065/hovercard">#5065</a></li>
+<li>More robust application of file access permissions <a href="https://github.com/FreshRSS/FreshRSS/pull/5062" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5062/hovercard">#5062</a></li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>Improve search box <a href="https://github.com/FreshRSS/FreshRSS/pull/4994" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4994/hovercard">#4994</a></li>
+<li>Improve navigation menu structure <a href="https://github.com/FreshRSS/FreshRSS/pull/4937" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4937/hovercard">#4937</a></li>
+<li>More consistent sorting of feeds alphabetically <a href="https://github.com/FreshRSS/FreshRSS/pull/4841" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4841/hovercard">#4841</a></li>
+<li>Improve reader view on mobile screen <a href="https://github.com/FreshRSS/FreshRSS/pull/4868" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4868/hovercard">#4868</a></li>
+<li>Various UI and style improvements <a href="https://github.com/FreshRSS/FreshRSS/pull/4681" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4681/hovercard">#4681</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4794" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4794/hovercard">#4794</a><br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/4800" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4800/hovercard">#4800</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4850" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4850/hovercard">#4850</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4865" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4865/hovercard">#4865</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/4872" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4872/hovercard">#4872</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4874" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4874/hovercard">#4874</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4889" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4889/hovercard">#4889</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/4890" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4890/hovercard">#4890</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4891" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4891/hovercard">#4891</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4897" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4897/hovercard">#4897</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/4899" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4899/hovercard">#4899</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4910" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4910/hovercard">#4910</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4923" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4923/hovercard">#4923</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/4927" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4927/hovercard">#4927</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4960" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4960/hovercard">#4960</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4985" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4985/hovercard">#4985</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/4998" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4998/hovercard">#4998</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5034" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5034/hovercard">#5034</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5040" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5040/hovercard">#5040</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/5055" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5055/hovercard">#5055</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5058" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5058/hovercard">#5058</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5097" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5097/hovercard">#5097</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/5100" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5100/hovercard">#5100</a></li>
+</ul>
+</li>
+<li>Themes
+<ul>
+<li>Dark mode for <em>Origine</em> and <em>Origine compact</em> themes <a href="https://github.com/FreshRSS/FreshRSS/pull/4843" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4843/hovercard">#4843</a></li>
+<li>Improve <em>Ansum</em> and <em>Mapco</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4938" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4938/hovercard">#4938</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4959" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4959/hovercard">#4959</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4967" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4967/hovercard">#4967</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/4983" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4983/hovercard">#4983</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4995" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4995/hovercard">#4995</a></li>
+<li>Improve <em>Dark pink</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4881" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4881/hovercard">#4881</a></li>
+<li>Improve <em>Nord theme</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4892" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4892/hovercard">#4892</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4979" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4979/hovercard">#4979</a></li>
+<li>Improve <em>Origine</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4893" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4893/hovercard">#4893</a></li>
+<li>Improve <em>Origine compact</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4873" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4873/hovercard">#4873</a></li>
+<li>Improve <em>Pafat</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4909" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4909/hovercard">#4909</a></li>
+<li>Improve <em>Swage</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4875" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4875/hovercard">#4875</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4922" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4922/hovercard">#4922</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4936" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4936/hovercard">#4936</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/5029" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5029/hovercard">#5029</a></li>
+<li>Mark some themes as tentatively deprecated: <em>BlueLagoon</em>, <em>Flat</em>, <em>Screwdriver</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/4807" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4807/hovercard">#4807</a></li>
+</ul>
+</li>
+<li>i18n
+<ul>
+<li>Improve Chinese <a href="https://github.com/FreshRSS/FreshRSS/pull/4853" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4853/hovercard">#4853</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4856" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4856/hovercard">#4856</a></li>
+</ul>
+</li>
+<li>SimplePie
+<ul>
+<li>No URL Decode for enclosure links <a href="https://github.com/simplepie/simplepie/pull/768" data-hovercard-type="pull_request" data-hovercard-url="/simplepie/simplepie/pull/768/hovercard">#768</a></li>
+<li>Fix case of multiple RSS2.0 enclosures <a href="https://github.com/simplepie/simplepie/pull/769" data-hovercard-type="pull_request" data-hovercard-url="/simplepie/simplepie/pull/769/hovercard">#769</a></li>
+<li>Sanitize thumbnail URL <a href="https://github.com/simplepie/simplepie/pull/770" data-hovercard-type="pull_request" data-hovercard-url="/simplepie/simplepie/pull/770/hovercard">#770</a></li>
+<li>Use single constant for default HTTP Accept header <a href="https://github.com/simplepie/simplepie/pull/784" data-hovercard-type="pull_request" data-hovercard-url="/simplepie/simplepie/pull/784/hovercard">#784</a></li>
+</ul>
+</li>
+<li>Misc.
+<ul>
+<li>Increase max feed URL length and drop unicity in database <a href="https://github.com/FreshRSS/FreshRSS/pull/5038" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5038/hovercard">#5038</a></li>
+<li>New support of <a href="https://containers.dev/" rel="nofollow">Development Containers</a> / <a href="https://github.com/features/codespaces">GitHub Codespaces</a> to ease development <a href="https://github.com/FreshRSS/FreshRSS/pull/4859" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4859/hovercard">#4859</a></li>
+<li>Update library <code>lib_opml</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/4403" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4403/hovercard">#4403</a></li>
+<li>Code improvements <a href="https://github.com/FreshRSS/FreshRSS/pull/4232" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4232/hovercard">#4232</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/4651" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4651/hovercard">#4651</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/5024" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5024/hovercard">#5024</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5025" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5025/hovercard">#5025</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5028" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5028/hovercard">#5028</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/5032" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5032/hovercard">#5032</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5158" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5158/hovercard">#5158</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5045" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5045/hovercard">#5045</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/5049" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5049/hovercard">#5049</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5063" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5063/hovercard">#5063</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5084" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5084/hovercard">#5084</a></li>
+<li>Update dev dependencies <a href="https://github.com/FreshRSS/FreshRSS/pull/4993" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4993/hovercard">#4993</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5006" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5006/hovercard">#5006</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5109" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5109/hovercard">#5109</a></li>
+</ul>
+</li>
+</ul></description>
+			<pubDate>Sat, 04 Mar 2023 12:24:00 +0000</pubDate>
+			<guid isPermaLink="false">1677998222549753</guid>
+		</item>
 		<item>
 			<title>[ May 6, 2023 -  May 7, 2023] Conference or similar: CFA Graduate Conference at Ibn Haldun University Istanbul: Philosophy, Science and Religion</title>
 			<link>https://philevents.org/event/show/108693</link>
@@ -661,497 +803,6 @@
 <p>Dr. Mary Shanahan mshanahan@stangelas.ie</p></description>
 			<pubDate>Mon, 27 Feb 2023 06:37:13 +0000</pubDate>
 			<guid isPermaLink="false">1677479835265465</guid>
-		</item>
-		<item>
-			<title>[ November 30, 2023] CFP for publication or other deadline: null</title>
-			<link>https://philevents.org/event/show/108429</link>
-						<description>Publication Name: Memory and Poiesis between Aesthetics and Rhetoric<br/><br/><p>Normal
-  0
-  
-  
-  14
-  
-  
-  false
-  false
-  false
-  
-  IT
-  X-NONE
-  X-NONE
-  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
-  
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-  
-
- <latentstyles deflockedstate="false" defunhidewhenused="false" defsemihidden="false" defqformat="false" defpriority="99" latentstylecount="371">
-  
-  
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 2"></lsdexception>
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 3"></lsdexception>
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 4"></lsdexception>
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 5"></lsdexception>
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 6"></lsdexception>
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 7"></lsdexception>
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 8"></lsdexception>
-  <lsdexception locked="false" priority="9" semihidden="true" unhidewhenused="true" qformat="true" name="heading 9"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 5"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 6"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 7"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 8"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index 9"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 1"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 2"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 3"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 4"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 5"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 6"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 7"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 8"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" name="toc 9"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Normal Indent"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="footnote text"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="annotation text"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="header"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="footer"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="index heading"></lsdexception>
-  <lsdexception locked="false" priority="35" semihidden="true" unhidewhenused="true" qformat="true" name="caption"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="table of figures"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="envelope address"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="envelope return"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="footnote reference"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="annotation reference"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="line number"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="page number"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="endnote reference"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="endnote text"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="table of authorities"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="macro"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="toa heading"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Bullet"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Number"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List 5"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Bullet 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Bullet 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Bullet 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Bullet 5"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Number 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Number 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Number 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Number 5"></lsdexception>
-  
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Closing"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Signature"></lsdexception>
-  <lsdexception locked="false" priority="1" semihidden="true" unhidewhenused="true" name="Default Paragraph Font"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text Indent"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Continue"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Continue 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Continue 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Continue 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="List Continue 5"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Message Header"></lsdexception>
-  
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Salutation"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Date"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text First Indent"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text First Indent 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Note Heading"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text Indent 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Body Text Indent 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Block Text"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Hyperlink"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="FollowedHyperlink"></lsdexception>
-  
-  
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Document Map"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Plain Text"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="E-mail Signature"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Top of Form"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Bottom of Form"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Normal (Web)"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Acronym"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Address"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Cite"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Code"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Definition"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Keyboard"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Preformatted"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Sample"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Typewriter"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="HTML Variable"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Normal Table"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="annotation subject"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="No List"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Outline List 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Outline List 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Outline List 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Simple 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Simple 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Simple 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Classic 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Classic 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Classic 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Classic 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Colorful 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Colorful 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Colorful 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Columns 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Columns 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Columns 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Columns 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Columns 5"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 5"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 6"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 7"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Grid 8"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 4"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 5"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 6"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 7"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table List 8"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table 3D effects 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table 3D effects 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table 3D effects 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Contemporary"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Elegant"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Professional"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Subtle 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Subtle 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Web 1"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Web 2"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Web 3"></lsdexception>
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Balloon Text"></lsdexception>
-  
-  <lsdexception locked="false" semihidden="true" unhidewhenused="true" name="Table Theme"></lsdexception>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <lsdexception locked="false" priority="34" qformat="true" name="List Paragraph"></lsdexception>
-  
-  <lsdexception locked="false" priority="30" qformat="true" name="Intense Quote"></lsdexception>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <lsdexception locked="false" priority="19" qformat="true" name="Subtle Emphasis"></lsdexception>
-  <lsdexception locked="false" priority="21" qformat="true" name="Intense Emphasis"></lsdexception>
-  <lsdexception locked="false" priority="31" qformat="true" name="Subtle Reference"></lsdexception>
-  <lsdexception locked="false" priority="32" qformat="true" name="Intense Reference"></lsdexception>
-  
-  <lsdexception locked="false" priority="37" semihidden="true" unhidewhenused="true" name="Bibliography"></lsdexception>
-  <lsdexception locked="false" priority="39" semihidden="true" unhidewhenused="true" qformat="true" name="TOC Heading"></lsdexception>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <lsdexception locked="false" priority="46" name="Grid Table 1 Light Accent 1"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="Grid Table 6 Colorful Accent 1"></lsdexception>
-  <lsdexception locked="false" priority="52" name="Grid Table 7 Colorful Accent 1"></lsdexception>
-  <lsdexception locked="false" priority="46" name="Grid Table 1 Light Accent 2"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="Grid Table 6 Colorful Accent 2"></lsdexception>
-  <lsdexception locked="false" priority="52" name="Grid Table 7 Colorful Accent 2"></lsdexception>
-  <lsdexception locked="false" priority="46" name="Grid Table 1 Light Accent 3"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="Grid Table 6 Colorful Accent 3"></lsdexception>
-  <lsdexception locked="false" priority="52" name="Grid Table 7 Colorful Accent 3"></lsdexception>
-  <lsdexception locked="false" priority="46" name="Grid Table 1 Light Accent 4"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="Grid Table 6 Colorful Accent 4"></lsdexception>
-  <lsdexception locked="false" priority="52" name="Grid Table 7 Colorful Accent 4"></lsdexception>
-  <lsdexception locked="false" priority="46" name="Grid Table 1 Light Accent 5"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="Grid Table 6 Colorful Accent 5"></lsdexception>
-  <lsdexception locked="false" priority="52" name="Grid Table 7 Colorful Accent 5"></lsdexception>
-  <lsdexception locked="false" priority="46" name="Grid Table 1 Light Accent 6"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="Grid Table 6 Colorful Accent 6"></lsdexception>
-  <lsdexception locked="false" priority="52" name="Grid Table 7 Colorful Accent 6"></lsdexception>
-  
-  
-  
-  
-  
-  
-  
-  <lsdexception locked="false" priority="46" name="List Table 1 Light Accent 1"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="List Table 6 Colorful Accent 1"></lsdexception>
-  <lsdexception locked="false" priority="52" name="List Table 7 Colorful Accent 1"></lsdexception>
-  <lsdexception locked="false" priority="46" name="List Table 1 Light Accent 2"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="List Table 6 Colorful Accent 2"></lsdexception>
-  <lsdexception locked="false" priority="52" name="List Table 7 Colorful Accent 2"></lsdexception>
-  <lsdexception locked="false" priority="46" name="List Table 1 Light Accent 3"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="List Table 6 Colorful Accent 3"></lsdexception>
-  <lsdexception locked="false" priority="52" name="List Table 7 Colorful Accent 3"></lsdexception>
-  <lsdexception locked="false" priority="46" name="List Table 1 Light Accent 4"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="List Table 6 Colorful Accent 4"></lsdexception>
-  <lsdexception locked="false" priority="52" name="List Table 7 Colorful Accent 4"></lsdexception>
-  <lsdexception locked="false" priority="46" name="List Table 1 Light Accent 5"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="List Table 6 Colorful Accent 5"></lsdexception>
-  <lsdexception locked="false" priority="52" name="List Table 7 Colorful Accent 5"></lsdexception>
-  <lsdexception locked="false" priority="46" name="List Table 1 Light Accent 6"></lsdexception>
-  
-  
-  
-  
-  <lsdexception locked="false" priority="51" name="List Table 6 Colorful Accent 6"></lsdexception>
-  <lsdexception locked="false" priority="52" name="List Table 7 Colorful Accent 6"></lsdexception>
- 
-
-
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Tabella normale";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:11.0pt;
-	font-family:"Calibri",sans-serif;
-	mso-ascii-font-family:Calibri;
-	mso-ascii-theme-font:minor-latin;
-	mso-hansi-font-family:Calibri;
-	mso-hansi-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;
-	mso-fareast-language:EN-US;}
-
-</latentstyles></p>
-<p><strong><em>Memory and Poiesis between Aesthetics and Rhetoric</em></strong></p>
-
-<p>Edited by Amalia Salvestrini and Fosca Mariani Zini</p>
-
-
-<p>Among the various fields that have historically contributed to the constitution of Aesthetics as an autonomous discipline in the 18th century is rhetoric, from which Aesthetics has taken terms, concepts and problems that it later develops and transforms (Saint Girons; Franzini; etc.). One of the themes with which the relationship between Aesthetics and Rhetoric can be investigated is memory, understood in its poietic dimension that concerns various fields of human productive and artistic activity.</p>
-<p>The issue will be divided into two sections: the first will specifically explore the theme of memory, the second will open the debate around the possibility of the relationship between Aesthetics and Rhetoric.</p>
-
-<p><em>Section I</em></p>
-<p>Memory, the fourth part of rhetoric after <em>inventio</em>, <em>dispositio</em>, <em>elocutio</em> and before <em>actio</em>, has not only a receptive dimension, so to speak, in which experiential data are deposited, and in particular, as far as rhetoric is concerned, the elements of the discourse to be delivered are deposited in an organised manner. Memory also has a poietic, creative dimension, which is in some ways connected to <em>inventio</em> and which reworks acquired data. Thanks to its structure, whether natural or artificial, memory not only provides the places within which to organise discourse, but also the inventive basis for the creative elaboration of data. In the interaction between <em>inventio</em> and <em>memoria</em>, i.e. between the ability to find the appropriate arguments and the reasoning schemes that structure the rhetorical memory, the poietic and creative activity is generated, and enables the production of something new, a work, such as speech in the case of the rhetorician. The dislocation of rhetorical concepts in different disciplines, visible for example in the use of the rhetoric <em>conveniens</em> or <em>decor</em> in other disciplines such as theology or architecture, makes one reflect on the possibility that rhetorical memory, and specifically the poietic meaning of memory, also goes to structure cognitive and productive processes in other spheres.</p>
-<p>In classical rhetoric, and Ciceronian rhetoric in particular (see F. Yates, <em>The Art of Memory</em>), the poietic value of memory emerges in the possibility of arranging in “artificially” reorganised mental spaces the material of discourse and thereby constructing it. Poiesis thus occurs as much in the construction of a memory building, as attested to by the numerous architectural metaphors that delimit the spaces ready to accommodate the discursive material. For example, it happens in the composition of the discourse itself, when its elements are first found (<em>inventio</em>) among the available <em>loci</em>, to be later fixed in the memory building, once congruously arranged according to the rules of the <em>aptum</em> and <em>ornatus</em>.</p>
-<p>Mary Carruthers’ studies have amply shown how in the early Middle Ages memory techniques were used for meditation on the sacred page, contributing to the construction of veritable edifices of thought in which material was not only neatly conserved, but also available and rearranged in a variety of ways. There is the fabrication of mental images or cognitive frameworks for thinking and composing, but also monastic art develops in the sense of an "aesthetic of memory" rather than representation and mimesis. In addition, memory acquires the role of a "cogitation matrix" in order to retrieve and reconfigure memories according to a "random access mnemonic scheme", following a "memorial architecture".</p>
-<p>In the light of these premises, the central question arises around which this call intends to gather contributions in order to outline possible answers: to what extent have the modes of poiesis been given according to a rhetorical space, inventive rather than receptive, of memory?</p>
-<p>We welcome contributions on any historical period, from antiquity to the contemporary, and in any philosophical and artistic sphere (painting, music, architecture, etc.) that intend to pay attention to poietic forms that have enacted rhetorical structures and strategies of memory. This kind of enactment can be found both at the level of the project, i.e. of conception, and at the level of the work and its aesthetic fruition, where for example an element of the (art)work is assumed as a place of memory with a precise “persuasive” purpose.</p>
-
-<p>The main question concerning the rhetorical scope of human poiesis can thus be articulated in the following areas:</p>
-<p>-        Memory in the process of poietic conception</p>
-<p>-        The work as sedimentation of memory and inventive openness</p>
-<p>-        The sites of memory and the rhetorical effects on the passions</p>
-<p>-        Memory and rhetoric in the arts (painting, architecture, music, etc.)</p>
-
-<p><em>Section II</em></p>
-<p>The issue also includes a more general section aimed at stimulating theoretical and historiographical debate around the possibility of the relationship between aesthetics and rhetoric. The dialectic between reason and sensibility, demonstration and argumentation is one of the theoretical points on which the debate has been conducted at least in the last century (e.g. Perelman and Preti), even though it has its roots in history. Reflections on the relationship between aesthetics and rhetoric have also resulted around specific aesthetic concepts of rhetorical origin, such as the sublime and metaphor, but have also involved issues both relating to knowledge in the context of postmodern perspectives on the undermining of truth (Gruppo µ), and relating to the rhetorical (social and artistic) strategies of the postmodern (Baudrillard).</p>
-
-<p>The issue welcomes contributions that want to deepen the following themes, or others inspired by the perspective outlined here.</p>
-<p>-        Demonstration/argumentation</p>
-<p>-        Reason/feeling</p>
-<p>-        Text and image</p>
-<p>-        Sublime between aesthetics and rhetoric</p>
-<p>-        Metaphor and knowledge</p>
-<p>-        Rhetoric and postmodernism </p>
-<p>-        Arts (painting, music, theatre, cinema, etc.) and rhetoric</p>
-
-<p>Both articles and short notes on this topic will be accepted for this section.</p>
-
-<p>Article deadline: 30 November 2023</p>
-<p>Expected release: July 2024</p>
-
-<p>Articles can be written in Italian, French and English</p>
-
-<p>Articles should be sent to the following addresses:</p>
-<p>- Amalia Salvestrini (<a href="mailto:amalia.salvestrini@gmail.com">amalia.salvestrini@gmail.com</a>)</p>
-<p>- Fosca Mariani Zini (<a href="mailto:fosca.mariani@univ-tours.fr">fosca.mariani@univ-tours.fr</a>)</p>
-
-<p>The texts, prepared according to editorial standards (<a href="https://riviste.unimi.it/index.php/itinera/norme">https://riviste.unimi.it/index.php/itinera/norme</a>), will be between 25,000 and 40,000 characters.</p></description>
-			<pubDate>Sun, 26 Feb 2023 06:37:08 +0000</pubDate>
-			<guid isPermaLink="false">1677393428127598</guid>
 		</item>
 
 	</channel>
