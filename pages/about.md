@@ -12,6 +12,7 @@ RELCFP is a religious studies call for papers repository. [Submissions welcomed]
 * Our email is contact at relcfp dot com
 * [Facebook @relcfp](https://www.facebook.com/relcfp)
 * [Twitter @relcfp](https://twitter.com/relcfp)
+* [Mastodon](https://mastodon.social/@relcfp)
 
 ## ACREL
 #acrel is a hashtag that stands for “the academic study of religion.” It was developed by religious studies scholars as a way of keeping track of the field (discipline ?) online. Follow #acrel on [twitter](https://twitter.com/search?q=%23acrel "#acrel on Tumblr") or [tumblr](https://www.tumblr.com/tagged/acrel "#acrel on Tumblr"). Thank you to @[burnidge](https://twitter.com/burnidge) for coining [#acrel](https://twitter.com/search?q=%23acrel&f=live "#acrel").
