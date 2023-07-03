@@ -2,7 +2,7 @@
 layout: post
 section_id: posts
 title: "CFP: The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery."
-date: 2023-06-12T14:54:46
+date: 2023-07-03T14:54:46
 excerpt: "Call for Papers and Artists: The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery. The conference occur at Syracuse University from 8-10 December 2023."
 image: "/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png"
 categories:
