@@ -3,9 +3,31 @@
 		<title>Main stream | FreshRSS</title>
 		<link>https://input.relcfp.com/p</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Tue, 24 Oct 2023 12:19:10 +0000</pubDate>
-		<lastBuildDate>Tue, 24 Oct 2023 12:19:10 GMT</lastBuildDate>
+		<pubDate>Wed, 25 Oct 2023 12:19:04 +0000</pubDate>
+		<lastBuildDate>Wed, 25 Oct 2023 12:19:04 GMT</lastBuildDate>
 		<atom:link href="https://input.relcfp.com/p/i/?a=rss&amp;rid=6304038b62d7d&amp;user=wyattphd-admin&amp;token=b5142b8a9c4208e145af4be2c86d4ad4&amp;hours=168" rel="self" type="application/rss+xml" />
+		<item>
+			<title>[ November 23, 2023 -  February 8, 2024] Conference or similar: Realismus und Idealismus heute IV</title>
+			<link>https://philevents.org/event/show/115954</link>
+						<description>Venue: Poppelsdofer Alle 28<br/><br/><p>Das "Realismus und Idealismus heute" Kolloquium ist eine Reihe von Vorlesungen und Workshops im Themenbereich des Realismus und Idealismus, in welchen sowohl historische als auch systematische Forschung aus diesem Themenbereich vorgestellt wird. Das Kolloquium ist öffentlich und alle Interessierten sind, unabhangig von ihrem akademischen Hintergrund, dazu eingeladen am Kolloquium teilzunehmen.</p>
+<p>The "Realismus und Idealismus heute" colloquium is a series of lectures and workshops in the field of realism and idealism, in which both historical and systematic research in this field is presented. The colloquium is open to the public and all interested parties are invited to participate in the colloquium, regardless of their academic background.</p>
+<p>Uhrzeit der Vorträge /Time of the lectures : 18:15-19:45</p>
+<p>Uhrzeit der Workshops/ Time of the workshops: 14:15-17:45</p>
+
+<p>23.11.23 |  Marc Thiele (Bonn)<br/>Idealistische Konzeptionen des Raumes und der Zeit</p>
+<p>30.11.23 |  Giuliano Infantino (Stuttgart)<br/>Die Einheit des Denkens in Hegels Wissenschaft der Logik</p>
+<p>07.12.23 | Anna Oswald (Cambridge)<br/>Natur, Freiheit und Gnade</p>
+<p>14.12.23 | Marco Seikel (Göttingen)<br/>Begriff und Realität bei Hegel</p>
+<p>21.12.23 | Fridolin Neumann (Warwick)<br/>Heidegger über Kant und das synthetische Selbst</p>
+<p>11.01.24 | Victor Portugal (Leuven)<br/>Die Krisis des Realismus und der Anspruch auf Universalität: Eine phänomenologische Perspektive</p>
+<p>18.01.24 | Eric Lam (Bonn)<br/>Fichtes transzendentaler Konstitutivismus und Moralbegründung</p>
+<p>25.01.24 | Edwin Kaack (Bonn)  <br/>Das Sichverstehen vom Bilde als Bild: Fichte über das Begreifen des Unbegreifbaren</p>
+<p>01.02.24 | Georg Spoo (Freiburg)<br/>Kritik der Transzendentalphilosophie</p>
+<p>02.02.24 | Georg Spoo (Freiburg)<br/>Workshop: Kants Idealismuskritik (14 – 18 Uhr c.t.)</p>
+<p>08.02.24 | Marvin Tritschler (Stuttgart)<br/>Workshop: Geistige Zeit und die Tätigkeit des Denkens (14 – 18 Uhr c.t.) </p></description>
+			<pubDate>Wed, 25 Oct 2023 05:37:05 +0000</pubDate>
+			<guid isPermaLink="false">1698212225837731</guid>
+		</item>
 		<item>
 			<title>[ November 16, 2023] Conference or similar: Neo-Thomism and Evolution / Neo-Tomismo y Evolución</title>
 			<link>https://philevents.org/event/show/115926</link>
@@ -26,7 +48,7 @@
 This version 1.22.x is also the last to support PHP 7.2 before requiring PHP 7.4+.</p>
 <p>A few highlights ✨:</p>
 <ul>
-<li>Add support for OpenID Connect (only in our Debian-based Docker image) through <a href="https://github.com/OpenIDC/mod_auth_openidc"><code>libapache2-mod-auth-openidc</code></a>. See <a href="https://freshrss.github.io/FreshRSS/en/admins/16_OpenID-Connect.html" rel="nofollow">our documentation</a></li>
+<li>Add support for OpenID Connect (only in our Debian-based Docker image for x86_64) through <a href="https://github.com/OpenIDC/mod_auth_openidc"><code>libapache2-mod-auth-openidc</code></a>. See <a href="https://freshrss.github.io/FreshRSS/en/admins/16_OpenID-Connect.html" rel="nofollow">our documentation</a></li>
 <li>Rework trusted proxies</li>
 <li>Improve scaling with many feeds and long processes, reduce database locks</li>
 <li>Fix many bugs and regressions</li>
@@ -220,7 +242,7 @@ This version 1.22.x is also the last to support PHP 7.2 before requiring PHP 7.4
 </ul>
 </li>
 </ul></description>
-			<pubDate>Mon, 23 Oct 2023 21:02:00 +0000</pubDate>
+			<pubDate>Tue, 24 Oct 2023 09:47:00 +0000</pubDate>
 			<guid isPermaLink="false">1698125824429709</guid>
 		</item>
 		<item>
@@ -1035,21 +1057,6 @@ This version 1.22.x is also the last to support PHP 7.2 before requiring PHP 7.4
 </div></div></div></description>
 			<pubDate>Sat, 14 Oct 2023 22:52:00 +0000</pubDate>
 			<guid isPermaLink="false">1697693829363274</guid>
-		</item>
-		<item>
-			<title>[ February 29, 2024] CFP for publication or other deadline: null</title>
-			<link>https://philevents.org/event/show/115682</link>
-						<description>Publication Name: Philosophy and Society<br/><br/><p><strong>Call for Papers: Hegel and Postmodernism</strong></p>
-<p>The editorial team of <em>Philosophy and Society</em> is pleased to announce a call for papers for the 2024 Special Issue, which is dedicated to the topic “Hegel and Postmodernism”. The issue will be edited by Đorđe Hristov (Institute of Philosophy and Social Theory) and Saša Hrnjez (University of Florence).</p>
-<p>If we consider postmodernism as a condition, stance, or form of discourse that challenges the legacies of modernity, tracing its origins to the Enlightenment era, with its emphasis on reason, universality, and progress, then Hegel, as the pinnacle of modernity and the embodiment of Lyotard's grand narrative, may initially seem entirely at odds with the postmodern perspective. Nonetheless, Hegel's philosophy continues to be a subject of contention and debate within many postmodern viewpoints, as well as in efforts to define the very essence of postmodernity. Furthermore, it was Hegel who offered the first systematic (self)critique of modern subjectivity and abstract rationality, a critique often viewed from a postmodern standpoint as a dialectical affirmation of modernity. If, following Vattimo’s interpretation, Nietzsche’s death of God was the first philosophical event that made possible the passage to postmodernity, can Hegel’s philosophy of history be seen as a “preparation” of that event? And if certain elements of Hegel's philosophy can be reconciled with some postmodern perspectives, isn't the quintessentially Hegelian concept of the Absolute (Idea, Spirit, Knowledge) an insurmountable obstacle within the postmodern framework? On the other hand, what would be a Hegelian respond to the growing realization that the postmodern play of multiple worlds and languages might not lead to increased freedom and decreased violence? To paraphrase Slavoj Žižek, can Hegel help us better comprehend post-Hegelian phenomena that Hegel himself could not have envisioned? These are only some questions that set the stage for this volume. The forthcoming special issue is dedicated to the interplay between Hegel’s philosophy, the broader landscape of postmodern philosophy, and the concept of postmodernism itself. The idea is to reassess the critical objections toward Hegel coming from postmodern thinkers, but also to reactivate Hegelian figures that can be deployed in the understanding of postmodernity.</p>
-<p>We welcome contributions that delve into any topic or issue concerning the relationship between Hegel’s philosophy and postmodern thought, as well as the concept of the postmodern. We equally encourage submissions that scrutinize Hegel's position within postmodern philosophy and those that offer fresh perspectives on the postmodern condition from a Hegelian vantage point. Papers may explore figures explicitly associated with postmodern philosophy (such as Lyotard, Vattimo, Rorty, etc.), positions that intersect with the postmodern moment (like Derrida, Baudrillard, Deleuze, Butler, Foucault, Laclau, etc.), as well as those who have critically engaged with postmodernism (such as Habermas, Harvey, and Jameson). The scope of relevant themes for this special issue spans across a wide spectrum, encompassing areas such as social and political theory, ethics, history, religion, metaphysics, and aesthetics. We encourage both historical papers grounded in detailed textual analysis and papers that engage with contemporary debates.</p>
-<p>Should you have any uncertainties about the suitability of your paper for this special issue, please do not hesitate to contact one of the editors before making your submission.</p>
-<p>Đorđe Hristov: george.hristov@ifdt.bg.ac.rs</p>
-<p>Saša Hrnjez: sasa.hrnjez@unifi.it</p>
-<p>Papers should be 7000 to 10000 words in length and follow the ASA citation style. Submissions will be peer-reviewed (double blind).</p>
-<p>The deadline for submissions is <strong>February 29, 2024</strong>.</p></description>
-			<pubDate>Wed, 18 Oct 2023 05:37:05 +0000</pubDate>
-			<guid isPermaLink="false">1697607425072319</guid>
 		</item>
 
 	</channel>
