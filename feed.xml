@@ -3,9 +3,19 @@
 		<title>Main stream | FreshRSS</title>
 		<link>https://input.relcfp.com/p</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Fri, 27 Oct 2023 12:18:25 +0000</pubDate>
-		<lastBuildDate>Fri, 27 Oct 2023 12:18:25 GMT</lastBuildDate>
+		<pubDate>Sat, 28 Oct 2023 12:17:04 +0000</pubDate>
+		<lastBuildDate>Sat, 28 Oct 2023 12:17:04 GMT</lastBuildDate>
 		<atom:link href="https://input.relcfp.com/p/i/?a=rss&amp;rid=6304038b62d7d&amp;user=wyattphd-admin&amp;token=b5142b8a9c4208e145af4be2c86d4ad4&amp;hours=168" rel="self" type="application/rss+xml" />
+		<item>
+			<title>[ March 31, 2024] CFP for publication or other deadline: null</title>
+			<link>https://philevents.org/event/show/116078</link>
+						<description>Publication Name: Journal Religions - Special Issue: Aquinas and the Sciences: Exploring the Past, Present, and Future<br/><br/><p>Dear Colleagues,</p>
+<p>This Special Issue explores how Thomas Aquinas and the Thomists from different ages related their thought to the natural and cognitive sciences, both from a systematic and an historical perspective. What can contemporary theology, philosophy, and science and religion, as well as the history of these disciplines, gain from an engagement with the thought of Thomas Aquinas and his appropriation and integration of, and perspectives on, the natural and cognitive sciences? Additionally, how did Thomists in later centuries live up to this challenge? What is the status quo of Aquinas scholarship and Thomistic contributions on science and theology, or more recently science-engaged theology, today? Contributions to historical and systematic scholarship are welcome. The subject matter of the submitted work may pertain to a broad spectrum of disciplines, including history, philosophy, theology, religious studies, science-engaged theology, and science and religion.</p>
+
+<p>Dr. Simon Maria Kopf<br/>Dr. Ignacio Silva<br/><em>Guest Editors</em></p></description>
+			<pubDate>Sat, 28 Oct 2023 05:37:04 +0000</pubDate>
+			<guid isPermaLink="false">1698471424515449</guid>
+		</item>
 		<item>
 			<title>[ November 16, 2023 -  November 17, 2023] Conference or similar: Phenomenology, Reality and Essences (Online)</title>
 			<link>https://philevents.org/event/show/116018</link>
@@ -558,7 +568,7 @@
 This version 1.22.x is also the last to support PHP 7.2 before requiring PHP 7.4+.</p>
 <p>A few highlights ✨:</p>
 <ul>
-<li>Add support for OpenID Connect (only in our Debian-based Docker image for x86_64) through <a href="https://github.com/OpenIDC/mod_auth_openidc"><code>libapache2-mod-auth-openidc</code></a>. See <a href="https://freshrss.github.io/FreshRSS/en/admins/16_OpenID-Connect.html" rel="nofollow">our documentation</a></li>
+<li>Add support for OpenID Connect (only in our Debian-based Docker image for <code>x86_64</code>, not Alpine, and not ARM) through <a href="https://github.com/OpenIDC/mod_auth_openidc"><code>libapache2-mod-auth-openidc</code></a>. See <a href="https://freshrss.github.io/FreshRSS/en/admins/16_OpenID-Connect.html" rel="nofollow">our documentation</a></li>
 <li>Rework trusted proxies</li>
 <li>Improve scaling with many feeds and long processes, reduce database locks</li>
 <li>Fix many bugs and regressions</li>
@@ -574,7 +584,7 @@ This version 1.22.x is also the last to support PHP 7.2 before requiring PHP 7.4
 <ul>
 <li>Features
 <ul>
-<li>Add support for OpenID Connect (only in our Debian-based Docker image) through <a href="https://github.com/OpenIDC/mod_auth_openidc"><code>libapache2-mod-auth-openidc</code></a><br/>
+<li>Add support for OpenID Connect (only in our default Debian-based Docker image for <code>x86_64</code>, not Alpine) through <a href="https://github.com/OpenIDC/mod_auth_openidc"><code>libapache2-mod-auth-openidc</code></a><br/>
 <a href="https://github.com/FreshRSS/FreshRSS/pull/5351" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5351/hovercard">#5351</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5463" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5463/hovercard">#5463</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5481" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5481/hovercard">#5481</a>,<br/>
 <a href="https://github.com/FreshRSS/FreshRSS/pull/5523" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5523/hovercard">#5523</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5646" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5646/hovercard">#5646</a></li>
 <li>Allow sharing in anonymous mode <a href="https://github.com/FreshRSS/FreshRSS/pull/5261" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5261/hovercard">#5261</a></li>
@@ -752,7 +762,7 @@ This version 1.22.x is also the last to support PHP 7.2 before requiring PHP 7.4
 </ul>
 </li>
 </ul></description>
-			<pubDate>Tue, 24 Oct 2023 09:47:00 +0000</pubDate>
+			<pubDate>Fri, 27 Oct 2023 21:32:00 +0000</pubDate>
 			<guid isPermaLink="false">1698125824429709</guid>
 		</item>
 		<item>
