@@ -3,9 +3,133 @@
 		<title>Main stream | FreshRSS</title>
 		<link>https://input.relcfp.com/p</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Sun, 24 Dec 2023 12:17:27 +0000</pubDate>
-		<lastBuildDate>Sun, 24 Dec 2023 12:17:27 GMT</lastBuildDate>
+		<pubDate>Mon, 25 Dec 2023 12:18:50 +0000</pubDate>
+		<lastBuildDate>Mon, 25 Dec 2023 12:18:50 GMT</lastBuildDate>
 		<atom:link href="https://input.relcfp.com/p/i/?a=rss&amp;rid=6304038b62d7d&amp;user=wyattphd-admin&amp;token=b5142b8a9c4208e145af4be2c86d4ad4&amp;hours=168" rel="self" type="application/rss+xml" />
+		<item>
+			<title>1.23.0</title>
+			<link>https://github.com/FreshRSS/FreshRSS/releases/tag/1.23.0</link>
+						<dc:creator>Alkarex</dc:creator>
+			<description><ul>
+<li><a href="https://github.com/FreshRSS/FreshRSS/milestones/1.23.0">Milestone</a></li>
+<li><a href="https://github.com/FreshRSS/FreshRSS/discussions/5963" data-hovercard-type="discussion" data-hovercard-url="/FreshRSS/FreshRSS/discussions/5963/hovercard">Discussion</a> 🎄</li>
+</ul>
+<p>A few highlights ✨:</p>
+<ul>
+<li>New <em>Important feeds</em> group in the main view, with corresponding new priority level for feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/5782" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5782/hovercard">#5782</a>
+<ul>
+<li>Entries from important feeds are not marked as read during <em>scroll</em>, during <em>focus</em>, nor during <em>Mark all as read</em></li>
+</ul>
+</li>
+<li>Add filter actions (auto mark as read) at category level and at global levels <a href="https://github.com/FreshRSS/FreshRSS/pull/5942" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5942/hovercard">#5942</a></li>
+<li>Increase SQL fields length to maximum possible <a href="https://github.com/FreshRSS/FreshRSS/pull/5788" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5788/hovercard">#5788</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5570" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5570/hovercard">#5570</a></li>
+<li>Many bug fixes</li>
+</ul>
+<p>Breaking changes 💥:</p>
+<ul>
+<li>Require PHP 7.4+</li>
+<li>Soft require Apache 2.4+ (but repair minimal compatibility with Apache 2.2)</li>
+<li>Use GitHub Actions to build Docker images, offering architectures <code>amd64</code>, <code>arm32v7</code>, <code>arm64v8</code> with automatic detection <a href="https://github.com/FreshRSS/FreshRSS/pull/5808" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5808/hovercard">#5808</a>
+<ul>
+<li>So no <code>-arm</code> suffix anymore</li>
+</ul>
+</li>
+<li>Upgraded extensions require FreshRSS 1.23.0+ <a href="https://github.com/FreshRSS/Extensions/pull/181" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/Extensions/pull/181/hovercard">Extensions#181</a></li>
+</ul>
+<p>This release has been made by several contributors: <a data-hovercard-type="user" data-hovercard-url="/users/Alkarex/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Alkarex">@Alkarex</a>, <a data-hovercard-type="user" data-hovercard-url="/users/ColonelMoutarde/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ColonelMoutarde">@ColonelMoutarde</a>, <a data-hovercard-type="user" data-hovercard-url="/users/FireFingers21/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/FireFingers21">@FireFingers21</a>, <a data-hovercard-type="user" data-hovercard-url="/users/Frenzie/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Frenzie">@Frenzie</a>, <a data-hovercard-type="user" data-hovercard-url="/users/KasimirCash/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/KasimirCash">@KasimirCash</a>, <a data-hovercard-type="user" data-hovercard-url="/users/andris155/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/andris155">@andris155</a>, <a data-hovercard-type="user" data-hovercard-url="/users/b-reich/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/b-reich">@b-reich</a>, <a data-hovercard-type="user" data-hovercard-url="/users/foux/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/foux">@foux</a>, <a data-hovercard-type="user" data-hovercard-url="/users/jaden/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jaden">@jaden</a>, <a data-hovercard-type="user" data-hovercard-url="/users/jan-vandenberg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jan-vandenberg">@jan-vandenberg</a>, <a data-hovercard-type="user" data-hovercard-url="/users/joestump/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/joestump">@joestump</a>, <a data-hovercard-type="user" data-hovercard-url="/users/jtracey/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jtracey">@jtracey</a>, <a data-hovercard-type="user" data-hovercard-url="/users/mark-monteiro/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/mark-monteiro">@mark-monteiro</a>, <a data-hovercard-type="user" data-hovercard-url="/users/martinrotter/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/martinrotter">@martinrotter</a>, <a data-hovercard-type="user" data-hovercard-url="/users/math-GH/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/math-GH">@math-GH</a>, <a data-hovercard-type="user" data-hovercard-url="/users/passbe/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/passbe">@passbe</a></p>
+<p>Full <a href="https://github.com/FreshRSS/FreshRSS/blob/1.23.0/CHANGELOG.md">changelog</a>:</p>
+<ul>
+<li>Features
+<ul>
+<li>New <em>Important feeds</em> group in the main view, with corresponding new priority level for feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/5782" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5782/hovercard">#5782</a>
+<ul>
+<li>Entries from important feeds are not marked as read during <em>scroll</em>, during <em>focus</em>, nor during <em>Mark all as read</em></li>
+</ul>
+</li>
+<li>Add filter actions (auto mark as read) at category level and at global levels <a href="https://github.com/FreshRSS/FreshRSS/pull/5942" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5942/hovercard">#5942</a></li>
+<li>Improve reliability of <em>Max number of articles to keep unread</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/5905" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5905/hovercard">#5905</a></li>
+<li>New option to mark entries as read when focused from keyboard shortcut <a href="https://github.com/FreshRSS/FreshRSS/pull/5812" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5812/hovercard">5812</a></li>
+<li>New display option to hide <em>My labels</em> in article footers <a href="https://github.com/FreshRSS/FreshRSS/pull/5884" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5884/hovercard">#5884</a></li>
+<li>Add support for more thumbnail types in feeds enclosures <a href="https://github.com/FreshRSS/FreshRSS/pull/5806" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5806/hovercard">#5806</a></li>
+<li>Support for favicons with non-absolute paths <a href="https://github.com/FreshRSS/FreshRSS/pull/5839" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5839/hovercard">#5839</a></li>
+<li>Increase SQL (<code>VARCHAR</code>) text fields length to maximum possible <a href="https://github.com/FreshRSS/FreshRSS/pull/5788" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5788/hovercard">#5788</a></li>
+<li>Increase SQL date fields to 64-bit to be ready for year 2038+ <a href="https://github.com/FreshRSS/FreshRSS/pull/5570" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5570/hovercard">#5570</a></li>
+</ul>
+</li>
+<li>Compatibility
+<ul>
+<li>Require PHP 7.4+, and implement <em>typed properties</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/5720" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5720/hovercard">#5720</a></li>
+<li>Require Apache 2.4+ (but repair minimal compatibility with Apache 2.2) <a href="https://github.com/FreshRSS/FreshRSS/pull/5791" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5791/hovercard">#5791</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5804" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5804/hovercard">#5804</a></li>
+</ul>
+</li>
+<li>Bug fixing
+<ul>
+<li>Fix regression in Docker <code>CRON_MIN</code> if any environment variable contains a single quote <a href="https://github.com/FreshRSS/FreshRSS/pull/5795" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5795/hovercard">#5795</a></li>
+<li>Improve filtering of cron environment variables <a href="https://github.com/FreshRSS/FreshRSS/pull/5898" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5898/hovercard">#5898</a></li>
+<li>Fix the <code>TRUSTED_PROXY</code> environment variable used in combination with <em>trusted sources</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/5853" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5853/hovercard">#5853</a></li>
+<li>Fix regression in marking as read if an identical title already exists <a href="https://github.com/FreshRSS/FreshRSS/pull/5937" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5937/hovercard">#5937</a></li>
+<li>Fix JavaScript regression in label dropdown <a href="https://github.com/FreshRSS/FreshRSS/pull/5785" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5785/hovercard">#5785</a></li>
+<li>Fix regression when renaming a label <a href="https://github.com/FreshRSS/FreshRSS/pull/5842" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5842/hovercard">#5842</a></li>
+<li>Fix API for adding feed with a title <a href="https://github.com/FreshRSS/FreshRSS/pull/5868" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5868/hovercard">#5868</a></li>
+<li>Fix regression in UI of update page <a href="https://github.com/FreshRSS/FreshRSS/pull/5802" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5802/hovercard">#5802</a></li>
+<li>Fix XPath encoding <a href="https://github.com/FreshRSS/FreshRSS/pull/5912" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5912/hovercard">#5912</a></li>
+<li>Fix notifications, in particular during login <a href="https://github.com/FreshRSS/FreshRSS/pull/5959" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5959/hovercard">#5959</a></li>
+</ul>
+</li>
+<li>Deployment
+<ul>
+<li>Use GitHub Actions to build Docker images, offering architectures <code>amd64</code>, <code>arm32v7</code>, <code>arm64v8</code> with automatic detection <a href="https://github.com/FreshRSS/FreshRSS/pull/5808" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5808/hovercard">#5808</a></li>
+<li>Docker alternative image updated to Alpine 3.19 with PHP 8.2.13 and Apache 2.4.58 <a href="https://github.com/FreshRSS/FreshRSS/pull/5383" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5383/hovercard">#5383</a></li>
+</ul>
+</li>
+<li>Extensions
+<ul>
+<li>Upgrade extensions code to PHP 7.4+ <a href="https://github.com/FreshRSS/FreshRSS/pull/5901" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5901/hovercard">#5901</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5957" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5957/hovercard">#5957</a></li>
+<li>Breaking change: upgraded extensions require FreshRSS 1.23.0+ <a href="https://github.com/FreshRSS/Extensions/pull/181" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/Extensions/pull/181/hovercard">Extensions#181</a></li>
+<li>Pass FreshRSS version to JavaScript client side for extensions <a href="https://github.com/FreshRSS/FreshRSS/pull/5902" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5902/hovercard">#5902</a></li>
+<li>Add GitHub Actions and PHPStan for automatic testing of the Extensions repository <a href="https://github.com/FreshRSS/Extensions/pull/185" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/Extensions/pull/185/hovercard">Extensions#185</a></li>
+</ul>
+</li>
+<li>API
+<ul>
+<li>Improve handling of new lines in enclosure descriptions (e.g., YouTube video descriptions) <a href="https://github.com/FreshRSS/FreshRSS/pull/5859" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5859/hovercard">#5859</a></li>
+</ul>
+</li>
+<li>Security
+<ul>
+<li>Avoid printing exceptions in favicons <a href="https://github.com/FreshRSS/FreshRSS/pull/5867" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5867/hovercard">#5867</a></li>
+<li>Remove unneeded execution permissions on some files <a href="https://github.com/FreshRSS/FreshRSS/pull/5831" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5831/hovercard">#5831</a></li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>Ensure that enough articles are loaded on window resize <a href="https://github.com/FreshRSS/FreshRSS/pull/5815" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5815/hovercard">#5815</a></li>
+<li>Improve <em>Nord</em> theme <a href="https://github.com/FreshRSS/FreshRSS/pull/5885" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5885/hovercard">#5885</a></li>
+<li>Do not show message <em>Add some feeds</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/5827" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5827/hovercard">#5827</a></li>
+<li>Various UI and style improvements <a href="https://github.com/FreshRSS/FreshRSS/pull/5886" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5886/hovercard">#5886</a></li>
+</ul>
+</li>
+<li>i18n
+<ul>
+<li>Fix font priority for languages using Han characters <a href="https://github.com/FreshRSS/FreshRSS/pull/5930" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5930/hovercard">#5930</a></li>
+<li>Improve Dutch <a href="https://github.com/FreshRSS/FreshRSS/pull/5796" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5796/hovercard">#5796</a></li>
+<li>Improve Hungarian <a href="https://github.com/FreshRSS/FreshRSS/pull/5918" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5918/hovercard">#5918</a></li>
+</ul>
+</li>
+<li>Misc.
+<ul>
+<li>Increase PHPStan from Level 7 to <a href="https://phpstan.org/user-guide/rule-levels" rel="nofollow">Level 8</a> <a href="https://github.com/FreshRSS/FreshRSS/pull/5946" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5946/hovercard">#5946</a></li>
+<li>Compatibility PHP 8.2+ for running automated tests <a href="https://github.com/FreshRSS/FreshRSS/pull/5826" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5826/hovercard">#5826</a></li>
+<li>Use PHP <a href="https://php.net/language.types.declarations#language.types.declarations.strict" rel="nofollow"><code>declare(strict_types=1);</code></a> <a href="https://github.com/FreshRSS/FreshRSS/pull/5830" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5830/hovercard">#5830</a></li>
+<li>Better stack trace for SQL errors <a href="https://github.com/FreshRSS/FreshRSS/pull/5916" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5916/hovercard">#5916</a></li>
+<li>Code improvements <a href="https://github.com/FreshRSS/FreshRSS/pull/5511" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5511/hovercard">#5511</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/5945" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5945/hovercard">#5945</a></li>
+<li>Update dev dependencies <a href="https://github.com/FreshRSS/FreshRSS/pull/5787" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5787/hovercard">#5787</a></li>
+</ul>
+</li>
+</ul></description>
+			<pubDate>Sun, 24 Dec 2023 10:50:00 +0000</pubDate>
+			<guid isPermaLink="false">1703486222675879</guid>
+		</item>
 		<item>
 			<title>Religious Studies Project Opportunities Digest – December 20, 2023</title>
 			<link>https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-december-20-2023/</link>
