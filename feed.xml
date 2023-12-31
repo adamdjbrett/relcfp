@@ -3,9 +3,45 @@
 		<title>Main stream | FreshRSS</title>
 		<link>https://input.relcfp.com/p</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Sat, 30 Dec 2023 12:17:28 +0000</pubDate>
-		<lastBuildDate>Sat, 30 Dec 2023 12:17:28 GMT</lastBuildDate>
+		<pubDate>Sun, 31 Dec 2023 12:17:59 +0000</pubDate>
+		<lastBuildDate>Sun, 31 Dec 2023 12:17:59 GMT</lastBuildDate>
 		<atom:link href="https://input.relcfp.com/p/i/?a=rss&amp;rid=6304038b62d7d&amp;user=wyattphd-admin&amp;token=b5142b8a9c4208e145af4be2c86d4ad4&amp;hours=168" rel="self" type="application/rss+xml" />
+		<item>
+			<title>1.23.1</title>
+			<link>https://github.com/FreshRSS/FreshRSS/releases/tag/1.23.1</link>
+						<dc:creator>Alkarex</dc:creator>
+			<description><ul>
+<li><a href="https://github.com/FreshRSS/FreshRSS/milestones/1.23.1">Milestone</a></li>
+</ul>
+<p>This is a bug-fix release for the <a href="https://github.com/FreshRSS/FreshRSS/releases/tag/1.23.0">1.23.0 release</a>, addressing several regressions.</p>
+<p>This release has been made by <a data-hovercard-type="user" data-hovercard-url="/users/Alkarex/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Alkarex">@Alkarex</a>, <a data-hovercard-type="user" data-hovercard-url="/users/andris155/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/andris155">@andris155</a>, <a data-hovercard-type="user" data-hovercard-url="/users/math-GH/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/math-GH">@math-GH</a>, <a data-hovercard-type="user" data-hovercard-url="/users/yzqzss/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/yzqzss">@yzqzss</a>, <a data-hovercard-type="user" data-hovercard-url="/users/zhzy0077/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zhzy0077">@zhzy0077</a></p>
+<p>Full <a href="https://github.com/FreshRSS/FreshRSS/blob/1.23.1/CHANGELOG.md">changelog</a>:</p>
+<ul>
+<li>Bug fixing
+<ul>
+<li>Fix crash regression with the option <em>Max number of tags shown</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/5978" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5978/hovercard">#5978</a></li>
+<li>Fix crash regression when enabling extensions defined by old FreshRSS installations <a href="https://github.com/FreshRSS/FreshRSS/pull/5979" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5979/hovercard">#5979</a></li>
+<li>Fix crash regression during export when using MySQL <a href="https://github.com/FreshRSS/FreshRSS/pull/5988" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5988/hovercard">#5988</a></li>
+<li>More robust assignment of categories to feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/5986" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5986/hovercard">#5986</a></li>
+<li>Fix <code>base_url</code> being cleared when saving settings <a href="https://github.com/FreshRSS/FreshRSS/pull/5992" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5992/hovercard">#5992</a></li>
+<li>Fix unwanted button in UI of update page <a href="https://github.com/FreshRSS/FreshRSS/pull/5999" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5999/hovercard">#5999</a></li>
+</ul>
+</li>
+<li>Deployment
+<ul>
+<li>Exclude more folders with <code>.dockerignore</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/5996" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5996/hovercard">#5996</a></li>
+</ul>
+</li>
+<li>i18n
+<ul>
+<li>Improve simplified Chinese <a href="https://github.com/FreshRSS/FreshRSS/pull/5977" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5977/hovercard">#5977</a></li>
+<li>Improve Hungarian <a href="https://github.com/FreshRSS/FreshRSS/pull/6000" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6000/hovercard">#6000</a></li>
+</ul>
+</li>
+</ul></description>
+			<pubDate>Sat, 30 Dec 2023 16:24:00 +0000</pubDate>
+			<guid isPermaLink="false">1704004622887368</guid>
+		</item>
 		<item>
 			<title>[ June 3, 2024 -  June 7, 2024] Conference or similar: Heidegger on the Essence of Truth</title>
 			<link>https://philevents.org/event/show/118153</link>
