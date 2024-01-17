@@ -1,6 +1,5 @@
 ---
 title:  "Canadian Theological Society - Call for Papers - Annual Meeting"
-subtitle: "CFP"
 excerpt: "The theme of Congress 2024, Sustaining Shared Futures, confronts us with the reality that we exist within a web of interconnectivity, not only with all of humanity and nature today, but with infinite generations stretching into the future. As theologians, we are called to reflect on our work in this expansive context, and to consider the place of our traditions in this interconnected web."
 image: "/assets/images/cts-logo_darker.png"
 tags:
