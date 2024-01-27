@@ -12,7 +12,7 @@ paginate: true
 ---
 Please see the poster for more information on TGSA’s upcoming Spring 2024 conference, “Doing Theology in a Canadian Context.” Proposals of 300-words are welcome from across theological disciplines, by Friday, March 1, 2024.
 
-![poster](/assets/images/2024-TGSA-CONFERENCE-No.-5-1.png)
+[![poster](/assets/images/2024-TGSA-CONFERENCE-No.-5-1.png)](https://tgsa.sa.utoronto.ca/)
 
 UNIVERSITY OF TORONTO - ST. GEORGE CAMPUS
 Saturday, May 11th
