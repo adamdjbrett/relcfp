@@ -39,6 +39,7 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-redirect-from
 
 permalink: pretty
 paginate: 6
