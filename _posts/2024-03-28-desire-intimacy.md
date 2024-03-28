@@ -1,7 +1,7 @@
 ---
 title:  "DESIRE AND INTIMACY IN THE STUDY OF RELIGION"
 excerpt: "The Department of Religious Studies' Graduate Student Association at Northwestern University invites submissions for a graduate student conference centered on the theme "Desire and Intimacy in the Study of Religion," to be held in Evanston, Illinois on October 25-27, 2024. We request submission materials by May 1, 2024."
-image: "/assets/images/desire-conferenceposter_march41.png"
+image: "/assets/images/ddesire-conferenceposter_march41.png"
 tags:
   - AAR 
   - religion 
