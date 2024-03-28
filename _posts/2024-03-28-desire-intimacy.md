@@ -31,22 +31,23 @@ This conference will explore how desire and intimacy shape religious lives and t
 
 Paper topics for this conference include, but are not limited to:
 
-    -   Philosophical intimacies in Tibetan Buddhist tantras
-    -   Queer and trans Muslim desires in Indonesia
-    -   Political and religious freedoms in Palestine
-    -   State/religious violence and attacks on reproductive justice
-    -   Desire and its foreclosures for Rohingya in Myanmar
-    -   Black feminist thought, meditation, and the bodily intimacy of healing
-    -   Desire and the body in Tibetan women's poetry
-    -   Auto-ethnographic accounts of desire and intimacy in religion
-    -   Desires and intimacies of ghosts and spirits in the study of religion
-    -   Racial justice, Black religion, and desires for embodied freedom
-    -   Land, sovereignty, and desire in Indigenous religions
-    -   Objects, materiality, and the intimacy of religious paraphernalia
-    -   Intimacies and desires of objects implicated in and orienting religious worlds (new materialisms and ontologies)
-    -   The violent desires of nation-states in the study of religion
-    -   #MeToo and desires for justice in religious communities
-    -   Film, art, and sound in forging and documenting intimate religious experiences
+-   Philosophical intimacies in Tibetan Buddhist tantras
+-   Queer and trans Muslim desires in Indonesia
+-   Political and religious freedoms in Palestine
+-   State/religious violence and attacks on reproductive justice
+-   Desire and its foreclosures for Rohingya in Myanmar
+-   Black feminist thought, meditation, and the bodily intimacy of healing
+-   Desire and the body in Tibetan women's poetry
+-   Auto-ethnographic accounts of desire and intimacy in religion
+-   Desires and intimacies of ghosts and spirits in the study of religion
+-   Racial justice, Black religion, and desires for embodied freedom
+-   Land, sovereignty, and desire in Indigenous religions
+-   Objects, materiality, and the intimacy of religious paraphernalia
+-   Intimacies and desires of objects implicated in and orienting religious worlds 
+    (new materialisms and ontologies)
+-   The violent desires of nation-states in the study of religion
+-   #MeToo and desires for justice in religious communities
+-   Film, art, and sound in forging and documenting intimate religious experiences
 
 ### Keynote speakers: 
 
