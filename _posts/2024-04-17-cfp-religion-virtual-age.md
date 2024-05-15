@@ -1,5 +1,5 @@
 ---
-title:  "CALL FOR PAPERSReligious Communities in the Virtual Age"
+title:  "CALL FOR PAPERS - Religious Communities in the Virtual Age"
 excerpt: "Since the COVID-19 pandemic, religious communities across Europe and the world have engaged with the digital world and specific digital technologies in a wide variety of ways. Some have embraced online worship and gathering as a tool for widening or enriching a sense of community. Others have used social media to re-think the boundaries of their work with their wider society around them or to connect with their co-religionists across the world. Still others have consciously avoided digital tools, seeing a spiritual and social potency in in-person gathering that cannot be replicated. But nearly all have had to face the new assumptions and practices of the virtual age that the pandemic made far more universal than they were before."
 image: "/assets/images/rel-virutal.jpg"
 tags:
