@@ -3,9 +3,232 @@
 		<title>Main stream | FreshRSS</title>
 		<link>https://input.relcfp.com/p</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Thu, 23 May 2024 12:04:13 +0000</pubDate>
-		<lastBuildDate>Thu, 23 May 2024 12:04:13 GMT</lastBuildDate>
+		<pubDate>Fri, 24 May 2024 12:04:03 +0000</pubDate>
+		<lastBuildDate>Fri, 24 May 2024 12:04:03 GMT</lastBuildDate>
 		<atom:link href="https://input.relcfp.com/p/i/?a=rss&amp;rid=6304038b62d7d&amp;user=wyattphd-admin&amp;token=b5142b8a9c4208e145af4be2c86d4ad4&amp;hours=168" rel="self" type="application/rss+xml" />
+		<item>
+			<title>[ June 14, 2024 -  June 15, 2024] Conference or similar: Empeiria in Plato: Empirical Experience, Evaluative Issues</title>
+			<link>https://philevents.org/event/show/123686</link>
+						<description>Venue: 45 rue d'Ulm<br/><br/><p>The aim of this conference is to explore the multiple meanings of experience, paying particular attention to the normative dimension of each of Plato’s more or less explicit investigations of experience. Plato seems to have constantly set himself the task of criticizing the misuses to which experience gives rise, all the better to revalue certain very specific types of experience to which he recognizes a practical utility. From here, is there one or more concepts in Plato's dialogues? The aim of this conference is to complement the critique of a deficient familiarity with the sensible, often referred to in dialogues as ἐμπειρία, with a careful study of the revaluation of experience. Two different axes stand out in this direction: on the one hand, the question of practical utility and concrete action, as long as we are able to account for its correctness, and on the other, the irreducibility of a certain type of practice that must operate in the first person and that it is possible to isolate through experiential qualification. Here is the program: <br/> <strong>Friday June 14th, 2024 </strong> ENS, 29 rue d‘Ulm PARIS 5 Amphithéâtre Jean Jaurès  3pm-3.15 Welcome 3.15-4.30 Marie-Noëlle RIBAS, ‘Expérience philosophique et expérience ordinaire’ Coffee break 5.00-6.15 Marta JIMENEZ, ‘Plato on why some experiences are better than others’ <strong>Saturday June 15th, 2024 </strong> ENS, 45 rue d’Ulm PARIS 5 Amphithéâtre Evariste Galois  9.30-10.45 Pedro DOTTO, ‘The Analogy between medicine and rhetoric in Plato’s dialogues’ 10.45-12.00 Marion POLLAERT, ‘Experience and Politics in Plato’   2.00-3.15 Paulo LIMA, ‘The Tragic Passions Do Not Teach: Plato’s implicit reassessment of the <em>pathei mathos </em>tradition in <em>Republic </em>X’ Coffee break 3.15-4.30 Nicolas LE MERRER, ‘L’expérience « avilissante » du plaisir tragique et la critique platonicienne de la poésie dans la <em>République</em>’ 4.30-5.00 Closing roundtable<br/>   Please register in advance by writing to me at the following address to gain access to the building: marion.pollaert@gmail.com. For further information, please visit this page.</p></description>
+			<pubDate>Fri, 24 May 2024 05:37:04 +0000</pubDate>
+			<guid isPermaLink="false">1716529024413146</guid>
+		</item>
+		<item>
+			<title>FreshRSS 1.24.0</title>
+			<link>https://github.com/FreshRSS/FreshRSS/releases/tag/1.24.0</link>
+						<dc:creator>Alkarex</dc:creator>
+			<description><ul>
+<li><a href="https://github.com/FreshRSS/FreshRSS/milestones/1.24.0">Milestone</a></li>
+<li><a href="https://github.com/FreshRSS/FreshRSS/discussions/6462" data-hovercard-type="discussion" data-hovercard-url="/FreshRSS/FreshRSS/discussions/6462/hovercard">Discussion</a></li>
+</ul>
+<p>A few highlights ✨:</p>
+<ul>
+<li>New <a href="https://freshrss.github.io/FreshRSS/en/users/user_queries.html#share-your-user-queries" rel="nofollow"><em>shareable user query</em></a> mechanism to share lists of articles by HTML, RSS, OPML
+<ul>
+<li>Deprecates RSS sharing with master token</li>
+</ul>
+</li>
+<li>New CLI for <a href="https://freshrss.github.io/FreshRSS/en/admins/05_Backup.html#creating-a-database-backup" rel="nofollow">database backup &amp; restore</a>
+<ul>
+<li>Can also be used to <a href="https://freshrss.github.io/FreshRSS/en/admins/05_Backup.html#migrate-database" rel="nofollow">migrate from one database to another</a>, or to upgrade SQLite schema</li>
+</ul>
+</li>
+<li>New JSON scraping mode to consume JSON data and JSON Feeds</li>
+<li>New support for HTTP POST</li>
+<li>New option to automatically add labels to incoming articles</li>
+<li>New button to download a feed configuration as OPML</li>
+<li>Many bug fixes</li>
+</ul>
+<p>This release has been made by several contributors: <a data-hovercard-type="user" data-hovercard-url="/users/aledeg/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/aledeg">@aledeg</a>, <a data-hovercard-type="user" data-hovercard-url="/users/Alkarex/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Alkarex">@Alkarex</a>, <a data-hovercard-type="user" data-hovercard-url="/users/andris155/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/andris155">@andris155</a>, <a data-hovercard-type="user" data-hovercard-url="/users/CilgaIscan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/CilgaIscan">@CilgaIscan</a>, <a data-hovercard-type="user" data-hovercard-url="/users/cn-tools/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/cn-tools">@cn-tools</a>, <a data-hovercard-type="user" data-hovercard-url="/users/den13501/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/den13501">@den13501</a>, <a data-hovercard-type="user" data-hovercard-url="/users/eta-orionis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/eta-orionis">@eta-orionis</a>, <a data-hovercard-type="user" data-hovercard-url="/users/Frenzie/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Frenzie">@Frenzie</a>, <a data-hovercard-type="user" data-hovercard-url="/users/FromTheMoon85/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/FromTheMoon85">@FromTheMoon85</a>, <a data-hovercard-type="user" data-hovercard-url="/users/gmgall/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gmgall">@gmgall</a>, <a data-hovercard-type="user" data-hovercard-url="/users/hkcomori/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hkcomori">@hkcomori</a>, <a data-hovercard-type="user" data-hovercard-url="/users/jakopo87/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jakopo87">@jakopo87</a>, <a data-hovercard-type="user" data-hovercard-url="/users/laxmanpradhan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/laxmanpradhan">@laxmanpradhan</a>, <a data-hovercard-type="user" data-hovercard-url="/users/loviuz/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/loviuz">@loviuz</a>, <a data-hovercard-type="user" data-hovercard-url="/users/math-GH/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/math-GH">@math-GH</a>, <a data-hovercard-type="user" data-hovercard-url="/users/MayMeow/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/MayMeow">@MayMeow</a>, <a data-hovercard-type="user" data-hovercard-url="/users/OctopusET/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/OctopusET">@OctopusET</a>, <a data-hovercard-type="user" data-hovercard-url="/users/PedroPMS/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/PedroPMS">@PedroPMS</a>, <a data-hovercard-type="user" data-hovercard-url="/users/roughnecks/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/roughnecks">@roughnecks</a>, <a data-hovercard-type="user" data-hovercard-url="/users/soniyaprasad77/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/soniyaprasad77">@soniyaprasad77</a>, <a data-hovercard-type="user" data-hovercard-url="/users/th0mcat/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/th0mcat">@th0mcat</a>, <a data-hovercard-type="user" data-hovercard-url="/users/thomasrenes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/thomasrenes">@thomasrenes</a>, <a data-hovercard-type="user" data-hovercard-url="/users/tiborepcek/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/tiborepcek">@tiborepcek</a>, <a data-hovercard-type="user" data-hovercard-url="/users/wolfpld/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/wolfpld">@wolfpld</a>, <a data-hovercard-type="user" data-hovercard-url="/users/yzqzss/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/yzqzss">@yzqzss</a>, <a data-hovercard-type="user" data-hovercard-url="/users/zukizukizuki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zukizukizuki">@zukizukizuki</a><br/>
+and several newcomers <a data-hovercard-type="user" data-hovercard-url="/users/eta-orionis/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/eta-orionis">@eta-orionis</a>, <a data-hovercard-type="user" data-hovercard-url="/users/gmgall/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/gmgall">@gmgall</a>, <a data-hovercard-type="user" data-hovercard-url="/users/hkcomori/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/hkcomori">@hkcomori</a>, <a data-hovercard-type="user" data-hovercard-url="/users/jakopo87/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jakopo87">@jakopo87</a>, <a data-hovercard-type="user" data-hovercard-url="/users/jgtorcal/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/jgtorcal">@jgtorcal</a>, <a data-hovercard-type="user" data-hovercard-url="/users/krm-shrftdnv/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/krm-shrftdnv">@krm-shrftdnv</a>, <a data-hovercard-type="user" data-hovercard-url="/users/laxmanpradhan/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/laxmanpradhan">@laxmanpradhan</a>, <a data-hovercard-type="user" data-hovercard-url="/users/loviuz/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/loviuz">@loviuz</a>, <a data-hovercard-type="user" data-hovercard-url="/users/PedroPMS/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/PedroPMS">@PedroPMS</a>, <a data-hovercard-type="user" data-hovercard-url="/users/roughnecks/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/roughnecks">@roughnecks</a>, <a data-hovercard-type="user" data-hovercard-url="/users/soniyaprasad77/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/soniyaprasad77">@soniyaprasad77</a>, <a data-hovercard-type="user" data-hovercard-url="/users/th0mcat/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/th0mcat">@th0mcat</a>, <a data-hovercard-type="user" data-hovercard-url="/users/zukizukizuki/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/zukizukizuki">@zukizukizuki</a></p>
+<p>Full <a href="https://github.com/FreshRSS/FreshRSS/blob/1.24.0/CHANGELOG.md">changelog</a>:</p>
+<ul>
+<li>Features
+<ul>
+<li>New <a href="https://freshrss.github.io/FreshRSS/en/users/user_queries.html#share-your-user-queries" rel="nofollow"><em>shareable user query</em></a> mechanism to share list of articles by HTML, RSS, OPML <a href="https://github.com/FreshRSS/FreshRSS/pull/6052" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6052/hovercard">#6052</a>
+<ul>
+<li>Deprecates RSS sharing with master token</li>
+</ul>
+</li>
+<li>New JSON scraping mode to consume JSON data <a href="https://github.com/FreshRSS/FreshRSS/pull/5662" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5662/hovercard">#5662</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6317" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6317/hovercard">#6317</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6369" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6369/hovercard">#6369</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6476" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6476/hovercard">#6476</a></li>
+<li>New support for JSON Feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/5662" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5662/hovercard">#5662</a></li>
+<li>New support for HTTP POST <a href="https://github.com/FreshRSS/FreshRSS/pull/5662" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5662/hovercard">#5662</a></li>
+<li>New options to automatically add labels to incoming articles <a href="https://github.com/FreshRSS/FreshRSS/pull/5954" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5954/hovercard">#5954</a></li>
+<li>New button to download a feed configuration as OPML <a href="https://github.com/FreshRSS/FreshRSS/pull/6312" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6312/hovercard">#6312</a></li>
+<li>Web scraping support more encodings such as EUC-JP <a href="https://github.com/FreshRSS/FreshRSS/pull/6112" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6112/hovercard">#6112</a></li>
+<li>Web scraping support password-protected queries (refactor some cURL options and use <code>CURLOPT_USERPWD</code>) <a href="https://github.com/FreshRSS/FreshRSS/pull/6177" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6177/hovercard">#6177</a></li>
+<li>Web scraping HTTP GET allow UTF-8 even when charset is far from top <a href="https://github.com/FreshRSS/FreshRSS/pull/6271" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6271/hovercard">#6271</a></li>
+<li>Allow manual refresh of disabled feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/6408" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6408/hovercard">#6408</a></li>
+<li>Allow multiple authors on enclosures <a href="https://github.com/FreshRSS/FreshRSS/pull/6272" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6272/hovercard">#6272</a></li>
+<li>New system option in <code>data/config.php</code> for number of feeds to refresh in parallel from UI <a href="https://github.com/FreshRSS/FreshRSS/pull/6124" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6124/hovercard">#6124</a></li>
+</ul>
+</li>
+<li>CLI
+<ul>
+<li>New CLI for <a href="https://freshrss.github.io/FreshRSS/en/admins/05_Backup.html#creating-a-database-backup" rel="nofollow">database backup &amp; restore</a> <a href="https://github.com/FreshRSS/FreshRSS/pull/6387" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6387/hovercard">#6387</a>
+<ul>
+<li>Can also be used to <a href="https://freshrss.github.io/FreshRSS/en/admins/05_Backup.html#migrate-database" rel="nofollow">migrate from one database to another</a>, or to upgrade SQLite schema</li>
+<li><code>./cli/db-backup.php ; ./cli/db-restore.php</code></li>
+</ul>
+</li>
+<li>Improve CLI parameters <a href="https://github.com/FreshRSS/FreshRSS/pull/6028" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6028/hovercard">#6028</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6036" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6036/hovercard">#6036</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6099" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6099/hovercard">#6099</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6214" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6214/hovercard">#6214</a></li>
+<li>Fix i18n <code>cli/manipulate.translation.php</code> ignore behaviour <a href="https://github.com/FreshRSS/FreshRSS/pull/6041" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6041/hovercard">#6041</a></li>
+</ul>
+</li>
+<li>API
+<ul>
+<li>New compatible app <a href="https://github.com/Ashinch/ReadYou">Read You</a> <a href="https://github.com/FreshRSS/FreshRSS/pull/4633" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/4633/hovercard">#4633</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6050" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6050/hovercard">#6050</a></li>
+<li>Reduce API memory consumption <a href="https://github.com/FreshRSS/FreshRSS/pull/6137" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6137/hovercard">#6137</a></li>
+<li>Allow negative feed IDs for future special cases <a href="https://github.com/FreshRSS/FreshRSS/pull/6010" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6010/hovercard">#6010</a></li>
+<li>Only return <code>OK</code> for requests without query parameters <a href="https://github.com/FreshRSS/FreshRSS/pull/6238" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6238/hovercard">#6238</a></li>
+</ul>
+</li>
+<li>Bug fixing
+<ul>
+<li>Better account for some edge cases for cron and automatic labels during feed refresh <a href="https://github.com/FreshRSS/FreshRSS/pull/6117" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6117/hovercard">#6117</a></li>
+<li>Better support for thumbnails in RSS feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/5972" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5972/hovercard">#5972</a></li>
+<li>Auto-update PostgreSQL or MariaDB / MySQL databases for column details changes since FreshRSS 1.21.0 <a href="https://github.com/FreshRSS/FreshRSS/pull/6279" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6279/hovercard">#6279</a>
+<ul>
+<li>For SQLite, DB update require running <code>./cli/db-backup.php ; ./cli/db-restore.php --force-overwrite</code></li>
+</ul>
+</li>
+<li>Fix SQLite import of exports produced before FreshRSS 1.20.0 <a href="https://github.com/FreshRSS/FreshRSS/pull/6450" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6450/hovercard">#6450</a></li>
+<li>Fix SQLite release handle to fix deleting users on Microsoft Windows <a href="https://github.com/FreshRSS/FreshRSS/pull/6285" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6285/hovercard">#6285</a></li>
+<li>Fix to allow admins to create user even when there are Terms Of Service <a href="https://github.com/FreshRSS/FreshRSS/pull/6269" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6269/hovercard">#6269</a></li>
+<li>Fix updating the <em>uncategorized</em> category deletes the title <a href="https://github.com/FreshRSS/FreshRSS/pull/6073" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6073/hovercard">#6073</a></li>
+<li>Fix disable master authentication token <a href="https://github.com/FreshRSS/FreshRSS/pull/6185" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6185/hovercard">#6185</a></li>
+<li>Fix CSS selector preview <a href="https://github.com/FreshRSS/FreshRSS/pull/6423" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6423/hovercard">#6423</a></li>
+<li>Fix CSS selector encoding <a href="https://github.com/FreshRSS/FreshRSS/pull/6426" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6426/hovercard">#6426</a></li>
+<li>Fix export of CSS selector in OPML of individual feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/6435" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6435/hovercard">#6435</a></li>
+<li>Fix OPML import of <code>CURLOPT_PROXYTYPE</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/6439" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6439/hovercard">#6439</a></li>
+<li>Fix favicon with protocol-relative URLs have duplicate slashes <a href="https://github.com/FreshRSS/FreshRSS/pull/6068" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6068/hovercard">#6068</a></li>
+<li>Fix feed TTL+muted logic <a href="https://github.com/FreshRSS/FreshRSS/pull/6115" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6115/hovercard">#6115</a></li>
+<li>Fix apply <em>mark as read</em> to updated articles too <a href="https://github.com/FreshRSS/FreshRSS/pull/6334" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6334/hovercard">#6334</a></li>
+<li>Fix ZIP export on systems with custom temp folder <a href="https://github.com/FreshRSS/FreshRSS/pull/6392" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6392/hovercard">#6392</a></li>
+<li>Fix number of posts per page during paging <a href="https://github.com/FreshRSS/FreshRSS/pull/6268" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6268/hovercard">#6268</a></li>
+<li>Fix clipboard sharing UI <a href="https://github.com/FreshRSS/FreshRSS/pull/6301" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6301/hovercard">#6301</a></li>
+<li>Fix shortcut for clipboard sharing <a href="https://github.com/FreshRSS/FreshRSS/pull/6277" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6277/hovercard">#6277</a></li>
+<li>Fix user-query filter display <a href="https://github.com/FreshRSS/FreshRSS/pull/6421" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6421/hovercard">#6421</a></li>
+</ul>
+</li>
+<li>SimplePie
+<ul>
+<li>Fix absolutize URL for several cases <a href="https://github.com/FreshRSS/FreshRSS/pull/6270" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6270/hovercard">#6270</a>, <a href="https://github.com/simplepie/simplepie/pull/861" data-hovercard-type="pull_request" data-hovercard-url="/simplepie/simplepie/pull/861/hovercard">simplepie/#861</a></li>
+</ul>
+</li>
+<li>Security
+<ul>
+<li>Replace <code>iframe</code> <code>allow</code> attribute <a href="https://github.com/FreshRSS/FreshRSS/pull/6274" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6274/hovercard">#6274</a></li>
+</ul>
+</li>
+<li>Deployment
+<ul>
+<li>Disable unused PHP modules in our Debian-based Docker image <a href="https://github.com/FreshRSS/FreshRSS/pull/5994" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/5994/hovercard">#5994</a></li>
+</ul>
+</li>
+<li>UI
+<ul>
+<li>No warning for muted feeds <a href="https://github.com/FreshRSS/FreshRSS/pull/6114" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6114/hovercard">#6114</a></li>
+<li>Various UI and style improvements <a href="https://github.com/FreshRSS/FreshRSS/pull/6055" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6055/hovercard">#6055</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6074" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6074/hovercard">#6074</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6241" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6241/hovercard">#6241</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6242" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6242/hovercard">#6242</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6289" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6289/hovercard">#6289</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6299" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6299/hovercard">#6299</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6314" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6314/hovercard">#6314</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6357" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6357/hovercard">#6357</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6373" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6373/hovercard">#6373</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6376" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6376/hovercard">#6376</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6385" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6385/hovercard">#6385</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6390" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6390/hovercard">#6390</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6444" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6444/hovercard">#6444</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6445" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6445/hovercard">#6445</a></li>
+<li>Improve theme <em>Origine compact</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/6197" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6197/hovercard">#6197</a></li>
+</ul>
+</li>
+<li>i18n
+<ul>
+<li>Improve Brazilian Portuguese <a href="https://github.com/FreshRSS/FreshRSS/pull/6067" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6067/hovercard">#6067</a></li>
+<li>Improve Czech <a href="https://github.com/FreshRSS/FreshRSS/pull/6344" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6344/hovercard">#6344</a></li>
+<li>Improve Dutch <a href="https://github.com/FreshRSS/FreshRSS/pull/6343" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6343/hovercard">#6343</a></li>
+<li>Improve German <a href="https://github.com/FreshRSS/FreshRSS/pull/6313" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6313/hovercard">#6313</a></li>
+<li>Improve Hungarian <a href="https://github.com/FreshRSS/FreshRSS/pull/6005" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6005/hovercard">#6005</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6377" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6377/hovercard">#6377</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6464" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6464/hovercard">#6464</a></li>
+<li>Improve Indonesian <a href="https://github.com/FreshRSS/FreshRSS/pull/6473" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6473/hovercard">#6473</a></li>
+<li>Improve Italian <a href="https://github.com/FreshRSS/FreshRSS/pull/6018" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6018/hovercard">#6018</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6060" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6060/hovercard">#6060</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6329" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6329/hovercard">#6329</a></li>
+<li>Improve Japanese <a href="https://github.com/FreshRSS/FreshRSS/pull/6108" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6108/hovercard">#6108</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6294" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6294/hovercard">#6294</a></li>
+<li>Improve Korean <a href="https://github.com/FreshRSS/FreshRSS/pull/6342" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6342/hovercard">#6342</a></li>
+<li>Improve Polish <a href="https://github.com/FreshRSS/FreshRSS/pull/6358" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6358/hovercard">#6358</a></li>
+<li>Improve Portuguese <a href="https://github.com/FreshRSS/FreshRSS/pull/6345" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6345/hovercard">#6345</a></li>
+<li>Improve Russian <a href="https://github.com/FreshRSS/FreshRSS/pull/6467" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6467/hovercard">#6467</a></li>
+<li>Improve Simplified Chinese <a href="https://github.com/FreshRSS/FreshRSS/pull/6336" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6336/hovercard">#6336</a></li>
+<li>Improve Slovakian <a href="https://github.com/FreshRSS/FreshRSS/issues/6356" data-hovercard-type="issue" data-hovercard-url="/FreshRSS/FreshRSS/issues/6356/hovercard">#6356</a></li>
+<li>Improve Spanish <a href="https://github.com/FreshRSS/FreshRSS/pull/6471" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6471/hovercard">#6471</a></li>
+<li>Improve Traditional Chinese <a href="https://github.com/FreshRSS/FreshRSS/pull/6350" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6350/hovercard">#6350</a></li>
+<li>Improve Turkish <a href="https://github.com/FreshRSS/FreshRSS/pull/6328" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6328/hovercard">#6328</a></li>
+<li>Misc. <a href="https://github.com/FreshRSS/FreshRSS/pull/6460" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6460/hovercard">#6460</a></li>
+</ul>
+</li>
+<li>Extensions
+<ul>
+<li>Sanitize parsing list of extensions names and version number <a href="https://github.com/FreshRSS/FreshRSS/pull/6016" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6016/hovercard">#6016</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6155" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6155/hovercard">#6155</a>, <a href="https://github.com/FreshRSS/Extensions/pull/214" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/Extensions/pull/214/hovercard">Extensions#214</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6186" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6186/hovercard">#6186</a></li>
+<li>Apply filter actions such as <em>mark as read</em> after the <em>entry_before_insert</em> hook for extensions <a href="https://github.com/FreshRSS/FreshRSS/pull/6091" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6091/hovercard">#6091</a></li>
+<li>New developer command to test all third-party extensions <a href="https://github.com/FreshRSS/Extensions/pull/228" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/Extensions/pull/228/hovercard">Extensions#228</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6273" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6273/hovercard">#6273</a>
+<ul>
+<li><code>composer run-script phpstan-third-party</code></li>
+</ul>
+</li>
+<li>New function <code>Minz_Extension::amendCsp()</code> for extensions to modify HTTP headers for Content Security Policy <a href="https://github.com/FreshRSS/FreshRSS/pull/6246" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6246/hovercard">#6246</a></li>
+<li>New property <code>FreshRSS_Entry::isUpdated()</code> for extensions to know whether an entry is new or updated <a href="https://github.com/FreshRSS/FreshRSS/pull/6334" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6334/hovercard">#6334</a></li>
+</ul>
+</li>
+<li>Compatibility
+<ul>
+<li>Fix PHP 7.4 compatibility for automated tests <a href="https://github.com/FreshRSS/FreshRSS/pull/6038" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6038/hovercard">#6038</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6039" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6039/hovercard">#6039</a></li>
+<li>Fix PHP 8.2+ compatibility for e-mails <a href="https://github.com/FreshRSS/FreshRSS/pull/6130" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6130/hovercard">#6130</a></li>
+<li>Use PHP 8.3+ <code>#[\Override]</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/6273" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6273/hovercard">#6273</a></li>
+</ul>
+</li>
+<li>Misc.
+<ul>
+<li>Improve PHPStan <a href="https://github.com/FreshRSS/FreshRSS/pull/6037" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6037/hovercard">#6037</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6459" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6459/hovercard">#6459</a></li>
+<li>Update <em>PHPMailer</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/6022" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6022/hovercard">#6022</a></li>
+<li>Remove noisy <code>name</code> parameters in user-query URL <a href="https://github.com/FreshRSS/FreshRSS/pull/6371" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6371/hovercard">#6371</a></li>
+<li>Code improvements <a href="https://github.com/FreshRSS/FreshRSS/pull/6046" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6046/hovercard">#6046</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6075" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6075/hovercard">#6075</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6132" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6132/hovercard">#6132</a></li>
+<li>Add Dependabot for GitHub Actions <a href="https://github.com/FreshRSS/FreshRSS/pull/6164" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6164/hovercard">#6164</a></li>
+<li>Allow <kbd>Ctrl</kbd>+<kbd>C</kbd> for <code>make start</code> <a href="https://github.com/FreshRSS/FreshRSS/pull/6239" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6239/hovercard">#6239</a></li>
+<li>Update dev dependencies <a href="https://github.com/FreshRSS/FreshRSS/pull/6023" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6023/hovercard">#6023</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6265" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6265/hovercard">#6265</a></li>
+</ul>
+</li>
+</ul></description>
+			<pubDate>Thu, 23 May 2024 09:54:00 +0000</pubDate>
+			<guid isPermaLink="false">1716529024413145</guid>
+		</item>
+		<item>
+			<title>Lonergan on the Edge Graduate Student Conference 2024</title>
+			<link>https://call-for-papers.sas.upenn.edu/cfp/2024/05/22/lonergan-on-the-edge-graduate-student-conference-2024</link>
+						<dc:creator>cecille.medina</dc:creator>
+			<description><div><div>updated: </div><div><div><span>Thursday, May 23, 2024 - 2:28pm</span></div></div></div><div><div>full name / name of organization: </div><div><div>Marquette University</div></div></div><div><div>contact email: </div><div><div><a href="mailto:lonergansociety@gmail.com">lonergansociety@gmail.com</a></div></div></div><div><div>categories (up to 5): </div><div><div><a href="https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches">cultural studies and historical approaches</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/graduate-conferences">graduate conferences</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/interdisciplinary">interdisciplinary</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/religion">religion</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/science-and-culture">science and culture</a></div></div></div><div><div>deadline for submissions: </div><div><div><span>July 31, 2024</span></div></div></div><div><div><div><p><strong>Lonergan, Human Dignity &amp; Culture - Lonergan on the Edge Graduate Student Conference 2024</strong></p>
+<p>at Marquette University, held Friday September 13th and Saturday September 14th, 2024 in Milwaukee, WI</p>
+<p><strong>Call for Papers:</strong></p>
+<p>Amid the so-called "culture wars" of politics, post-colonialism, globalization, multiculturalism, dehumanization, and the ideological debates at all levels of society, what can Lonergan's philosophy and theology contribute to these cultural clashes? For this year's Lonergan on the Edge Graduate Student Conference, we invite abstracts of no more than 500 words that explore the topics of culture and human dignity in Lonergan's theology, philosophy, and economics.</p>
+<p>Submit your MS Word or PDF proposal as a one-page, double-spaced abstract prepared for blind review (i.e. no name on the proposal itself). Only one submission per student will be accepted. Regular paper presentations will be 30 minutes: 20 for presentation, 10 for Q&amp;A.</p>
+<p>Special consideration will be given to proposals that address this year's theme, though other proposals in Lonergan studies will also be considered.</p>
+<p><strong>Submission deadline: 31 July 2024</strong></p>
+<p><strong>Please submit your proposed abstract to <a href="mailto:lonergansociety@gmail.com">lonergansociety@gmail.com</a></strong></p>
+<p>Accepted proposals will be notified in early August.</p>
+<p>All are welcome to attend, but we request proposals from current or recent (within the last five years) graduate students who have not yet received a Ph.D. We are also accepting panel proposals from groups of 2-3 students. If considering a panel, please indicate the panel theme and submit proposals together, following the blind review guidelines.</p>
+</div></div></div></description>
+			<pubDate>Wed, 22 May 2024 21:20:00 +0000</pubDate>
+			<guid isPermaLink="false">1716529024413144</guid>
+		</item>
+		<item>
+			<title>RSA 2025: Laboring writers in the early modern world</title>
+			<link>https://call-for-papers.sas.upenn.edu/cfp/2024/05/20/rsa-2025-laboring-writers-in-the-early-modern-world</link>
+						<dc:creator>ScottOldenburg</dc:creator>
+			<description><div><div>updated: </div><div><div><span>Thursday, May 23, 2024 - 2:26pm</span></div></div></div><div><div>full name / name of organization: </div><div><div>N/A</div></div></div><div><div>contact email: </div><div><div><a href="mailto:soldenbu@tulane.edu">soldenbu@tulane.edu</a></div></div></div><div><div>categories (up to 5): </div><div><div><a href="https://call-for-papers.sas.upenn.edu/category/medieval">medieval</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/poetry">poetry</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/popular-culture">popular culture</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/religion">religion</a></div><div><a href="https://call-for-papers.sas.upenn.edu/category/renaissance">renaissance</a></div></div></div><div><div>deadline for submissions: </div><div><div><span>June 15, 2024</span></div></div></div><div><div><div><p>We are seeking papers for a panel at RSA 2025 in Boston that address laboring writers--not so much writing as labor, but writers whose primary identity is as a laborer, peasant, artisan, or craftsperson from any geographic region. Such writers are often neglected in favor of courtiers and their clients. Indeed, some of how we conceive of “the literary” today is informed by the tastes of the ruling elite of the early modern period. This panel thus aims to recover non-elite voices of the past.</p>
+<p>Some questions papers might address: How did laboring writers represent labor and the laboring class? How do such writers situate themselves in relation to the court, the state, or the literary canon? What do gender relations look like when we focus on workers rather than courtiers and university wits? What social networks existed for the laboring class writer? Does the ecophobia of the period look different through peasant eyes? Is there a unique non-courtly style for laboring class writers?</p>
+<p>Writing here is understood broadly: poetry, prayers, petitions, sermons, libels, even records of court testimony.</p>
+<p>Papers might focus on early modern England, Spain, France, Italy, or other geographic location and writing is here understood broadly.</p>
+<p>Papers of 15-20 minutes reading length addressing the above are welcome. Please begin by submitting an abstract of 150 words to Scott Oldenburg <a href="mailto:soldenbu@tulane.edu">soldenbu@tulane.edu</a> (with the subject heading "Laboring Writers") by June 15, 2024. </p>
+</div></div></div></description>
+			<pubDate>Mon, 20 May 2024 20:12:00 +0000</pubDate>
+			<guid isPermaLink="false">1716529024413143</guid>
+		</item>
 		<item>
 			<title>OT 2024 : Open Theology - cal for proposals for edited volumes</title>
 			<link>http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180633&amp;copyownerid=173363</link>
