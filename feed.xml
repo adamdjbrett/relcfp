@@ -3,9 +3,56 @@
 		<title>Main stream | FreshRSS</title>
 		<link>https://input.relcfp.com/p</link>
 		<description>RSS feed of Main stream | FreshRSS</description>
-		<pubDate>Wed, 05 Jun 2024 12:04:12 +0000</pubDate>
-		<lastBuildDate>Wed, 05 Jun 2024 12:04:12 GMT</lastBuildDate>
+		<pubDate>Thu, 06 Jun 2024 12:04:34 +0000</pubDate>
+		<lastBuildDate>Thu, 06 Jun 2024 12:04:34 GMT</lastBuildDate>
 		<atom:link href="https://input.relcfp.com/p/i/?a=rss&amp;rid=6304038b62d7d&amp;user=wyattphd-admin&amp;token=b5142b8a9c4208e145af4be2c86d4ad4&amp;hours=168" rel="self" type="application/rss+xml" />
+		<item>
+			<title>FreshRSS 1.24.1</title>
+			<link>https://github.com/FreshRSS/FreshRSS/releases/tag/1.24.1</link>
+						<dc:creator>Alkarex</dc:creator>
+			<description><ul>
+<li><a href="https://github.com/FreshRSS/FreshRSS/milestones/1.24.1">Milestone</a></li>
+</ul>
+<p>This is a bug-fix release for the <a href="https://github.com/FreshRSS/FreshRSS/releases/tag/1.24.0">1.24.0 release</a>, addressing several regressions.</p>
+<p>A few highlights ✨:</p>
+<ul>
+<li>New button to export OMPL of a category</li>
+<li>Many bug fixes</li>
+</ul>
+<p>This release has been made by <a data-hovercard-type="user" data-hovercard-url="/users/Alkarex/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/Alkarex">@Alkarex</a>, <a data-hovercard-type="user" data-hovercard-url="/users/math-GH/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/math-GH">@math-GH</a>, and newcomers <a data-hovercard-type="user" data-hovercard-url="/users/ramazansancar/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/ramazansancar">@ramazansancar</a>, <a data-hovercard-type="user" data-hovercard-url="/users/robinmetral/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="https://github.com/robinmetral">@robinmetral</a></p>
+<p>Full <a href="https://github.com/FreshRSS/FreshRSS/blob/1.24.1/CHANGELOG.md">changelog</a>:</p>
+<ul>
+<li>Features
+<ul>
+<li>New button to export OMPL of a category <a href="https://github.com/FreshRSS/FreshRSS/pull/6519" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6519/hovercard">#6519</a></li>
+<li>Better git error messages in built-in Web update <a href="https://github.com/FreshRSS/FreshRSS/pull/6496" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6496/hovercard">#6496</a></li>
+</ul>
+</li>
+<li>Bug fixing
+<ul>
+<li>Fix regression HTTP GET curl options <a href="https://github.com/FreshRSS/FreshRSS/pull/6492" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6492/hovercard">#6492</a></li>
+<li>Fix regression of <em>mark as read if an identical title already exists</em> <a href="https://github.com/FreshRSS/FreshRSS/pull/6536" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6536/hovercard">#6536</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6543" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6543/hovercard">#6543</a></li>
+<li>Fix connection to PostgreSQL databases with uppercase letters <a href="https://github.com/FreshRSS/FreshRSS/pull/6482" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6482/hovercard">#6482</a></li>
+<li>Fix UI regression hover over title while having the navigation buttons in mobile view <a href="https://github.com/FreshRSS/FreshRSS/pull/6486" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6486/hovercard">#6486</a></li>
+<li>Fix UI for some drag &amp; drops <a href="https://github.com/FreshRSS/FreshRSS/pull/6505" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6505/hovercard">#6505</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6508" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6508/hovercard">#6508</a></li>
+</ul>
+</li>
+<li>i18n
+<ul>
+<li>Improve Czech <a href="https://github.com/FreshRSS/FreshRSS/pull/6504" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6504/hovercard">#6504</a></li>
+<li>Improve Turkish <a href="https://github.com/FreshRSS/FreshRSS/pull/6506" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6506/hovercard">#6506</a></li>
+</ul>
+</li>
+<li>Misc.
+<ul>
+<li>Update dev dependencies <a href="https://github.com/FreshRSS/FreshRSS/pull/6525" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6525/hovercard">#6525</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6526" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6526/hovercard">#6526</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6528" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6528/hovercard">#6528</a>,<br/>
+<a href="https://github.com/FreshRSS/FreshRSS/pull/6529" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6529/hovercard">#6529</a>, <a href="https://github.com/FreshRSS/FreshRSS/pull/6530" data-hovercard-type="pull_request" data-hovercard-url="/FreshRSS/FreshRSS/pull/6530/hovercard">#6530</a></li>
+</ul>
+</li>
+</ul></description>
+			<pubDate>Wed, 05 Jun 2024 15:35:00 +0000</pubDate>
+			<guid isPermaLink="false">1717652223252064</guid>
+		</item>
 		<item>
 			<title>Volume - 5, Issue - 1, 2024</title>
 			<link>https://call-for-papers.sas.upenn.edu/cfp/2024/06/03/volume-5-issue-1-2024</link>
@@ -227,407 +274,6 @@
 <p>https://sophere.org/apa-participation/eastern/</p></description>
 			<pubDate>Sat, 01 Jun 2024 05:37:04 +0000</pubDate>
 			<guid isPermaLink="false">1717220224924210</guid>
-		</item>
-		<item>
-			<title>[ February 20, 2025] CFP for conference or similar: APA Central 2025 SOPHERE session</title>
-			<link>https://philevents.org/event/show/123822</link>
-						<description><p><strong>METAPHYSICS AND RELIGIOUS EXPERIENCE</strong></p>
-<p>The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor an affiliated group session on metaphysics and religious experience.</p>
-<p>Many of those who have religious/spiritual experiences find systematic metaphysics irrelevant to those experiences, and yet one might wonder whether they do depend on unexamined metaphysical presuppositions. This session will inquire into the relationship between religious/spiritual experience and metaphysics. Are religious/spiritual experiences completely independent of metaphysics? Or, do they depend on metaphysics? If so, how? If religious/spiritual experiences do depend in some way on metaphysics, do the different metaphysical frameworks people espouse (and these are often diverse, depending on the diversity of religious/spiritual traditions and cultures world-wide) affect the kinds of religious/spiritual experience they have? Does religious/spiritual experience determine what metaphysical outlook should be adopted (e.g. Classical Theism or Process Theology)? Is there a danger of equating metaphysics with religious/spiritual experience? Does such an equation end up undermining religious/spiritual experience or end up in incoherence as various critiques of onto-theology suggest? Do metaphysics and religious/spiritual experience represent distinctive and yet related provinces of meaning, in Alfred Schutz’s sense? Is there a philosophical obligation to give an account of the metaphysical suppositions underlying one religious/spiritual experience out of a sense of philosophical responsibility in Husserl’s sense? Do metaphysical articulations help build a bridge between religious/spiritual experience and science, as Max Scheler thought? Papers ought to make use in some way of phenomenological methodology. Abstracts of up to 500 words or completed papers should be sent to apacentral@sophere.org by August 1.</p>
-<p>Michael Barber</p>
-<p>Session Organizer</p>
-<p>michael.barber@slu.edu</p>
-<p>https://sophere.org/apa-participation/central/</p></description>
-			<pubDate>Thu, 30 May 2024 05:37:04 +0000</pubDate>
-			<guid isPermaLink="false">1717047426864459</guid>
-		</item>
-		<item>
-			<title>[ February 20, 2025 -  February 27, 2025] Conference or similar: APA Central 2025 SOPHERE session</title>
-			<link>https://philevents.org/event/show/123818</link>
-						<description>Venue: Unknown<br/><br/><p><strong>METAPHYSICS AND RELIGIOUS EXPERIENCE</strong></p>
-<p>The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor an affiliated group session on metaphysics and religious experience.</p>
-<p>Many of those who have religious/spiritual experiences find systematic metaphysics irrelevant to those experiences, and yet one might wonder whether they do depend on unexamined metaphysical presuppositions. This session will inquire into the relationship between religious/spiritual experience and metaphysics. Are religious/spiritual experiences completely independent of metaphysics? Or, do they depend on metaphysics? If so, how? If religious/spiritual experiences do depend in some way on metaphysics, do the different metaphysical frameworks people espouse (and these are often diverse, depending on the diversity of religious/spiritual traditions and cultures world-wide) affect the kinds of religious/spiritual experience they have? Does religious/spiritual experience determine what metaphysical outlook should be adopted (e.g. Classical Theism or Process Theology)? Is there a danger of equating metaphysics with religious/spiritual experience? Does such an equation end up undermining religious/spiritual experience or end up in incoherence as various critiques of onto-theology suggest? Do metaphysics and religious/spiritual experience represent distinctive and yet related provinces of meaning, in Alfred Schutz’s sense? Is there a philosophical obligation to give an account of the metaphysical suppositions underlying one religious/spiritual experience out of a sense of philosophical responsibility in Husserl’s sense? Do metaphysical articulations help build a bridge between religious/spiritual experience and science, as Max Scheler thought? Papers ought to make use in some way of phenomenological methodology. Abstracts of up to 500 words or completed papers should be sent to apacentral@sophere.org by August 1.</p>
-<p>Michael Barber</p>
-<p>Session Organizer</p>
-<p>michael.barber@slu.edu</p>
-<p>https://sophere.org/apa-participation/central/</p></description>
-			<pubDate>Thu, 30 May 2024 05:37:04 +0000</pubDate>
-			<guid isPermaLink="false">1717047426864458</guid>
-		</item>
-		<item>
-			<title>[ February 20, 2025 -  February 27, 2025] Conference or similar: APA Central 2025 SOPHERE session</title>
-			<link>https://philevents.org/event/show/123818</link>
-						<description>Venue: Unknown<br/><br/><p><strong>METAPHYSICS AND RELIGIOUS EXPERIENCE</strong></p>
-<p>The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor an affiliated group session on metaphysics and religious experience.</p>
-<p>Many of those who have religious/spiritual experiences find systematic metaphysics irrelevant to those experiences, and yet one might wonder whether they do depend on unexamined metaphysical presuppositions. This session will inquire into the relationship between religious/spiritual experience and metaphysics. Are religious/spiritual experiences completely independent of metaphysics? Or, do they depend on metaphysics? If so, how? If religious/spiritual experiences do depend in some way on metaphysics, do the different metaphysical frameworks people espouse (and these are often diverse, depending on the diversity of religious/spiritual traditions and cultures world-wide) affect the kinds of religious/spiritual experience they have? Does religious/spiritual experience determine what metaphysical outlook should be adopted (e.g. Classical Theism or Process Theology)? Is there a danger of equating metaphysics with religious/spiritual experience? Does such an equation end up undermining religious/spiritual experience or end up in incoherence as various critiques of onto-theology suggest? Do metaphysics and religious/spiritual experience represent distinctive and yet related provinces of meaning, in Alfred Schutz’s sense? Is there a philosophical obligation to give an account of the metaphysical suppositions underlying one religious/spiritual experience out of a sense of philosophical responsibility in Husserl’s sense? Do metaphysical articulations help build a bridge between religious/spiritual experience and science, as Max Scheler thought? Papers ought to make use in some way of phenomenological methodology. Abstracts of up to 500 words or completed papers should be sent to apacentral@sophere.org by August 1.</p>
-<p>Michael Barber</p>
-<p>Session Organizer</p>
-<p>michael.barber@slu.edu</p>
-<p>https://sophere.org/apa-participation/central/</p></description>
-			<pubDate>Thu, 30 May 2024 05:37:03 +0000</pubDate>
-			<guid isPermaLink="false">1717047426864457</guid>
-		</item>
-		<item>
-			<title>[ February 20, 2025] CFP for conference or similar: APA Central 2025 SOPHERE session</title>
-			<link>https://philevents.org/event/show/123822</link>
-						<description><p><strong>METAPHYSICS AND RELIGIOUS EXPERIENCE</strong></p>
-<p>The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor an affiliated group session on metaphysics and religious experience.</p>
-<p>Many of those who have religious/spiritual experiences find systematic metaphysics irrelevant to those experiences, and yet one might wonder whether they do depend on unexamined metaphysical presuppositions. This session will inquire into the relationship between religious/spiritual experience and metaphysics. Are religious/spiritual experiences completely independent of metaphysics? Or, do they depend on metaphysics? If so, how? If religious/spiritual experiences do depend in some way on metaphysics, do the different metaphysical frameworks people espouse (and these are often diverse, depending on the diversity of religious/spiritual traditions and cultures world-wide) affect the kinds of religious/spiritual experience they have? Does religious/spiritual experience determine what metaphysical outlook should be adopted (e.g. Classical Theism or Process Theology)? Is there a danger of equating metaphysics with religious/spiritual experience? Does such an equation end up undermining religious/spiritual experience or end up in incoherence as various critiques of onto-theology suggest? Do metaphysics and religious/spiritual experience represent distinctive and yet related provinces of meaning, in Alfred Schutz’s sense? Is there a philosophical obligation to give an account of the metaphysical suppositions underlying one religious/spiritual experience out of a sense of philosophical responsibility in Husserl’s sense? Do metaphysical articulations help build a bridge between religious/spiritual experience and science, as Max Scheler thought? Papers ought to make use in some way of phenomenological methodology. Abstracts of up to 500 words or completed papers should be sent to apacentral@sophere.org by August 1.</p>
-<p>Michael Barber</p>
-<p>Session Organizer</p>
-<p>michael.barber@slu.edu</p>
-<p>https://sophere.org/apa-participation/central/</p></description>
-			<pubDate>Thu, 30 May 2024 05:37:03 +0000</pubDate>
-			<guid isPermaLink="false">1717047426864456</guid>
-		</item>
-		<item>
-			<title>Religious Studies Project Opportunities Digest May 29, 2024</title>
-			<link>https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-may-29-2024/</link>
-						<dc:creator>Trevor Linn</dc:creator>
-			<category>Opportunities</category>
-			<description><p>Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 14 new job opportunities, 2 fellowships, 1 call for papers, 3 conferences/speakers, and 1 other opportunity.</p>
-
-
-
-<p>Everyone at RSP says<em> thank you </em>to all who have generously supported the RSP through our Patreon and PayPal donation options! Our goal is to have <strong>100 patrons</strong> (currently at 43!) to support all of our upcoming developments. Please visit our <a href="https://www.religiousstudiesproject.com/donations/">donations page</a> for information on how you can sign up for a regular subscription, leave a one-off donation, advertise with us, or use our Amazon links.</p>
-
-
-
-<h2>Jobs:</h2>
-
-
-
-<h4>Academic:</h4>
-
-
-
-<h4>Assistant Professor of Greek</h4>
-
-
-
-<p>Houston Christian University, USA</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178801607&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178801607&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Assistant Teaching Professor of Religious and Theological Studies (Full-time, Non-tenure-track)</h4>
-
-
-
-<p>St. Edward’s University, USA</p>
-
-
-
-<p>Deadline: June 5, 2024</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178800806&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178800806&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Assistant Professor in Political Science</h4>
-
-
-
-<p>Appalachian State University, USA</p>
-
-
-
-<p>Deadline: Until filled</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178798917&amp;utm_source=05_24_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178798917&amp;utm_source=05_24_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Visiting Assistant Professor of Theology (1-year appointment)</h4>
-
-
-
-<p>Marian University, USA</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178798381&amp;utm_source=05_23_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178798381&amp;utm_source=05_23_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Professor of Practical Theology (Full-time)</h4>
-
-
-
-<p>Winebrenner Theological Seminary, USA</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178792598&amp;utm_source=05_23_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178792598&amp;utm_source=05_23_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Professor of Theology, Ethics, and Womanist Studies</h4>
-
-
-
-<p>Shaw University, USA</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178797045&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178797045&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Visiting Assistant Professor of Religious Studies (1-year appointment)</h4>
-
-
-
-<p>Bates College, USA</p>
-
-
-
-<p>Deadline: Until filled</p>
-
-
-
-<p>More Information:  <a href="https://www.higheredjobs.com/details.cfm?JobCode=178796947&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178796947&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Lecturer in Philosophy</h4>
-
-
-
-<p>University of California, USA</p>
-
-
-
-<p>Deadline: June 3, 2024</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178796152&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178796152&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Lecturer in Religion and Social Science (1-year appointment)</h4>
-
-
-
-<p>King’s College London, UK</p>
-
-
-
-<p>Deadline: June 10, 2024</p>
-
-
-
-<p>More Information: <a href="https://www.kcl.ac.uk/jobs/089926-lecturer-in-religion-and-social-science">https://www.kcl.ac.uk/jobs/089926-lecturer-in-religion-and-social-science</a></p>
-
-
-
-<h4>Minerva Recruitment Job Listings Site (with areas specifically tailored for Ph.D.)</h4>
-
-
-
-<p>More Information: <a href="https://minerva-recruitment.com/">Minerva Recruitment – Higher Education Graduate Jobs, UK &amp; Worldwide (minerva-recruitment.com)</a></p>
-
-
-
-<h4>AAR/SBL Job Forum</h4>
-
-
-
-<p><a href="https://www.aarsbl.org/job-listings-search">https://www.aarsbl.org/job-listings-search</a></p>
-
-
-
-<h4>Non-Academic:</h4>
-
-
-
-<h4>Director of Tutoring and Writing Centers</h4>
-
-
-
-<p>Community College of Rhode Island, USA</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178801550&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178801550&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Associate Curator for the Museum of Art and Design</h4>
-
-
-
-<p>Miami Dade College, USA</p>
-
-
-
-<p>Deadline: June 6, 2024</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178801151&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178801151&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>School of Divinity Coordinator</h4>
-
-
-
-<p>University of St. Thomas, USA</p>
-
-
-
-<p>More information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178797288&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178797288&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Assistant Archivist</h4>
-
-
-
-<p>Texas Tech University, USA</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178796129&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178796129&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Policy and Research Officer</h4>
-
-
-
-<p>Greater Manchester Poverty Action, UK</p>
-
-
-
-<p>More Information: <a href="https://www.gmpovertyaction.org/policy-and-research-officer/">https://www.gmpovertyaction.org/policy-and-research-officer/</a></p>
-
-
-
-<h2>Fellowships:</h2>
-
-
-
-<h4>Kiriyama Postdoctoral Fellowship for the Center for Asia Pacific Studies (10-month appointment)</h4>
-
-
-
-<p>University of San Francisco, USA</p>
-
-
-
-<p>Deadline: June 7, 2024</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178801711&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178801711&amp;utm_source=05_25_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h4>Postdoctoral Associate in Anthropology</h4>
-
-
-
-<p>University of Colorado, USA</p>
-
-
-
-<p>Deadline: June 3, 2024</p>
-
-
-
-<p>More Information: <a href="https://www.higheredjobs.com/details.cfm?JobCode=178797201&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail">https://www.higheredjobs.com/details.cfm?JobCode=178797201&amp;utm_source=05_22_24&amp;utm_medium=email&amp;utm_campaign=JobAgentEmail</a></p>
-
-
-
-<h2>Call for Papers:</h2>
-
-
-
-<h4>Lonergan on the Edge Graduate Student Conference</h4>
-
-
-
-<p>Deadline: July 31, 2024</p>
-
-
-
-<p>More Information: <a href="https://call-for-papers.sas.upenn.edu/cfp/2024/05/22/lonergan-on-the-edge-graduate-student-conference-2024">https://call-for-papers.sas.upenn.edu/cfp/2024/05/22/lonergan-on-the-edge-graduate-student-conference-2024</a></p>
-
-
-
-<h2>Conferences/Speakers:</h2>
-
-
-
-<h4>After Angkor: Re-Considering the Long, Silent, but Certain Socio-Religious Transformation in Cambodia</h4>
-
-
-
-<p>Zoom</p>
-
-
-
-<p>Date: June 8, 2024</p>
-
-
-
-<p>More Information: <a href="https://www.southeastasianarchaeology.com/2024/05/22/conference-after-angkor-re-considering-the-long-silent-but-certain-socio-religious-transformation-in-cambodia/#google_vignette">https://www.southeastasianarchaeology.com/2024/05/22/conference-after-angkor-re-considering-the-long-silent-but-certain-socio-religious-transformation-in-cambodia/ – google_vignette</a></p>
-
-
-
-<h4>Society for the Scientific Study of Religion Annual Conference</h4>
-
-
-
-<p>Pittsburgh, USA</p>
-
-
-
-<p>Date: October 18-20, 2024</p>
-
-
-
-<p>More Information: <a href="https://t.co/I6CPfgRU6N">https://t.co/I6CPfgRU6N</a></p>
-
-
-
-<h4>Modesty in Orthodoxy: Jewish and Muslim Women</h4>
-
-
-
-<p>Zoom</p>
-
-
-
-<p>Date: June 6, 2024</p>
-
-
-
-<p>More Information: <a href="https://t.co/kCiX5EkihK">https://t.co/kCiX5EkihK</a></p>
-
-
-
-<h2>Miscellaneous:</h2>
-
-
-
-<h4>Society for Cultural Anthropology Call for Contributing Editors</h4>
-
-
-
-<p>More Information: <a href="https://culanth.org/about/about-the-society/announcements/2024-call-for-new-contributing-editors">https://culanth.org/about/about-the-society/announcements/2024-call-for-new-contributing-editors</a></p></description>
-			<pubDate>Wed, 29 May 2024 09:00:00 +0000</pubDate>
-			<guid isPermaLink="false">1717047426864455</guid>
 		</item>
 
 	</channel>
