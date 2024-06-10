@@ -40,9 +40,8 @@ jobs:
         with:
           add: feed.xml
       - name: Deploy to Netlify
+        uses: lwojcik/github-action-deploy-static-site@v1
         with:
           platform: netlify
           netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
           always_deploy: true
-      
-
