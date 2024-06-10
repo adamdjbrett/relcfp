@@ -5,6 +5,13 @@
     <html>
       <head>
         <style>
+          entry{
+            padding-bottom: 10px; 
+            margin-left: auto; 
+            margin-right: auto; 
+            max-width: 1200px; 
+            display: grid; 
+          }
           main{
             padding-bottom: 10px; 
             margin-left: auto; 
@@ -16,6 +23,11 @@
             margin-block-start: 0.5em;
             margin-block-end: 0.5em;
             font-size: 1rem;
+          }
+          title {
+            margin-block-start: 0.1em;
+            margin-block-end: 0.1em;
+            font-size: 1.4rem;
           }
           h2 {
             margin-block-start: 0.1em;
