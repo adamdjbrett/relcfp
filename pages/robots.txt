@@ -1,0 +1,10 @@
+---
+layout: null
+permalink: /robots.txt
+source: "www.google.com/support/webmasters/bin/answer.py?hl=en&answer=156449" # www.robotstxt.org
+exclude: true
+---
+User-Agent: *
+Disallow: /cgi-bin
+
+Sitemap: {{ site.url }}/sitemap.xml
