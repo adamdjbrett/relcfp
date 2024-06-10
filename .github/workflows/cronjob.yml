@@ -40,6 +40,6 @@ jobs:
         with:
           add: feed.xml
       - name: Deploy to Netlify
-        run: curl -X POST -d {} https://api.netlify.com/build_hooks/6306aae7a6be6803755be05c
+        run: curl -X POST -d {} {{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
       
 
