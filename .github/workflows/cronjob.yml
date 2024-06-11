@@ -46,8 +46,8 @@ jobs:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.MY_GITHUB_TOKEN }}
       - name: Data Format Converter
-        uses: fabasoad/data-format-converter-action@main
-        id: xml2json
+        uses: fabasoad/data-format-converter-actionv0.2.3
+        #id: xml2json
         with:
           input: "feed.xml"
           from: "xml"
