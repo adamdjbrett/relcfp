@@ -1,5 +1,5 @@
-name: XML to YAML
-run-name: ${{ github.actor }} XML2YAML
+name: XML to JSON
+run-name: ${{ github.actor }} XML2JSON
 on: [push]
 jobs:
   Explore-GitHub-Actions:
@@ -7,10 +7,10 @@ jobs:
     steps:
       - name: Data Format Converter Action
         uses: fabasoad/data-format-converter-action@v0.2.3
-        id: xml2yaml
+        id: xml2json
         with:
           input: "feed.xml"
           from: "xml"
-          to: "yaml"
+          to: "json"
       - name: Print result
-        run: echo "${{ steps.xml2yaml.outputs.output }}"
+        run: echo "${{ steps.xml2json.outputs.output }}"
