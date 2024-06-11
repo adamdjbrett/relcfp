@@ -7,10 +7,10 @@ jobs:
     steps:
       - name: Data Format Converter Action
         uses: fabasoad/data-format-converter-action@v0.2.3
-        id: xml2json
+        id: xml2yaml
         with:
-          input: "authors.yml"
-          from: "yml"
-          to: "json"
+          input: "person.xml"
+          from: "xml"
+          to: "yml"
       - name: Print result
-        run: echo "${{ steps.xml2json.outputs.output }}"
+        run: echo "${{ steps.xml2yaml.outputs.output }}"
