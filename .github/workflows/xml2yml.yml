@@ -1,8 +1,15 @@
-- uses: fabasoad/data-format-converter-action@v0
-  id: xml2yaml
-  with:
-    input: "feed.xml"
-    from: "xml"
-    to: "yaml"
-- name: Print result
-  run: echo "${{ steps.xml2yaml.outputs.output }}"
+name: XML2YML
+
+jobs:
+  DeploySite:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Data Format Converter Action
+        uses: fabasoad/data-format-converter-action@v0.2.3
+          id: xml2yaml
+          with:
+            input: "feed.xml"
+            from: "xml"
+            to: "yaml"
+      - name: Print result
+        run: echo "${{ steps.xml2yaml.outputs.output }}"
