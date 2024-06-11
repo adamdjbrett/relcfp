@@ -1,7 +1,8 @@
-name: XML2YML
-
+name: XML to YAML
+run-name: ${{ github.actor }} XML2YAML
+on: [push]
 jobs:
-  DeploySite:
+  Explore-GitHub-Actions:
     runs-on: ubuntu-latest
     steps:
       - name: Data Format Converter Action
