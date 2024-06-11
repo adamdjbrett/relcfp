@@ -49,10 +49,10 @@ jobs:
         uses: fabasoad/data-format-converter-action@main
         id: xml2json
         with:
-        input: "feed.xml"
-        from: "xml"
-        to: "json"
-        token: ${{ steps.generate-app-token.outputs.token }}
+          input: "feed.xml"
+          from: "xml"
+          to: "json"
+          token: ${{ steps.generate-app-token.outputs.token }}
       - name: Print result
         run: echo "${{ steps.xml2json.outputs.output }}"    
       - name: Deploy to Netlify
