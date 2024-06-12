@@ -9,10 +9,10 @@ permalink: "/about/"
 RELCFP is a religious studies call for papers repository. [<i class="fa-solid fa-circle-info"  aria-hidden="true"></i> Submissions welcomed](/submission/). 
 
 ### Contact info
- Our email is contact at relcfp dot com
- [<i class="fa-brands fa-facebook" aria-hidden="true"></i> Facebook @relcfp](https://www.facebook.com/relcfp)
- [<i class="fa-brands fa-twitter" aria-hidden="true"></i> Twitter @relcfp](https://twitter.com/relcfp)
- [<i class="fa-brands fa-mastodon" aria-hidden="true"></i> Mastodon](https://mastodon.social/@relcfp)
+  - [<i class="fa-solid fa-envelope" aria-hidden="true"></i>](mailto:contact@relcfp.com)
+  - [<i class="fa-brands fa-facebook" aria-hidden="true"></i> Facebook](https://www.facebook.com/relcfp)
+  - [<i class="fa-brands fa-twitter" aria-hidden="true"></i> Twitter](https://twitter.com/relcfp)
+  - [<i class="fa-brands fa-mastodon" aria-hidden="true"></i> Mastodon](https://mastodon.social/@relcfp)
 
 ## ACREL
 #acrel is a hashtag that stands for “the academic study of religion.” It was developed by religious studies scholars as a way of keeping track of the field (discipline ?) online. Thank you to [<i class="fa-brands fa-twitter" aria-hidden="true"></i> @burnidge](https://twitter.com/burnidge) for coining [<i class="fa-brands fa-twitter" aria-hidden="true"></i> #acrel](https://twitter.com/search?q=%23acrel&f=live "#acrel").
