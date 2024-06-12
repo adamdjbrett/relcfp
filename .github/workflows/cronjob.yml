@@ -59,11 +59,17 @@ jobs:
         run: |
           import xmltodict
           import json
+          def validate_json(json_string):
+            try:
+                json.loads(json_string)
+                return True
+            except ValueError as e:
+                print(f"Invalid JSON: {e}")
+                return False
           with open('feed.xml', 'r') as xml_file:
               xml_data = xml_file.read()
               xml_dict = xmltodict.parse(xml_data)
               json_data = json.dumps(xml_dict, indent=4)
-              print(json_data)
               with open('feed.json', 'w') as json_file:
                   json_file.write(json_data) 
       - name: Print result
