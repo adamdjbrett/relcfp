@@ -6,7 +6,10 @@ section_id: home
 <div class="container" style="margin: 0 auto 20px">
   {%- include recent-posts.html -%}
   <h2 style="text-align: center; margin-top: 50px;">Newest Calls for Papers</h2>
-    <script type="text/javascript">
+   {%- include fetcher.html -%} 
+  
+  <!-- 
+  <script type="text/javascript">
         function loadXMLDoc(dname) {
           xhttp = new XMLHttpRequest();
           xhttp.open("GET",dname,false);
@@ -27,6 +30,6 @@ section_id: home
    
         document.write(new XMLSerializer().serializeToString(theResult));  
      </script>
-
+-->
 </div>
 
