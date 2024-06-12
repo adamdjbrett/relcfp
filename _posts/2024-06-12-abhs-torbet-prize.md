@@ -28,17 +28,18 @@ This prize was established by ABHS in honor of Robert G. Torbet to encourage dev
 
 Entries should be sent to:  [ABHSoffice@ABHSarchives.org](mailto:ABHS@abhsarchives.org)\
 Subject:  Torbet Prize submission
-
+  
 **Deadline for Entries is September 1**
-
+ 
 *Please forward this announcement to others that might be interested in this opportunity.  Thank you.*
-
+  
 **Sponsored by the American Baptist Historical Society.**
-
+  
 *Winner is selected by the Research and Publication Committee of the ABHS Board of Managers.*
-
-
-#### Contact Us
+  
+  
+### Contact Us
+  
 - [www.ABHSarchives.org](https://abhsarchives.org/)
 - <ABHSoffice@ABHSarchives.org>
 -  1-678-547-6680 
