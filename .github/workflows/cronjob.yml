@@ -76,12 +76,9 @@ jobs:
               # Save JSON content as GitHub Action output
               with open('feed.json', 'w') as json_file:
                   json_file.write(json_data)
-                  print(f"::set-output name=json_content::{json_data}")
         
       - name: Print result
-        run: |
-          echo  '${{ steps.xml2json.outputs.output }}' > feed.json
-      - run: cat 'feed.json'
+        run: cat 'feed.json'
       # - name: Configure Git
       #   run: |
       #     git config --global user.name 'adamdjbrett'
