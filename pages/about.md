@@ -9,7 +9,7 @@ permalink: "/about/"
 RELCFP is a religious studies call for papers repository. [<i class="fa-solid fa-circle-info"  aria-hidden="true"></i> Submissions welcomed](/submission/). 
 
 ### Contact info
-  - [<i class="fa-solid fa-envelope" aria-hidden="true"></i>](mailto:contact@relcfp.com)
+  - [<i class="fa-solid fa-envelope" aria-hidden="true"></i> contact@relcfp.com](mailto:contact@relcfp.com)
   - [<i class="fa-brands fa-facebook" aria-hidden="true"></i> Facebook](https://www.facebook.com/relcfp)
   - [<i class="fa-brands fa-twitter" aria-hidden="true"></i> Twitter](https://twitter.com/relcfp)
   - [<i class="fa-brands fa-mastodon" aria-hidden="true"></i> Mastodon](https://mastodon.social/@relcfp)
