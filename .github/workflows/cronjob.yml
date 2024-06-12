@@ -35,48 +35,37 @@ jobs:
       # Runs a single command using the runners shell
       - name: Get RSS
         run: ./get_rss.sh
-      # - name: Add & Commit
-      #   uses: EndBug/add-and-commit@main
-      #   with:
-      #     add: feed.xml
+      - name: Add & Commit
+        uses: EndBug/add-and-commit@main
+        with:
+          add: feed.xml
       # - name: Use Github App
       #   uses: actions/create-github-app-token@v1
       #   id: generate-app-token
       #   with:
       #     app-id: ${{ vars.APP_ID }}
       #     private-key: ${{ secrets.APP_PRIVATE_KEY }}
-          
       - name: Set up Python
-        uses: actions/setup-python@v3
+        uses: actions/setup-python@v5
         with:
-          python-version: '3.x'
-
+          python-version: '3.11'
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
           pip install xmltodict
-
       - name: Data Format Converter Action
         shell: python
         id: xml2json
         run: |
           import xmltodict
           import json
-
-          def xml_to_json(xml_string):
-              xml_dict = xmltodict.parse(xml_string)
-              json_string = json.dumps(xml_dict, indent=4)
-              return json_string
-  
           with open('feed.xml', 'r') as xml_file:
               xml_data = xml_file.read()
-              json_data = xml_to_json(xml_data)
+              xml_dict = xmltodict.parse(xml_data)
+              json_data = json.dumps(xml_dict, indent=4)
               print(json_data)
-  
-              # Save JSON content as GitHub Action output
               with open('feed.json', 'w') as json_file:
-                  json_file.write(json_data)
-        
+                  json_file.write(json_data) 
       - name: Print result
         run: cat 'feed.json'
       # - name: Configure Git
