@@ -35,16 +35,16 @@ jobs:
       # Runs a single command using the runners shell
       - name: Get RSS
         run: ./get_rss.sh
-      - name: Add & Commit
-        uses: EndBug/add-and-commit@main
-        with:
-          add: feed.xml
-      - name: Use Github App
-        uses: actions/create-github-app-token@v1
-        id: generate-app-token
-        with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      # - name: Add & Commit
+      #   uses: EndBug/add-and-commit@main
+      #   with:
+      #     add: feed.xml
+      # - name: Use Github App
+      #   uses: actions/create-github-app-token@v1
+      #   id: generate-app-token
+      #   with:
+      #     app-id: ${{ vars.APP_ID }}
+      #     private-key: ${{ secrets.APP_PRIVATE_KEY }}
           
       - name: Set up Python
         uses: actions/setup-python@v3
@@ -82,20 +82,20 @@ jobs:
         run: |
           echo  '${{ steps.xml2json.outputs.output }}' > feed.json
       - run: cat 'feed.json'
-      - name: Configure Git
-        run: |
-          git config --global user.name 'adamdjbrett'
-          git config --global user.email '22662978+adamdjbrett@users.noreply.github.com'
-      - name: Commit and push changes
-        run: |
-          git add 'feed.json'
-          git commit -m 'Save output to file'
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  
-      - name: Deploy to Netlify
-        uses: lwojcik/github-action-deploy-static-site@v1
-        with:
-          platform: netlify
-          netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
-          always_deploy: true
+      # - name: Configure Git
+      #   run: |
+      #     git config --global user.name 'adamdjbrett'
+      #     git config --global user.email '22662978+adamdjbrett@users.noreply.github.com'
+      # - name: Commit and push changes
+      #   run: |
+      #     git add 'feed.json'
+      #     git commit -m 'Save output to file'
+      #     git push
+      #   env:
+      #     GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  
+      # - name: Deploy to Netlify
+      #   uses: lwojcik/github-action-deploy-static-site@v1
+      #   with:
+      #     platform: netlify
+      #     netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
+      #     always_deploy: true
