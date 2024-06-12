@@ -39,22 +39,6 @@ jobs:
         uses: EndBug/add-and-commit@main
         with:
           add: feed.xml
-      - name: relcfp-data-format-conv-action
-        uses: actions/create-github-app-token@v1.10.1
-        id: generate-app-token
-        with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
-      - name: Data Format Converter
-        uses: fabasoad/data-format-converter-action@v0.2.3
-        #id: xml2json
-        with:
-          input: "feed.xml"
-          from: "xml"
-          to: "json"
-          token: ${{ steps.generate-app-token.outputs.token }}
-      - name: Print result
-        run: echo "${{ steps.xml2json.outputs.output }}"    
       - name: Deploy to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
         with:
