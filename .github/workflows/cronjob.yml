@@ -39,6 +39,34 @@ jobs:
         uses: EndBug/add-and-commit@main
         with:
           add: feed.xml
+      - name: Use Github App
+        uses: actions/create-github-app-token@v1
+        id: generate-app-token
+        with:
+          app-id: ${{ vars.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+      - name: Data Format Converter Action
+        uses: fabasoad/data-format-converter-action@main
+        id: xml2json
+        with:
+          input: "feed.xml"
+          from: "xml"
+          to: "json"
+          token: ${{ steps.generate-app-token.outputs.token }}
+      - name: Print result
+        run: echo  '${{ steps.xml2json.outputs.output }}' > feed.json
+      - run: cat result.json
+      - name: Configure Git
+        run: |
+          git config --global user.name 'adamdjbrett'
+          git config --global user.email '22662978+adamdjbrett@users.noreply.github.com'
+      - name: Commit and push changes
+        run: |
+          git add feed.json
+          git commit -m "Save output to file"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  
       - name: Deploy to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
         with:
