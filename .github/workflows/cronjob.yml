@@ -73,7 +73,9 @@ jobs:
               with open('feed.json', 'w') as json_file:
                   json_file.write(json_data) 
       - name: Print result
-        run: cat 'feed.json'
+        run: echo '$RESULT' > feed.json
+        env:
+          RESULT: ${{ steps.xml2json.outputs.output }}
       - name: Configure Git
         run: |
           git config --global user.name 'adamdjbrett'
