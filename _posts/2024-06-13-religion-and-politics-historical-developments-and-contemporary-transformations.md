@@ -48,17 +48,17 @@ Dr. Christopher Weaver\
 Dr. Mark Brockway\
 *Guest Editors*
 
-Manuscript Submission Information
+## Manuscript Submission Information
 
 Manuscripts should be submitted online at [www.mdpi.com](https://www.mdpi.com/) by [registering](https://www.mdpi.com/user/register/) and [logging in to this website](https://www.mdpi.com/user/login/). Once you are registered, [click here to go to the submission form](https://susy.mdpi.com/user/manuscripts/upload/?journal=religions). Manuscripts can be submitted until the deadline. All submissions that pass pre-check are peer-reviewed. Accepted papers will be published continuously in the journal (as soon as accepted) and will be listed together on the special issue website. Research articles, review articles as well as short communications are invited. For planned papers, a title and short abstract (about 100 words) can be sent to the Editorial Office for announcement on this website.
 
 Submitted manuscripts should not have been published previously, nor be under consideration for publication elsewhere (except conference proceedings papers). All manuscripts are thoroughly refereed through a double-blind peer-review process. A guide for authors and other relevant information for submission of manuscripts is available on the [Instructions for Authors](https://www.mdpi.com/journal/religions/instructions) page. [*Religions*](https://www.mdpi.com/journal/religions/) is an international peer-reviewed open access monthly journal published by MDPI.
 
 Please visit the [Instructions for Authors](https://www.mdpi.com/journal/religions/instructions) page before submitting a manuscript. The [Article Processing Charge (APC)](https://www.mdpi.com/about/apc/) for publication in this [open access](https://www.mdpi.com/about/openaccess/) journal is 1800 CHF (Swiss Francs). Submitted papers should be well formatted and use good English. Authors may use MDPI's [English editing service](https://www.mdpi.com/authors/english) prior to publication or during author revisions.
-
+  
 Keywords
 --------
-
+  
 -   religion and politics
 -   secularism
 -   religious identities
@@ -67,10 +67,10 @@ Keywords
 -   nationalism
 -   culture wars
 -   religious demography
-
+  
 Published Papers
 ----------------
-
+  
 This special issue is now open for submission.
-
+  
 [Learn More](https://www.mdpi.com/journal/religions/special_issues/6SJ92EF75U)

@@ -89,9 +89,10 @@ The first page of the manuscript should contain:
 4.  An abstract of up to 300 words
 5.  A short bio for each author, up to 250 words
 6.  Three to seven keywords
-
+  
 Manuscripts should be between 5,000 and 15,000 words, excluding the bibliography. Articles will be peer-reviewed by the members of the organizing committee and external expert reviewers.
-
+  
 ### Style Guide for Contributors
-
+  
 Papers should follow the [APA7 style](https://apastyle.apa.org/).
+  
