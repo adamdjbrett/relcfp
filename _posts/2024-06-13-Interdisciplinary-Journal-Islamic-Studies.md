@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Call for Papers for the Interdisciplinary Journal of Islamic Studies (IJIS)"
 date: 2024-06-13 11:26:40
 image: "/assets/images/Respect-GS-binasi.jpg"
 paginate: true   

@@ -1,7 +1,7 @@
 ---
 title: "CFP: Rules, Regulations, and Deadlines for IAHR Congress"
 date: 2024-06-13 14:01:03
-image: "/assets/images/"
+image: "/assets/images/relcfp-cover.jpg"
 paginate: true   
 tags:
   - religion
