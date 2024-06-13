@@ -1,7 +1,7 @@
 ---
 title: ""
 date:
-image: "/assets/images/"
+image: /assets/images/
 paginate: true   
 tags:
   - 
