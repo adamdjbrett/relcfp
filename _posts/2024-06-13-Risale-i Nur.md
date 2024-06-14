@@ -54,35 +54,35 @@ Abstracts will be reviewed by the editorial Board and papers invited will be not
 All abstracts will be evaluated by The Conference Program Committee according to following criteria: relevance of abstract to conference theme; broad implications based on research & overall findings for the study of Nursi; and the overall scholarly quality of the abstract.
 
 Notification of acceptance or rejection will be provided by the last week of July 2024 after the Program Committee reviews all abstract submissions.
-
+  
 All those whose papers are accepted for presentation at the Conference will have their travel to and lodging expenses in Cleveland covered by the Conference sponsors. For more information please contact <info@risaleconference24.org>.
-
+  
 Schedule for Full Paper Submissions for the Conference Proceedings
 ------------------------------------------------------------------
-
+  
 ### Conference Proceedings
-
+  
 Full papers for Possible Inclusion in Conference Proceedings: Submit by December 31, 2024 (5,000-- 13,000 words, excluding bibliography).
-
+  
 ### Review
-
+  
 Papers will be reviewed by the Editors and classed as such: Accepted -- No Recommendations; Accepted -- See Recommendations; Conditional Acceptance -- See Recommendations; Not Accepted by March 31, 2025.
-
+  
 ### Revision
-
+  
 Authors to take peer review into account and resubmit articles. The outcome of the review (including any recommendations for revisions or improvements) will be communicated to the authors by May 31, 2025.
-
+  
 ### Final Papers
-
+  
 Any final amendments to papers are to be submitted by June 30, 2025.
-
+  
 Conference Proceedings Paper Submission Guidelines
 --------------------------------------------------
-
+  
 Full Papers for possible publication in the conference proceedings should be submitted in English only as MS Word documents via the paper submissions page on the conference website.
-
+  
 The first page of the manuscript should contain:
-
+  
 1.  The title
 2.  The name(s) and institutional affiliation(s) of the author(s)
 3.  The address, telephone, and e-mail address of the corresponding author

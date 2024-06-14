@@ -7,8 +7,9 @@ tags:
   - religion
   - art
 ---
-## **Equinox Publishing, UK and CrossCurrents (University of North Carolina Press).**
   
+## **Equinox Publishing, UK and CrossCurrents (University of North Carolina Press).**
+    
 S. Brent Rodriguez-Plate has pointed out that in understanding the relation of religion and art the artwork is often less important than the work of art---that is, the work that art does (*Religion and Contemporary Art: A Curious Accord*, Bernier and Smith, eds., Routledge, 2023, 424). There is a tendency endemic in art history and the study of art and religion to remain on the level of content, of analysis of the artwork, rather than of the work of art.
   
 In this light we are calling for papers on "Religion and the Work of Art" where the word "work" is meant in its specifically verbal sense: what art does and how it works, specifically in respect of religions. While consideration and analysis of artworks themselves is welcome, the further consideration of the work of art is the required focus of the volume. "Art" is intended in its widest possible sense including conceptual, performative, literary, plastic, audible, and visual arts. Affect Theory and Actor Network Theory are two possible approaches, however, considerations from perspectives as wide-ranging as neuroscience, cognitive science, paleoanthropology, and philosophy are welcome, as are articles on the work of art in specific faith traditions.
