@@ -1,7 +1,25 @@
 <!DOCTYPE html>
 <html>
 {% include head.html %}
-<style>.post__content h1,.post__content h2,.post__content h3,.post__content h4,.post__content h5{margin-top: 26px; }.post__content a{text-decoration:underline; color:#D44500}.post__content p {line-height: 1.8;}</style>
+<style>.post__content h1,
+    .post__content h2,
+    .post__content h3,
+    .post__content h4,
+    .post__content h5 {
+        margin-top: 26px;
+    }
+    
+    .post__content a {
+        text-decoration: underline;
+        color: #D44500
+    }
+    
+    .post__content p {
+        line-height: 1.8;
+        margin-bottom: 3; /* between paragraphs */
+    }
+    
+    </style>
 <body>
     {% include header.html %}
     {{content}}
