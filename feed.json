@@ -20,23 +20,7 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "[ June 17, 2024 - Today] Conference or similar: Between Past and Future: Existence, Embodiment, and Historicity",
-                "link": {
-                    "@href": "https://philevents.org/event/show/119166"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": null,
-                "id": "https://philevents.org/event/show/119166",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: UnknownNorwegian University of Science and Technology, Trondheim, Norway June 17\u201319, 2024 Confirmed keynote speakers: Charlotta Weigelt (S\u00f6dert\u00f6rn University), Jan Slaby (Freie Universit\u00e4t Berlin), Thomas Schwarz Wentzer (Aarhus..."
-                }
-            },
-            {
-                "title": "[Tomorrow] CFP for conference or similar: Foucault and the Frankfurt School",
+                "title": "[Today] CFP for conference or similar: Foucault and the Frankfurt School",
                 "link": {
                     "@href": "https://philevents.org/event/show/120622"
                 },
@@ -179,7 +163,23 @@
                 }
             },
             {
-                "title": "[Tomorrow - June 21, 2024] Conference or similar: Homo religiosus & homo technicus: discontinuities or congruencies?",
+                "title": "[ July 15, 2024] CFP for conference or similar: Experience and Non-Objects: Towards a Phenomenology of Indiscernibility",
+                "link": {
+                    "@href": "https://philevents.org/event/show/121286"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": null,
+                "id": "https://philevents.org/event/show/121286",
+                "content": {
+                    "@type": "html",
+                    "#text": "Exploratory workshop of the Society for the Phenomenology of Religious Experience October 28-30, 2024, at the Simon Silverman Phenomenology Center, Duquesne University, Pittsburg, Pennsylvania Confirmed Speakers: Michael Barber (St. Louis..."
+                }
+            },
+            {
+                "title": "[Today - Tomorrow] Conference or similar: Homo religiosus & homo technicus: discontinuities or congruencies?",
                 "link": {
                     "@href": "https://philevents.org/event/show/115298"
                 },
@@ -195,7 +195,7 @@
                 }
             },
             {
-                "title": "[ June 21, 2024] Conference or similar: 2024 Annual Meeting Canadian Society of Christian Philosophers",
+                "title": "[Tomorrow] Conference or similar: 2024 Annual Meeting Canadian Society of Christian Philosophers",
                 "link": {
                     "@href": "https://philevents.org/event/show/119086"
                 },
