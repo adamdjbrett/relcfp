@@ -20,22 +20,6 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "[Today] CFP for conference or similar: Foucault and the Frankfurt School",
-                "link": {
-                    "@href": "https://philevents.org/event/show/120622"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": null,
-                "id": "https://philevents.org/event/show/120622",
-                "content": {
-                    "@type": "html",
-                    "#text": "Updates: Extended deadline for full paper submissions: June 20th, 2024. Virtual presentation or participation: available. Foucault World Congress affiliation:"
-                }
-            },
-            {
                 "title": "[ June 27, 2024] Conference or similar: Exploring the Phenomena: The Many Faces of Early Phenomenology",
                 "link": {
                     "@href": "https://philevents.org/event/show/124126"
@@ -179,7 +163,23 @@
                 }
             },
             {
-                "title": "[Today - Tomorrow] Conference or similar: Homo religiosus & homo technicus: discontinuities or congruencies?",
+                "title": "[ July 16, 2024] CFP for conference or similar: 46th PHAVISMINDA International Conference",
+                "link": {
+                    "@href": "https://philevents.org/event/show/122422"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": null,
+                "id": "https://philevents.org/event/show/122422",
+                "content": {
+                    "@type": "html",
+                    "#text": "The intersectionality of Thomas Aquinas\u2019 and Michel Foucault\u2019s philosophy unveils intriguing parallels and divergences in understanding power, knowledge, and the human condition. Despite their philosophical disparities, both thinkers converge in..."
+                }
+            },
+            {
+                "title": "[Yesterday - Today] Conference or similar: Homo religiosus & homo technicus: discontinuities or congruencies?",
                 "link": {
                     "@href": "https://philevents.org/event/show/115298"
                 },
@@ -195,7 +195,7 @@
                 }
             },
             {
-                "title": "[Tomorrow] Conference or similar: 2024 Annual Meeting Canadian Society of Christian Philosophers",
+                "title": "[Today] Conference or similar: 2024 Annual Meeting Canadian Society of Christian Philosophers",
                 "link": {
                     "@href": "https://philevents.org/event/show/119086"
                 },
