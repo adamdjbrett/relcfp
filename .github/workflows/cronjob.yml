@@ -29,7 +29,15 @@ jobs:
       #         with:
       #           repository: adamdjbrett/relcfp
       #           token: ${{ secrets.RELCFPCHRONJOB }}
-
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install xmltodict
+          apt install openssl -y
       - name: Make executeable
         run: chmod +x ./get_rss.sh
       # Runs a single command using the runners shell
@@ -45,46 +53,19 @@ jobs:
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.11'
-      - name: Install dependencies
-        run: |
-          python -m pip install --upgrade pip
-          pip install xmltodict
-      - name: Data Format Converter Action
-        shell: python
-        id: xml2json
-        run: |
-          import xmltodict
-          import json
-          def validate_json(json_string):
-            try:
-                json.loads(json_string)
-                return True
-            except ValueError as e:
-                print(f"Invalid JSON: {e}")
-                return False
-          with open('feed.xml', 'r') as xml_file:
-              xml_data = xml_file.read()
-              xml_dict = xmltodict.parse(xml_data)
-              json_data = json.dumps(xml_dict, indent=4)
-              with open('feed.json', 'w') as json_file:
-                  json_file.write(json_data) 
       - name: Print result
-        run: cat 'feed.json'
+        run: cat _data/feed.json
       - name: Configure Git
         run: |
           git config --global user.name 'adamdjbrett'
           git config --global user.email '22662978+adamdjbrett@users.noreply.github.com'
       - name: Commit and push changes
         run: |
-          git add 'feed.json'
+          git add _data/feed.json
           git commit -m 'Save output to file'
           git push
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}  
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
       - name: Deploy to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
         with:
