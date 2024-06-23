@@ -41,31 +41,28 @@ jobs:
       - name: Get RSS
         id: check
         run: python get_rss.py
-      - name: Get RSS
-        run: |
-          echo "Content changed: ${{ steps.check.outputs.content_changed }}"
       - name: Add & Commit
-        if: steps.check.outputs.content_changed
+        if: steps.check.outputs.content_changed == true
         uses: EndBug/add-and-commit@main
         with:
           add: feed.xml
       - name: Use Github App
         uses: actions/create-github-app-token@v1
-        if: steps.check.outputs.content_changed
+        if: steps.check.outputs.content_changed == true
         id: generate-app-token
         with:
           app-id: ${{ vars.APP_ID }}
           private-key: ${{ secrets.APP_PRIVATE_KEY }}
       - name: Print result
-        if: steps.check.outputs.content_changed
+        if: steps.check.outputs.content_changed == true
         run: cat _data/feed.json
       - name: Configure Git
-        if: steps.check.outputs.content_changed
+        if: steps.check.outputs.content_changed == true
         run: |
           git config --global user.name 'adamdjbrett'
           git config --global user.email '22662978+adamdjbrett@users.noreply.github.com'
       - name: Commit and push changes
-        if: steps.check.outputs.content_changed
+        if: steps.check.outputs.content_changed == true
         run: |
           git add _data/feed.json
           git commit -m 'Save output to file'
@@ -74,7 +71,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
       - name: Deploy to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
-        if: steps.check.outputs.content_changed
+        if: steps.check.outputs.content_changed == true
         with:
           platform: netlify
           netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
