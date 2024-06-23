@@ -92,13 +92,12 @@ def main():
         print("Files are identical")
         os.remove(OLD_XML_FILE)
         # Comment below line if running locally
-        sys.stdout.write(f"::set-output name=content_changed::false\n")
-
+        os.system(f'echo "content_changed=false" >> "$GITHUB_OUTPUT"')
     else:
         print("Files are different")
         os.remove(OLD_XML_FILE)
         # Comment below line if running locally
-        sys.stdout.write(f"::set-output name=content_changed::true\n")
+        os.system(f'echo "content_changed=true" >> "$GITHUB_OUTPUT"')
         if convert_xml_to_json(XML_FILE, JSON_FILE):
             # Validate JSON
             with open(JSON_FILE, "r") as json_file:
