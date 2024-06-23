@@ -82,13 +82,13 @@ def main():
         print("Files are identical")
         os.remove(OLD_XML_FILE)
         # Comment below line if running locally
-        sys.stdout.write(f"::set-output name=DIFFERENT_FILES::false\n")
+        sys.stdout.write(f"::set-output name=content_changed::false\n")
 
     else:
         print("Files are different")
         os.remove(OLD_XML_FILE)
         # Comment below line if running locally
-        sys.stdout.write(f"::set-output name=DIFFERENT_FILES::true\n")
+        sys.stdout.write(f"::set-output name=content_changed::true\n")
         if convert_xml_to_json(XML_FILE, JSON_FILE):
             # Validate JSON
             with open(JSON_FILE, "r") as json_file:
