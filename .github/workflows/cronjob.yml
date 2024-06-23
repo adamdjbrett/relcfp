@@ -36,13 +36,10 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install xmltodict
-          sudo apt update && sudo apt install openssl -y
-      - name: Make executeable
-        run: chmod +x ./get_rss.sh
+          pip install xmltodict requests
       # Runs a single command using the runners shell
       - name: Get RSS
-        run: ./get_rss.sh
+        run: python get_rss.py
       - name: Add & Commit
         uses: EndBug/add-and-commit@main
         with:
