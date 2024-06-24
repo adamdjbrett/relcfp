@@ -41,6 +41,7 @@ jobs:
       - name: Get RSS
         id: check
         run: python get_rss.py
+      - run: echo ${{ steps.check.outputs.content_changed }}
       - name: Add & Commit
         if: steps.check.outputs.content_changed == true
         uses: EndBug/add-and-commit@main
