@@ -5,7 +5,7 @@ import re
 import requests
 import xmltodict
 import sys
-from datetime import datetime
+import datetime
 
 XML_FILE = "feed.xml"
 JSON_FILE = "_data/feed.json"
@@ -55,12 +55,22 @@ def convert_xml_to_json(xml_file_path, json_file_path):
         return False
 
 
-def update_null_to_current_date(feed_data):
+def update_null_to_current_date(json_data):
     """Update 'null' values in feed data to current date."""
-    current_date = datetime.utcnow().isoformat()
+    # Parse JSON data
+    feed_data = json.loads(json_data)
+
+    current_date = datetime.datetime.now(datetime.UTC).isoformat()
+    # Update "feed" level "updated" field
+    # if feed_data["feed"]["updated"] is None:
+    #     feed_data["feed"]["updated"] = current_date
+
+    # Update "entry" level "updated" fields
     for entry in feed_data["feed"]["entry"]:
         if entry["updated"] is None:
             entry["updated"] = current_date
+
+    # Return the updated JSON data as a string
     return feed_data
 
 
@@ -102,11 +112,8 @@ def main():
             # Validate JSON
             with open(JSON_FILE, "r") as json_file:
                 json_data = json_file.read()
-                if validate_json(json_data):
-                    print("JSON is valid")
-                    updated_json_data = update_null_to_current_date(json_data)
-                else:
-                    print("JSON is invalid")
+            if validate_json(json_data):
+                updated_json_data = update_null_to_current_date(json_data)
             with open(JSON_FILE, "w") as json_file:
                 json.dump(updated_json_data, json_file, indent=4)
         else:
