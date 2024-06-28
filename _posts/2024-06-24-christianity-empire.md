@@ -6,6 +6,8 @@ tags:
   - religion
   - Christianity
   - empire
+redirect_from:
+  - /2024/06/28/2024-06-28-religious-discourse-legislation/
 ---
 ## Call for Papers: Special Series on Christianity and Empire
 
