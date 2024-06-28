@@ -1,11 +1,11 @@
 ---
 title: "Call for Abstracts: Special Issue of the Journal of Communication and Religion, "Religious Discourse in Legislative Spaces"
-image: /assets/images/relcfp-cover.jpg
-paginate: true   
+image: /assets/images/inaki-del-olmo-NIJuEQw0RKg-unsplash.jpg
 tags:
   - religion
   - communication
   - rehtoric
+paginate: true   
 ---
 
 Call for Abstracts: Special Issue of the Journal of Communication and Religion, "Religious Discourse in Legislative Spaces"
@@ -48,3 +48,7 @@ Studies from all methodological approaches are welcome. Article formatting and c
 
 ## Questions
 Questions can be directed to Andrea Terry (<andrea.terry@csus.edu>) or Lionnell (Badu) Smith (<lsmith1914@sfsu.edu>).
+
+## Image Attribution
+Photo by <a href="https://unsplash.com/@inakihxz?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Iñaki del Olmo</a> on <a href="https://unsplash.com/photos/assorted-title-of-books-piled-in-the-shelves-NIJuEQw0RKg?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
