@@ -1,6 +1,6 @@
 ---
 title: "Call for Abstracts: Special Issue of the Journal of Communication and Religion, "Religious Discourse in Legislative Spaces"
-image: "/assets/images/relcfp-cover.jpg"
+image: /assets/images/relcfp-cover.jpg
 paginate: true   
 tags:
   - religion
@@ -14,9 +14,7 @@ Call for Abstracts: Special Issue of the Journal of Communication and Religion,
 Andrea Terry, <andrea.terry@csus.edu> and Lionnell (Badu) Smith, <lsmith1914@sfsu.edu>
 
 ### Guest Editors:
-
 - Andrea Terry, Assistant Professor of Rhetoric, CSU Sacramento
-
 - Lionnell (Badu) Smith, Assistant Professor, San Francisco State University
 
 ## Rationale:
