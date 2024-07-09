@@ -1,6 +1,6 @@
 ---
 title: "CFP: Southeastern Renaissance Conference"
-date: 2024-07-09 09:11:03
+date: 2024-07-09 08:11:03
 image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
