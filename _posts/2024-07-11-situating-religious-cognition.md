@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "CFP: Situating Religious Cognition"
 image: /assets/images/religions-logo-social.webp
 tags:
   - religion
