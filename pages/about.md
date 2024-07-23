@@ -28,12 +28,14 @@ RELCFP is a religious studies call for papers repository. [<i class="fa-solid fa
 
 
 ## Other CFP Sites
- [<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> The Religious Studies Project Digest](https://www.religiousstudiesproject.com/digest/)
+[<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> The Religious Studies Project Digest](https://www.religiousstudiesproject.com/digest/)
 
- [<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> Society for Phenomenology and Existential Philosophy](http://www.spep.org/resources)
+[<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> Call for Papers List](https://www.cfplist.com/)
 
- [<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> Southwest Commission on Religious Studies](http://www.swcrs-online.org/swcrs-conference/call-for-papers/)
+[<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> Society for Phenomenology and Existential Philosophy](http://www.spep.org/resources)
 
- [<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> wikiCFP](http://www.wikicfp.com/cfp/)
+[<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> Southwest Commission on Religious Studies](http://www.swcrs-online.org/swcrs-conference/call-for-papers/)
 
- [<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> UPenn CFP](http://call-for-papers.sas.upenn.edu/category/religion)
+[<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> wikiCFP](http://www.wikicfp.com/cfp/)
+
+[<i class="fa-solid fa-arrow-up-right-from-square" aria-hidden="true"></i> UPenn CFP](http://call-for-papers.sas.upenn.edu/category/religion)
