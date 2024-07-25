@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-07-24T09:00:00.000Z",
+        "updated": "2024-05-17T12:18:59.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,19 +20,19 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "Religious Studies Project Opportunities Digest \u2013 July 24, 2024",
+                "title": "BASR Bulletin 144: May 2024",
                 "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-july-24-2024/"
+                    "@href": "https://basr.ac.uk/2024/05/17/basr-bulletin-144-may-2024/"
                 },
                 "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
                 },
-                "updated": "2024-07-24T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-july-24-2024/",
+                "updated": "2024-05-17T12:18:59.000Z",
+                "id": "https://basr.ac.uk/2024/05/17/basr-bulletin-144-may-2024/",
                 "content": {
                     "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 26 new job opportunities, 5 fellowships, 1 award, 4 call for papers, 4 conferences/speakers, and 1 other opportunity. Everyone at RSP says thank you to all who..."
+                    "#text": "bulletin-144-minDownload"
                 }
             },
             {
@@ -81,6 +81,38 @@
                 "content": {
                     "@type": "html",
                     "#text": "Date: August 3, 2024 Location: Old Divinity School, St John\u2019s College \u2013 Cambridge, UK 2024 represents 350 years since Isaac Watts, the dissenting minister, hymnist, and logician, was born. During his lifetime and beyond, Watts garnered a reputation..."
+                }
+            },
+            {
+                "title": "BASR 2024 Conference: Call for Papers",
+                "link": {
+                    "@href": "https://basr.ac.uk/2024/03/19/basr-2024-conference-call-for-papers/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2024-03-19T14:11:23.000Z",
+                "id": "https://basr.ac.uk/2024/03/19/basr-2024-conference-call-for-papers/",
+                "content": {
+                    "@type": "html",
+                    "#text": "REGISTRATION OPEN: CLICK HERE British Association for the Study of Religions Annual Conference September 2-4, 2024 Reckoning with the Past University of Leeds Sponsored by the CenSAMM and the Hibbert Trust The academic study of religion, with..."
+                }
+            },
+            {
+                "title": "Call for Expressions of Interest: Academics and Artists addressing Societal Challenges",
+                "link": {
+                    "@href": "https://basr.ac.uk/2024/03/17/call-for-expressions-of-interest-academics-and-artists-addressing-societal-challenges/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2024-03-17T22:58:10.000Z",
+                "id": "https://basr.ac.uk/2024/03/17/call-for-expressions-of-interest-academics-and-artists-addressing-societal-challenges/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Are you an academic passionate about bringing you research to new audiences? Or are you an artist passionate about using your work for social change? Supported by the Open Societal Challenges Fund and the British Association for the Study of..."
                 }
             },
             {
@@ -148,6 +180,22 @@
                 }
             },
             {
+                "title": "BASR Annual Conference 2024",
+                "link": {
+                    "@href": "https://basr.ac.uk/2024/01/11/basr-annual-conference-2024-2/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2024-01-11T16:33:25.000Z",
+                "id": "https://basr.ac.uk/2024/01/11/basr-annual-conference-2024-2/",
+                "content": {
+                    "@type": "html",
+                    "#text": "REGISTRATION OPEN: CLICK HERE British Association for the Study of Religions Annual Conference September 2-4, 2024 Reckoning with the Past University of Leeds Sponsored by the CenSAMM and the Hibbert Trust The academic study of religion, with..."
+                }
+            },
+            {
                 "title": "PhD Completion Fellowship \u2013 University of Oslo",
                 "link": {
                     "@href": "https://churchhistory.org/phd-completion-fellowship-university-of-oslo/"
@@ -161,6 +209,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "Application Deadline: January 31, 2024 Two positions as Doctoral Research Fellows (SKO 1017) in area studies are available in the Department of Literature, Area studies and European languages, University of Oslo. The department has a special focus..."
+                }
+            },
+            {
+                "title": "BASR Bulletin 2023 | November 2023",
+                "link": {
+                    "@href": "https://basr.ac.uk/2023/11/27/basr-bulletin-2023-november-2023/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2023-11-27T16:34:45.000Z",
+                "id": "https://basr.ac.uk/2023/11/27/basr-bulletin-2023-november-2023/",
+                "content": {
+                    "@type": "html",
+                    "#text": "bulletin-143-minDownload"
                 }
             },
             {
@@ -196,6 +260,86 @@
                 }
             },
             {
+                "title": "BASR Bulletin 142 | May 2023",
+                "link": {
+                    "@href": "https://basr.ac.uk/2023/05/16/basr-bulletin-142-may-2023/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2023-05-16T15:29:46.000Z",
+                "id": "https://basr.ac.uk/2023/05/16/basr-bulletin-142-may-2023/",
+                "content": {
+                    "@type": "html",
+                    "#text": "BULLETIN 142-minDownload"
+                }
+            },
+            {
+                "title": "BASR Annual Conference 2023",
+                "link": {
+                    "@href": "https://basr.ac.uk/2023/03/03/basr-annual-conference-2023/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2023-03-03T10:41:20.000Z",
+                "id": "https://basr.ac.uk/2023/03/03/basr-annual-conference-2023/",
+                "content": {
+                    "@type": "html",
+                    "#text": "BASR Annual Conference 2023 In collaboration with CenSAMM Clare College, Cambridge 11 \u2013 13 September 2023 \u201cEnvironmental Endings and Religious Futures\u201d Keynote Speakers: Professor Catherine Wessinger, Professor of the History of Religions, Loyola..."
+                }
+            },
+            {
+                "title": "BASR Bulletin 141 | November 2022",
+                "link": {
+                    "@href": "https://basr.ac.uk/2022/11/14/basr-bulletin-141-november-2022/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2022-11-14T18:09:53.000Z",
+                "id": "https://basr.ac.uk/2022/11/14/basr-bulletin-141-november-2022/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Click here to view PDF Archive of previous issues"
+                }
+            },
+            {
+                "title": "BASR/SST Response to Philosophy and Religion Suspension at the University of Wolverhampton",
+                "link": {
+                    "@href": "https://basr.ac.uk/2022/09/12/basr-sst-response-to-philosophy-and-religion-suspension-at-the-university-of-wolverhampton/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2022-09-12T15:48:32.000Z",
+                "id": "https://basr.ac.uk/2022/09/12/basr-sst-response-to-philosophy-and-religion-suspension-at-the-university-of-wolverhampton/",
+                "content": {
+                    "@type": "html",
+                    "#text": "In response to the University of Wolverhampton\u2019s plans to suspend courses in the Humanities (including Philosophy and Religion), the BASR and SST (Society for the Study of Theology) has published the following letter: We stand in support of our..."
+                }
+            },
+            {
+                "title": "Registration Now Open \u2013 BASR Annual Conference 2022",
+                "link": {
+                    "@href": "https://basr.ac.uk/2022/07/19/registration-now-open-basr-annual-conference-2022/"
+                },
+                "author": {
+                    "name": "The British Association for the Study of Religion",
+                    "uri": "https://basr.ac.uk/"
+                },
+                "updated": "2022-07-19T17:28:45.000Z",
+                "id": "https://basr.ac.uk/2022/07/19/registration-now-open-basr-annual-conference-2022/",
+                "content": {
+                    "@type": "html",
+                    "#text": "BASR 2022 Conference Booking is now open for the first in-person BASR conference since the beginning of the pandemic (with hybrid options)! The conference is taking place from 30 August to 1 September at The Open University, Milton Keynes. See here..."
+                }
+            },
+            {
                 "title": "[Today - July 27, 2024] Conference or similar: 29th Conference of the Friedrich Nietzsche Society",
                 "link": {
                     "@href": "https://philevents.org/event/show/116609"
@@ -204,7 +348,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/116609",
                 "content": {
                     "@type": "html",
@@ -220,7 +364,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/121730",
                 "content": {
                     "@type": "html",
@@ -236,7 +380,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/121782",
                 "content": {
                     "@type": "html",
@@ -252,7 +396,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/122846",
                 "content": {
                     "@type": "html",
@@ -268,7 +412,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/122678",
                 "content": {
                     "@type": "html",
@@ -284,7 +428,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/124574",
                 "content": {
                     "@type": "html",
@@ -300,7 +444,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/123450",
                 "content": {
                     "@type": "html",
@@ -316,7 +460,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/120374",
                 "content": {
                     "@type": "html",
@@ -332,7 +476,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/116398",
                 "content": {
                     "@type": "html",
@@ -348,7 +492,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/120510",
                 "content": {
                     "@type": "html",
@@ -364,7 +508,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/121690",
                 "content": {
                     "@type": "html",
@@ -380,7 +524,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/125386",
                 "content": {
                     "@type": "html",
@@ -396,7 +540,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/124454",
                 "content": {
                     "@type": "html",
@@ -412,7 +556,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/120478",
                 "content": {
                     "@type": "html",
@@ -428,7 +572,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/123422",
                 "content": {
                     "@type": "html",
@@ -444,7 +588,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/119442",
                 "content": {
                     "@type": "html",
@@ -460,7 +604,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/120486",
                 "content": {
                     "@type": "html",
@@ -476,7 +620,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/124290",
                 "content": {
                     "@type": "html",
@@ -492,7 +636,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/123254",
                 "content": {
                     "@type": "html",
@@ -508,11 +652,27 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "https://philevents.org/event/show/124058",
                 "content": {
                     "@type": "html",
                     "#text": "Venue: Krakowskie Przedmie\u015bcie 3New Generation Research Exchange Call for Applications Summary The Ian Ramsey Centre for Science and Religion, University of Oxford, the Faculty of Philosophy, Universities of Warsaw, and the Humane Philosophy..."
+                }
+            },
+            {
+                "title": "Religious Studies Project Opportunities Digest \u2013 July 24, 2024",
+                "link": {
+                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-july-24-2024/"
+                },
+                "author": {
+                    "name": "Digests Archive - The Religious Studies Project",
+                    "uri": "https://www.religiousstudiesproject.com/"
+                },
+                "updated": "2024-07-24T09:00:00.000Z",
+                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-july-24-2024/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 26 new job opportunities, 5 fellowships, 1 award, 4 call for papers, 4 conferences/speakers, and 1 other opportunity. Everyone at RSP says thank you to all who..."
                 }
             },
             {
@@ -577,6 +737,38 @@
                 "content": {
                     "@type": "html",
                     "#text": "CALL FOR PAPERS"
+                }
+            },
+            {
+                "title": "Hell on Earth: Discharge and the Need for Lament in a Time of War",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/07/22/hell-on-earth-discharge-and-the-need-for-lament-in-a-time-of-war/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-07-22T16:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2024/07/22/hell-on-earth-discharge-and-the-need-for-lament-in-a-time-of-war/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Jack Holloway On March 16, 1968, soldiers of the US Army entered the My Lai hamlet in the village of Son My in central Vietnam and systematically attacked and killed hundreds of noncombatant Vietnamese. The Army\u2019s report stated \u201cat least 175\u201d..."
+                }
+            },
+            {
+                "title": "Call for Papers: G.I. Joe, Theology, and Co-bra!",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/07/19/call-for-papers-g-i-joe-theology-and-co-bra/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-07-19T19:10:51.000Z",
+                "id": "https://popularcultureandtheology.com/2024/07/19/call-for-papers-g-i-joe-theology-and-co-bra/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers G.I. Joe, Theology, and Co-bra! Knowing (and Believing) is Half the Battle Series: Theology, Religion, and Pop Culture Editor: Dr Peter Admirand, Dublin City University G.I. Joe is celebrating its 60th year in 2024 with the success..."
                 }
             },
             {
@@ -996,6 +1188,134 @@
                 }
             },
             {
+                "title": "CFP: Routledge Companion to Superhero Studies (Final Call)",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/04/22/cfp-routledge-companion-to-superhero-studies-final-call/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-04-22T22:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2024/04/22/cfp-routledge-companion-to-superhero-studies-final-call/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Routledge Companion to Superhero Studies [Final Call] Deadline for abstract submissions: 24th May 2024 Editors: Lorna Farnell and Carl Wilson The editors have already commissioned a substantial number of chapters for The Routledge Companion to..."
+                }
+            },
+            {
+                "title": "Brandi Carlile\u2019s Theology of Belonging",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/04/22/brandi-carliles-theology-of-belonging/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-04-22T16:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2024/04/22/brandi-carliles-theology-of-belonging/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Beth Alford \u201cI want to be a musical preacher for the rest of my life.\u201d This seemingly throwaway comment by singer/songwriter Brandi Carlile has proven to be prophetic, and sums up how the award-winning artist uses her art to loudly proclaim her..."
+                }
+            },
+            {
+                "title": "Comics and Culture Journal Call for Papers!",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/04/21/comics-and-culture-journal-call-for-papers/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-04-21T23:15:52.000Z",
+                "id": "https://popularcultureandtheology.com/2024/04/21/comics-and-culture-journal-call-for-papers/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers 2024! Comics! Comics Movies! Comics History! Comics Fandom! Comics Art! The eight volume of the Pace University Journal of Comics and Culture is inviting authors, scholars, cartoonists, and comics creators to submit essays on..."
+                }
+            },
+            {
+                "title": "The Siren\u2019s Soul: Dystopia, AI, and Ready Player Two",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/03/18/the-sirens-soul-dystopia-ai-and-ready-player-two/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-03-18T16:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2024/03/18/the-sirens-soul-dystopia-ai-and-ready-player-two/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Scott Donahue-Martens With the paperback release of Theology, Religion, and Dystopia in February 2024, I thought it was time to revisit the content in light of recent societal developments. On the one hand, it is incredible how much can change..."
+                }
+            },
+            {
+                "title": "Call for Papers: Theology, Religion, & Warhammer 40,000",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/03/12/call-for-papers-theology-religion-warhammer-40000/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-03-13T02:47:02.000Z",
+                "id": "https://popularcultureandtheology.com/2024/03/12/call-for-papers-theology-religion-warhammer-40000/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Scott Harrower and Christopher Porter (eds) In the grim darkness of the far future, there is only war\u2026 and religion. Lots and lots of religion. The world of Warhammer 40,000 presents a darkly nihilistic picture of the far future in perhaps one of..."
+                }
+            },
+            {
+                "title": "Valentine\u2019s Day Special Post! The Radical Liberal \u201cWoke\u201d Agenda of the 1980s Porky\u2019s Franchise",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/02/14/valentines-day-special-post-the-radical-liberal-woke-agenda-of-the-1980s-porkys-franchise/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-02-14T18:46:50.000Z",
+                "id": "https://popularcultureandtheology.com/2024/02/14/valentines-day-special-post-the-radical-liberal-woke-agenda-of-the-1980s-porkys-franchise/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By David K. Goodin Yes, you read that right. Yes, I am serious. Stop laughing. Well, let me backtrack my thesis even before it is presented. The sexual (let us say for the moment) hijinks of this infamous \u201cboner comedy\u201d are beyond the realm of..."
+                }
+            },
+            {
+                "title": "2023: Top Five Posts",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/01/22/2023-top-five-posts/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-01-22T17:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2024/01/22/2023-top-five-posts/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Every year, we post links to the top five original posts for the year (check out our lists from previous years: 2017, 2018, 2020, 2021, 2022). Blogs from previous years and calls for papers certainly get a lot of views, but this list focuses..."
+                }
+            },
+            {
+                "title": "Call for Papers: Metaphysics and the DC Universe",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/01/19/call-for-papers-metaphysics-and-the-dc-universe/"
+                },
+                "author": {
+                    "name": "Pop Culutre & Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-01-19T23:07:59.000Z",
+                "id": "https://popularcultureandtheology.com/2024/01/19/call-for-papers-metaphysics-and-the-dc-universe/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Metaphysics and the DC Universe Editor: Matthew Brake The universe of DC Comics has existed for 85 years. During that time, numerous writers, artists, and editors have expanded and added to the lore of the DC universe. In doing so, a complex..."
+                }
+            },
+            {
                 "title": "Dialogo_AIVCD 2024 : Novelty vs Heritage: Navigating the Tapestry of Human Evolution",
                 "link": {
                     "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583"
@@ -1004,7 +1324,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583",
                 "content": {
                     "@type": "html",
@@ -1020,7 +1340,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181293%C2%A9ownerid%3D187980",
                 "content": {
                     "@type": "html",
@@ -1036,7 +1356,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181173%C2%A9ownerid%3D31491",
                 "content": {
                     "@type": "html",
@@ -1052,7 +1372,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180633%C2%A9ownerid%3D173363",
                 "content": {
                     "@type": "html",
@@ -1068,7 +1388,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180431%C2%A9ownerid%3D173363",
                 "content": {
                     "@type": "html",
@@ -1084,7 +1404,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180298%C2%A9ownerid%3D13881",
                 "content": {
                     "@type": "html",
@@ -1100,7 +1420,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180280%C2%A9ownerid%3D186984",
                 "content": {
                     "@type": "html",
@@ -1116,7 +1436,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180129%C2%A9ownerid%3D186800",
                 "content": {
                     "@type": "html",
@@ -1132,7 +1452,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179676%C2%A9ownerid%3D186400",
                 "content": {
                     "@type": "html",
@@ -1148,7 +1468,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179675%C2%A9ownerid%3D186400",
                 "content": {
                     "@type": "html",
@@ -1164,7 +1484,7 @@
                     "name": null,
                     "uri": null
                 },
-                "updated": "2024-07-25T12:05:41.751851+00:00",
+                "updated": "2024-07-25T14:40:35.338486+00:00",
                 "id": null,
                 "content": {
                     "@type": "html"
