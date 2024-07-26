@@ -1,0 +1,20 @@
+---
+layout: default
+section_id: home
+---
+
+<div class="container" style="margin: 0 auto 20px">
+  {%- include recent-posts.html -%}
+  <h2 style="text-align: center; margin-top: 50px;">Newest Calls for Papers</h2>
+
+  <style>entry,main{padding-bottom:10px;margin-left:auto;margin-right:auto;max-width:1200px;display:grid}p{margin-block-start:0.5em;margin-block-end:0.5em;font-size:1rem}h2,title{margin-block-start:0.1em;margin-block-end:0.1em;font-size:1.4rem}.feed{display:grid;gap:20px}@media (min-width:1024px){.feed{grid-template-columns:1fr 1fr}}.feed_card{position:relative;display:grid;padding:10px;border:1px solid #012044;border-radius:5px;box-shadow:2px 4px 16px #ddd}.feed_card_inner::after{content:"";background-image:linear-gradient(to bottom,transparent,transparent 60%,#fff 100%);position:absolute;bottom:0;border-radius:8px;left:0;right:0;height:50%;width:100%}.feed_card:hover{transform:scale(1.01);box-shadow:2px 3px 3px #bb45302d}.feed_card_inner{height:350px;overflow-y:hidden;word-break:break-word;display:grid;gap:10px;align-content:start}.feed_description{font-family:Montserrat;font-size:.8rem;line-height:1.1}small{font-size:.9rem;font-family:Montserrat}@media (min-width:550px){main{padding:0 10px 10px}.feed{gap:30px}.feed_card_inner{height:500px}.feed_description{font-size:1.15rem}small{font-size:.9rem}}</style>
+
+<main class='feed'>
+{% for js in site.data.feed.entry %}
+<h1>{{js.title}}</h1>
+<p><a href="{{js.link}}">{{js.link}}</a></p>
+<p>{{js.content}}</p>
+{% endfor %}
+</main>
+
+</div>
