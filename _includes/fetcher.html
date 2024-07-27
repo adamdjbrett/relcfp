@@ -24,7 +24,7 @@ function myFunction(xml) {
   main = " ";
   x = xmlDoc.getElementsByTagName("entry")
   for (i = 0; i < x.length; i++) { 
-    main += "<div class='feed-card col-md-6' style='padding:26px;border:1px solid #012044;border-radius:8px;box-shadow:2px 4px 16px #ddd'><h3><a href='" + 
+    main += "<div class='col-md-6 p-3'><div class='feed-card' style='padding:26px;border:1px solid #012044;border-radius:8px;box-shadow:2px 4px 16px #ddd'><h3><a href='" + 
     x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue +
     "'>" +
     x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +
@@ -43,7 +43,7 @@ function myFunction(xml) {
     x[i].getElementsByTagName("uri")[0].childNodes[0].nodeValue +
     "'>" +
     x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue +
-    "</a></p></div>"
+    "</a></p></div></div>"
   }
   document.getElementById("demo").innerHTML = main;
 }
