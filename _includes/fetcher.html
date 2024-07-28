@@ -24,24 +24,24 @@ function myFunction(xml) {
   x = xmlDoc.getElementsByTagName("entry")
   for (i = 0; i < x.length; i++) { 
     main += "<div class='feed-card' style='padding:26px;border:1px solid #012044;border-radius:8px;box-shadow:2px 4px 16px #ddd'><h3><a href='" + 
-    x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("id")[0].children[0].nodeValue +
     "'>" +
-    x[i].getElementsByTagName("title")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("title")[0].children[0].nodeValue +
     "</a></h3>" +
 //   This section can't be fetch - mayb from the output format from sitemap
     "<p>URL: <a href='" +
-    x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("id")[0].children[0].nodeValue +
     "'>" +
-    x[i].getElementsByTagName("id")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("id")[0].children[0].nodeValue +
     "</a></p><p>" +
-    x[i].getElementsByTagName("content")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("content")[0].children[0].nodeValue +
     "</p>" +
      
 //   This section can't be fetch - mayb from the output format from sitemap
     "</p>Author: <a href='" +
-    x[i].getElementsByTagName("uri")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("uri")[0].children[0].nodeValue +
     "'>" +
-    x[i].getElementsByTagName("name")[0].childNodes[0].nodeValue +
+    x[i].getElementsByTagName("name")[0].children[0].nodeValue +
     "</a></p></div>"
   }
   document.getElementById("demo").innerHTML = main;
