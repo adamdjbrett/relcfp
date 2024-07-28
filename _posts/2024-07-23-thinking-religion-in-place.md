@@ -1,5 +1,5 @@
 ---
-title: "CFP:  49th Annual Conference of the  Australian Association for the Study of Religion: Thinking Religion in Place"
+title: "CFP: 49th Annual Conference of the Australian Association for the Study of Religion: Thinking Religion in Place"
 image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
