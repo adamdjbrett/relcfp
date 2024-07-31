@@ -18,9 +18,9 @@ permalink: /index2/
         var theXSL = loadXMLDoc('feed.xsl');
    
         // prepare the processor
-        processor.importStylesheet(theXSL);
+        processor.importStylesheet(feed.xsl);
    
-        var theResult = processor.transformToDocument(theXML);
+        var theResult = processor.transformToDocument(feed.xml);
         // now you have a DomDocument with the result
         // if you want to serialize (transform to a string) it you van use
    
