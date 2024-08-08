@@ -82,6 +82,12 @@ def main():
     # Download new feed.xml
     url = "https://input.relcfp.com/feed.xml"
     response = requests.get(url)
+    
+    # Check if the response is null or empty
+    if response is None or not response.text.strip():
+        print("Response is null or empty. Skipping processing.")
+        return  # Exit early if the response is null or empty
+        
     if response.status_code == 200:
         with open(XML_FILE, "w") as file:
             file.write(response.text)
