@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-08-08T17:30:15.000Z",
+        "updated": "2024-08-14T09:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Religious Studies Project Opportunities Digest \u2013 August 14, 2024",
+                "link": {
+                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-august-14-2024/"
+                },
+                "author": {
+                    "name": "Digests Archive - The Religious Studies Project",
+                    "uri": "https://www.religiousstudiesproject.com/"
+                },
+                "updated": "2024-08-14T09:00:00.000Z",
+                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-august-14-2024/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 36 new job opportunities, 5 fellowships, 3 grants, 4 call for papers, 2 conferences/speakers, and 1 other opportunity. Everyone at RSP says thank you to all who..."
+                }
+            },
             {
                 "title": "CFP Rethinking \u2018self\u2019 and \u2018community\u2019: Early Modern Identities in Times of Changes",
                 "link": {
@@ -320,7 +336,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/08/05/25-years-of-mh-equity-justice-and-the-futures-of-medical-humanities",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, August 8, 2024 - 12:12pmfull name / name of organization: Medical Humanities (BMJ)contact email: brandy@bschillace.comcategories (up to 5): cultural studies and historical approachesgender studies and sexualitygeneral..."
+                    "#text": "updated: Tuesday, August 13, 2024 - 2:34pmfull name / name of organization: Medical Humanities (BMJ)contact email: brandy@bschillace.comcategories (up to 5): cultural studies and historical approachesgender studies and sexualitygeneral..."
                 }
             },
             {
@@ -336,7 +352,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/08/05/25-years-of-mh-equity-justice-and-the-futures-of-medical-humanities",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, August 8, 2024 - 12:12pmfull name / name of organization: Medical Humanities (BMJ)contact email: brandy@bschillace.comcategories (up to 5): cultural studies and historical approachesgender studies and sexualitygeneral..."
+                    "#text": "updated: Tuesday, August 13, 2024 - 2:34pmfull name / name of organization: Medical Humanities (BMJ)contact email: brandy@bschillace.comcategories (up to 5): cultural studies and historical approachesgender studies and sexualitygeneral..."
                 }
             },
             {
@@ -464,7 +480,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/07/31/%E2%80%9Clocating-nikki-haley-in-sikh-discourse%E2%80%9D",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, August 1, 2024 - 10:51amfull name / name of organization: Sikh Formations Journalcontact email: rgune@uci.educategories (up to 5): cultural studies and historical approachesethnicity and national identitygender studies and..."
+                    "#text": "updated: Wednesday, August 14, 2024 - 6:24amfull name / name of organization: Sikh Formations Journalcontact email: rgune@uci.educategories (up to 5): cultural studies and historical approachesethnicity and national identitygender studies and..."
                 }
             },
             {
@@ -1204,22 +1220,6 @@
                 }
             },
             {
-                "title": "Religious Studies Project Opportunities Digest \u2013 March 20, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-march-20-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-03-20T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-march-20-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 45 new job opportunities, 5 fellowships, 3 grants, 8 calls for papers, 2 conferences/speakers, and 1 other opportunity. Everyone at RSP says thank you to all..."
-                }
-            },
-            {
                 "title": "CFP: 2024 Conference of the Orthodox Canon Law Society of North America",
                 "link": {
                     "@href": "https://churchhistory.org/cfp-2024-conference-of-the-orthodox-canon-law-society-of-north-america/"
@@ -1324,7 +1324,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/122846",
                 "content": {
                     "@type": "html",
@@ -1340,7 +1340,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/122678",
                 "content": {
                     "@type": "html",
@@ -1356,7 +1356,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124574",
                 "content": {
                     "@type": "html",
@@ -1372,7 +1372,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/123450",
                 "content": {
                     "@type": "html",
@@ -1388,7 +1388,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/120374",
                 "content": {
                     "@type": "html",
@@ -1404,7 +1404,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/116398",
                 "content": {
                     "@type": "html",
@@ -1420,7 +1420,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/120510",
                 "content": {
                     "@type": "html",
@@ -1436,7 +1436,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/121542",
                 "content": {
                     "@type": "html",
@@ -1452,7 +1452,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/118661",
                 "content": {
                     "@type": "html",
@@ -1468,7 +1468,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/120618",
                 "content": {
                     "@type": "html",
@@ -1484,7 +1484,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/125470",
                 "content": {
                     "@type": "html",
@@ -1500,7 +1500,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/125758",
                 "content": {
                     "@type": "html",
@@ -1516,7 +1516,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/122402",
                 "content": {
                     "@type": "html",
@@ -1532,7 +1532,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124866",
                 "content": {
                     "@type": "html",
@@ -1548,7 +1548,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124862",
                 "content": {
                     "@type": "html",
@@ -1564,7 +1564,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/122674",
                 "content": {
                     "@type": "html",
@@ -1580,7 +1580,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/118929",
                 "content": {
                     "@type": "html",
@@ -1596,7 +1596,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/114686",
                 "content": {
                     "@type": "html",
@@ -1612,7 +1612,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/121170",
                 "content": {
                     "@type": "html",
@@ -1628,7 +1628,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/121278",
                 "content": {
                     "@type": "html",
@@ -1644,7 +1644,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/121690",
                 "content": {
                     "@type": "html",
@@ -1660,7 +1660,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/125386",
                 "content": {
                     "@type": "html",
@@ -1676,7 +1676,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124454",
                 "content": {
                     "@type": "html",
@@ -1692,7 +1692,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/125470",
                 "content": {
                     "@type": "html",
@@ -1708,7 +1708,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/120478",
                 "content": {
                     "@type": "html",
@@ -1724,7 +1724,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/123422",
                 "content": {
                     "@type": "html",
@@ -1740,7 +1740,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/119442",
                 "content": {
                     "@type": "html",
@@ -1756,7 +1756,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/120486",
                 "content": {
                     "@type": "html",
@@ -1772,7 +1772,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124290",
                 "content": {
                     "@type": "html",
@@ -1788,7 +1788,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/123254",
                 "content": {
                     "@type": "html",
@@ -1804,7 +1804,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124058",
                 "content": {
                     "@type": "html",
@@ -1820,7 +1820,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/125446",
                 "content": {
                     "@type": "html",
@@ -1836,7 +1836,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/123910",
                 "content": {
                     "@type": "html",
@@ -1852,7 +1852,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/123890",
                 "content": {
                     "@type": "html",
@@ -1868,7 +1868,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/121278",
                 "content": {
                     "@type": "html",
@@ -1884,7 +1884,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/121282",
                 "content": {
                     "@type": "html",
@@ -1900,7 +1900,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/125618",
                 "content": {
                     "@type": "html",
@@ -1916,7 +1916,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124706",
                 "content": {
                     "@type": "html",
@@ -1932,7 +1932,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124334",
                 "content": {
                     "@type": "html",
@@ -1948,7 +1948,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "https://philevents.org/event/show/124358",
                 "content": {
                     "@type": "html",
@@ -2124,7 +2124,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583",
                 "content": {
                     "@type": "html",
@@ -2140,7 +2140,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181293%C2%A9ownerid%3D187980",
                 "content": {
                     "@type": "html",
@@ -2156,7 +2156,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181173%C2%A9ownerid%3D31491",
                 "content": {
                     "@type": "html",
@@ -2172,7 +2172,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180633%C2%A9ownerid%3D173363",
                 "content": {
                     "@type": "html",
@@ -2188,7 +2188,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180431%C2%A9ownerid%3D173363",
                 "content": {
                     "@type": "html",
@@ -2204,7 +2204,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180298%C2%A9ownerid%3D13881",
                 "content": {
                     "@type": "html",
@@ -2220,7 +2220,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180280%C2%A9ownerid%3D186984",
                 "content": {
                     "@type": "html",
@@ -2236,7 +2236,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180129%C2%A9ownerid%3D186800",
                 "content": {
                     "@type": "html",
@@ -2252,7 +2252,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179676%C2%A9ownerid%3D186400",
                 "content": {
                     "@type": "html",
@@ -2268,7 +2268,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179675%C2%A9ownerid%3D186400",
                 "content": {
                     "@type": "html",
@@ -2284,7 +2284,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179674%C2%A9ownerid%3D186400",
                 "content": {
                     "@type": "html",
@@ -2300,7 +2300,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179673%C2%A9ownerid%3D186400",
                 "content": {
                     "@type": "html",
@@ -2316,7 +2316,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179476%C2%A9ownerid%3D186287",
                 "content": {
                     "@type": "html",
@@ -2332,7 +2332,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178215%C2%A9ownerid%3D62583",
                 "content": {
                     "@type": "html",
@@ -2348,7 +2348,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178163%C2%A9ownerid%3D185280",
                 "content": {
                     "@type": "html",
@@ -2364,7 +2364,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177572%C2%A9ownerid%3D107542",
                 "content": {
                     "@type": "html",
@@ -2380,7 +2380,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177162%C2%A9ownerid%3D13881",
                 "content": {
                     "@type": "html",
@@ -2396,7 +2396,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=176875%C2%A9ownerid%3D184172",
                 "content": {
                     "@type": "html",
@@ -2412,7 +2412,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=176333%C2%A9ownerid%3D80601",
                 "content": {
                     "@type": "html",
@@ -2428,7 +2428,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=176022%C2%A9ownerid%3D13881",
                 "content": {
                     "@type": "html",
@@ -2444,7 +2444,7 @@
                     "name": null,
                     "uri": null
                 },
-                "updated": "2024-08-13T12:07:08.963640+00:00",
+                "updated": "2024-08-14T12:07:22.685971+00:00",
                 "id": null,
                 "content": {
                     "@type": "html"
