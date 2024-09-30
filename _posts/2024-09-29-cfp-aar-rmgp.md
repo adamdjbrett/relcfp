@@ -1,5 +1,5 @@
 ---
-title: "CFP: 2025 Rocky Mountain-Great Plains {RMGP) Regional Meeting"
+title: "CFP: 2025 Rocky Mountain-Great Plains (RMGP) Regional Meeting"
 image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
@@ -8,7 +8,7 @@ tags:
 paginate: true   
 ---
 ## Call for Proposals
-2025 Rocky Mountain-Great Plains {RMGP) Regional Meeting
+2025 Rocky Mountain-Great Plains (RMGP) Regional Meeting
 Hosted by the RMGP Region of the AAR & the Religion and Bible Society
 
 On behalf of the University of Denver RMGP Regional Conference Committee, we invite proposals for panels and papers to be presented at the 2025 Rocky Mountain Great Plains Regional Meeting, which will be held at the University of Denver in Denver, CO, Friday-Saturday March 28-29, 2025. 
