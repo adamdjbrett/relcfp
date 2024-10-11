@@ -11,15 +11,17 @@ The EIR is thrilled to announce the theme of our 2025 Regional Meeting! Join us 
 
 Proposals can be submitted by completing this online form: <https://forms.gle/vxUhXtcysjzKA8X76>. If you have any questions, please contact Chris Miller at [](mailto:eirexec@gmail.com.)<eirexec@gmail.com>. The deadline for submissions is December 16, 2024.
 
-CALL FOR PAPERS
+* * * 
 
-Annual Conference of the American Academy of Religion Eastern International Region
+## CALL FOR PAPERS
+### Annual Conference of the American Academy of Religion Eastern International Region
 
-April 4-6, 2025 | St. Lawrence University, Canton, NY
+### April 4-6, 2025 | St. Lawrence University, Canton, NY
 
-Deadline for submissions is December 16, 2024
+### Deadline for submissions is December 16, 2024
 
-Proposals can be submitted via this form: [](https://forms.gle/vxUhXtcysjzKA8X76)<https://forms.gle/vxUhXtcysjzKA8X76>. 
+Proposals can be submitted [via this form:](https://forms.gle/vxUhXtcysjzKA8X76)
+<https://forms.gle/vxUhXtcysjzKA8X76>. 
 
 The [Eastern International Region](https://eiraar.org/) of the AAR invites you to submit proposals for the 2025 Regional Meeting. This meeting will be held at [St. Lawrence University Hotel](https://staystlawrence.com/) in Canton, NY. We are also thrilled to be hosting this year's conference in collaboration with the [New York Six](https://newyork6.org/) Liberal Arts Consortium. The theme for the 2025 Conference is The Futures of Religious Studies. 
 
@@ -39,16 +41,16 @@ Proposals that do not relate to the 2025 conference theme are also warmly welcom
 
 AAR membership is not required to submit a proposal. Scholars from any region or association may apply to present. We are especially excited to host members from the newly-created AAR[ Northeast region](https://www.aar-ne.org/). Only proposals received by the deadline will be considered for inclusion in the program. Undergraduate-only panels are encouraged -- please see instructions below.
 
-FORMAT FOR PAPER or PANEL PROPOSALS
+## FORMAT FOR PAPER or PANEL PROPOSALS
 
 Proposals can be submitted through this link: [Submit now](https://forms.gle/vxUhXtcysjzKA8X76) OR <https://forms.gle/vxUhXtcysjzKA8X76>. Please include the following elements:
 
-PAPERS:
+### PAPERS:
 
 -   Title and abstract (250 words maximum) describing the nature of the paper
 -   Submitter's name, institution, position (undergraduate/graduate student, faculty, staff, etc.), and email address.
 
-PANELS:
+### PANELS:
 
 -   Title and abstract for panel theme (150 words maximum)
 -   Title and abstract for each paper (200 words maximum, up to 4 papers)
@@ -56,21 +58,21 @@ PANELS:
 
 Proposals must be submitted by the December 16, 2024 deadline. Proposals will be evaluated through blind review
 
-ADDITIONAL INFORMATION
+### ADDITIONAL INFORMATION
 
 Paper presentations are limited to 20 minutes, with 10 minutes allowed for questions; Panels are limited to 4 papers each, or 3 papers with a respondent.
 
-EIR PARTNERS
+## EIR PARTNERS
 
 SCRIPT invites proposals on any aspect of iconic and performative texts. Examples include but are not limited to their display as cultural artifacts, their ritual use in religious and political ceremonies, their performance by recitation and theater, their depiction in art, and their display in museums.
 
 Send proposals consisting of a title, abstract, and the presenter's academic affiliation directly to [](mailto:SCRIPTsecretary@gmail.com)<SCRIPTsecretary@gmail.com> by December 16.
 
-UNDERGRADUATE PANELS
+## UNDERGRADUATE PANELS
 
 The EIR welcomes submissions from undergraduates in the field of Religious Studies or on the theme of the conference. Presentations in undergraduate sessions must be 15 minutes long. In addition to the standard form for submissions, undergraduate students must also arrange a letter from a faculty member who has supervised the student's work. Please send this letter to <eirexec@gmail.com> by February 15, 2025.
 
-STUDENT PAPER COMPETITION
+## STUDENT PAPER COMPETITION
 
 Graduate and undergraduate students are invited to enter the student paper competition. Please note that to be eligible, the student must attend a college or university in the Eastern International Region. The graduate student award and the undergraduate student award will be formally presented at the business meeting during the conference.
 
