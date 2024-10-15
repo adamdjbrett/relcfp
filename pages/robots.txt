@@ -7,4 +7,4 @@ exclude: true
 User-Agent: *
 Disallow: /cgi-bin
 
-Sitemap: {{ site.url }}/sitemap.xml
+Sitemap: http://relcfp.com/sitemap.xml
