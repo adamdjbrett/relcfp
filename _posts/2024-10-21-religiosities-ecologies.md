@@ -1,5 +1,5 @@
 ---
-title: "CFP: Religiosities, Ecologies, and Environmentalisms* *in the Age of the Anthropocene"
+title: "CFP: Religiosities, Ecologies, and Environmentalisms in the Age of the Anthropocene"
 image: /assets/images/ucsbcampusphoto.jpg
 tags:
   - religion
