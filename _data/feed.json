@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-11-01T06:03:28.374Z",
+        "updated": "2024-11-02T06:03:25.460Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "[ September 4, 2025 - September 6, 2025] Conference or similar: The British Society for the Philosophy of Religion, 2025 Biennial Conference: Creativity and Creation",
+                "link": {
+                    "@href": "https://philevents.org/event/show/122346"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-02T06:03:25.460Z",
+                "id": "https://philevents.org/event/show/122346",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: Lady Margaret HallThe BSPR\u2019s Sixteenth Conference Creativity and Creation 4th \u2013 6th September, 2025 Lady Margaret Hall, University of Oxford Keynote speakers: Clare Carlisle (King's College London) Jessica Frazier..."
+                }
+            },
             {
                 "title": "[ January 30, 2026] CFP for publication or other deadline: null",
                 "link": {
@@ -28,7 +44,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.374Z",
+                "updated": "2024-11-02T06:03:25.460Z",
                 "id": "https://philevents.org/event/show/127502",
                 "content": {
                     "@type": "html",
@@ -44,11 +60,27 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.374Z",
+                "updated": "2024-11-02T06:03:25.460Z",
                 "id": "https://philevents.org/event/show/101922",
                 "content": {
                     "@type": "html",
                     "#text": "Publication Name: Phenomenologies of Religious ExperienceThis series invites proposals in classical phenomenology, French phenomenology, pre- and post-phenomenologies, and in methodologies that bridge phenomenology and analytic philosophy. The..."
+                }
+            },
+            {
+                "title": "[ February 19, 2025 - February 20, 2025] Conference or similar: Globalizing Philosophy of Religion",
+                "link": {
+                    "@href": "https://philevents.org/event/show/127442"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-02T06:03:25.459Z",
+                "id": "https://philevents.org/event/show/127442",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: Geschwister-Scholl-PLatz1The Munich Colloquium in Philosophy of Religion is a forum for early career philosophers (PhD students and PostDocs) from all fields and backgrounds working on issues in philosophy of religion. It offers an open..."
                 }
             },
             {
@@ -60,7 +92,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.373Z",
+                "updated": "2024-11-02T06:03:25.459Z",
                 "id": "https://philevents.org/event/show/123822",
                 "content": {
                     "@type": "html",
@@ -76,7 +108,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.373Z",
+                "updated": "2024-11-02T06:03:25.459Z",
                 "id": "https://philevents.org/event/show/123818",
                 "content": {
                     "@type": "html",
@@ -92,7 +124,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.373Z",
+                "updated": "2024-11-02T06:03:25.459Z",
                 "id": "https://philevents.org/event/show/123250",
                 "content": {
                     "@type": "html",
@@ -108,7 +140,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.373Z",
+                "updated": "2024-11-02T06:03:25.459Z",
                 "id": "https://philevents.org/event/show/125826",
                 "content": {
                     "@type": "html",
@@ -124,7 +156,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.373Z",
+                "updated": "2024-11-02T06:03:25.459Z",
                 "id": "https://philevents.org/event/show/125022",
                 "content": {
                     "@type": "html",
@@ -140,107 +172,11 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-01T06:03:28.373Z",
+                "updated": "2024-11-02T06:03:25.459Z",
                 "id": "https://philevents.org/event/show/9587",
                 "content": {
                     "@type": "html",
                     "#text": "Publication Name: Springer SAPERE - Book Series - Studies in Applied Philosophy, Epistemology and Rational EthicsSTUDIES IN APPLIED PHILOSOPHY, EPISTEMOLOGY AND RATIONAL ETHICS (SAPERE) Editor-in-Chief Lorenzo Magnani, Department of Philosophy and..."
-                }
-            },
-            {
-                "title": "[ August 24, 2025 - August 30, 2025] Conference or similar: IAHR Congress CFP, \u2018Reimagining Religion, Rethinking Philosophy: Theories and Methods from Buddhist Sources\u2019",
-                "link": {
-                    "@href": "https://philevents.org/event/show/124354"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-01T06:03:28.373Z",
-                "id": "https://philevents.org/event/show/124354",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: Jagiellonian UniversityDear Friends and Colleagues, As part of the XXIII Quinquennial World Congress of the International Association for the History of Religions (IAHR), hosted by Jagiellonian University and the Polish Society for the..."
-                }
-            },
-            {
-                "title": "[ September 4, 2025 - September 6, 2025] Conference or similar: The British Society for the Philosophy of Religion, 2025 Biennial Conference: Creativity and Creation",
-                "link": {
-                    "@href": "https://philevents.org/event/show/122346"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-01T06:03:28.373Z",
-                "id": "https://philevents.org/event/show/122346",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: Lady Margaret HallThe BSPR\u2019s Sixteenth Conference Creativity and Creation 4th \u2013 6th September, 2025 Lady Margaret Hall, University of Oxford Keynote speakers: Clare Carlisle (King's College London) Jessica Frazier..."
-                }
-            },
-            {
-                "title": "[ April 28, 2025] CFP for publication or other deadline: null",
-                "link": {
-                    "@href": "https://philevents.org/event/show/127618"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": "2024-11-01T06:03:28.352Z",
-                "id": "https://philevents.org/event/show/127618",
-                "content": {
-                    "@type": "html",
-                    "#text": "Publication Name: La questione del bambino in Merleau-Ponty: letture e sviluppiAnche se ricche di possibili approfondimenti e aperture, le riflessioni in ambito psicologico e pedagogico che ruotano intorno agli studi sul bambino nell\u2019opera di..."
-                }
-            },
-            {
-                "title": "[ April 28, 2025] CFP for publication or other deadline: null",
-                "link": {
-                    "@href": "https://philevents.org/event/show/127622"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": "2024-11-01T06:03:28.352Z",
-                "id": "https://philevents.org/event/show/127622",
-                "content": {
-                    "@type": "html",
-                    "#text": "Publication Name: The question of the child in Merleau-Ponty: readings and developmentsThe psychological and pedagogical reflections on childhood in the work of Maurice Merleau-Ponty have received little recognition and appreciation in the..."
-                }
-            },
-            {
-                "title": "[ May 30, 2025 - June 7, 2025] Conference or similar: BACK to the THINGS THEMSELVES! 2025",
-                "link": {
-                    "@href": "https://philevents.org/event/show/123722"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": "2024-11-01T06:03:28.352Z",
-                "id": "https://philevents.org/event/show/123722",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: UnknownBack to the Things Themselves! (BTTTT!) is an annual attempt to put aside the more conventional scholarly practice of textual exegesis and critique, and return to the lived world to divine the essential structures of experience..."
-                }
-            },
-            {
-                "title": "[ June 30, 2025] CFP for publication or other deadline: null",
-                "link": {
-                    "@href": "https://philevents.org/event/show/128158"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": "2024-11-01T06:03:28.352Z",
-                "id": "https://philevents.org/event/show/128158",
-                "content": {
-                    "@type": "html",
-                    "#text": "Publication Name: Heidegger and/in/on Translation - ed. by Luca Illetterati and Elena NardelliIn 2020, the journal Verifiche dedicated a double special issue \u2013 titled \u201cHegel and/in/on Translation,\u201d edited by Sa\u0161a Hrnjez and Elena Nardelli \u2013 to the..."
                 }
             },
             {
@@ -252,7 +188,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-01T06:03:28.352Z",
+                "updated": "2024-11-02T06:03:25.441Z",
                 "id": "https://philevents.org/event/show/127314",
                 "content": {
                     "@type": "html",
@@ -268,59 +204,11 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-01T06:03:28.352Z",
+                "updated": "2024-11-02T06:03:25.441Z",
                 "id": "https://philevents.org/event/show/101922",
                 "content": {
                     "@type": "html",
                     "#text": "Publication Name: Phenomenologies of Religious ExperienceThis series invites proposals in classical phenomenology, French phenomenology, pre- and post-phenomenologies, and in methodologies that bridge phenomenology and analytic philosophy. The..."
-                }
-            },
-            {
-                "title": "[ February 20, 2025] CFP for conference or similar: APA Central 2025 SOPHERE session",
-                "link": {
-                    "@href": "https://philevents.org/event/show/123822"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": "2024-11-01T06:03:28.351Z",
-                "id": "https://philevents.org/event/show/123822",
-                "content": {
-                    "@type": "html",
-                    "#text": "METAPHYSICS AND RELIGIOUS EXPERIENCE The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor an affiliated..."
-                }
-            },
-            {
-                "title": "[ February 20, 2025 - February 27, 2025] Conference or similar: APA Central 2025 SOPHERE session",
-                "link": {
-                    "@href": "https://philevents.org/event/show/123818"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": "2024-11-01T06:03:28.351Z",
-                "id": "https://philevents.org/event/show/123818",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: UnknownMETAPHYSICS AND RELIGIOUS EXPERIENCE The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor..."
-                }
-            },
-            {
-                "title": "[ March 27, 2025 - March 30, 2025] Conference or similar: The I that writes: auto-theory as poetic attention",
-                "link": {
-                    "@href": "https://philevents.org/event/show/126674"
-                },
-                "author": {
-                    "name": "PhilEvents - Continental Philosophy",
-                    "uri": "https://philevents.org/search/topic/590"
-                },
-                "updated": "2024-11-01T06:03:28.351Z",
-                "id": "https://philevents.org/event/show/126674",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: UnknownWhat does it mean to write what we perceive, as we perceive it? Who is this I that writes? How is this I written? Fournier argues that the autotheoretical turn signals the tenuousness of illusory separations between art and life,..."
                 }
             },
             {
@@ -332,11 +220,187 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-01T06:03:28.351Z",
+                "updated": "2024-11-02T06:03:25.440Z",
                 "id": "https://philevents.org/event/show/124734",
                 "content": {
                     "@type": "html",
                     "#text": "Venue: 3720 Alumni Ave, University of MemphisCall for Abstracts Michel Foucault and Phenomenology The Southern Journal of Philosophy Workshop March 27-28, 2025, The University of Memphis How is Michel Foucault\u2019s thought related to the tradition..."
+                }
+            },
+            {
+                "title": "[ April 28, 2025] CFP for publication or other deadline: null",
+                "link": {
+                    "@href": "https://philevents.org/event/show/127618"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": "2024-11-02T06:03:25.440Z",
+                "id": "https://philevents.org/event/show/127618",
+                "content": {
+                    "@type": "html",
+                    "#text": "Publication Name: La questione del bambino in Merleau-Ponty: letture e sviluppiAnche se ricche di possibili approfondimenti e aperture, le riflessioni in ambito psicologico e pedagogico che ruotano intorno agli studi sul bambino nell\u2019opera di..."
+                }
+            },
+            {
+                "title": "[ April 28, 2025] CFP for publication or other deadline: null",
+                "link": {
+                    "@href": "https://philevents.org/event/show/127622"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": "2024-11-02T06:03:25.440Z",
+                "id": "https://philevents.org/event/show/127622",
+                "content": {
+                    "@type": "html",
+                    "#text": "Publication Name: The question of the child in Merleau-Ponty: readings and developmentsThe psychological and pedagogical reflections on childhood in the work of Maurice Merleau-Ponty have received little recognition and appreciation in the..."
+                }
+            },
+            {
+                "title": "[ May 30, 2025 - June 7, 2025] Conference or similar: BACK to the THINGS THEMSELVES! 2025",
+                "link": {
+                    "@href": "https://philevents.org/event/show/123722"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": "2024-11-02T06:03:25.440Z",
+                "id": "https://philevents.org/event/show/123722",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: UnknownBack to the Things Themselves! (BTTTT!) is an annual attempt to put aside the more conventional scholarly practice of textual exegesis and critique, and return to the lived world to divine the essential structures of experience..."
+                }
+            },
+            {
+                "title": "[ June 30, 2025] CFP for publication or other deadline: null",
+                "link": {
+                    "@href": "https://philevents.org/event/show/128158"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": "2024-11-02T06:03:25.440Z",
+                "id": "https://philevents.org/event/show/128158",
+                "content": {
+                    "@type": "html",
+                    "#text": "Publication Name: Heidegger and/in/on Translation - ed. by Luca Illetterati and Elena NardelliIn 2020, the journal Verifiche dedicated a double special issue \u2013 titled \u201cHegel and/in/on Translation,\u201d edited by Sa\u0161a Hrnjez and Elena Nardelli \u2013 to the..."
+                }
+            },
+            {
+                "title": "[ January 8, 2025] CFP for conference or similar: Phenomenology and Mysticism",
+                "link": {
+                    "@href": "https://philevents.org/event/show/123866"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": "2024-11-02T06:03:25.439Z",
+                "id": "https://philevents.org/event/show/123866",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers: Panel sponsored by SOPHERE (the Society for the Phenomenology of Religious Experience) at the Eastern Division meeting of the American Philosophical Association, 2025 Conference Panel Theme: Phenomenology and Mysticism The..."
+                }
+            },
+            {
+                "title": "[ January 17, 2025 - January 18, 2025] Conference or similar: West Coast Heidegger Workshop 2025",
+                "link": {
+                    "@href": "https://philevents.org/event/show/124570"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": "2024-11-02T06:03:25.439Z",
+                "id": "https://philevents.org/event/show/124570",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: Unknown"
+                }
+            },
+            {
+                "title": "[ February 1, 2025] CFP for conference or similar: The I that writes: auto-theory as poetic attention",
+                "link": {
+                    "@href": "https://philevents.org/event/show/126678"
+                },
+                "author": {
+                    "name": "PhilEvents - Continental Philosophy",
+                    "uri": "https://philevents.org/search/topic/590"
+                },
+                "updated": "2024-11-02T06:03:25.439Z",
+                "id": "https://philevents.org/event/show/126678",
+                "content": {
+                    "@type": "html",
+                    "#text": "What does it mean to write what we perceive, as we perceive it? Who is this I that writes? How is this I written? Fournier argues that the autotheoretical turn signals the tenuousness of illusory separations between art and life, theory and..."
+                }
+            },
+            {
+                "title": "ICTL 2024 : International Conference on Theology and Leadership",
+                "link": {
+                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178163%C2%A9ownerid%3D185280"
+                },
+                "author": {
+                    "name": "Religion - WikiCFP",
+                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                },
+                "updated": "2024-11-02T06:03:25.152Z",
+                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178163%C2%A9ownerid%3D185280",
+                "content": {
+                    "@type": "html",
+                    "#text": "International Conference on Theology and Leadership [University of Lucerne, Switzerland] [Jun 19, 2024 - Jun 21, 2024]"
+                }
+            },
+            {
+                "title": "Religion, Conflict and Reconciliation 2024 : Religion, conflict and reconciliation in a fragile world",
+                "link": {
+                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177572%C2%A9ownerid%3D107542"
+                },
+                "author": {
+                    "name": "Religion - WikiCFP",
+                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                },
+                "updated": "2024-11-02T06:03:25.152Z",
+                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177572%C2%A9ownerid%3D107542",
+                "content": {
+                    "@type": "html",
+                    "#text": "Religion, conflict and reconciliation in a fragile world [Liverpool Hope University and on Zoom] [Jul 1, 2024 - Jul 1, 2024]"
+                }
+            },
+            {
+                "title": "ICCH 2024 : 2024 8th International Conference on Culture and History (ICCH 2024)",
+                "link": {
+                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177162%C2%A9ownerid%3D13881"
+                },
+                "author": {
+                    "name": "Religion - WikiCFP",
+                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                },
+                "updated": "2024-11-02T06:03:25.152Z",
+                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177162%C2%A9ownerid%3D13881",
+                "content": {
+                    "@type": "html",
+                    "#text": "2024 8th International Conference on Culture and History (ICCH 2024) [Krems, Austria] [Jul 25, 2024 - Jul 27, 2024]"
+                }
+            },
+            {
+                "title": "AAR-WR 2024 2024 : CFP: Asian American Religious Studies Unit (AAR/WR ANNUAL CONFERENCE 2024)",
+                "link": {
+                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=176875%C2%A9ownerid%3D184172"
+                },
+                "author": {
+                    "name": "Religion - WikiCFP",
+                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                },
+                "updated": "2024-11-02T06:03:25.152Z",
+                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=176875%C2%A9ownerid%3D184172",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Asian American Religious Studies Unit (AAR/WR ANNUAL CONFERENCE 2024) [University of Nevada, Las Vegas (UNLV)] [Oct 28, 2023 - Dec 30, 2023]"
                 }
             },
             {
@@ -348,7 +412,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
+                "updated": "2024-11-02T06:03:25.151Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182690%C2%A9ownerid%3D189400",
                 "content": {
                     "@type": "html",
@@ -364,7 +428,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
+                "updated": "2024-11-02T06:03:25.151Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182181%C2%A9ownerid%3D173363",
                 "content": {
                     "@type": "html",
@@ -380,7 +444,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
+                "updated": "2024-11-02T06:03:25.151Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583",
                 "content": {
                     "@type": "html",
@@ -396,7 +460,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
+                "updated": "2024-11-02T06:03:25.151Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181293%C2%A9ownerid%3D187980",
                 "content": {
                     "@type": "html",
@@ -412,7 +476,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
+                "updated": "2024-11-02T06:03:25.151Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181173%C2%A9ownerid%3D31491",
                 "content": {
                     "@type": "html",
@@ -428,7 +492,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
+                "updated": "2024-11-02T06:03:25.151Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180633%C2%A9ownerid%3D173363",
                 "content": {
                     "@type": "html",
@@ -436,67 +500,307 @@
                 }
             },
             {
-                "title": "OT 2024 : Open Theology - call for Section Editors",
+                "title": "Extended Call for Papers: G.I. Joe, Theology, and Cobra",
                 "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180431%C2%A9ownerid%3D173363"
+                    "@href": "https://popularcultureandtheology.com/2024/11/01/extended-call-for-papers/"
                 },
                 "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180431%C2%A9ownerid%3D173363",
+                "updated": "2024-11-01T22:22:53.000Z",
+                "id": "https://popularcultureandtheology.com/2024/11/01/extended-call-for-papers/",
                 "content": {
                     "@type": "html",
-                    "#text": "Open Theology - call for Section Editors"
+                    "#text": "EXTENDED Call for Chapter Proposals (21 January 2025) G.I. Joe, Theology, and Co-bra! Knowing (and Believing) is Half the Battle Series: Theology, Religion, and Pop Culture Editor: Dr Peter Admirand, Dublin City University G.I. Joe is celebrating..."
                 }
             },
             {
-                "title": "ICHSS 2025 : 2025 11th International Conference on Humanity and Social Sciences (ICHSS 2025)",
+                "title": "Tenure-Track Position: Assistant Professor in African-American / African Religions \u2013 Claremont McKenna College",
                 "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180298%C2%A9ownerid%3D13881"
+                    "@href": "https://churchhistory.org/tenure-track-position-assistant-professor-in-african-american-african-religions-claremont-mckenna-college/"
                 },
                 "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180298%C2%A9ownerid%3D13881",
+                "updated": "2024-11-01T16:58:35.000Z",
+                "id": "https://churchhistory.org/tenure-track-position-assistant-professor-in-african-american-african-religions-claremont-mckenna-college/",
                 "content": {
                     "@type": "html",
-                    "#text": "2025 11th International Conference on Humanity and Social Sciences (ICHSS 2025) [Fukuoka, Japan] [Jan 10, 2025 - Jan 12, 2025]"
+                    "#text": "Applications due by November 15 Follow this link to the posting at the Claremont McKenna College Website The Department of Religious Studies at Claremont McKenna College (CMC) invites applications for a tenure-track position at the early assistant..."
                 }
             },
             {
-                "title": "C.S. Lewis & Last Things 2024 : C.S. Lewis and Last Things: How the Writer of Narnia Saw the End of Our Story",
+                "title": "Call for Papers: \u2018Libraries, Archives and Museums in Oceania\u2019",
                 "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180280%C2%A9ownerid%3D186984"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/call-for-papers-%E2%80%98libraries-archives-and-museums-in-oceania%E2%80%99"
                 },
                 "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180280%C2%A9ownerid%3D186984",
+                "updated": "2024-11-01T15:06:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/call-for-papers-%E2%80%98libraries-archives-and-museums-in-oceania%E2%80%99",
                 "content": {
                     "@type": "html",
-                    "#text": "C.S. Lewis and Last Things: How the Writer of Narnia Saw the End of Our Story [Belfast, Northern Ireland] [Nov 4, 2024 - Nov 4, 2024]"
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Journal of New Zealand & Pacific Studiescontact email: waldrouphl@appstate.educategories (up to 5): cultural studies and historical approachesethnicity and national..."
                 }
             },
             {
-                "title": "Recovira 2024 : Religious Communities in the Virtual Age: Practices, Values, Technologies, Boundaries",
+                "title": "Call for Papers: \u2018Libraries, Archives and Museums in Oceania\u2019",
                 "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180129%C2%A9ownerid%3D186800"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/call-for-papers-%E2%80%98libraries-archives-and-museums-in-oceania%E2%80%99"
                 },
                 "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
-                "updated": "2024-11-01T06:03:28.199Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180129%C2%A9ownerid%3D186800",
+                "updated": "2024-11-01T15:06:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/call-for-papers-%E2%80%98libraries-archives-and-museums-in-oceania%E2%80%99",
                 "content": {
                     "@type": "html",
-                    "#text": "Religious Communities in the Virtual Age: Practices, Values, Technologies, Boundaries [Manchester, UK] [Oct 28, 2024 - Oct 28, 2024]"
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Journal of New Zealand & Pacific Studiescontact email: waldrouphl@appstate.educategories (up to 5): cultural studies and historical approachesethnicity and national..."
+                }
+            },
+            {
+                "title": "Information, Medium & Society: Twenty-third International Conference on Publishing Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/information-medium-society-twenty-third-international-conference-on-publishing"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T14:59:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/information-medium-society-twenty-third-international-conference-on-publishing",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Common Ground Research Networkscontact email: support@cgnetworks.orgcategories (up to 5): bibliography and history of the bookcultural studies and historical..."
+                }
+            },
+            {
+                "title": "Information, Medium & Society: Twenty-third International Conference on Publishing Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/information-medium-society-twenty-third-international-conference-on-publishing"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2024-11-01T14:59:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/information-medium-society-twenty-third-international-conference-on-publishing",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Common Ground Research Networkscontact email: support@cgnetworks.orgcategories (up to 5): bibliography and history of the bookcultural studies and historical..."
+                }
+            },
+            {
+                "title": "Scribes and Inky Fingerprints: Collaborative and Mediated Authorship in Early Modern English Manuscripts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/scribes-and-inky-fingerprints-collaborative-and-mediated-authorship-in-early-modern"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T14:43:59.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/scribes-and-inky-fingerprints-collaborative-and-mediated-authorship-in-early-modern",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: FEATHERS project, Leiden Universitycontact email: FEATHERS@hum.leidenuniv.nlcategories (up to 5): cultural studies and historical approachesinternational..."
+                }
+            },
+            {
+                "title": "Rediscovery, Reclamation, and Renewal in Literature, Theory, and Culture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/rediscovery-reclamation-and-renewal-in-literature-theory-and-culture"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T13:53:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/rediscovery-reclamation-and-renewal-in-literature-theory-and-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Purdue University Literary, Interdisciplinary, Theory, and Culture Organizationcontact email: litcopurdue@gmail.comcategories (up to 5): cultural studies and historical..."
+                }
+            },
+            {
+                "title": "Rediscovery, Reclamation, and Renewal in Literature, Theory, and Culture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/rediscovery-reclamation-and-renewal-in-literature-theory-and-culture"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2024-11-01T13:53:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/rediscovery-reclamation-and-renewal-in-literature-theory-and-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Purdue University Literary, Interdisciplinary, Theory, and Culture Organizationcontact email: litcopurdue@gmail.comcategories (up to 5): cultural studies and historical..."
+                }
+            },
+            {
+                "title": "Call for Papers: 'DIY Music Making'",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/call-for-papers-diy-music-making"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2024-11-01T12:01:27.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/call-for-papers-diy-music-making",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Journal of Music, Technology & Educationcontact email: abell29@uwo.cacategories (up to 5): journals and collections of essaystheatre and performance studiesdeadline for..."
+                }
+            },
+            {
+                "title": "Graduate conference: \"Failing Media\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/graduate-conference-failing-media"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T06:09:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/01/graduate-conference-failing-media",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: University of Chicago, Cinema and Media Studiescontact email: failingmediaconference@gmail.comcategories (up to 5): cultural studies and historical approachesfilm and..."
+                }
+            },
+            {
+                "title": "The Landscapes of Dragons",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/the-landscapes-of-dragons"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T03:26:23.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/the-landscapes-of-dragons",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Rachel L. Carazocontact email: rachel.carazo@snhu.educategories (up to 5): cultural studies and historical approachesfilm and televisioninterdisciplinarypopular..."
+                }
+            },
+            {
+                "title": "Dragon Games and Online Culture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragon-games-and-online-culture"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T03:24:52.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragon-games-and-online-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Rachel L. Carazocontact email: rachel.carazo@snhu.educategories (up to 5): cultural studies and historical approachesfan studies and fandominterdisciplinarypopular..."
+                }
+            },
+            {
+                "title": "Dragons, Posthumanism, and Animality",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragons-posthumanism-and-animality"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T03:23:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragons-posthumanism-and-animality",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Rachel L. Carazocontact email: rachel.carazo@snhu.educategories (up to 5): cultural studies and historical approachesecocriticism and environmental..."
+                }
+            },
+            {
+                "title": "Dragons in Fiction",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragons-in-fiction"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T03:22:02.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragons-in-fiction",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Rachel L. Carazocontact email: rachel.carazo@snhu.educategories (up to 5): cultural studies and historical approachesgender studies and sexualityinterdisciplinarypopular..."
+                }
+            },
+            {
+                "title": "Dragons in Film and Television",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragons-in-film-and-television"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-11-01T03:19:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/dragons-in-film-and-television",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:15pmfull name / name of organization: Rachel L. Carazocontact email: rachel.carazo@snhu.educategories (up to 5): cultural studies and historical approachesfan studies and fandomfilm and..."
+                }
+            },
+            {
+                "title": "CFP: Articles, Creative Work - any length - New Writing Journal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/cfp-articles-creative-work-any-length-new-writing-journal"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2024-11-01T00:16:45.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/cfp-articles-creative-work-any-length-new-writing-journal",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:13pmfull name / name of organization: New Writing: The International Journal for the Practice and Theory of Creative Writingcontact email: editor@newwritingjournal.comcategories (up to 5): journals and..."
+                }
+            },
+            {
+                "title": "CFP: Articles, Creative Work - any length - New Writing Journal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/cfp-articles-creative-work-any-length-new-writing-journal"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2024-11-01T00:16:45.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/cfp-articles-creative-work-any-length-new-writing-journal",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 1:13pmfull name / name of organization: New Writing: The International Journal for the Practice and Theory of Creative Writingcontact email: editor@newwritingjournal.comcategories (up to 5): journals and..."
+                }
+            },
+            {
+                "title": "Holocaust Studies Conference: Deadline Extended",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/holocaust-studies-conference-deadline-extended"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2024-10-31T19:14:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/31/holocaust-studies-conference-deadline-extended",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 12:53pmfull name / name of organization: Middle Tennessee State Universitycontact email: hologenconference@mtsu.educategories (up to 5): cultural studies and historical approachesethnicity and national..."
                 }
             },
             {
@@ -516,6 +820,54 @@
                 }
             },
             {
+                "title": "Reviews for Queer Studies in Media and Popular Culture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/30/reviews-for-queer-studies-in-media-and-popular-culture"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2024-10-30T19:39:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/30/reviews-for-queer-studies-in-media-and-popular-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 12:45pmfull name / name of organization: Alissa Burger / Reviews Editor, Queer Studies in Media and Popular Culturecontact email: aburger@culver.educategories (up to 5): film and televisiongender studies and..."
+                }
+            },
+            {
+                "title": "Political Performances Working Group at IFTR: Performing Carnival!",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/30/political-performances-working-group-at-iftr-performing-carnival"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2024-10-30T14:19:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/30/political-performances-working-group-at-iftr-performing-carnival",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 12:44pmfull name / name of organization: Political Performances Working Group at IFTRcontact email: iftrpolperf@gmail.comcategories (up to 5): international conferencestheatre and performance..."
+                }
+            },
+            {
+                "title": "Making and Unmaking of Cities",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/30/making-and-unmaking-of-cities"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2024-10-30T11:16:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/30/making-and-unmaking-of-cities",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, November 1, 2024 - 12:44pmfull name / name of organization: Calcutta Research Groupcontact email: poushali@mcrg.ac.incategories (up to 5): cultural studies and historical approachesinterdisciplinarymodernist..."
+                }
+            },
+            {
                 "title": "Religious Studies Opportunities Digest \u2013 October 30, 2024",
                 "link": {
                     "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-opportunities-digest-october-30-2024/"
@@ -532,38 +884,6 @@
                 }
             },
             {
-                "title": "Baldwin Again and Again",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/29/baldwin-again-and-again"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-29T17:42:31.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/29/baldwin-again-and-again",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, October 30, 2024 - 3:48amfull name / name of organization: James Baldwin Reviewcontact email: jbr@wustl.educategories (up to 5): african-americancultural studies and historical approachesfilm and televisiongender studies and..."
-                }
-            },
-            {
-                "title": "Call for Papers - International Journal Special Issue on \"Culture War and/as Myth within and beyond America\"",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/29/call-for-papers-international-journal-special-issue-on-culture-war-andas-myth-within"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-29T12:22:03.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/29/call-for-papers-international-journal-special-issue-on-culture-war-andas-myth-within",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, October 30, 2024 - 3:47amfull name / name of organization: Ex-Centric Narratives: Journal of Anglophone Literature, Culture and Mediacontact email: excentricnarratives@enl.auth.gr categories (up to 5): americancultural studies..."
-                }
-            },
-            {
                 "title": "Call for Papers - International Journal Special Issue on \"Culture War and/as Myth within and beyond America\"",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/29/call-for-papers-international-journal-special-issue-on-culture-war-andas-myth-within"
@@ -577,54 +897,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, October 30, 2024 - 3:47amfull name / name of organization: Ex-Centric Narratives: Journal of Anglophone Literature, Culture and Mediacontact email: excentricnarratives@enl.auth.gr categories (up to 5): americancultural studies..."
-                }
-            },
-            {
-                "title": "Association for Theatre in Higher Education/Association of Asian Performance ATHE/AAP Online Symposium AI Working Group Call for Papers Artificial Intelligence (AI), Machine Learning, and Techno-Performative Futures in Asia/Asian Diaspora Studies",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/29/association-for-theatre-in-higher-educationassociation-of-asian-performance-atheaap"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-29T07:15:27.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/29/association-for-theatre-in-higher-educationassociation-of-asian-performance-atheaap",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:22amfull name / name of organization: Menghang Wu/Ohio State Universitycontact email: wu.4899@osu.educategories (up to 5): cultural studies and historical approacheshumanities computing and the..."
-                }
-            },
-            {
-                "title": "Eaton Conference on Speculative Fiction",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/eaton-conference-on-speculative-fiction"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-29T00:29:09.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/eaton-conference-on-speculative-fiction",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:22amfull name / name of organization: Speculative Fiction & Cultures of Science at UC Riversidecontact email: eatonconference@gmail.comcategories (up to 5): cultural studies and historical approachesfan..."
-                }
-            },
-            {
-                "title": "CFP: Educators in Popular Culture: Educational Settings as Sites of Intersectional Struggle",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/cfp-educators-in-popular-culture-educational-settings-as-sites-of-intersectional"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-28T19:09:59.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/cfp-educators-in-popular-culture-educational-settings-as-sites-of-intersectional",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:22amfull name / name of organization: Special issue of Review of Education, Pedagogy, and Cultural Studiescontact email: jesposito@gsu.edu categories (up to 5): cultural studies and historical approachesfilm..."
                 }
             },
             {
@@ -665,22 +937,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/pcaaca-memory-and-representation-area-april-16-19-2025"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-28T15:44:04.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/pcaaca-memory-and-representation-area-april-16-19-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:22amfull name / name of organization: Popular Culture Association / American Culture Associationcontact email: terry.cochran@umontreal.cacategories (up to 5): cultural studies and historical approachesfilm and..."
-                }
-            },
-            {
-                "title": "PCA/ACA Memory and Representation area - April 16-19, 2025",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/pcaaca-memory-and-representation-area-april-16-19-2025"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -697,22 +953,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/auto-graduate-student-conference"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-28T13:59:34.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/auto-graduate-student-conference",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:21amfull name / name of organization: Duke University Department of Englishcontact email: be61@duke.educategories (up to 5): cultural studies and historical approachesgeneral announcementsgraduate..."
-                }
-            },
-            {
-                "title": "Auto-: Graduate Student Conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/auto-graduate-student-conference"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -721,22 +961,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, October 29, 2024 - 5:21amfull name / name of organization: Duke University Department of Englishcontact email: be61@duke.educategories (up to 5): cultural studies and historical approachesgeneral announcementsgraduate..."
-                }
-            },
-            {
-                "title": "Literature, Popular Culture, and Bisexuality (call for chapters for edited collection)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/literature-popular-culture-and-bisexuality-call-for-chapters-for-edited-collection"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-28T10:11:26.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/28/literature-popular-culture-and-bisexuality-call-for-chapters-for-edited-collection",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:21amfull name / name of organization: University of Roehamptoncontact email: ian.kinane@roehampton.ac.ukcategories (up to 5): cultural studies and historical approachesfilm and..."
                 }
             },
             {
@@ -753,38 +977,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, October 29, 2024 - 5:21amfull name / name of organization: University of Roehamptoncontact email: ian.kinane@roehampton.ac.ukcategories (up to 5): cultural studies and historical approachesfilm and..."
-                }
-            },
-            {
-                "title": "Comics Arts Conference WonderCon",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/27/comics-arts-conference-wondercon"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-27T18:32:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/27/comics-arts-conference-wondercon",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:21amfull name / name of organization: Comics Arts Conferencecontact email: comicsartsconference@gmail.comcategories (up to 5): cultural studies and historical approachesgeneral..."
-                }
-            },
-            {
-                "title": "Call for Chapters: Speech strategies and discourse analysis: the powerful and the oppressed (edited volume)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/27/call-for-chapters-speech-strategies-and-discourse-analysis-the-powerful-and-the"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-10-27T10:38:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/27/call-for-chapters-speech-strategies-and-discourse-analysis-the-powerful-and-the",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:20amfull name / name of organization: M. Carmen Gomez-Galisteocontact email: mcarmengomez@aol.comcategories (up to 5): americancultural studies and historical approachesinterdisciplinaryjournals and..."
                 }
             },
             {
@@ -820,35 +1012,35 @@
                 }
             },
             {
-                "title": "Special Cronenberg Panel in Esotericism, Occultism, and Magic Area of Southwest Popular/American Culture Association, Feb 19-22, Albuquerque, New Mexico",
+                "title": "Deadline Extended! Special Cronenberg Panel in Esotericism, Occultism, and Magic Area of Southwest Popular/American Culture Association, Feb 19-22, Albuquerque, New Mexico",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/special-cronenberg-panel-in-esotericism-occultism-and-magic-area-of-southwest"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/deadline-extended-special-cronenberg-panel-in-esotericism-occultism-and-magic-area-of"
                 },
                 "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
                 "updated": "2024-10-26T08:00:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/special-cronenberg-panel-in-esotericism-occultism-and-magic-area-of-southwest",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/deadline-extended-special-cronenberg-panel-in-esotericism-occultism-and-magic-area-of",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:16amfull name / name of organization: Southwest Popular/American Culture Associationcontact email: Georgejsieg@gmail.comcategories (up to 5): americanfilm and televisionpopular culturetheorytwentieth century..."
+                    "#text": "updated: Friday, November 1, 2024 - 3:01amfull name / name of organization: Southwest Popular/American Culture Associationcontact email: Georgejsieg@gmail.comcategories (up to 5): americanfilm and televisionpopular culturetheorytwentieth century..."
                 }
             },
             {
-                "title": "Special Devil Panel in Esotericism, Occultism, and Magic Area at Southwest Popular/American Culture Association, Feb 19-22, Albuquerque, New Mexico",
+                "title": "Deadline Extended! Special Devil Panel in Esotericism, Occultism, and Magic Area at Southwest Popular/American Culture Association, Feb 19-22, Albuquerque, New Mexico",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/special-devil-panel-in-esotericism-occultism-and-magic-area-at-southwest"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/deadline-extended-special-devil-panel-in-esotericism-occultism-and-magic-area-at"
                 },
                 "author": {
                     "name": "UPenn - Religion",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
                 },
                 "updated": "2024-10-26T07:17:28.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/special-devil-panel-in-esotericism-occultism-and-magic-area-at-southwest",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/deadline-extended-special-devil-panel-in-esotericism-occultism-and-magic-area-at",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:16amfull name / name of organization: Southwest Popular/American Culture Associationcontact email: Georgejsieg@gmail.comcategories (up to 5): americancultural studies and historical..."
+                    "#text": "updated: Friday, November 1, 2024 - 3:02amfull name / name of organization: Southwest Popular/American Culture Associationcontact email: Georgejsieg@gmail.comcategories (up to 5): americancultural studies and historical..."
                 }
             },
             {
@@ -865,22 +1057,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, October 29, 2024 - 5:15amfull name / name of organization: Studies in Hogg and his Worldcontact email: holly.nelson@twu.cacategories (up to 5): ecocriticism and environmental studiesjournals and collections of..."
-                }
-            },
-            {
-                "title": "Celebrating Punch Magazine at 185!",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/25/celebrating-punch-magazine-at-185"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2024-10-25T15:51:35.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/25/celebrating-punch-magazine-at-185",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:15amfull name / name of organization: Liverpool John Moores Universitycontact email: c.l.horrocks@ljmu.ac.ukcategories (up to 5): cultural studies and historical approachesjournals and collections of..."
                 }
             },
             {
@@ -916,70 +1092,6 @@
                 }
             },
             {
-                "title": "The American West",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/the-american-west"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2024-10-24T16:17:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/the-american-west",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:14amfull name / name of organization: Southwest Popular/American Culture Association (SWPACA)contact email: larry.vanmeter@blinn.educategories (up to 5): americanfilm and televisioninterdisciplinarypopular..."
-                }
-            },
-            {
-                "title": "CFP: Victorians Institute Journal, Vol 52",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/cfp-victorians-institute-journal-vol-52"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2024-10-24T15:15:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/cfp-victorians-institute-journal-vol-52",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:14amfull name / name of organization: Victorians Institute Journalcontact email: victoriansinstitutejournal@gmail.comcategories (up to 5): general announcementsinterdisciplinaryjournals and collections of..."
-                }
-            },
-            {
-                "title": "Call for Papers: Film International",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/call-for-papers-film-international"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2024-10-24T12:45:49.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/call-for-papers-film-international",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:14amfull name / name of organization: Film International: Journal of World Cinemacontact email: arezou.zalipour@aut.ac.nzcategories (up to 5): fan studies and fandomfilm and televisionjournals and collections..."
-                }
-            },
-            {
-                "title": "Call for Papers: Young Scholars in Writing (Volume 23)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/call-for-papers-young-scholars-in-writing-volume-23"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2024-10-24T04:20:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/24/call-for-papers-young-scholars-in-writing-volume-23",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:14amfull name / name of organization: Young Scholars in Writing: Undergraduate Research in Writing and Rhetoriccontact email: Charles.mcgregor@utrgv.educategories (up to 5): interdisciplinarypedagogyrhetoric..."
-                }
-            },
-            {
                 "title": "Journeying: Movements, Passages, and Horizons",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/23/journeying-movements-passages-and-horizons"
@@ -1009,70 +1121,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 13 new job opportunities, 2 fellowships, 2 call for papers, and 4 conferences/speakers. Everyone at RSP says thank you to all who have generously supported the..."
-                }
-            },
-            {
-                "title": "The Animal In The Anthropocene: Narratives Of Non-Human Survival",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/the-animal-in-the-anthropocene-narratives-of-non-human-survival"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2024-10-22T22:06:27.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/the-animal-in-the-anthropocene-narratives-of-non-human-survival",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:12amfull name / name of organization: The Animal In The Anthropocene: Narratives Of Non-Human Survivalcontact email: ben.ghan@ucalgary.cacategories (up to 5): cultural studies and historical..."
-                }
-            },
-            {
-                "title": "The Oswald Review",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/the-oswald-review"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2024-10-22T21:41:12.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/the-oswald-review",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:11amfull name / name of organization: Douglas Higbee/University of South Carolina, Aikencontact email: douglash@usca.educategories (up to 5): journals and collections of essayspedagogydeadline for..."
-                }
-            },
-            {
-                "title": "Expressivity, Bodies and Language in the Twenty-First Century",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/expressivity-bodies-and-language-in-the-twenty-first-century"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2024-10-22T14:11:55.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/expressivity-bodies-and-language-in-the-twenty-first-century",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:14amfull name / name of organization: University of Montpellier - Paul Val\u00e9rycontact email: sandrine.sorlin@univ-montp3.frcategories (up to 5): interdisciplinaryinternational conferencesrhetoric and..."
-                }
-            },
-            {
-                "title": "Deadline Extended: Media Fields Journal Issue 19, \"Archival Elements\"",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/deadline-extended-media-fields-journal-issue-19-archival-elements"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2024-10-22T06:12:23.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/22/deadline-extended-media-fields-journal-issue-19-archival-elements",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 29, 2024 - 5:10amfull name / name of organization: Media Fields Editorial Collectivecontact email: submissions@mediafieldsjournal.orgcategories (up to 5): cultural studies and historical approachesfilm and..."
                 }
             },
             {
@@ -1428,22 +1476,6 @@
                 }
             },
             {
-                "title": "HCA Spring Academy 2025",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/09/25/hca-spring-academy-2025"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2024-09-25T20:36:58.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/09/25/hca-spring-academy-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, September 26, 2024 - 6:59amfull name / name of organization: Heidelberg Center for American Studies, Universit\u00e4t Heidelbergcontact email: jbuchholz@hca.uni-heidelberg.decategories (up to 5): americaninterdisciplinaryinternational..."
-                }
-            },
-            {
                 "title": "Religious Studies Project Opportunities Digest \u2013 September 25, 2024",
                 "link": {
                     "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-september-25-2024/"
@@ -1764,22 +1796,6 @@
                 }
             },
             {
-                "title": "Valentine\u2019s Day Special Post! The Radical Liberal \u201cWoke\u201d Agenda of the 1980s Porky\u2019s Franchise",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2024/02/14/valentines-day-special-post-the-radical-liberal-woke-agenda-of-the-1980s-porkys-franchise/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2024-02-14T18:46:50.000Z",
-                "id": "https://popularcultureandtheology.com/2024/02/14/valentines-day-special-post-the-radical-liberal-woke-agenda-of-the-1980s-porkys-franchise/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By David K. Goodin Yes, you read that right. Yes, I am serious. Stop laughing. Well, let me backtrack my thesis even before it is presented. The sexual (let us say for the moment) hijinks of this infamous \u201cboner comedy\u201d are beyond the realm of..."
-                }
-            },
-            {
                 "title": "Job Search: Associate Director, Religious Studies \u2013 University of Minnesota",
                 "link": {
                     "@href": "https://churchhistory.org/job-search-associate-director-religious-studies-university-of-minnesota/"
@@ -1793,22 +1809,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Associate Director \u2013 Religious Studies ProgramInstitute for Global Studies, College of Liberal Arts Application due March 1, 2024 The Religious Studies Program at the University of Minnesota-Twin Cities invites applications for the position of..."
-                }
-            },
-            {
-                "title": "United States Holocaust Memorial Museum \u2013 Faculty Seminar",
-                "link": {
-                    "@href": "https://churchhistory.org/united-states-holocaust-memorial-museum-faculty-seminar/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-01-27T15:09:02.000Z",
-                "id": "https://churchhistory.org/united-states-holocaust-memorial-museum-faculty-seminar/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Applications due: March 15th The United States Holocaust Memorial Museum announces the call for applications for the 2024 Annual Faculty Seminar on Ethics, Religion, and the Holocaust titled \u201cReading the Bible After the Holocaust.\u201d will examine the..."
                 }
             }
         ]
