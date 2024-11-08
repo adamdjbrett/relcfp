@@ -41,9 +41,6 @@ jobs:
       - name: Pagefind Install
         id: install
         run: python3 -m pip install 'pagefind[extended]'
-      - name: Pagefind Serve
-        id: index
-        run: python3 -m pagefind --site _site --serve
       - name: Get RSS
         id: check
         run: python get_rss.py
@@ -75,6 +72,9 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
+      - name: Pagefind Serve
+        id: index
+        run: python3 -m pagefind --site _site --serve
       - name: Deploy to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
         if: steps.check.outputs.content_changed == 'true'
