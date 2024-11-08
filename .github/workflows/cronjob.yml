@@ -38,6 +38,9 @@ jobs:
           python -m pip install --upgrade pip
           pip install xmltodict requests
       # Runs a single command using the runners shell
+      - name: Pagefind
+        id: index
+        run: python3 -m pagefind --site _site --serve
       - name: Get RSS
         id: check
         run: python get_rss.py
