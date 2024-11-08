@@ -38,9 +38,6 @@ jobs:
           python -m pip install --upgrade pip
           pip install xmltodict requests
       # Runs a single command using the runners shell
-      - name: Pagefind Install
-        id: install
-        run: python3 -m pip install 'pagefind[extended]'
       - name: Get RSS
         id: check
         run: python get_rss.py
@@ -72,21 +69,6 @@ jobs:
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
-      - name: Cache gems
-        uses: actions/cache@v4
-        with:
-          path: vendor/gems
-          key: ${{ runner.os }}-build-${{ hashFiles('**/Gemfile.lock') }}
-          restore-keys: |
-            ${{ runner.os }}-build-
-            ${{ runner.os }}-
-      - name: jekyll-deploy
-        uses: DavidS/jekyll-deploy@1.1.1
-        with:
-          build-only: true # optional, default is false
-      - name: Pagefind Serve
-        id: index
-        run: python3 -m pagefind --site _site --serve
       - name: Deploy to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
         if: steps.check.outputs.content_changed == 'true'
