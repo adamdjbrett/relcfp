@@ -1,0 +1,44 @@
+name: GitHub Pages
+
+on:
+  push:
+    branches:
+      - main  # Change this to your default branch if it's not 'main'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: '3.0'
+
+    - name: Install Jekyll and Bundler
+      run: |
+        gem install jekyll bundler
+        bundle install
+
+    - name: Install Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Install PageFind
+      run: npm install -g @pagefind/core
+
+    - name: Build site with Jekyll
+      run: bundle exec jekyll build
+
+    - name: Run PageFind indexing
+      run: pagefind --source _site
+
+    - name: Deploy to GitHub Pages
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: $
+        publish_dir: ./_site
