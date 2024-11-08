@@ -75,7 +75,7 @@ jobs:
       - name: jekyll-deploy
         uses: DavidS/jekyll-deploy@1.1.1
         with:
-        build-only: true # optional, default is false
+          build-only: true # optional, default is false
       - name: Pagefind Serve
         id: index
         run: python3 -m pagefind --site _site --serve
