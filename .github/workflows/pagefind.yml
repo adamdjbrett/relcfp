@@ -38,7 +38,5 @@ jobs:
       run: pagefind --source _site
 
     - name: Deploy to GitHub Pages
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: $
-        publish_dir: ./_site
+      id: deployment
+      uses: actions/deploy-pages@v2
