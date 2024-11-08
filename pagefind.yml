@@ -1,0 +1,9 @@
+force_language: en
+glob: "*[!s]/**/*.{html}"
+cli:    --site
+config: site
+env:    _site
+exclude_selectors:
+  - "#links"
+  - "#recent-posts"
+  - "footer"
