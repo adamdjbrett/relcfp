@@ -21,7 +21,7 @@ pagination:
     <div class="post__content">
         <div class="post__img">
             {%- if page.image -%}
-                <img src="{{page.image}}" alt="{{page.title}}">
+                <img src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
             {%- endif -%}
         </div>
         {{content}}
