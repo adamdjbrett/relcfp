@@ -4,7 +4,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Dedicated to call for papers & publications in Religious Studies/Religion, Philosophy, & Theology. Contributions Welcome.
 baseurl: "" # the subpath of your site, e.g. /blog
 #url: http://localhost:4000 # localhost
-url: "https://relcfptest.netlify.app" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://relcfp.com" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_url: https://www.facebook.com/relcfp
 twitter_url:  https://twitter.com/relcfp
 
