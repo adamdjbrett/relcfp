@@ -1,6 +1,6 @@
 ---
 title: "CFP: Conference on Theology and Leadership"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

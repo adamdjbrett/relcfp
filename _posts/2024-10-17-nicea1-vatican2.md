@@ -1,6 +1,6 @@
 ---
 title: "CFP: The Legacies Conference 2025: The Legacies of Nicaea I and Vatican II: An Inheritance Unfolding"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities
