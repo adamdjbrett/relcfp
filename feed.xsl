@@ -75,13 +75,13 @@
             align-content: start;
           }
           .feed_description{
-            font-family: 'Montserrat';
+            font-family: 'Futura';
             font-size: 0.8rem;
             line-height: 1.1;
           }
           small{
             font-size: 0.9rem;
-            font-family: 'Montserrat';
+            font-family: 'Futura';
           }
           @media (min-width: 550px) {
             main{
