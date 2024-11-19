@@ -12,125 +12,13 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-11-18T06:03:38.509Z",
+        "updated": "2024-11-19T06:03:32.713Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
-            {
-                "title": "[ September 4, 2025 - September 6, 2025] Conference or similar: The British Society for the Philosophy of Religion, 2025 Biennial Conference: Creativity and Creation",
-                "link": {
-                    "@href": "https://philevents.org/event/show/122346"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-18T06:03:38.509Z",
-                "id": "https://philevents.org/event/show/122346",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: Lady Margaret HallThe BSPR\u2019s Sixteenth Conference Creativity and Creation 4th \u2013 6th September, 2025 Lady Margaret Hall, University of Oxford Keynote speakers: Clare Carlisle (King's College London) Jessica Frazier..."
-                }
-            },
-            {
-                "title": "[ January 30, 2026] CFP for publication or other deadline: null",
-                "link": {
-                    "@href": "https://philevents.org/event/show/127502"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-18T06:03:38.509Z",
-                "id": "https://philevents.org/event/show/127502",
-                "content": {
-                    "@type": "html",
-                    "#text": "Publication Name: Conatus - Journal of Philosophy vol. 11, no. 1 (2026) Special Issue: The Disenchantment of the World Secularization and the Modern PredicamentConatus - Journal of Philosophy is pleased to announce a Special Issue in 2026 dedicated..."
-                }
-            },
-            {
-                "title": "[ May 31, 2030] CFP for publication or other deadline: null",
-                "link": {
-                    "@href": "https://philevents.org/event/show/101922"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-18T06:03:38.509Z",
-                "id": "https://philevents.org/event/show/101922",
-                "content": {
-                    "@type": "html",
-                    "#text": "Publication Name: Phenomenologies of Religious ExperienceThis series invites proposals in classical phenomenology, French phenomenology, pre- and post-phenomenologies, and in methodologies that bridge phenomenology and analytic philosophy. The..."
-                }
-            },
-            {
-                "title": "[ February 20, 2025 - February 27, 2025] Conference or similar: APA Central 2025 SOPHERE session",
-                "link": {
-                    "@href": "https://philevents.org/event/show/123818"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-18T06:03:38.508Z",
-                "id": "https://philevents.org/event/show/123818",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: UnknownMETAPHYSICS AND RELIGIOUS EXPERIENCE The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor..."
-                }
-            },
-            {
-                "title": "[ March 6, 2025 - March 8, 2025] Conference or similar: Society for Philosophy of Religion",
-                "link": {
-                    "@href": "https://philevents.org/event/show/123250"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-18T06:03:38.508Z",
-                "id": "https://philevents.org/event/show/123250",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: Unknown"
-                }
-            },
-            {
-                "title": "[ March 25, 2025] CFP for publication or other deadline: null",
-                "link": {
-                    "@href": "https://philevents.org/event/show/125826"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-18T06:03:38.508Z",
-                "id": "https://philevents.org/event/show/125826",
-                "content": {
-                    "@type": "html",
-                    "#text": "Publication Name: Parenthood, Eugenics, and the Body (Special Issue of Christian Bioethics)Submissions are invited for a special issue of Christian Bioethics on the theme: \u201cParenthood, Eugenics, and the Body.\u201d Theme Description: There are a..."
-                }
-            },
-            {
-                "title": "[ April 10, 2025 - April 11, 2025] Conference or similar: AI and the Ends of Humanity: Thinking Theologically after ChatGPT",
-                "link": {
-                    "@href": "https://philevents.org/event/show/125022"
-                },
-                "author": {
-                    "name": "PhilEvents - Religion",
-                    "uri": "https://philevents.org/search/topic/575"
-                },
-                "updated": "2024-11-18T06:03:38.508Z",
-                "id": "https://philevents.org/event/show/125022",
-                "content": {
-                    "@type": "html",
-                    "#text": "Venue: 409 Prospect StThe advent of increasingly sophisticated and potentially autonomous forms of artificial intelligence poses a challenge to understandings of the human place in the cosmos in ways perhaps as profound as the Copernican..."
-                }
-            },
             {
                 "title": "[ May 2, 2025 - May 3, 2025] Conference or similar: 2025 Mountain-Pacific Meeting of the Society of Christian Philosophers",
                 "link": {
@@ -140,7 +28,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-18T06:03:38.508Z",
+                "updated": "2024-11-19T06:03:32.713Z",
                 "id": "https://philevents.org/event/show/129066",
                 "content": {
                     "@type": "html",
@@ -156,7 +44,7 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-18T06:03:38.508Z",
+                "updated": "2024-11-19T06:03:32.713Z",
                 "id": "https://philevents.org/event/show/9587",
                 "content": {
                     "@type": "html",
@@ -172,11 +60,123 @@
                     "name": "PhilEvents - Religion",
                     "uri": "https://philevents.org/search/topic/575"
                 },
-                "updated": "2024-11-18T06:03:38.508Z",
+                "updated": "2024-11-19T06:03:32.713Z",
                 "id": "https://philevents.org/event/show/124354",
                 "content": {
                     "@type": "html",
                     "#text": "Venue: Jagiellonian UniversityDear Friends and Colleagues, As part of the XXIII Quinquennial World Congress of the International Association for the History of Religions (IAHR), hosted by Jagiellonian University and the Polish Society for the..."
+                }
+            },
+            {
+                "title": "[ September 4, 2025 - September 6, 2025] Conference or similar: The British Society for the Philosophy of Religion, 2025 Biennial Conference: Creativity and Creation",
+                "link": {
+                    "@href": "https://philevents.org/event/show/122346"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-19T06:03:32.713Z",
+                "id": "https://philevents.org/event/show/122346",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: Lady Margaret HallThe BSPR\u2019s Sixteenth Conference Creativity and Creation 4th \u2013 6th September, 2025 Lady Margaret Hall, University of Oxford Keynote speakers: Clare Carlisle (King's College London) Jessica Frazier..."
+                }
+            },
+            {
+                "title": "[ January 30, 2026] CFP for publication or other deadline: null",
+                "link": {
+                    "@href": "https://philevents.org/event/show/127502"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-19T06:03:32.713Z",
+                "id": "https://philevents.org/event/show/127502",
+                "content": {
+                    "@type": "html",
+                    "#text": "Publication Name: Conatus - Journal of Philosophy vol. 11, no. 1 (2026) Special Issue: The Disenchantment of the World Secularization and the Modern PredicamentConatus - Journal of Philosophy is pleased to announce a Special Issue in 2026 dedicated..."
+                }
+            },
+            {
+                "title": "[ May 31, 2030] CFP for publication or other deadline: null",
+                "link": {
+                    "@href": "https://philevents.org/event/show/101922"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-19T06:03:32.713Z",
+                "id": "https://philevents.org/event/show/101922",
+                "content": {
+                    "@type": "html",
+                    "#text": "Publication Name: Phenomenologies of Religious ExperienceThis series invites proposals in classical phenomenology, French phenomenology, pre- and post-phenomenologies, and in methodologies that bridge phenomenology and analytic philosophy. The..."
+                }
+            },
+            {
+                "title": "[ February 12, 2025 - February 14, 2025] Conference or similar: Concepts of God in Underrepresented Religious Traditions",
+                "link": {
+                    "@href": "https://philevents.org/event/show/125690"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-19T06:03:32.712Z",
+                "id": "https://philevents.org/event/show/125690",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: Hotel Nord Luxxor TambauCONCEPTS OF GOD IN UNDERREPRESENTED RELIGIOUS TRADITIONS Nord Luxxor Tamba\u00fa Hotel, Jo\u00e3o Pessoa, Brazil February 12-14, 2025 Deadline: October 15, 2025 Website:..."
+                }
+            },
+            {
+                "title": "[ February 19, 2025 - February 20, 2025] Conference or similar: Globalizing Philosophy of Religion",
+                "link": {
+                    "@href": "https://philevents.org/event/show/127442"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-19T06:03:32.712Z",
+                "id": "https://philevents.org/event/show/127442",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: Geschwister-Scholl-PLatz1The Munich Colloquium in Philosophy of Religion is a forum for early career philosophers (PhD students and PostDocs) from all fields and backgrounds working on issues in philosophy of religion. It offers an open..."
+                }
+            },
+            {
+                "title": "[ February 20, 2025] CFP for conference or similar: APA Central 2025 SOPHERE session",
+                "link": {
+                    "@href": "https://philevents.org/event/show/123822"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-19T06:03:32.712Z",
+                "id": "https://philevents.org/event/show/123822",
+                "content": {
+                    "@type": "html",
+                    "#text": "METAPHYSICS AND RELIGIOUS EXPERIENCE The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor an affiliated..."
+                }
+            },
+            {
+                "title": "[ February 20, 2025 - February 27, 2025] Conference or similar: APA Central 2025 SOPHERE session",
+                "link": {
+                    "@href": "https://philevents.org/event/show/123818"
+                },
+                "author": {
+                    "name": "PhilEvents - Religion",
+                    "uri": "https://philevents.org/search/topic/575"
+                },
+                "updated": "2024-11-19T06:03:32.712Z",
+                "id": "https://philevents.org/event/show/123818",
+                "content": {
+                    "@type": "html",
+                    "#text": "Venue: UnknownMETAPHYSICS AND RELIGIOUS EXPERIENCE The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor..."
                 }
             },
             {
@@ -188,7 +188,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.495Z",
+                "updated": "2024-11-19T06:03:32.694Z",
                 "id": "https://philevents.org/event/show/127618",
                 "content": {
                     "@type": "html",
@@ -204,7 +204,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.495Z",
+                "updated": "2024-11-19T06:03:32.694Z",
                 "id": "https://philevents.org/event/show/127622",
                 "content": {
                     "@type": "html",
@@ -220,7 +220,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.495Z",
+                "updated": "2024-11-19T06:03:32.694Z",
                 "id": "https://philevents.org/event/show/123722",
                 "content": {
                     "@type": "html",
@@ -236,7 +236,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.495Z",
+                "updated": "2024-11-19T06:03:32.694Z",
                 "id": "https://philevents.org/event/show/128158",
                 "content": {
                     "@type": "html",
@@ -252,7 +252,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.495Z",
+                "updated": "2024-11-19T06:03:32.694Z",
                 "id": "https://philevents.org/event/show/127314",
                 "content": {
                     "@type": "html",
@@ -268,7 +268,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.495Z",
+                "updated": "2024-11-19T06:03:32.694Z",
                 "id": "https://philevents.org/event/show/128822",
                 "content": {
                     "@type": "html",
@@ -284,7 +284,7 @@
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.495Z",
+                "updated": "2024-11-19T06:03:32.694Z",
                 "id": "https://philevents.org/event/show/101922",
                 "content": {
                     "@type": "html",
@@ -292,83 +292,51 @@
                 }
             },
             {
-                "title": "[ January 17, 2025 - January 18, 2025] Conference or similar: West Coast Heidegger Workshop 2025",
+                "title": "[ February 20, 2025] CFP for conference or similar: APA Central 2025 SOPHERE session",
                 "link": {
-                    "@href": "https://philevents.org/event/show/124570"
+                    "@href": "https://philevents.org/event/show/123822"
                 },
                 "author": {
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.494Z",
-                "id": "https://philevents.org/event/show/124570",
+                "updated": "2024-11-19T06:03:32.693Z",
+                "id": "https://philevents.org/event/show/123822",
                 "content": {
                     "@type": "html",
-                    "#text": "Venue: Unknown"
+                    "#text": "METAPHYSICS AND RELIGIOUS EXPERIENCE The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor an affiliated..."
                 }
             },
             {
-                "title": "[ January 20, 2025 - January 21, 2025] Conference or similar: Nostalgia and Place",
+                "title": "[ February 20, 2025 - February 27, 2025] Conference or similar: APA Central 2025 SOPHERE session",
                 "link": {
-                    "@href": "https://philevents.org/event/show/128894"
+                    "@href": "https://philevents.org/event/show/123818"
                 },
                 "author": {
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.494Z",
-                "id": "https://philevents.org/event/show/128894",
+                "updated": "2024-11-19T06:03:32.693Z",
+                "id": "https://philevents.org/event/show/123818",
                 "content": {
                     "@type": "html",
-                    "#text": "Venue: UnknownAbstracts and title around mid-december."
+                    "#text": "Venue: UnknownMETAPHYSICS AND RELIGIOUS EXPERIENCE The 2025 APA Central Division Meeting will be held February 20-22, 2025, and February 27-March 1. All sessions will be on-line. The Society for Phenomenology of Religious Experience will sponsor..."
                 }
             },
             {
-                "title": "[ February 1, 2025] CFP for conference or similar: The I that writes: auto-theory as poetic attention",
+                "title": "[ March 27, 2025 - March 30, 2025] Conference or similar: The I that writes: auto-theory as poetic attention",
                 "link": {
-                    "@href": "https://philevents.org/event/show/126678"
+                    "@href": "https://philevents.org/event/show/126674"
                 },
                 "author": {
                     "name": "PhilEvents - Continental Philosophy",
                     "uri": "https://philevents.org/search/topic/590"
                 },
-                "updated": "2024-11-18T06:03:38.494Z",
-                "id": "https://philevents.org/event/show/126678",
+                "updated": "2024-11-19T06:03:32.693Z",
+                "id": "https://philevents.org/event/show/126674",
                 "content": {
                     "@type": "html",
-                    "#text": "What does it mean to write what we perceive, as we perceive it? Who is this I that writes? How is this I written? Fournier argues that the autotheoretical turn signals the tenuousness of illusory separations between art and life, theory and..."
-                }
-            },
-            {
-                "title": "SRF Online 2024 : SRF Conference Series 2024 - Science, Causality and God: Divine Action in a Scientific Age",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179674%C2%A9ownerid%3D186400"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-11-18T06:03:38.296Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179674%C2%A9ownerid%3D186400",
-                "content": {
-                    "@type": "html",
-                    "#text": "SRF Conference Series 2024 - Science, Causality and God: Divine Action in a Scientific Age [online] [Oct 28, 2024 - Oct 29, 2024]"
-                }
-            },
-            {
-                "title": "SRF Online 2024 : SRF Conference Series 2024 - Continuous and co-creation: Emergence in a Scientific Age",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179673%C2%A9ownerid%3D186400"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-11-18T06:03:38.296Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179673%C2%A9ownerid%3D186400",
-                "content": {
-                    "@type": "html",
-                    "#text": "SRF Conference Series 2024 - Continuous and co-creation: Emergence in a Scientific Age [online] [Jun 13, 2024 - Jun 14, 2024]"
+                    "#text": "Venue: UnknownWhat does it mean to write what we perceive, as we perceive it? Who is this I that writes? How is this I written? Fournier argues that the autotheoretical turn signals the tenuousness of illusory separations between art and life,..."
                 }
             },
             {
@@ -380,7 +348,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.296Z",
+                "updated": "2024-11-19T06:03:32.583Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=179476%C2%A9ownerid%3D186287",
                 "content": {
                     "@type": "html",
@@ -396,7 +364,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.296Z",
+                "updated": "2024-11-19T06:03:32.583Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178215%C2%A9ownerid%3D62583",
                 "content": {
                     "@type": "html",
@@ -412,7 +380,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.296Z",
+                "updated": "2024-11-19T06:03:32.583Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=178163%C2%A9ownerid%3D185280",
                 "content": {
                     "@type": "html",
@@ -428,7 +396,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.296Z",
+                "updated": "2024-11-19T06:03:32.583Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177572%C2%A9ownerid%3D107542",
                 "content": {
                     "@type": "html",
@@ -444,7 +412,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.296Z",
+                "updated": "2024-11-19T06:03:32.583Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=177162%C2%A9ownerid%3D13881",
                 "content": {
                     "@type": "html",
@@ -460,7 +428,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.296Z",
+                "updated": "2024-11-19T06:03:32.583Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=176875%C2%A9ownerid%3D184172",
                 "content": {
                     "@type": "html",
@@ -476,7 +444,7 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.295Z",
+                "updated": "2024-11-19T06:03:32.582Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182690%C2%A9ownerid%3D189400",
                 "content": {
                     "@type": "html",
@@ -492,11 +460,75 @@
                     "name": "Religion - WikiCFP",
                     "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
                 },
-                "updated": "2024-11-18T06:03:38.295Z",
+                "updated": "2024-11-19T06:03:32.582Z",
                 "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182181%C2%A9ownerid%3D173363",
                 "content": {
                     "@type": "html",
                     "#text": "REMINDER: Call for Papers - Mathematically Modeling Early Christian Literature: Theories, Methods, and Future Directions"
+                }
+            },
+            {
+                "title": "Dialogo_AIVCD 2024 : Novelty vs Heritage: Navigating the Tapestry of Human Evolution",
+                "link": {
+                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583"
+                },
+                "author": {
+                    "name": "Religion - WikiCFP",
+                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                },
+                "updated": "2024-11-19T06:03:32.582Z",
+                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583",
+                "content": {
+                    "@type": "html",
+                    "#text": "Novelty vs Heritage: Navigating the Tapestry of Human Evolution [Online] [Nov 3, 2024 - Nov 13, 2024]"
+                }
+            },
+            {
+                "title": "Edited Volume 2024 : Religious Encounters: Text, Travel, and Tradition",
+                "link": {
+                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181293%C2%A9ownerid%3D187980"
+                },
+                "author": {
+                    "name": "Religion - WikiCFP",
+                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                },
+                "updated": "2024-11-19T06:03:32.582Z",
+                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181293%C2%A9ownerid%3D187980",
+                "content": {
+                    "@type": "html",
+                    "#text": "Religious Encounters: Text, Travel, and Tradition [United Kingdom] [Jul 1, 2024 - Jul 31, 2024]"
+                }
+            },
+            {
+                "title": "Call for Papers 2025: Censorship, Book Burning, and Separating the Artist from the Art!",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/11/18/call-for-papers-2025-censorship-book-burning-and-separating-the-artist-from-the-art/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-11-18T22:15:38.000Z",
+                "id": "https://popularcultureandtheology.com/2024/11/18/call-for-papers-2025-censorship-book-burning-and-separating-the-artist-from-the-art/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers 2025! Censorship, Book Burning, and the Separation of Artist from their Art! The ninth volume of the Pace University Journal of Comics and Culture is inviting authors, scholars, cartoonists, and comics creators to submit essays on..."
+                }
+            },
+            {
+                "title": "Embracing the Chaos: Lady Gaga\u2019s \u2018Disease\u2019 and the Sacredness of the \u2018Person-Body\u2019",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2024/11/18/embracing-the-chaos-lady-gagas-disease-and-the-sacredness-of-the-person-body/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2024-11-18T17:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2024/11/18/embracing-the-chaos-lady-gagas-disease-and-the-sacredness-of-the-person-body/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Rev. Christopher N. West What makes us who and how we are in the world? Reductive approaches to personhood try to isolate a particular abstract aspect of our identities as our defining characteristic \u2013 an approach known as \u2018essentialism\u2019, as it..."
                 }
             },
             {
@@ -1713,38 +1745,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "The Routledge Companion to Superhero Studies [Final Call] Deadline for abstract submissions: 24th May 2024 Editors: Lorna Farnell and Carl Wilson The editors have already commissioned a substantial number of chapters for The Routledge Companion to..."
-                }
-            },
-            {
-                "title": "Brandi Carlile\u2019s Theology of Belonging",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2024/04/22/brandi-carliles-theology-of-belonging/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2024-04-22T16:00:00.000Z",
-                "id": "https://popularcultureandtheology.com/2024/04/22/brandi-carliles-theology-of-belonging/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By Beth Alford \u201cI want to be a musical preacher for the rest of my life.\u201d This seemingly throwaway comment by singer/songwriter Brandi Carlile has proven to be prophetic, and sums up how the award-winning artist uses her art to loudly proclaim her..."
-                }
-            },
-            {
-                "title": "Comics and Culture Journal Call for Papers!",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2024/04/21/comics-and-culture-journal-call-for-papers/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2024-04-21T23:15:52.000Z",
-                "id": "https://popularcultureandtheology.com/2024/04/21/comics-and-culture-journal-call-for-papers/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers 2024! Comics! Comics Movies! Comics History! Comics Fandom! Comics Art! The eight volume of the Pace University Journal of Comics and Culture is inviting authors, scholars, cartoonists, and comics creators to submit essays on..."
                 }
             },
             {
