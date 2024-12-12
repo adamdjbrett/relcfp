@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-12-11T09:00:00.000Z",
+        "updated": "2024-12-12T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: 2nd International Congress of Ecological Humanities",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/12/ecological-humanities/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-12T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/12/ecological-humanities/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conveners"
+                }
+            },
+            {
+                "title": "NABPR Dissertation Scholarship competition",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/12/nabpr-dissertation-scholarship/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-12T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/12/nabpr-dissertation-scholarship/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Dissertation Scholarship"
+                }
+            },
+            {
+                "title": "Call for Papers: \u201cUnderstanding the Intersection\u201d: Rhetoric, Race, and Religion",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-12T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Center for the Study of Rhetoric, Race, and Religion is excited to announce a call for\u2026"
+                }
+            },
             {
                 "title": "Religious Studies Project Opportunities Digest \u2013 December 9, 2024",
                 "link": {
@@ -33,6 +81,54 @@
                 "content": {
                     "@type": "html",
                     "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 21 new job\u2026"
+                }
+            },
+            {
+                "title": "CFP: International Conference on Decolonizing Social Sciences and Humanities: Islamic and Non-Western Perspectives",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/11/cfp-decolonizing-social-sciences-indonesia/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-11T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/11/cfp-decolonizing-social-sciences-indonesia/",
+                "content": {
+                    "@type": "html",
+                    "#text": "CALL FOR PAPERS the \u201cInternational Conference on Decolonizing Social Sciences and Humanities:\u2026"
+                }
+            },
+            {
+                "title": "CFP: 2025 NABPR Annual meeting",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/11/nabpr-cfp-annual-meeting-2025/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-11T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/11/nabpr-cfp-annual-meeting-2025/",
+                "content": {
+                    "@type": "html",
+                    "#text": "2025 NABPR Annual meeting"
+                }
+            },
+            {
+                "title": "Workshop on Traveling Expertise in Modern South Asia and Beyond",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/11/workshop-travelling-south-asia/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-11T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/11/workshop-travelling-south-asia/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The South Asian Studies Council at Yale University is seeking applicants from scholars interested in\u2026"
                 }
             },
             {
@@ -432,7 +528,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/02/exit-signs-university-of-toronto-cinema-studies-graduate-conference",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, December 5, 2024 - 12:00pmfull name / name of organization: University of\u2026"
+                    "#text": "updated: Thursday, December 12, 2024 - 12:20pmfull name / name of organization: University of\u2026"
                 }
             },
             {
@@ -996,22 +1092,6 @@
                 }
             },
             {
-                "title": "CFP: The Legacies Conference 2025: The Legacies of Nicaea I and Vatican II: An Inheritance Unfolding",
-                "link": {
-                    "@href": "https://relcfp.com/2024/10/17/nicea1-vatican2/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-10-17T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/10/17/nicea1-vatican2/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Details Call for Papers (Due March 1, 2025) - The Legacies Conference 2025: \u201cThe Legacies of Nicaea\u2026"
-                }
-            },
-            {
                 "title": "Religious Studies Project Opportunites Digest \u2013 October 16, 2024",
                 "link": {
                     "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunites-digest-october-16-2024/"
@@ -1025,86 +1105,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 38 new job\u2026"
-                }
-            },
-            {
-                "title": "CFP: AAR-WR: Performing Religions, Faith, and Spirituality",
-                "link": {
-                    "@href": "https://relcfp.com/2024/10/15/cfp-aarwr/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-10-15T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/10/15/cfp-aarwr/",
-                "content": {
-                    "@type": "html",
-                    "#text": "American Academy of Religion, Western Region 2025 Annual Conference (Performing Religions, Faith,\u2026"
-                }
-            },
-            {
-                "title": "CFP: Religion, conflict and reconciliation in a fragile world",
-                "link": {
-                    "@href": "https://relcfp.com/2024/10/15/cfp-religion-conflict-reconciliation/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-10-15T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/10/15/cfp-religion-conflict-reconciliation/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Hybrid International Conference organized by the Archbishop Desmond Tutu Centre for War and Peace\u2026"
-                }
-            },
-            {
-                "title": "CFP: Signs of the Times: Interdisciplinary Responses to Religious Nationalism",
-                "link": {
-                    "@href": "https://relcfp.com/2024/10/15/interdisciplinary-nationalism/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-10-15T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/10/15/interdisciplinary-nationalism/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Details"
-                }
-            },
-            {
-                "title": "CFP: Conference on Theology and Leadership",
-                "link": {
-                    "@href": "https://relcfp.com/2024/10/15/spirit-filled-leadership/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-10-15T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/10/15/spirit-filled-leadership/",
-                "content": {
-                    "@type": "html",
-                    "#text": "ICTL 2024 : International Conference on Theology and Leadership"
-                }
-            },
-            {
-                "title": "CFP: The Journal of Communication and Religion",
-                "link": {
-                    "@href": "https://relcfp.com/2024/10/14/cfp-jcr/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-10-14T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/10/14/cfp-jcr/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Submissions"
                 }
             },
             {
