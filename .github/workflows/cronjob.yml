@@ -79,6 +79,8 @@ jobs:
       - name: Send Bluesky Post
         uses: myConsciousness/bluesky-post@v5
         with:
-          text: "Hello, Bluesky!"
+          feedURL: "https://relcfp.com/feed.xml"
+          newestItemStrategy: 'latestDate'
+          text: "New post: {title}\n\n{link}\n\n#acrel"
           identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
           password: ${{ secrets.BLUESKY_PASSWORD }}
