@@ -1,6 +1,7 @@
 ---
 title: "Call for Papers: “Understanding the Intersection”: Rhetoric, Race, and Religion"
 image: /assets/images/relcfp-cover.webp
+date: 2024-12-12T14:54:46
 tags:
   - religion
   - humanities

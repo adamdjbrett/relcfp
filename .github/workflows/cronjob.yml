@@ -76,3 +76,9 @@ jobs:
           platform: netlify
           netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}
           always_deploy: true
+      - name: Send Bluesky Post
+        uses: myConsciousness/bluesky-post@v5
+        with:
+          text: "Hello, Bluesky!"
+          identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
+          password: ${{ secrets.BLUESKY_PASSWORD }}
