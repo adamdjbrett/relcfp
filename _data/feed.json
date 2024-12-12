@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-12-11T06:04:13.825Z",
+        "updated": "2024-12-11T09:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,163 +20,19 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "OT 2025 : Mathematically Modeling Early Christian Literature (second call)",
+                "title": "Religious Studies Project Opportunities Digest \u2013 December 9, 2024",
                 "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=183479%C2%A9ownerid%3D173363"
+                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-december-9-2024/"
                 },
                 "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
+                    "name": "Digests Archive - The Religious Studies Project",
+                    "uri": "https://www.religiousstudiesproject.com/"
                 },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=183479%C2%A9ownerid%3D173363",
+                "updated": "2024-12-11T09:00:00.000Z",
+                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-december-9-2024/",
                 "content": {
                     "@type": "html",
-                    "#text": "Mathematically Modeling Early Christian Literature (second call)"
-                }
-            },
-            {
-                "title": "SCSM 2025 : Society for Christian Scholarship in Music Annual Meeting",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182690%C2%A9ownerid%3D189400"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182690%C2%A9ownerid%3D189400",
-                "content": {
-                    "@type": "html",
-                    "#text": "Society for Christian Scholarship in Music Annual Meeting [Belmont University, Nashville, TN] [Mar\u2026"
-                }
-            },
-            {
-                "title": "OT 2025 : REMINDER: Call for Papers - Mathematically Modeling Early Christian Literature: Theories, Methods, and Future Directions",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182181%C2%A9ownerid%3D173363"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=182181%C2%A9ownerid%3D173363",
-                "content": {
-                    "@type": "html",
-                    "#text": "REMINDER: Call for Papers - Mathematically Modeling Early Christian Literature: Theories, Methods,\u2026"
-                }
-            },
-            {
-                "title": "Dialogo_AIVCD 2024 : Novelty vs Heritage: Navigating the Tapestry of Human Evolution",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181400%C2%A9ownerid%3D62583",
-                "content": {
-                    "@type": "html",
-                    "#text": "Novelty vs Heritage: Navigating the Tapestry of Human Evolution [Online] [Nov 3, 2024 - Nov 13,\u2026"
-                }
-            },
-            {
-                "title": "Edited Volume 2024 : Religious Encounters: Text, Travel, and Tradition",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181293%C2%A9ownerid%3D187980"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181293%C2%A9ownerid%3D187980",
-                "content": {
-                    "@type": "html",
-                    "#text": "Religious Encounters: Text, Travel, and Tradition [United Kingdom] [Jul 1, 2024 - Jul 31, 2024]"
-                }
-            },
-            {
-                "title": "ICSP 2025 : 10th International Conference on Spirituality and Psychology",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181173%C2%A9ownerid%3D31491"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=181173%C2%A9ownerid%3D31491",
-                "content": {
-                    "@type": "html",
-                    "#text": "10th International Conference on Spirituality and Psychology [Bangkok, Thailand] [Mar 13, 2025 - Mar\u2026"
-                }
-            },
-            {
-                "title": "OT 2024 : Open Theology - cal for proposals for edited volumes",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180633%C2%A9ownerid%3D173363"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180633%C2%A9ownerid%3D173363",
-                "content": {
-                    "@type": "html",
-                    "#text": "Open Theology - cal for proposals for edited volumes"
-                }
-            },
-            {
-                "title": "OT 2024 : Open Theology - call for Section Editors",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180431%C2%A9ownerid%3D173363"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180431%C2%A9ownerid%3D173363",
-                "content": {
-                    "@type": "html",
-                    "#text": "Open Theology - call for Section Editors"
-                }
-            },
-            {
-                "title": "ICHSS 2025 : 2025 11th International Conference on Humanity and Social Sciences (ICHSS 2025)",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180298%C2%A9ownerid%3D13881"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180298%C2%A9ownerid%3D13881",
-                "content": {
-                    "@type": "html",
-                    "#text": "2025 11th International Conference on Humanity and Social Sciences (ICHSS 2025) [Fukuoka, Japan]\u2026"
-                }
-            },
-            {
-                "title": "C.S. Lewis & Last Things 2024 : C.S. Lewis and Last Things: How the Writer of Narnia Saw the End of Our Story",
-                "link": {
-                    "@href": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180280%C2%A9ownerid%3D186984"
-                },
-                "author": {
-                    "name": "Religion - WikiCFP",
-                    "uri": "http://www.wikicfp.com/cfp/call?conference=religion"
-                },
-                "updated": "2024-12-11T06:04:13.825Z",
-                "id": "http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=180280%C2%A9ownerid%3D186984",
-                "content": {
-                    "@type": "html",
-                    "#text": "C.S. Lewis and Last Things: How the Writer of Narnia Saw the End of Our Story [Belfast, Northern\u2026"
+                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 21 new job\u2026"
                 }
             },
             {
@@ -196,6 +52,38 @@
                 }
             },
             {
+                "title": "Call for Book Chapters on \"Becoming A Human-Animal: Interpretations of the Therianthropes in the Folk Arts of India\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/call-for-book-chapters-on-becoming-a-human-animal-interpretations-of-the"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2024-12-07T16:06:18.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/call-for-book-chapters-on-becoming-a-human-animal-interpretations-of-the",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, December 11, 2024 - 4:15pmfull name / name of organization: Thakurdas Jana,\u2026"
+                }
+            },
+            {
+                "title": "Call for Book Chapters on \"Becoming A Human-Animal: Interpretations of the Therianthropes in the Folk Arts of India\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/call-for-book-chapters-on-becoming-a-human-animal-interpretations-of-the"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2024-12-07T16:06:18.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/call-for-book-chapters-on-becoming-a-human-animal-interpretations-of-the",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, December 11, 2024 - 4:15pmfull name / name of organization: Thakurdas Jana,\u2026"
+                }
+            },
+            {
                 "title": "Bloomsbury's Environment and Society Book Series",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/bloomsburys-environment-and-society-book-series"
@@ -208,7 +96,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/bloomsburys-environment-and-society-book-series",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, December 10, 2024 - 9:11amfull name / name of organization: Bloomsbury\u2026"
+                    "#text": "updated: Thursday, December 12, 2024 - 12:31amfull name / name of organization: Bloomsbury\u2026"
                 }
             },
             {
@@ -256,7 +144,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/06/cfp-media-fields-ix-graduate-conference",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, December 10, 2024 - 9:09amfull name / name of organization: Media Fields Editorial\u2026"
+                    "#text": "updated: Wednesday, December 11, 2024 - 5:57amfull name / name of organization: Media Fields\u2026"
                 }
             },
             {
@@ -304,23 +192,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/05/mythic-muse-writing-poetry-with-mythology",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, December 10, 2024 - 9:08amfull name / name of organization: London Arts-Based\u2026"
-                }
-            },
-            {
-                "title": "Mythic Muse: Writing Poetry with Mythology",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/05/mythic-muse-writing-poetry-with-mythology"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2024-12-05T18:16:47.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/05/mythic-muse-writing-poetry-with-mythology",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, December 10, 2024 - 9:08amfull name / name of organization: London Arts-Based\u2026"
+                    "#text": "updated: Wednesday, December 11, 2024 - 2:15pmfull name / name of organization: London Arts-Based\u2026"
                 }
             },
             {
@@ -398,22 +270,6 @@
                 },
                 "updated": "2024-12-04T17:03:49.000Z",
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/04/emersonian-revolutions-today",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, December 5, 2024 - 12:07pmfull name / name of organization: Ralph Waldo Emerson\u2026"
-                }
-            },
-            {
-                "title": "Emerson's Like-Minded Transcendentalists",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/04/emersons-like-minded-transcendentalists"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2024-12-04T17:02:34.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/04/emersons-like-minded-transcendentalists",
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, December 5, 2024 - 12:07pmfull name / name of organization: Ralph Waldo Emerson\u2026"
@@ -756,6 +612,22 @@
                 }
             },
             {
+                "title": "Call for Papers: Studies in Materialistic Historiography",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/24/call-for-papers-studies-in-materialistic-historiography"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2024-11-24T14:34:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/24/call-for-papers-studies-in-materialistic-historiography",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, November 26, 2024 - 10:26amfull name / name of organization: Perspectives in\u2026"
+                }
+            },
+            {
                 "title": "Extended Deadline: The Marilynne Robinson Society at ALA",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/21/extended-deadline-the-marilynne-robinson-society-at-ala"
@@ -1092,22 +964,6 @@
                 }
             },
             {
-                "title": "Deadline Extended! Special Devil Panel in Esotericism, Occultism, and Magic Area at Southwest Popular/American Culture Association, Feb 19-22, Albuquerque, New Mexico",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/deadline-extended-special-devil-panel-in-esotericism-occultism-and-magic-area-at"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2024-10-26T07:17:28.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/10/26/deadline-extended-special-devil-panel-in-esotericism-occultism-and-magic-area-at",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, November 1, 2024 - 3:02amfull name / name of organization: Southwest\u2026"
-                }
-            },
-            {
                 "title": "Religious Studies Project Opportunities Digest \u2013 October 23, 2024",
                 "link": {
                     "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-october-23-2024/"
@@ -1281,22 +1137,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "by Mayur Suresh The impetus for this project stems from a disquiet, felt by so many in different\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Opportunities Digest \u2013 October 2, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-opportunities-digest-october-2-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-10-02T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-opportunities-digest-october-2-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 44 new job\u2026"
                 }
             },
             {
