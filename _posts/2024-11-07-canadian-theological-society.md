@@ -17,7 +17,7 @@ Call for Papers
 
 **Monday, June 2 -- Wednesday, June 4, 2025**
 
-**In-person  |  George Brown College, Toronto, Ontario **
+**In-person  ––  George Brown College, Toronto, Ontario**
 
 The theme of Congress 2025, Reframing Togetherness, offers the opportunity to rethink what it means to coexist with other humans, the environment, and technology.
 

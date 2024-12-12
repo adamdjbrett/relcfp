@@ -56,7 +56,7 @@ Call for Submissions to the Society for Anthropology of Religion (SAR) Biennial
 [Roundtable Proposal submission web portal](https://docs.google.com/forms/d/e/1FAIpQLSe2ZQZmWAy1ScI-oWi_39S3z_FxpbS2jrC9cyTuAhnb6Zff_g/viewform?usp=sf_link)
 
 ## Deadline for all submissions:  
-Sunday, January 5, 2024\
+Sunday, January 5, 2025
 Notification of Paper, Panel, or Roundtable Acceptance:  Jan. 30, 2025
 
 SAR Biennial Conference Registration Opens:  Jan. 30, 2025\
