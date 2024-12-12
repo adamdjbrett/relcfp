@@ -7,6 +7,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://relcfp.com" # the base hostname & protocol for your site, e.g. http://example.com
 facebook_url: https://www.facebook.com/relcfp
 twitter_url:  https://twitter.com/relcfp
+bksy_url: https://bsky.app/profile/relcfp.com
 
 
 pagination:
