@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-12-12T00:00:00.000Z",
+        "updated": "2024-12-12T14:54:46.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: \u201cUnderstanding the Intersection\u201d: Rhetoric, Race, and Religion",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-12T14:54:46.000Z",
+                "id": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Center for the Study of Rhetoric, Race, and Religion is excited to announce a call for\u2026"
+                }
+            },
             {
                 "title": "CFP: 2nd International Congress of Ecological Humanities",
                 "link": {
@@ -49,22 +65,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Dissertation Scholarship"
-                }
-            },
-            {
-                "title": "Call for Papers: \u201cUnderstanding the Intersection\u201d: Rhetoric, Race, and Religion",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-12T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The Center for the Study of Rhetoric, Race, and Religion is excited to announce a call for\u2026"
                 }
             },
             {
@@ -192,7 +192,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/bloomsburys-environment-and-society-book-series",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, December 12, 2024 - 12:31amfull name / name of organization: Bloomsbury\u2026"
+                    "#text": "updated: Friday, December 13, 2024 - 12:42amfull name / name of organization: Bloomsbury\u2026"
                 }
             },
             {
