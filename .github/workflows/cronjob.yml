@@ -79,6 +79,6 @@ jobs:
       - name: Send Bluesky Post
         uses: myConsciousness/bluesky-post@v5
         with:
-          text: "[New posts on our site](https://relcfp.com/posts/) #acrel"
+          text: "[New posts on rellcfp.com](https://relcfp.com/) #acrel"
           identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
           password: ${{ secrets.BLUESKY_PASSWORD }}
