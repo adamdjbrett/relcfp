@@ -1,5 +1,5 @@
 ---
-title: "Call for Papers: Faith and spirituality in the wake of scandal"
+title: "Call for Papers: Faith and Spirituality in the Wake of Scandal"
 image: /assets/images/relcfp-cover.webp
 date: 2024-12-12T14:54:46
 tags:
@@ -10,7 +10,7 @@ paginate: true
 canonical_url: https://www.uni-erfurt.de/fileadmin/fakultaet/katholisch-theologische/Professuren/Fundamentaltheologie/Dokumente/Call_for_Papers__Faith_and_spirituality_in_the_wake_of_scandal_-_Google_Docs.pdf
 ---
 
-## Call for Papers: Faith and spirituality in the wake of scandal
+## Call for Papers: Faith and Spirituality in the Wake of Scandal
 ### University of Erfurt, Germany, 26–27 June 2025 (On site and Online)
 
 Recent years have seen a seemingly endless stream of Christian scandals come to public attention, usually provoking a period of crisis within the organisations where they have taken place and sometimes, but not always, leading to the collapse of particular churches, organisations and ministries. Whilst many of these have taken place within charismatic congregations, they are not confined to these environments, and traditional denominations, evangelical churches and a variety of para-church ministries have been confronted with prominent media and social media coverage exposing long-term patterns of abuse, manipulation, and exploitation which, once brought to light, can call the integrity of their foundations into question.
