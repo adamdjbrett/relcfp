@@ -1,5 +1,5 @@
 ---
-title: "CCall for Papers: Faith and spirituality in the wake of scandal"
+title: "Call for Papers: Faith and spirituality in the wake of scandal"
 image: /assets/images/relcfp-cover.webp
 date: 2024-12-12T14:54:46
 tags:
