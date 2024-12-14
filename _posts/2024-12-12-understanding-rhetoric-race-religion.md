@@ -6,8 +6,7 @@ tags:
   - religion
   - humanities
   - history
-  - theology
-  - baptist
+  - rhetoric
 paginate: true   
 canonical_url: https://blogs.memphis.edu/csjh/2024/12/02/call-for-papers-understanding-the-intersection-rhetoric-race-and-religion/
 ---
