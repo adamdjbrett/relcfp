@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-12-12T14:54:46.000Z",
+        "updated": "2024-12-14T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: Faith and Spirituality in the Wake of Scandal",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/14/cfp-faith-scandal/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-14T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/14/cfp-faith-scandal/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers: Faith and Spirituality in the Wake of Scandal University of Erfurt, Germany, 26\u201327\u2026"
+                }
+            },
+            {
+                "title": "CFP: West Chester University Spring 2025 Graduate Philosophy Conference",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/14/cfp-westchester-graduate-philosophy-conference/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-14T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/14/cfp-westchester-graduate-philosophy-conference/",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: West Chester University Spring 2025 Graduate Philosophy Conference"
+                }
+            },
+            {
+                "title": "CFP: Mudd Undergraduate Journal of Ethics",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/14/mudd-journal-undergrad-ethics/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-14T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/14/mudd-journal-undergrad-ethics/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Details"
+                }
+            },
             {
                 "title": "Call for Papers: \u201cUnderstanding the Intersection\u201d: Rhetoric, Race, and Religion",
                 "link": {
@@ -192,7 +240,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/bloomsburys-environment-and-society-book-series",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, December 13, 2024 - 12:42amfull name / name of organization: Bloomsbury\u2026"
+                    "#text": "updated: Saturday, December 14, 2024 - 2:09pmfull name / name of organization: Bloomsbury\u2026"
                 }
             },
             {
@@ -836,22 +884,6 @@
                 }
             },
             {
-                "title": "CFP: AGIC Journeying",
-                "link": {
-                    "@href": "https://relcfp.com/2024/11/11/cfp-agic/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-11-11T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/11/11/cfp-agic/",
-                "content": {
-                    "@type": "html",
-                    "#text": "AGIC is excited to announce that our Call for Proposals is officially open for this year\u2019s event on\u2026"
-                }
-            },
-            {
                 "title": "Special Panel on Preternatural Undeath in Esotericism, Occultism, and Magic at Southwest Popular/American Culture Association, Feb 19-22, Albuquerque, New Mexico",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/11/07/special-panel-on-preternatural-undeath-in-esotericism-occultism-and-magic-at"
@@ -897,22 +929,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, November 8, 2024 - 4:31amfull name / name of organization: Sacred Journeys contact\u2026"
-                }
-            },
-            {
-                "title": "CFP: Canadian Theological Society",
-                "link": {
-                    "@href": "https://relcfp.com/2024/11/07/canadian-theological-society/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-11-07T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/11/07/canadian-theological-society/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Canadian Theological Society"
                 }
             },
             {
@@ -1073,22 +1089,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 13 new job\u2026"
-                }
-            },
-            {
-                "title": "CFP: Religiosities, Ecologies, and Environmentalisms in the Age of the Anthropocene",
-                "link": {
-                    "@href": "https://relcfp.com/2024/10/21/religiosities-ecologies/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-10-21T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/10/21/religiosities-ecologies/",
-                "content": {
-                    "@type": "html",
-                    "#text": "2025 Biennial Meeting"
                 }
             },
             {
