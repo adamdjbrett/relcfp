@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-12-16T04:21:16.000Z",
+        "updated": "2024-12-19T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: Religion on the Plate: Critical Perspectives on Food & Religion",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/19/cfp-religion-food/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-19T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/19/cfp-religion-food/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers:"
+                }
+            },
             {
                 "title": "[CFP]Sino Queer Translation: Sexualities across Languages, Cultures, and Media",
                 "link": {
@@ -481,22 +497,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "2025 NABPR Annual meeting"
-                }
-            },
-            {
-                "title": "Workshop on Traveling Expertise in Modern South Asia and Beyond",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/11/workshop-travelling-south-asia/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-11T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/11/workshop-travelling-south-asia/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The South Asian Studies Council at Yale University is seeking applicants from scholars interested in\u2026"
                 }
             },
             {
