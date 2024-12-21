@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-12-16T04:21:16.000Z",
+        "updated": "2024-12-19T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: Religion on the Plate: Critical Perspectives on Food & Religion",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/19/cfp-religion-food/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-19T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/19/cfp-religion-food/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers:"
+                }
+            },
             {
                 "title": "[CFP]Sino Queer Translation: Sexualities across Languages, Cultures, and Media",
                 "link": {
@@ -484,22 +500,6 @@
                 }
             },
             {
-                "title": "Workshop on Traveling Expertise in Modern South Asia and Beyond",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/11/workshop-travelling-south-asia/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-11T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/11/workshop-travelling-south-asia/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The South Asian Studies Council at Yale University is seeking applicants from scholars interested in\u2026"
-                }
-            },
-            {
                 "title": "SCALE--Special Issue of Imagined Theatres",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/10/scale-special-issue-of-imagined-theatres"
@@ -628,22 +628,6 @@
                 }
             },
             {
-                "title": "Mythic Muse: Writing Poetry with Mythology",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/05/mythic-muse-writing-poetry-with-mythology"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2024-12-05T18:16:47.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/05/mythic-muse-writing-poetry-with-mythology",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, December 16, 2024 - 3:42pmfull name / name of organization: London Arts-Based\u2026"
-                }
-            },
-            {
                 "title": "The Affordances of Frustrating Narratives (proposed panel for MLA 2026 in Toronto)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/04/the-affordances-of-frustrating-narratives-proposed-panel-for-mla-2026-in-toronto"
@@ -721,6 +705,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, December 5, 2024 - 12:02pmfull name / name of organization: University at Albany,\u2026"
+                }
+            },
+            {
+                "title": "Exit Signs: University of Toronto Cinema Studies Graduate Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/02/exit-signs-university-of-toronto-cinema-studies-graduate-conference"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2024-12-02T21:10:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/02/exit-signs-university-of-toronto-cinema-studies-graduate-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, December 12, 2024 - 12:20pmfull name / name of organization: University of\u2026"
                 }
             },
             {
