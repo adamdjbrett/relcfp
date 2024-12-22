@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2024-12-19T00:00:00.000Z",
+        "updated": "2024-12-21T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: Religion and Democracy",
+                "link": {
+                    "@href": "https://relcfp.com/2024/12/21/religion-democracy/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2024-12-21T00:00:00.000Z",
+                "id": "https://relcfp.com/2024/12/21/religion-democracy/",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Religion and Democracy"
+                }
+            },
             {
                 "title": "CFP: Religion on the Plate: Critical Perspectives on Food & Religion",
                 "link": {
@@ -481,22 +497,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "CALL FOR PAPERS the \u201cInternational Conference on Decolonizing Social Sciences and Humanities:\u2026"
-                }
-            },
-            {
-                "title": "CFP: 2025 NABPR Annual meeting",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/11/nabpr-cfp-annual-meeting-2025/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-11T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/11/nabpr-cfp-annual-meeting-2025/",
-                "content": {
-                    "@type": "html",
-                    "#text": "2025 NABPR Annual meeting"
                 }
             },
             {
