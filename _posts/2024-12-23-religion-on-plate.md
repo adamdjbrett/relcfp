@@ -79,8 +79,7 @@ Below is a list of potential topics, themes, and intersections on which we encou
 
 * Food futures
 
-Submission Guidelines
-=====================
+## Submission Guidelines
 
 * Email a 250 word abstract (docx. or pdf. only) by January 20, 2025 to <columbiareligion@gmail.com>.
 
