@@ -1,5 +1,5 @@
 ---
-title: "CReligion on the Plate: Critical Perspectives on Food & Religion"
+title: "CFP: Religion on the Plate: Critical Perspectives on Food & Religion"
 image: /assets/images/relcfp-cover.webp
 tags:
  - religion
