@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-06T19:09:37.000Z",
+        "updated": "2025-01-08T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Eldritch: New Critical Developments in the Lovecraftian Mythos",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/08/eldritch/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-08T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/08/eldritch/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call For Proposals"
+                }
+            },
             {
                 "title": "The 46th Annual Meeting of the International T. S. Eliot Society, Dublin, Ireland, 2\u20135 July 2025",
                 "link": {
@@ -705,22 +721,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Details"
-                }
-            },
-            {
-                "title": "Call for Papers: \u201cUnderstanding the Intersection\u201d: Rhetoric, Race, and Religion",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-12T14:54:46.000Z",
-                "id": "https://relcfp.com/2024/12/12/understanding-rhetoric-race-religion/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The Center for the Study of Rhetoric, Race, and Religion is excited to announce a call for\u2026"
                 }
             },
             {
