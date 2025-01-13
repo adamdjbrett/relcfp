@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-11T04:33:55.000Z",
+        "updated": "2025-01-12T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: The British Society for the Philosophy of Religion, 2025 Biennial Conference: Creativity and Creation",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/12/creativity-creation/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-12T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/12/creativity-creation/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Details"
+                }
+            },
             {
                 "title": "South Asian Expressions: Reimagining Narratives, Histories, and Cultures",
                 "link": {
@@ -33,6 +49,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, January 11, 2025 - 4:48amfull name / name of organization: Editors, South Asian\u2026"
+                }
+            },
+            {
+                "title": "2025 Feminist Decolonial Politics Workshop",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/11/feminist-decolonial-politics/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-11T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/11/feminist-decolonial-politics/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Speakers: James M. Joyce University of Michigan, Ann Arbor"
                 }
             },
             {
@@ -212,6 +244,38 @@
                 }
             },
             {
+                "title": "#CFP: Dignity in the Digital Age",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/10/dignity-digital-age/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-10T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/10/dignity-digital-age/",
+                "content": {
+                    "@type": "html",
+                    "#text": "June 17 to 18, 2025 (lunch to lunch)"
+                }
+            },
+            {
+                "title": "#CFP: Weatherford College 7th Annual Conference: Philosophy of Religion and War",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/10/religion-war/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-10T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/10/religion-war/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Weatherford College"
+                }
+            },
+            {
                 "title": "Call for Essays: Anthology for College-Level Students/Various Essay Types",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/09/call-for-essays-anthology-for-college-level-studentsvarious-essay-types"
@@ -388,6 +452,22 @@
                 }
             },
             {
+                "title": "#CFP: 3rd Annual Duke-UNC Graduate Conference in Philosophy",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/09/duke-unc-grad-conf/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-09T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/09/duke-unc-grad-conf/",
+                "content": {
+                    "@type": "html",
+                    "#text": "We are pleased to announce that the 3rd annual Duke-UNC Philosophy Graduate Conference will be held\u2026"
+                }
+            },
+            {
                 "title": "[redacted] for ASA 2025",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/08/redacted-for-asa-2025"
@@ -404,7 +484,7 @@
                 }
             },
             {
-                "title": "Eldritch: New Critical Developments in the Lovecraftian Mythos",
+                "title": "CFP:: Eldritch: New Critical Developments in the Lovecraftian Mythos",
                 "link": {
                     "@href": "https://relcfp.com/2025/01/08/eldritch/"
                 },
@@ -468,6 +548,22 @@
                 }
             },
             {
+                "title": "Seeking Monograph Peer Reviewers: Lit, Film, Gender & Transitional Justice",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/07/seeking-monograph-peer-reviewers-lit-film-gender-transitional-justice"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-07T11:28:54.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/07/seeking-monograph-peer-reviewers-lit-film-gender-transitional-justice",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, January 13, 2025 - 10:23amfull name / name of organization: Tailorcontact\u2026"
+                }
+            },
+            {
                 "title": "Katherine Mansfield Society Essay Prize 2025: Katherine Mansfield's Men",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/06/katherine-mansfield-society-essay-prize-2025-katherine-mansfields-men"
@@ -478,22 +574,6 @@
                 },
                 "updated": "2025-01-06T15:14:36.000Z",
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/06/katherine-mansfield-society-essay-prize-2025-katherine-mansfields-men",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, January 6, 2025 - 3:18pmfull name / name of organization: Katherine Mansfield\u2026"
-                }
-            },
-            {
-                "title": "VOLUME 18 of Katherine Mansfield Studies: Katherine Mansfield's Men",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/06/volume-18-of-katherine-mansfield-studies-katherine-mansfields-men"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-06T15:10:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/06/volume-18-of-katherine-mansfield-studies-katherine-mansfields-men",
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, January 6, 2025 - 3:18pmfull name / name of organization: Katherine Mansfield\u2026"
@@ -692,22 +772,6 @@
                 }
             },
             {
-                "title": "CFP: Religion on the Plate: Critical Perspectives on Food & Religion",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/19/cfp-religion-food/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-19T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/19/cfp-religion-food/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers:"
-                }
-            },
-            {
                 "title": "Emersonian Revolutions Today",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/17/emersonian-revolutions-today"
@@ -721,70 +785,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, January 2, 2025 - 7:49pmfull name / name of organization: Ralph Waldo Emerson\u2026"
-                }
-            },
-            {
-                "title": "CFP: From Villain to Variant: Critical Perspectives on Marvel Studios\u2019 Loki",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/15/cfp-from-villain-to-variant-critical-perspectiveson-marvelstudios-loki/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-15T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/15/cfp-from-villain-to-variant-critical-perspectiveson-marvelstudios-loki/",
-                "content": {
-                    "@type": "html",
-                    "#text": "From Villain to Variant:"
-                }
-            },
-            {
-                "title": "Call for Papers: Faith and Spirituality in the Wake of Scandal",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/14/cfp-faith-scandal/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-14T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/14/cfp-faith-scandal/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers: Faith and Spirituality in the Wake of Scandal University of Erfurt, Germany, 26\u201327\u2026"
-                }
-            },
-            {
-                "title": "CFP: West Chester University Spring 2025 Graduate Philosophy Conference",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/14/cfp-westchester-graduate-philosophy-conference/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-14T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/14/cfp-westchester-graduate-philosophy-conference/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: West Chester University Spring 2025 Graduate Philosophy Conference"
-                }
-            },
-            {
-                "title": "CFP: Mudd Undergraduate Journal of Ethics",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/14/mudd-journal-undergrad-ethics/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-14T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/14/mudd-journal-undergrad-ethics/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Details"
                 }
             },
             {
@@ -832,7 +832,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2024/12/07/call-for-book-chapters-on-becoming-a-human-animal-interpretations-of-the",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Wednesday, December 11, 2024 - 4:15pmfull name / name of organization: Thakurdas Jana,\u2026"
+                    "#text": "updated: Monday, January 13, 2025 - 3:11amfull name / name of organization: Thakurdas Jana, Bhatter\u2026"
                 }
             },
             {
