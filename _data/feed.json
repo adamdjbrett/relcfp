@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-12T00:00:00.000Z",
+        "updated": "2025-01-13T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Interfaith at Faith-based Universities",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/13/cfp-faith-based/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-13T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/13/cfp-faith-based/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Brigham Young University Religious Education and the Moral Education Professorship Send submissions\u2026"
+                }
+            },
             {
                 "title": "#CFP: The British Society for the Philosophy of Religion, 2025 Biennial Conference: Creativity and Creation",
                 "link": {
@@ -721,22 +737,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, January 2, 2025 - 8:47pmfull name / name of organization: International Network\u2026"
-                }
-            },
-            {
-                "title": "CFP: Religion and Democracy",
-                "link": {
-                    "@href": "https://relcfp.com/2024/12/21/religion-democracy/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2024-12-21T00:00:00.000Z",
-                "id": "https://relcfp.com/2024/12/21/religion-democracy/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: Religion and Democracy"
                 }
             },
             {
