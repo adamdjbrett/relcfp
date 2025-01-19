@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-17T16:10:23.000Z",
+        "updated": "2025-01-18T00:01:30.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: tBTR, Special Issue, The Role of Theatre at Historically Black Colleges and Universities",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-18T00:01:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 18, 2025 - 10:09amfull name / name of organization: Michelle Gibbs,\u2026"
+                }
+            },
+            {
+                "title": "CFP: tBTR, Special Issue, The Role of Theatre at Historically Black Colleges and Universities",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-18T00:01:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 18, 2025 - 10:09amfull name / name of organization: Michelle Gibbs,\u2026"
+                }
+            },
+            {
+                "title": "Call for Book Chapters (Peter Lang series)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters-peter-lang-series"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-17T17:39:56.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters-peter-lang-series",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 18, 2025 - 10:09amfull name / name of organization: Bidisha Pal and Biraj\u2026"
+                }
+            },
             {
                 "title": "Proposed Panel for ASA 2025: \"Tourism and Self-Help Culture\"",
                 "link": {
@@ -33,6 +81,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 17, 2025 - 11:10amfull name / name of organization: American Studies\u2026"
+                }
+            },
+            {
+                "title": "Call for Book Chapters",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-17T14:29:45.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 18, 2025 - 7:12amfull name / name of organization: The Postmillennial\u2026"
                 }
             },
             {
@@ -217,22 +281,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-16T12:35:49.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:08amfull name / name of organization: Editorial Office of\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Studies in Materialistic Historiography",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -273,38 +321,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 17, 2025 - 11:08amfull name / name of organization: Lamar Journal of the\u2026"
-                }
-            },
-            {
-                "title": "Readers Needed for Author Meets Readers",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/readers-needed-for-author-meets-readers"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-15T22:32:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/readers-needed-for-author-meets-readers",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:08amfull name / name of organization: American Studies\u2026"
-                }
-            },
-            {
-                "title": "R/evolution: Radical Change and Gradual Transformation in Literature and Culture (April 11\u201313, 2025, Hybrid)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/revolution-radical-change-and-gradual-transformation-in-literature-and-culture-april"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-15T21:43:42.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/revolution-radical-change-and-gradual-transformation-in-literature-and-culture-april",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:07amfull name / name of organization: English Graduate\u2026"
                 }
             },
             {
@@ -593,22 +609,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, January 11, 2025 - 4:46amfull name / name of organization: Rejoinder\u2026"
-                }
-            },
-            {
-                "title": "Catholic Library World",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/10/catholic-library-world"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-10T15:55:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/10/catholic-library-world",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, January 11, 2025 - 4:46amfull name / name of organization: Catholic Library\u2026"
                 }
             },
             {
