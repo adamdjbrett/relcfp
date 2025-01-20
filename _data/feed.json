@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-18T00:01:30.000Z",
+        "updated": "2025-01-18T21:36:50.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "FACULTY OF HUMANITIES FIRST INTERNATIONAL CONFERENCE (ON-SITE & ONLINE)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/18/faculty-of-humanities-first-international-conference-on-site-online"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-18T21:36:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/18/faculty-of-humanities-first-international-conference-on-site-online",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Sunday, January 19, 2025 - 9:34amfull name / name of organization: FEDERAL UNIVERSITY\u2026"
+                }
+            },
             {
                 "title": "CFP: tBTR, Special Issue, The Role of Theatre at Historically Black Colleges and Universities",
                 "link": {
@@ -257,22 +273,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 17, 2025 - 11:09amfull name / name of organization: Daniel Nev\u00e1rezcontact\u2026"
-                }
-            },
-            {
-                "title": "Practising Shakespeare: new collaborations, expanding horizons",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/practising-shakespeare-new-collaborations-expanding-horizons"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-16T12:58:40.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/practising-shakespeare-new-collaborations-expanding-horizons",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:09amfull name / name of organization: British Shakespeare\u2026"
                 }
             },
             {
