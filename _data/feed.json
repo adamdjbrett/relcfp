@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-18T21:36:50.000Z",
+        "updated": "2025-01-19T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Autonomy and its Discontents",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/19/autonomy-discontents/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-19T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/19/autonomy-discontents/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Overview June 27, 2025 - June 28, 2025 University of Potsdam Potsdam, Germany"
+                }
+            },
             {
                 "title": "FACULTY OF HUMANITIES FIRST INTERNATIONAL CONFERENCE (ON-SITE & ONLINE)",
                 "link": {
@@ -689,22 +705,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call For Proposals"
-                }
-            },
-            {
-                "title": "CFP: (Disputed) Origins in the Study of Religions",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/06/disputed-origins-in-study-religions/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-06T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/06/disputed-origins-in-study-religions/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CALL FOR PAPERS Fourth Annual Graduate Conference McGill University\u2019s School of Religious Studies"
                 }
             },
             {
