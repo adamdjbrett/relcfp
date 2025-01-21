@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-20T13:44:25.000Z",
+        "updated": "2025-01-20T19:06:06.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Untitled",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/20/2025-01-20-magic-ritual/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-20T19:06:06.000Z",
+                "id": "https://relcfp.com/2025/01/20/2025-01-20-magic-ritual/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers Date: January 9, 2025 Subject Fields Anthropology, Journalism and Media\u2026"
+                }
+            },
             {
                 "title": "FORUM Postgraduate Journal: Family, Issue 36",
                 "link": {
@@ -132,6 +148,22 @@
                 }
             },
             {
+                "title": "#CFP: Critical Theory in an Age of Social Disintegration",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/20/critical-theory-social-disentegration/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-20T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/20/critical-theory-social-disentegration/",
+                "content": {
+                    "@type": "html",
+                    "#text": "CALL FOR PAPERS: ICST CONFERENCE 2025"
+                }
+            },
+            {
                 "title": "Call for Papers Journal \"Temas de Integra\u00e7\u00e3o\": Migratory Phenomena and the Role of International Integration Organizations",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/19/call-for-papers-journal-temas-de-integra%C3%A7%C3%A3o-migratory-phenomena-and-the-role-of"
@@ -177,6 +209,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "Overview June 27, 2025 - June 28, 2025 University of Potsdam Potsdam, Germany"
+                }
+            },
+            {
+                "title": "#CFP: 2025 Eastern Conference of the Society of Christian Philosophers: The Philosophical Legacy of Robert Merrihew Adams",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/19/robert-merrihew-adams/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-19T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/19/robert-merrihew-adams/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Details"
                 }
             },
             {
@@ -657,54 +705,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "June 17 to 18, 2025 (lunch to lunch)"
-                }
-            },
-            {
-                "title": "#CFP: Weatherford College 7th Annual Conference: Philosophy of Religion and War",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/10/religion-war/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-10T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/10/religion-war/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Weatherford College"
-                }
-            },
-            {
-                "title": "#CFP: 3rd Annual Duke-UNC Graduate Conference in Philosophy",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/09/duke-unc-grad-conf/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-09T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/09/duke-unc-grad-conf/",
-                "content": {
-                    "@type": "html",
-                    "#text": "We are pleased to announce that the 3rd annual Duke-UNC Philosophy Graduate Conference will be held\u2026"
-                }
-            },
-            {
-                "title": "CFP:: Eldritch: New Critical Developments in the Lovecraftian Mythos",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/08/eldritch/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-08T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/08/eldritch/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call For Proposals"
                 }
             },
             {
