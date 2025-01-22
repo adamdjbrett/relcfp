@@ -1,5 +1,5 @@
 ---
-title: "#CFP: Magic, Ritual, and Witchcraft: Meanings of "Magic"
+title: "#CFP: Magic, Ritual, and Witchcraft: Meanings of Magic"
 image: /assets/images/relcfp-cover.webp
 tags:
  - religion
