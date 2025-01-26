@@ -12,13 +12,93 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-24T16:50:49.000Z",
+        "updated": "2025-01-25T17:22:34.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "ASCH Executive Secretary",
+                "link": {
+                    "@href": "https://churchhistory.org/asch-executive-secretary/"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2025-01-25T17:22:34.000Z",
+                "id": "https://churchhistory.org/asch-executive-secretary/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Nominations Due by February 10, 2025 The American Society of Church History seeks a new Executive\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Anxiety and Trauma With and Beyond Kierkegaard",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/25/anxiety-trauma-kirekegaard/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-25T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/25/anxiety-trauma-kirekegaard/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Details Submission deadline: February 15, 2025 Conference date(s): May 22, 2025 - May 23, 2025"
+                }
+            },
+            {
+                "title": "#CFP: The Society of Christian Philosophers\u2019 Work-in-Progress group",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/25/cfp-christian-philosophers-wip/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-25T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/25/cfp-christian-philosophers-wip/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Deadlines Submission deadline: February 1, 2025 Conference date(s): February 14, 2025 - June 13,\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Emmanuel Levinas (1906-1995) Special Issue",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/25/cfp-levinas-special-issue/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-25T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/25/cfp-levinas-special-issue/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Deadline Submission deadline: February 28, 2025"
+                }
+            },
+            {
+                "title": "#CFP: Journal of Interdisciplinary Studies XXXVII 2025: DNA + AI Superintelligence: Utopia or Dystopia?",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/25/dna-ai-journal-interdisciplinary-studies/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-25T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/25/dna-ai-journal-interdisciplinary-studies/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Deadline Submission deadline: March 1, 2025"
+                }
+            },
             {
                 "title": "Call for Submissions: Play in the Long Nineteenth Century",
                 "link": {
@@ -596,38 +676,6 @@
                 }
             },
             {
-                "title": "#CFP: Interfaith at Faith-based Universities",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/13/cfp-faith-based/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-13T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/13/cfp-faith-based/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Brigham Young University Religious Education and the Moral Education Professorship Send submissions\u2026"
-                }
-            },
-            {
-                "title": "#CFP: The British Society for the Philosophy of Religion, 2025 Biennial Conference: Creativity and Creation",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/12/creativity-creation/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-12T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/12/creativity-creation/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Details"
-                }
-            },
-            {
                 "title": "W.D. FARD MAN, MYTH, AND MYSTERY",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/11/wd-fard-man-myth-and-mystery"
@@ -660,22 +708,6 @@
                 }
             },
             {
-                "title": "2025 Feminist Decolonial Politics Workshop",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/11/feminist-decolonial-politics/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-11T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/11/feminist-decolonial-politics/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Speakers: James M. Joyce University of Michigan, Ann Arbor"
-                }
-            },
-            {
                 "title": "Catholic Library World",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/10/catholic-library-world"
@@ -689,22 +721,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, January 11, 2025 - 4:46amfull name / name of organization: Catholic Library\u2026"
-                }
-            },
-            {
-                "title": "#CFP: Dignity in the Digital Age",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/10/dignity-digital-age/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-10T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/10/dignity-digital-age/",
-                "content": {
-                    "@type": "html",
-                    "#text": "June 17 to 18, 2025 (lunch to lunch)"
                 }
             },
             {
@@ -1329,22 +1345,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Dates: October 18\u201319, 2024 Location: Holy Cross Greek Orthodox School of Theology \u2013 Brookline, MA\u2026"
-                }
-            },
-            {
-                "title": "Job Search: Associate Director, Religious Studies \u2013 University of Minnesota",
-                "link": {
-                    "@href": "https://churchhistory.org/job-search-associate-director-religious-studies-university-of-minnesota/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-02-09T17:50:34.000Z",
-                "id": "https://churchhistory.org/job-search-associate-director-religious-studies-university-of-minnesota/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Associate Director \u2013 Religious Studies ProgramInstitute for Global Studies, College of Liberal Arts\u2026"
                 }
             }
         ]
