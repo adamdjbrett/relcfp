@@ -12,13 +12,365 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-20T13:44:25.000Z",
+        "updated": "2025-01-24T16:50:49.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Submissions: Play in the Long Nineteenth Century",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-submissions-play-in-the-long-nineteenth-century"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-24T16:50:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-submissions-play-in-the-long-nineteenth-century",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: Romance, Revolution\u2026"
+                }
+            },
+            {
+                "title": "MLA Special Session Women and Physical Objects",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/mla-special-session-women-and-physical-objects"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-24T16:48:23.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/mla-special-session-women-and-physical-objects",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: 2026 MLA\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers | Journal Special Issue | \"Translation & Philosophy: Disciplines in Need of Dialogue\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-papers-journal-special-issue-translation-philosophy-disciplines-in-need-of"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-24T15:19:48.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-papers-journal-special-issue-translation-philosophy-disciplines-in-need-of",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: Journal of Comparative\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers | Journal Special Issue | \"Translation & Philosophy: Disciplines in Need of Dialogue\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-papers-journal-special-issue-translation-philosophy-disciplines-in-need-of"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-24T15:19:48.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-papers-journal-special-issue-translation-philosophy-disciplines-in-need-of",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: Journal of Comparative\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers | Journal Special Issue | \"Translation & Philosophy: Disciplines in Need of Dialogue\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-papers-journal-special-issue-translation-philosophy-disciplines-in-need-of"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-01-24T15:19:48.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/call-for-papers-journal-special-issue-translation-philosophy-disciplines-in-need-of",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: Journal of Comparative\u2026"
+                }
+            },
+            {
+                "title": "Enthusiasm: A Political Affect?",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/enthusiasm-a-political-affect%C2%A0"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-01-24T14:58:20.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/enthusiasm-a-political-affect%C2%A0",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: Rutgers University\u2026"
+                }
+            },
+            {
+                "title": "Science and Society in the Age of Revolutions",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/science-and-society-in-the-age-of-revolutions"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-24T14:37:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/science-and-society-in-the-age-of-revolutions",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: American Philosophical\u2026"
+                }
+            },
+            {
+                "title": "Symphonies of Imagination - Issue #4 - Education - Print",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/symphonies-of-imagination-issue-4-education-print"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-24T07:52:58.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/symphonies-of-imagination-issue-4-education-print",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:31amfull name / name of organization: Symphonies of\u2026"
+                }
+            },
+            {
+                "title": "Symphonies of Imagination - Issue #4 - Education - Print",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/symphonies-of-imagination-issue-4-education-print"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-24T07:52:58.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/symphonies-of-imagination-issue-4-education-print",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:31amfull name / name of organization: Symphonies of\u2026"
+                }
+            },
+            {
+                "title": "Radical Retellings: New Perspectives on Greek Myth in Contemporary Writing",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/23/radical-retellings-new-perspectives-on-greek-myth-in-contemporary-writing"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-23T11:36:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/23/radical-retellings-new-perspectives-on-greek-myth-in-contemporary-writing",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:31amfull name / name of organization: Isabelle Berrow, Zoe\u2026"
+                }
+            },
+            {
+                "title": "Call for Contributions: 'Art and film interrelations on Nordic Screens'",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/23/call-for-contributions-art-and-film-interrelations-on-nordic-screens"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-23T10:43:38.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/23/call-for-contributions-art-and-film-interrelations-on-nordic-screens",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:30amfull name / name of organization: Journal of\u2026"
+                }
+            },
+            {
+                "title": "Migration Histories to Finland: Global Movements, Local Impacts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/23/migration-histories-to-finland-global-movements-local-impacts"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-23T07:11:01.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/23/migration-histories-to-finland-global-movements-local-impacts",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:30amfull name / name of organization: Faravid \u2013 Journal for\u2026"
+                }
+            },
+            {
+                "title": "Shakespeare in Spirit",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/shakespeare-in-spirit"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-23T04:59:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/shakespeare-in-spirit",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:30amfull name / name of organization: Australia and New\u2026"
+                }
+            },
+            {
+                "title": "Reinventing the Western Literary Canon",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/reinventing-the-western-literary-canon"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-23T02:15:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/reinventing-the-western-literary-canon",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:30amfull name / name of organization: Postcolonial Studies\u2026"
+                }
+            },
+            {
+                "title": "David Lynch and American Empire",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/david-lynch-and-american-empire"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-22T22:29:14.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/david-lynch-and-american-empire",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:30amfull name / name of organization: American Studies\u2026"
+                }
+            },
+            {
+                "title": "Penny Pether Law & Language Scholarship Award",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/penny-pether-law-language-scholarship-award"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-22T22:17:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/penny-pether-law-language-scholarship-award",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:29amfull name / name of organization: University of Nevada\u2026"
+                }
+            },
+            {
+                "title": "Penny Pether Law & Language Scholarship Award",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/penny-pether-law-language-scholarship-award"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-01-22T22:17:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/penny-pether-law-language-scholarship-award",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:29amfull name / name of organization: University of Nevada\u2026"
+                }
+            },
+            {
+                "title": "Laughing in the Face of Evil: Humorous Perspectives on Perpetrators in Contemporary American Literature and Popular Culture CFP [Extended Deadline]",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/laughing-in-the-face-of-evil-humorous-perspectives-on-perpetrators-in-contemporary"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-22T19:53:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/laughing-in-the-face-of-evil-humorous-perspectives-on-perpetrators-in-contemporary",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:29amfull name / name of organization: Mihaela Precup,\u2026"
+                }
+            },
+            {
+                "title": "Laughing in the Face of Evil: Humorous Perspectives on Perpetrators in Contemporary American Literature and Popular Culture CFP [Extended Deadline]",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/laughing-in-the-face-of-evil-humorous-perspectives-on-perpetrators-in-contemporary"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-22T19:53:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/22/laughing-in-the-face-of-evil-humorous-perspectives-on-perpetrators-in-contemporary",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:29amfull name / name of organization: Mihaela Precup,\u2026"
+                }
+            },
+            {
+                "title": "Art and Smoke: Morris, Ruskin, Art, and Industrialism",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/21/art-and-smoke-morris-ruskin-art-and-industrialism"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-01-21T15:18:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/21/art-and-smoke-morris-ruskin-art-and-industrialism",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:27amfull name / name of organization: Jude V. Nixon/Salem\u2026"
+                }
+            },
+            {
+                "title": "William Morris and Material Culture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/21/william-morris-and-material-culture"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-01-21T15:14:25.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/21/william-morris-and-material-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:27amfull name / name of organization: Jude V. Nixon/Salem\u2026"
+                }
+            },
+            {
+                "title": "1000-WORD FILM REVIEWS for The quint journal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/1000-word-film-reviews-for-the-quint-journal"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-01-20T20:54:14.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/1000-word-film-reviews-for-the-quint-journal",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, January 25, 2025 - 5:24amfull name / name of organization: Dr. Antonio\u2026"
+                }
+            },
             {
                 "title": "FORUM Postgraduate Journal: Family, Issue 36",
                 "link": {
@@ -33,22 +385,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, January 20, 2025 - 10:01amfull name / name of organization: FORUM Postgraduate\u2026"
-                }
-            },
-            {
-                "title": "Revisiting the Sociology of Literature: Towards Epistemological Symmetry in Literature-and-Society Research",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/revisiting-the-sociology-of-literature-towards-epistemological-symmetry-in-literature"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-20T12:22:39.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/revisiting-the-sociology-of-literature-towards-epistemological-symmetry-in-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, January 20, 2025 - 10:00amfull name / name of organization: Czech Sociological\u2026"
                 }
             },
             {
@@ -84,54 +420,6 @@
                 }
             },
             {
-                "title": "EXPLORING THE SCANDALOUS: SCANDAL AS A CATALYST OF PROGRESS?",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/exploring-the-scandalous-scandal-as-a-catalyst-of-progress"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-20T10:22:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/exploring-the-scandalous-scandal-as-a-catalyst-of-progress",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, January 20, 2025 - 10:00amfull name / name of organization: University of\u2026"
-                }
-            },
-            {
-                "title": "70 years of Lolita: (Re)reading Lolita after #MeToo",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/70-years-of-lolita-rereading-lolita-after-metoo"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-20T07:47:39.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/20/70-years-of-lolita-rereading-lolita-after-metoo",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, January 20, 2025 - 9:59amfull name / name of organization: Leopold Reignercontact\u2026"
-                }
-            },
-            {
-                "title": "Late-Stage American Medicine",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/19/late-stage-american-medicine"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-20T01:20:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/19/late-stage-american-medicine",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, January 20, 2025 - 9:59amfull name / name of organization: American Studies\u2026"
-                }
-            },
-            {
                 "title": "#CFP: Critical Theory in an Age of Social Disintegration",
                 "link": {
                     "@href": "https://relcfp.com/2025/01/20/critical-theory-social-disentegration/"
@@ -161,22 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call for Papers"
-                }
-            },
-            {
-                "title": "Call for Papers Journal \"Temas de Integra\u00e7\u00e3o\": Migratory Phenomena and the Role of International Integration Organizations",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/19/call-for-papers-journal-temas-de-integra%C3%A7%C3%A3o-migratory-phenomena-and-the-role-of"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-19T14:55:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/19/call-for-papers-journal-temas-de-integra%C3%A7%C3%A3o-migratory-phenomena-and-the-role-of",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, January 20, 2025 - 9:59amfull name / name of organization: Association of European\u2026"
                 }
             },
             {
@@ -228,102 +500,6 @@
                 }
             },
             {
-                "title": "FACULTY OF HUMANITIES FIRST INTERNATIONAL CONFERENCE (ON-SITE & ONLINE)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/18/faculty-of-humanities-first-international-conference-on-site-online"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-18T21:36:50.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/18/faculty-of-humanities-first-international-conference-on-site-online",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, January 19, 2025 - 9:34amfull name / name of organization: FEDERAL UNIVERSITY\u2026"
-                }
-            },
-            {
-                "title": "CFP: tBTR, Special Issue, The Role of Theatre at Historically Black Colleges and Universities",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-18T00:01:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, January 18, 2025 - 10:09amfull name / name of organization: Michelle Gibbs,\u2026"
-                }
-            },
-            {
-                "title": "CFP: tBTR, Special Issue, The Role of Theatre at Historically Black Colleges and Universities",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-18T00:01:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/cfp-tbtr-special-issue-the-role-of-theatre-at-historically-black-colleges-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, January 18, 2025 - 10:09amfull name / name of organization: Michelle Gibbs,\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Chapters (Peter Lang series)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters-peter-lang-series"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-17T17:39:56.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters-peter-lang-series",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, January 18, 2025 - 10:09amfull name / name of organization: Bidisha Pal and Biraj\u2026"
-                }
-            },
-            {
-                "title": "Proposed Panel for ASA 2025: \"Tourism and Self-Help Culture\"",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/proposed-panel-for-asa-2025-tourism-and-self-help-culture"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-17T16:10:23.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/proposed-panel-for-asa-2025-tourism-and-self-help-culture",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:10amfull name / name of organization: American Studies\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Chapters",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-17T14:29:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/call-for-book-chapters",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, January 18, 2025 - 7:12amfull name / name of organization: The Postmillennial\u2026"
-                }
-            },
-            {
                 "title": "MORE PRIDE, LESS PREJUDICE: JANE AUSTEN AT 250",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/17/more-pride-less-prejudice-jane-austen-at-250"
@@ -353,22 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "CALL FOR PAPERS for a topical issue of Open Theology"
-                }
-            },
-            {
-                "title": "Latinx Marxisms: Revolutionary Nationalism, Socialism and Communism in Latina/o/x History, Politics & Culture",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/latinx-marxisms-revolutionary-nationalism-socialism-and-communism-in-latinaox-history"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-16T22:49:38.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/latinx-marxisms-revolutionary-nationalism-socialism-and-communism-in-latinaox-history",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 24, 2025 - 12:55pmfull name / name of organization: Michael A. Parra and\u2026"
                 }
             },
             {
@@ -409,22 +569,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography"
                 },
                 "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-16T12:35:49.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:08amfull name / name of organization: Editorial Office of\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Studies in Materialistic Historiography",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -433,70 +577,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 17, 2025 - 11:08amfull name / name of organization: Editorial Office of\u2026"
-                }
-            },
-            {
-                "title": "Lamar Journal of the Humanities CFP",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/lamar-journal-of-the-humanities-cfp"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-16T04:03:48.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/lamar-journal-of-the-humanities-cfp",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:08amfull name / name of organization: Lamar Journal of the\u2026"
-                }
-            },
-            {
-                "title": "R/evolution: Radical Change and Gradual Transformation in Literature and Culture (April 11\u201313, 2025, Hybrid)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/revolution-radical-change-and-gradual-transformation-in-literature-and-culture-april"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-01-15T21:43:42.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/revolution-radical-change-and-gradual-transformation-in-literature-and-culture-april",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:07amfull name / name of organization: English Graduate\u2026"
-                }
-            },
-            {
-                "title": "Open call for articles on interdisciplinary scholarship and teaching",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/open-call-for-articles-on-interdisciplinary-scholarship-and-teaching"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-15T15:30:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/open-call-for-articles-on-interdisciplinary-scholarship-and-teaching",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 12:31pmfull name / name of organization: Impact: The Journal of\u2026"
-                }
-            },
-            {
-                "title": "Open call for articles on interdisciplinary scholarship and teaching",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/open-call-for-articles-on-interdisciplinary-scholarship-and-teaching"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-01-15T15:30:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/15/open-call-for-articles-on-interdisciplinary-scholarship-and-teaching",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 12:31pmfull name / name of organization: Impact: The Journal of\u2026"
                 }
             },
             {
@@ -516,54 +596,6 @@
                 }
             },
             {
-                "title": "Migrant Sensoria (special issue, Senses and Society)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/13/migrant-sensoria-special-issue-senses-and-society"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-14T03:57:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/13/migrant-sensoria-special-issue-senses-and-society",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 8:29amfull name / name of organization: Senses and\u2026"
-                }
-            },
-            {
-                "title": "Call for Submissions: Special Issue of Forum on AI, Labor, and Contingency",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/13/call-for-submissions-special-issue-of-forum-on-ai-labor-and-contingency"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-01-13T21:38:07.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/13/call-for-submissions-special-issue-of-forum-on-ai-labor-and-contingency",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 8:28amfull name / name of organization: NCTE/CCCCcontact\u2026"
-                }
-            },
-            {
-                "title": "Film-Philosophy Conference 2025, University of Malta, 23-25 June",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/13/film-philosophy-conference-2025-university-of-malta-23-25-june"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-01-13T17:48:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/13/film-philosophy-conference-2025-university-of-malta-23-25-june",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 4:46amfull name / name of organization: Film-Philosophy /\u2026"
-                }
-            },
-            {
                 "title": "#CFP: Interfaith at Faith-based Universities",
                 "link": {
                     "@href": "https://relcfp.com/2025/01/13/cfp-faith-based/"
@@ -577,22 +609,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Brigham Young University Religious Education and the Moral Education Professorship Send submissions\u2026"
-                }
-            },
-            {
-                "title": "Ethics of Democracy: Conflicts and Challenges",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/12/ethics-of-democracy-conflicts-and-challenges"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-01-12T10:17:38.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/12/ethics-of-democracy-conflicts-and-challenges",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 4:08amfull name / name of organization: Aloke N Prabhucontact\u2026"
                 }
             },
             {
@@ -625,22 +641,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 17, 2025 - 4:06amfull name / name of organization: Dr. JOHN ANDREW\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: IEEE International Conference On Quantum Software 2025",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/11/call-for-papers-ieee-international-conference-on-quantum-software-2025"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-01-11T10:27:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/11/call-for-papers-ieee-international-conference-on-quantum-software-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 4:06amfull name / name of organization: 2025 IEEE INTERNATIONAL\u2026"
                 }
             },
             {
