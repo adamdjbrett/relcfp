@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-26T21:04:24.000Z",
+        "updated": "2025-01-27T17:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Wolfenstein: Playing the Jew?",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/01/27/wolfenstein-playing-the-jew/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-01-27T17:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2025/01/27/wolfenstein-playing-the-jew/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Dr. Frank G. Bosman We are in the year 1960. The Third Reich has solidified its political,\u2026"
+                }
+            },
             {
                 "title": "Book Series in British Romanticism",
                 "link": {
@@ -1281,22 +1297,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Abstracts due by August 1, 2024 Original contributions are being sought for an edited collection on\u2026"
-                }
-            },
-            {
-                "title": "CFP: Routledge Companion to Superhero Studies (Final Call)",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2024/04/22/cfp-routledge-companion-to-superhero-studies-final-call/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2024-04-22T22:00:00.000Z",
-                "id": "https://popularcultureandtheology.com/2024/04/22/cfp-routledge-companion-to-superhero-studies-final-call/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The Routledge Companion to Superhero Studies [Final Call] Deadline for abstract submissions: 24th\u2026"
                 }
             },
             {
