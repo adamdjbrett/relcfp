@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-28T10:48:18.000Z",
+        "updated": "2025-01-28T17:50:17.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "33rd Annual Sachsman Symposium on the 19th Century Press",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/28/33rd-annual-sachsman-symposium-on-the-19th-century-press"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-28T17:50:17.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/28/33rd-annual-sachsman-symposium-on-the-19th-century-press",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, January 28, 2025 - 3:46pmfull name / name of organization: Society of 19th Century\u2026"
+                }
+            },
+            {
+                "title": "American Association of Australasian Literary Studies (AAALS) Annual Conference 14-18 May, Honolulu, Hawai`i",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/28/american-association-of-australasian-literary-studies-aaals-annual-conference-14-18"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-01-28T17:38:40.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/28/american-association-of-australasian-literary-studies-aaals-annual-conference-14-18",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, January 28, 2025 - 3:46pmfull name / name of organization: American Association of\u2026"
+                }
+            },
+            {
+                "title": "Essay Prize: Philosophy in the Public Sphere",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/28/essay-prize-philosophy-in-the-public-sphere"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-01-28T13:43:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/28/essay-prize-philosophy-in-the-public-sphere",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, January 28, 2025 - 3:46pmfull name / name of organization: Revue Internationale de\u2026"
+                }
+            },
             {
                 "title": "CFP: A special issue of Shakespeare on the theme \u201cShakespeare and Thomas Middleton\u201d",
                 "link": {
@@ -65,6 +113,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, January 28, 2025 - 8:16amfull name / name of organization: Christopher James\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Presbyterian Historical Society",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/28/cfp-presbyterian-history/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-28T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/28/cfp-presbyterian-history/",
+                "content": {
+                    "@type": "html",
+                    "#text": "For 20 years, the Presbyterian Historical Society\u2019s Research Fellowship Program has awarded annual\u2026"
                 }
             },
             {
@@ -260,22 +324,6 @@
                 }
             },
             {
-                "title": "Graduate Conference at JHU: Unraveling the Archive",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/25/graduate-conference-at-jhu-unraveling-the-archive"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-25T20:17:41.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/25/graduate-conference-at-jhu-unraveling-the-archive",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, January 26, 2025 - 5:37pmfull name / name of organization: Johns Hopkins University\u2026"
-                }
-            },
-            {
                 "title": "ASCH Executive Secretary",
                 "link": {
                     "@href": "https://churchhistory.org/asch-executive-secretary/"
@@ -369,22 +417,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: Romance, Revolution\u2026"
-                }
-            },
-            {
-                "title": "MLA Special Session Women and Physical Objects",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/mla-special-session-women-and-physical-objects"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-01-24T16:48:23.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/24/mla-special-session-women-and-physical-objects",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, January 25, 2025 - 5:32amfull name / name of organization: 2026 MLA\u2026"
                 }
             },
             {
@@ -657,38 +689,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 17, 2025 - 11:09amfull name / name of organization: ASAP - The Association\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Studies in Materialistic Historiography",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-01-16T12:35:49.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/01/16/call-for-papers-studies-in-materialistic-historiography",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 17, 2025 - 11:08amfull name / name of organization: Editorial Office of\u2026"
-                }
-            },
-            {
-                "title": "#CFP: Jane Austen 250 2025 : More Pride Less Prejudice: Jane Austen at 250",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/15/250-jane-austen/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-15T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/15/250-jane-austen/",
-                "content": {
-                    "@type": "html",
-                    "#text": "MORE PRIDE, LESS PREJUDICE: JANE AUSTEN AT 250 Faculty of Arts and Humanities I University of Porto\u2026"
                 }
             },
             {
