@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-01-28T17:50:17.000Z",
+        "updated": "2025-01-29T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Redd Center Grants for Scholarship on the Intermountain West",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/29/cfp-redd-center/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-29T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/29/cfp-redd-center/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The BYU Charles Redd Center for Western Studies annual awards and funding season is upon us! For\u2026"
+                }
+            },
             {
                 "title": "33rd Annual Sachsman Symposium on the 19th Century Press",
                 "link": {
@@ -641,22 +657,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 17, 2025 - 11:10amfull name / name of organization: CETAPS / University of\u2026"
-                }
-            },
-            {
-                "title": "#CFP: OT 2025: Mathematically Modeling Early Christian Literature (second call)",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/17/mathematical-modeling/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-17T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/17/mathematical-modeling/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CALL FOR PAPERS for a topical issue of Open Theology"
                 }
             },
             {
