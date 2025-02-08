@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-02-06T01:54:19.000Z",
+        "updated": "2025-02-07T17:52:46.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: British Nonconformity in the Long Eighteenth Century Working Group",
+                "link": {
+                    "@href": "https://churchhistory.org/cfp-british-nonconformity-in-the-long-eighteenth-century-working-group/"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2025-02-07T17:52:46.000Z",
+                "id": "https://churchhistory.org/cfp-british-nonconformity-in-the-long-eighteenth-century-working-group/",
+                "content": {
+                    "@type": "html",
+                    "#text": "When: June 21, 2025 in Bath Submit abstract and brief bio by: March 31, 2025 2025 marks the 250th\u2026"
+                }
+            },
+            {
+                "title": "Comedy: Darkness and Light",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/06/comedy-darkness-and-light"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-02-06T20:35:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/06/comedy-darkness-and-light",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, February 7, 2025 - 11:08amfull name / name of organization: International Society\u2026"
+                }
+            },
+            {
+                "title": "1st NEOLAiA International Conference on Narrating (Hi)Stories in Decentring Europe",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/06/1st-neolaia-international-conference-on-narrating-histories-in-decentring-europe"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-02-06T17:57:42.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/06/1st-neolaia-international-conference-on-narrating-histories-in-decentring-europe",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, February 7, 2025 - 10:56amfull name / name of organization: NEOLAiA European\u2026"
+                }
+            },
             {
                 "title": "Performing Religion in Early Modern England",
                 "link": {
@@ -313,22 +361,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/04/call-for-papers-for-vol-4-of-ijls"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-02-04T19:57:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/04/call-for-papers-for-vol-4-of-ijls",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, February 5, 2025 - 3:38amfull name / name of organization: Interdisciplinary\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers for Vol 4 of IJLS",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/04/call-for-papers-for-vol-4-of-ijls"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -337,22 +369,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, February 5, 2025 - 3:38amfull name / name of organization: Interdisciplinary\u2026"
-                }
-            },
-            {
-                "title": "Texas Woman's University Book Series: Call for Book Proposals",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/04/texas-womans-university-book-series-call-for-book-proposals"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-02-04T18:40:29.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/04/texas-womans-university-book-series-call-for-book-proposals",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, February 5, 2025 - 3:37amfull name / name of organization: Texas Woman's\u2026"
                 }
             },
             {
@@ -1329,22 +1345,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Date: August 3, 2024 Location: Old Divinity School, St John\u2019s College \u2013 Cambridge, UK 2024\u2026"
-                }
-            },
-            {
-                "title": "CFP: 2024 Conference of the Orthodox Canon Law Society of North America",
-                "link": {
-                    "@href": "https://churchhistory.org/cfp-2024-conference-of-the-orthodox-canon-law-society-of-north-america/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-03-11T21:14:40.000Z",
-                "id": "https://churchhistory.org/cfp-2024-conference-of-the-orthodox-canon-law-society-of-north-america/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Dates: October 18\u201319, 2024 Location: Holy Cross Greek Orthodox School of Theology \u2013 Brookline, MA\u2026"
                 }
             }
         ]
