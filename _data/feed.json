@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-02-11T09:37:22.000Z",
+        "updated": "2025-02-13T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Rethinking Middle Eastern and Islamicate Studies, New Generations Annual Graduate Student Conference at the University of Texas at Austin",
+                "link": {
+                    "@href": "https://relcfp.com/2025/02/13/rethinking-islamic-studies/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-02-13T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/02/13/rethinking-islamic-studies/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers"
+                }
+            },
+            {
+                "title": "#CFP: Labor Network, Annual Meeting of the Social Science History Association (SSHA), Chicago, Nov. 20-23, 2025",
+                "link": {
+                    "@href": "https://relcfp.com/2025/02/12/labor/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-02-12T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/02/12/labor/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference Details Date: February 5, 2025 - March 12, 2025 Location: Illinois, United States Subject\u2026"
+                }
+            },
             {
                 "title": "The Art of Storytelling: Archetypes in Focus",
                 "link": {
@@ -708,6 +740,22 @@
                 }
             },
             {
+                "title": "Call for Applicants: Feinstein Center at Temple University",
+                "link": {
+                    "@href": "https://relcfp.com/2025/01/31/cfa-feinstein-center/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-01-31T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/01/31/cfa-feinstein-center/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Feinstein Center at Temple University announces its annual summer fellowship to support research\u2026"
+                }
+            },
+            {
                 "title": "#CFP: Redd Center Grants for Scholarship on the Intermountain West",
                 "link": {
                     "@href": "https://relcfp.com/2025/01/29/cfp-redd-center/"
@@ -849,54 +897,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "CALL FOR PAPERS: ICST CONFERENCE 2025"
-                }
-            },
-            {
-                "title": "#CFP: Magic, Ritual, and Witchcraft: Meanings of Magic",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/20/magic-ritual/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-20T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/20/magic-ritual/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers"
-                }
-            },
-            {
-                "title": "#CFP: Autonomy and its Discontents",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/19/autonomy-discontents/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-19T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/19/autonomy-discontents/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Overview June 27, 2025 - June 28, 2025 University of Potsdam Potsdam, Germany"
-                }
-            },
-            {
-                "title": "#CFP: 2025 Eastern Conference of the Society of Christian Philosophers: The Philosophical Legacy of Robert Merrihew Adams",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/19/robert-merrihew-adams/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-19T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/19/robert-merrihew-adams/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Details"
                 }
             },
             {
