@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-02-13T00:00:00.000Z",
+        "updated": "2025-02-15T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Religion Matters",
+                "link": {
+                    "@href": "https://relcfp.com/2025/02/15/religion-matter/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-02-15T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/02/15/religion-matter/",
+                "content": {
+                    "@type": "html",
+                    "#text": "2025 Call for Papers Religion Matters ======================================"
+                }
+            },
             {
                 "title": "#CFP: Rethinking Middle Eastern and Islamicate Studies, New Generations Annual Graduate Student Conference at the University of Texas at Austin",
                 "link": {
@@ -881,22 +897,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Deadline Submission deadline: March 1, 2025"
-                }
-            },
-            {
-                "title": "#CFP: Critical Theory in an Age of Social Disintegration",
-                "link": {
-                    "@href": "https://relcfp.com/2025/01/20/critical-theory-social-disentegration/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-01-20T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/01/20/critical-theory-social-disentegration/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CALL FOR PAPERS: ICST CONFERENCE 2025"
                 }
             },
             {
