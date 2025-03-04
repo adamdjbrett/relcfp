@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-02T14:48:33.000Z",
+        "updated": "2025-03-03T17:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Jon Stewart, AOC, and MLK\u2019s Critique of the White Liberal",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/03/03/jon-stewart-aoc-and-mlks-critique-of-the-white-liberal/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-03-03T17:00:00.000Z",
+                "id": "https://popularcultureandtheology.com/2025/03/03/jon-stewart-aoc-and-mlks-critique-of-the-white-liberal/",
+                "content": {
+                    "@type": "html",
+                    "#text": "I wish there was a bold opposition party to stand against the Trump administration. The Democratic\u2026"
+                }
+            },
+            {
+                "title": "The Soliloquist Magazine Call for submissions for Spring 2025 issue",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/02/the-soliloquist-magazine-call-for-submissions-for-spring-2025-issue"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-03-02T19:33:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/02/the-soliloquist-magazine-call-for-submissions-for-spring-2025-issue",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, March 3, 2025 - 3:17pmfull name / name of organization: The Soliloquist\u2026"
+                }
+            },
             {
                 "title": "New Voices in Early Modern Material Culture, Theatre, and Performance",
                 "link": {
@@ -260,35 +292,35 @@
                 }
             },
             {
-                "title": "\"International Symposium on the Exploitation of Religion in Media\" organized by the Presidency of Religious Affairs of the Republic of T\u00fcrkiye",
+                "title": "Call for Papers: \"International Symposium on the Exploitation of Religion in Media\" organized by the Presidency of Religious Affairs of the Republic of T\u00fcrkiye (in person & virtual)",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/international-symposium-on-the-exploitation-of-religion-in-media-organized-by-the"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/call-for-papers-international-symposium-on-the-exploitation-of-religion-in-media"
                 },
                 "author": {
                     "name": "UPenn - Religion",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
                 },
                 "updated": "2025-02-27T23:49:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/international-symposium-on-the-exploitation-of-religion-in-media-organized-by-the",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/call-for-papers-international-symposium-on-the-exploitation-of-religion-in-media",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Sunday, March 2, 2025 - 1:21pmfull name / name of organization: Presidency of Religious\u2026"
+                    "#text": "updated: Monday, March 3, 2025 - 7:25amfull name / name of organization: Presidency of Religious\u2026"
                 }
             },
             {
-                "title": "\"International Symposium on Human, Loneliness, and Religion\" organized by the Presidency of Religious Affairs of the Republic of T\u00fcrkiye",
+                "title": "Call for Papers: \"International Symposium on Human, Loneliness, and Religion\" organized by the Presidency of Religious Affairs of the Republic of T\u00fcrkiye (in person & virtual)",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/international-symposium-on-human-loneliness-and-religion-organized-by-the-presidency"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/call-for-papers-international-symposium-on-human-loneliness-and-religion-organized-by"
                 },
                 "author": {
                     "name": "UPenn - Religion",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
                 },
                 "updated": "2025-02-27T23:48:47.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/international-symposium-on-human-loneliness-and-religion-organized-by-the-presidency",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/27/call-for-papers-international-symposium-on-human-loneliness-and-religion-organized-by",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Sunday, March 2, 2025 - 1:21pmfull name / name of organization: Presidency of Religious\u2026"
+                    "#text": "updated: Monday, March 3, 2025 - 7:26amfull name / name of organization: Presidency of Religious\u2026"
                 }
             },
             {
@@ -432,7 +464,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/25/general-call-for-papers",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Sunday, March 2, 2025 - 1:15pmfull name / name of organization: Department of English,\u2026"
+                    "#text": "updated: Monday, March 3, 2025 - 11:05amfull name / name of organization: Department of English,\u2026"
                 }
             },
             {
@@ -449,22 +481,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Sunday, March 2, 2025 - 1:15pmfull name / name of organization: The Grove: Working Papers\u2026"
-                }
-            },
-            {
-                "title": "Special Issue: Playing with Borders: Young People\u2019s Mediated Cultures and Digital Worlds",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/25/special-issue-playing-with-borders-young-people%E2%80%99s-mediated-cultures-and-digital"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-02-25T15:54:16.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/02/25/special-issue-playing-with-borders-young-people%E2%80%99s-mediated-cultures-and-digital",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, March 2, 2025 - 1:14pmfull name / name of organization: Canadian Journal of\u2026"
                 }
             },
             {
@@ -1105,22 +1121,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Applications due by November 15 Follow this link to the posting at the Claremont McKenna College\u2026"
-                }
-            },
-            {
-                "title": "Horror Comics and Religion: Beyond the Frames",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2024/10/31/horror-comics-and-religion-beyond-the-frames/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2024-10-31T16:00:00.000Z",
-                "id": "https://popularcultureandtheology.com/2024/10/31/horror-comics-and-religion-beyond-the-frames/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By John W. Morehead I grew up in the 1970s and have fond memories of walking home from elementary\u2026"
                 }
             },
             {
