@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-14T19:50:43.000Z",
+        "updated": "2025-03-15T19:32:13.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Online Event: Creative writing workshop series revisiting the Coen brothers\u2019 2009 film \u201cA Serious Man\u201d.",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20062839/online-event-creative-writing-workshop-series-revisiting-coen-brothers"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-15T19:32:13.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20062839/online-event-creative-writing-workshop-series-revisiting-coen-brothers",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
             {
                 "title": "TOC > Buddhist Studies Review Vol 41(1-2) 2024",
                 "link": {
@@ -577,22 +593,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, March 14, 2025 - 4:35pmfull name / name of organization: Bloomsburycontact\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: God's Mint--Islamic and Jewish Responses to Cryptocurrency",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062212/call-papers-gods-mint-islamic-and-jewish-responses-cryptocurrency"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-10T20:07:52.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062212/call-papers-gods-mint-islamic-and-jewish-responses-cryptocurrency",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
                 }
             },
             {
