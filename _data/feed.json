@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-15T19:32:13.000Z",
+        "updated": "2025-03-17T03:44:23.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "LECTURE> Public Lecture: Dr. Gao Mingyuan at Waseda",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20062871/public-lecture-dr-gao-mingyuan-waseda"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-17T03:44:23.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20062871/public-lecture-dr-gao-mingyuan-waseda",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
             {
                 "title": "Online Event: Creative writing workshop series revisiting the Coen brothers\u2019 2009 film \u201cA Serious Man\u201d.",
                 "link": {
@@ -564,22 +580,6 @@
                 }
             },
             {
-                "title": "SUMMER PROGRAM> Contemplative Environmentalism Workshop",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062427/contemplative-environmentalism-workshop"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-11T17:11:06.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062427/contemplative-environmentalism-workshop",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
                 "title": "Bloomsbury Book Series- Religion and AI Romance in Popular Media: Wired for Love",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/11/bloomsbury-book-series-religion-and-ai-romance-in-popular-media-wired-for-love"
@@ -913,22 +913,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Conference Details Date: February 5, 2025 - March 12, 2025 Location: Illinois, United States Subject\u2026"
-                }
-            },
-            {
-                "title": "CFP: British Nonconformity in the Long Eighteenth Century Working Group",
-                "link": {
-                    "@href": "https://churchhistory.org/cfp-british-nonconformity-in-the-long-eighteenth-century-working-group/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2025-02-07T17:52:46.000Z",
-                "id": "https://churchhistory.org/cfp-british-nonconformity-in-the-long-eighteenth-century-working-group/",
-                "content": {
-                    "@type": "html",
-                    "#text": "When: June 21, 2025 in Bath Submit abstract and brief bio by: March 31, 2025 2025 marks the 250th\u2026"
                 }
             },
             {
@@ -1268,22 +1252,6 @@
                 }
             },
             {
-                "title": "Tenure-Track Position: Assistant Professor in African-American / African Religions \u2013 Claremont McKenna College",
-                "link": {
-                    "@href": "https://churchhistory.org/tenure-track-position-assistant-professor-in-african-american-african-religions-claremont-mckenna-college/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-11-01T16:58:35.000Z",
-                "id": "https://churchhistory.org/tenure-track-position-assistant-professor-in-african-american-african-religions-claremont-mckenna-college/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Applications due by November 15 Follow this link to the posting at the Claremont McKenna College\u2026"
-                }
-            },
-            {
                 "title": "Religious Studies Opportunities Digest \u2013 October 30, 2024",
                 "link": {
                     "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-opportunities-digest-october-30-2024/"
@@ -1364,70 +1332,6 @@
                 }
             },
             {
-                "title": "Tenure Track Position: Assistant Professor in Catholic Studies \u2013 University of St. Thomas",
-                "link": {
-                    "@href": "https://churchhistory.org/tenure-track-position-assistant-professor-in-catholic-studies-university-of-st-thomas/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-09-26T14:18:07.000Z",
-                "id": "https://churchhistory.org/tenure-track-position-assistant-professor-in-catholic-studies-university-of-st-thomas/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Applications due October 1, 2024 Follow this link to the posting on the University of St. Thomas\u2026"
-                }
-            },
-            {
-                "title": "Virtual Conference \u2013 Evangelicalism and Missions:",
-                "link": {
-                    "@href": "https://churchhistory.org/virtual-conference-evangelicalism-and-missions/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-09-13T23:53:26.000Z",
-                "id": "https://churchhistory.org/virtual-conference-evangelicalism-and-missions/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Studies in the History of the Spread of the Gospel 2-4 October 2024 A virtual conference hosted by\u2026"
-                }
-            },
-            {
-                "title": "CFP \u2013 New Directions for Church History: Methods and Sources",
-                "link": {
-                    "@href": "https://churchhistory.org/cfp-for-new-directions-for-church-history-methods-and-sources/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-09-11T19:17:44.000Z",
-                "id": "https://churchhistory.org/cfp-for-new-directions-for-church-history-methods-and-sources/",
-                "content": {
-                    "@type": "html",
-                    "#text": "An online conference hosted by the Ecclesiastical History Society and the American Society ofChurch\u2026"
-                }
-            },
-            {
-                "title": "Tenure Track Position in Modern European Christianity \u2013 Princeton Theological Seminary",
-                "link": {
-                    "@href": "https://churchhistory.org/tenure-track-position-in-modern-european-christianity-princeton-theological-seminary/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-07-28T22:11:14.000Z",
-                "id": "https://churchhistory.org/tenure-track-position-in-modern-european-christianity-princeton-theological-seminary/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Application due September 7, 2024 Princeton Theological Seminary invites applications for a\u2026"
-                }
-            },
-            {
                 "title": "Call for papers: Authoritarianism, law, and the remaking of society",
                 "link": {
                     "@href": "https://www.socialifeoflaw.com/post/call-for-papers-authoritarianism-law-and-the-remaking-of-society"
@@ -1441,70 +1345,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call For Papers June 2025 (Organised by the \u2018Social life of Law in Authoritarian Contexts\u2019 project\u2026"
-                }
-            },
-            {
-                "title": "Call For Contributions: The Radical Religious Press in Western Europe and North America, 1780-1914",
-                "link": {
-                    "@href": "https://churchhistory.org/call-for-contributions-the-radical-religious-press-in-western-europe-and-north-america-1780-1914/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-05-14T19:02:15.000Z",
-                "id": "https://churchhistory.org/call-for-contributions-the-radical-religious-press-in-western-europe-and-north-america-1780-1914/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Abstracts due by August 1, 2024 Original contributions are being sought for an edited collection on\u2026"
-                }
-            },
-            {
-                "title": "Bowling Green State \u2013 Archives Travel Grant",
-                "link": {
-                    "@href": "https://churchhistory.org/bowling-green-state-archives-travel-grant/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-04-16T18:54:51.000Z",
-                "id": "https://churchhistory.org/bowling-green-state-archives-travel-grant/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Deadline: May 31, 2024 More info The Center for Archival Collections (CAC), one of the Special\u2026"
-                }
-            },
-            {
-                "title": "CFP: Isaac Watts at 350",
-                "link": {
-                    "@href": "https://churchhistory.org/cfp-isaac-watts-at-350/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-03-21T16:52:35.000Z",
-                "id": "https://churchhistory.org/cfp-isaac-watts-at-350/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Date: August 3, 2024 Location: Old Divinity School, St John\u2019s College \u2013 Cambridge, UK 2024\u2026"
-                }
-            },
-            {
-                "title": "CFP: 2024 Conference of the Orthodox Canon Law Society of North America",
-                "link": {
-                    "@href": "https://churchhistory.org/cfp-2024-conference-of-the-orthodox-canon-law-society-of-north-america/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-03-11T21:14:40.000Z",
-                "id": "https://churchhistory.org/cfp-2024-conference-of-the-orthodox-canon-law-society-of-north-america/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Dates: October 18\u201319, 2024 Location: Holy Cross Greek Orthodox School of Theology \u2013 Brookline, MA\u2026"
                 }
             }
         ]
