@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-18T19:28:00.000Z",
+        "updated": "2025-03-20T03:02:09.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20063305/2025-26-david-m-and-virginia-w-stowe-fund-mission-research"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-20T03:02:09.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20063305/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
+            {
+                "title": "Avengers: Infinity War, Losing an Election, and What Comes After",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/03/19/avengers-infinity-war-losing-an-election-and-what-comes-after/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-03-19T20:52:00.000Z",
+                "id": "https://popularcultureandtheology.com/2025/03/19/avengers-infinity-war-losing-an-election-and-what-comes-after/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Matthew Brake \u201cI know what it\u2019s like to lose. To feel so desperately that you\u2019re right, yet to\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: Theology, Philosophy, and Severance",
                 "link": {
@@ -128,7 +160,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/18/trans-narratives-in-south-asia-decolonial-understanding-of-transgender-lives-edited",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:24amfull name / name of organization: Anu M Kuariakose,\u2026"
+                    "#text": "updated: Wednesday, March 19, 2025 - 4:18amfull name / name of organization: Anu M Kuriakose,\u2026"
                 }
             },
             {
@@ -561,22 +593,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, March 14, 2025 - 4:39pmfull name / name of organization: Camille Alexander/Tuskegee\u2026"
-                }
-            },
-            {
-                "title": "CFA: Demonism in Montreal in November",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062693/cfa-demonism-montreal-november"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-14T13:32:38.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062693/cfa-demonism-montreal-november",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
                 }
             },
             {
@@ -1217,22 +1233,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call for Papers 2025! Censorship, Book Burning, and the Separation of Artist from their Art! The\u2026"
-                }
-            },
-            {
-                "title": "Embracing the Chaos: Lady Gaga\u2019s \u2018Disease\u2019 and the Sacredness of the \u2018Person-Body\u2019",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2024/11/18/embracing-the-chaos-lady-gagas-disease-and-the-sacredness-of-the-person-body/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2024-11-18T17:00:00.000Z",
-                "id": "https://popularcultureandtheology.com/2024/11/18/embracing-the-chaos-lady-gagas-disease-and-the-sacredness-of-the-person-body/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By Rev. Christopher N. West What makes us who and how we are in the world? Reductive approaches to\u2026"
                 }
             },
             {
