@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-20T03:02:09.000Z",
+        "updated": "2025-03-20T16:14:21.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Catholic Record Society 67th Annual Conference | July 2025",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20061242/catholic-record-society-67th-annual-conference-july-2025"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-20T16:14:21.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20061242/catholic-record-society-67th-annual-conference-july-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
+            {
+                "title": "SUMMER PROGRAM> Amsterdam Summer School Buddhist Mindfulness and Spiritual Care",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20063392/amsterdam-summer-school-buddhist-mindfulness-and-spiritual-care"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-20T11:08:16.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20063392/amsterdam-summer-school-buddhist-mindfulness-and-spiritual-care",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
+            {
+                "title": "Catholic Record Society 67th Annual Conference | July 2025",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20061244/catholic-record-society-67th-annual-conference-july-2025"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-20T09:01:43.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20061244/catholic-record-society-67th-annual-conference-july-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
             {
                 "title": "2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
                 "link": {
@@ -224,7 +272,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/two-day-international-seminar-workshop-on-indian-drama-society-culture-tradition-and",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 9:15amfull name / name of organization: Ateswartala Sanskritik\u2026"
+                    "#text": "updated: Thursday, March 20, 2025 - 2:48pmfull name / name of organization: Ateswartala Sanskritik\u2026"
                 }
             },
             {
@@ -436,22 +484,6 @@
                 }
             },
             {
-                "title": "LECTURE> Public Lecture: Dr. Gao Mingyuan at Waseda",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062871/public-lecture-dr-gao-mingyuan-waseda"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-17T03:44:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062871/public-lecture-dr-gao-mingyuan-waseda",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
                 "title": "An Archipelagic Turn and the \u201cOther Asias\u201d: Planetary Care in Literature, Politics, Culture",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/15/an-archipelagic-turn-and-the-%E2%80%9Cother-asias%E2%80%9D-planetary-care-in-literature-politics"
@@ -465,22 +497,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, March 18, 2025 - 8:21amfull name / name of organization: The Center for\u2026"
-                }
-            },
-            {
-                "title": "Online Event: Creative writing workshop series revisiting the Coen brothers\u2019 2009 film \u201cA Serious Man\u201d.",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062839/online-event-creative-writing-workshop-series-revisiting-coen-brothers"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-15T19:32:13.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062839/online-event-creative-writing-workshop-series-revisiting-coen-brothers",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
                 }
             },
             {
@@ -513,22 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, March 18, 2025 - 8:21amfull name / name of organization: College Art\u2026"
-                }
-            },
-            {
-                "title": "TOC > Buddhist Studies Review Vol 41(1-2) 2024",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062784/toc-buddhist-studies-review-vol-411-2-2024"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-14T19:50:43.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062784/toc-buddhist-studies-review-vol-411-2-2024",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
                 }
             },
             {
