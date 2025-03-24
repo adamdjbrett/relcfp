@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-21T18:40:02.000Z",
+        "updated": "2025-03-23T07:06:20.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "ANN: 2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20063306/2025-26-david-m-and-virginia-w-stowe-fund-mission-research"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-23T07:06:20.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20063306/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: Giovanni Boccaccio\u2019s One Hundred Tales",
                 "link": {
@@ -160,7 +176,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/european-films-with-transgender-themes",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 5:34pmfull name / name of organization: The Handbook of Trans\u2026"
+                    "#text": "updated: Sunday, March 23, 2025 - 4:53pmfull name / name of organization: The Handbook of Trans\u2026"
                 }
             },
             {
@@ -590,22 +606,6 @@
                 },
                 "updated": "2025-03-17T19:04:55.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20061379/h-net-job-guide-weekly-report-h-amindian-24-february-3-march",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
-                "title": "The African American Episcopal Historical Collection Now Accepting Applications For Travel Grants",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062712/african-american-episcopal-historical-collection-now-accepting"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-17T13:38:05.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062712/african-american-episcopal-historical-collection-now-accepting",
                 "content": {
                     "@type": "html",
                     "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
