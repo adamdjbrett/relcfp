@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-23T07:06:20.000Z",
+        "updated": "2025-03-24T16:13:31.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20063307/2025-26-david-m-and-virginia-w-stowe-fund-mission-research"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-24T16:13:31.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20063307/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
+            {
+                "title": "\"Sacred Rebellion\" Virtual Exhibition Tour",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20063616/sacred-rebellion-virtual-exhibition-tour"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-24T13:11:04.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20063616/sacred-rebellion-virtual-exhibition-tour",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
+            {
+                "title": "2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20062483/2025-26-david-m-and-virginia-w-stowe-fund-mission-research"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-24T12:32:16.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20062483/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
+                "content": {
+                    "@type": "html",
+                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                }
+            },
             {
                 "title": "ANN: 2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
                 "link": {
@@ -177,6 +225,38 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Sunday, March 23, 2025 - 4:53pmfull name / name of organization: The Handbook of Trans\u2026"
+                }
+            },
+            {
+                "title": "Indian Trans Cinema: Film, Television, and Web Series Exploring Transgender Themes",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-21T06:03:32.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, March 24, 2025 - 6:22pmfull name / name of organization: Bloomsbury\u2026"
+                }
+            },
+            {
+                "title": "Indian Trans Cinema: Film, Television, and Web Series Exploring Transgender Themes",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-03-21T06:03:32.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, March 24, 2025 - 6:22pmfull name / name of organization: Bloomsbury\u2026"
                 }
             },
             {
@@ -416,7 +496,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/blue-humanities-and-indian-ocean-south-asian-literary-and-cultural-representations",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:21amfull name / name of organization: Dr. Abhisek Ghosal, Dr.\u2026"
+                    "#text": "updated: Monday, March 24, 2025 - 6:47amfull name / name of organization: Dr. Abhisek Ghosal, Dr.\u2026"
                 }
             },
             {
@@ -433,22 +513,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, March 22, 2025 - 8:16amfull name / name of organization: UCL \u2013 Institute of\u2026"
-                }
-            },
-            {
-                "title": "Panel for 2025 PAMLA (San Francisco): Modern Hispanic Queer Cultures",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/panel-for-2025-pamla-san-francisco-modern-hispanic-queer-cultures"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-19T15:20:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/panel-for-2025-pamla-san-francisco-modern-hispanic-queer-cultures",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:16amfull name / name of organization: Jeffrey Zamostny, Kansas\u2026"
                 }
             },
             {
@@ -564,54 +628,6 @@
                 }
             },
             {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 10 March - 17 March",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062937/h-net-job-guide-weekly-report-h-buddhism-10-march-17-march"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-18T03:52:41.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062937/h-net-job-guide-weekly-report-h-buddhism-10-march-17-march",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 3 March - 10 March",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20062195/h-net-job-guide-weekly-report-h-amindian-3-march-10-march"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-17T19:06:35.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20062195/h-net-job-guide-weekly-report-h-amindian-3-march-10-march",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 24 February - 3 March",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20061379/h-net-job-guide-weekly-report-h-amindian-24-february-3-march"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-17T19:04:55.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20061379/h-net-job-guide-weekly-report-h-amindian-24-february-3-march",
-                "content": {
-                    "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
                 "title": "Culinary Expeditions \u2013 Media, Food, and Halal Tourism in the Global South",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/culinary-expeditions-%E2%80%93-media-food-and-halal-tourism-in-the-global-south"
@@ -673,22 +689,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, March 18, 2025 - 8:23amfull name / name of organization: London Academic\u2026"
-                }
-            },
-            {
-                "title": "Critique: Journal of English Language and Literature",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/critique-journal-of-english-language-and-literature"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-03-17T05:24:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/critique-journal-of-english-language-and-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:23amfull name / name of organization: Department of English\u2026"
                 }
             },
             {
