@@ -12,13 +12,141 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-24T16:13:31.000Z",
+        "updated": "2025-03-25T03:58:38.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "THE SOUTHERN GOTHIC AT PCAS / ACAS 2025",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/the-southern-gothic-at-pcas-acas-2025"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-25T03:58:38.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/the-southern-gothic-at-pcas-acas-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: Popular Culture /\u2026"
+                }
+            },
+            {
+                "title": "RABINDRANATH, GANDHI, AND THE ECOLOGY OF CHANGE",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/rabindranath-gandhi-and-the-ecology-of-change"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-03-25T03:00:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/rabindranath-gandhi-and-the-ecology-of-change",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: Intersections: A Journal\u2026"
+                }
+            },
+            {
+                "title": "RABINDRANATH, GANDHI, AND THE ECOLOGY OF CHANGE",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/rabindranath-gandhi-and-the-ecology-of-change"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-03-25T03:00:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/rabindranath-gandhi-and-the-ecology-of-change",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: Intersections: A Journal\u2026"
+                }
+            },
+            {
+                "title": "Optimism Against All Odds in American/English Modernism",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/optimism-against-all-odds-in-americanenglish-modernism"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-03-25T00:54:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/optimism-against-all-odds-in-americanenglish-modernism",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: The Midest Modern\u2026"
+                }
+            },
+            {
+                "title": "Cultural History; PAMLA (November 20-23, 2025)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/cultural-history-pamla-november-20-23-2025"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T22:26:07.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/cultural-history-pamla-november-20-23-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: Pacific Ancient & Modern\u2026"
+                }
+            },
+            {
+                "title": "Do Animals Hope?",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/do-animals-hope"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T22:10:38.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/do-animals-hope",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: Midwestern Modern\u2026"
+                }
+            },
+            {
+                "title": "Here and There: Reflections on Place-Based Photography",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/here-and-there-reflections-on-place-based-photography"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T18:56:01.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/here-and-there-reflections-on-place-based-photography",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: University of\u2026"
+                }
+            },
+            {
+                "title": "Here and There: Reflections on Place-Based Photography",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/here-and-there-reflections-on-place-based-photography"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-03-24T18:56:01.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/here-and-there-reflections-on-place-based-photography",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:54amfull name / name of organization: University of\u2026"
+                }
+            },
             {
                 "title": "2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
                 "link": {
@@ -32,7 +160,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20063307/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -48,7 +176,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20063616/sacred-rebellion-virtual-exhibition-tour",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -64,7 +192,151 @@
                 "id": "https://networks.h-net.org/group/announcements/20062483/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
+                }
+            },
+            {
+                "title": "Caleidoscopio journal, series 2, vol. 1, no. 1: \u201cIn Media-Making: Start-on-and-go-over-Media\u201d",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/caleidoscopio-journal-series-2-vol-1-no-1-%E2%80%9Cin-media-making%C2%A0-start-on-and-go-over"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T11:53:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/caleidoscopio-journal-series-2-vol-1-no-1-%E2%80%9Cin-media-making%C2%A0-start-on-and-go-over",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:53amfull name / name of organization: Joana Bicacro, Lus\u00f3fona\u2026"
+                }
+            },
+            {
+                "title": "Caleidoscopio journal, series 2, vol. 1, no. 1: \u201cIn Media-Making: Start-on-and-go-over-Media\u201d",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/caleidoscopio-journal-series-2-vol-1-no-1-%E2%80%9Cin-media-making%C2%A0-start-on-and-go-over"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-03-24T11:53:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/caleidoscopio-journal-series-2-vol-1-no-1-%E2%80%9Cin-media-making%C2%A0-start-on-and-go-over",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:53amfull name / name of organization: Joana Bicacro, Lus\u00f3fona\u2026"
+                }
+            },
+            {
+                "title": "Adaptation and Innovation: Linguistic, Cultural and Literary Responses to a Changing World (Journal Special Issue CFP)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/adaptation-and-innovation-linguistic-cultural-and-literary-responses-to-a-changing-0"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T10:10:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/adaptation-and-innovation-linguistic-cultural-and-literary-responses-to-a-changing-0",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:53amfull name / name of organization: The Academic Association\u2026"
+                }
+            },
+            {
+                "title": "Adaptation and Innovation: Linguistic, Cultural and Literary Responses to a Changing World (Journal Special Issue CFP)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/adaptation-and-innovation-linguistic-cultural-and-literary-responses-to-a-changing-0"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-03-24T10:10:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/adaptation-and-innovation-linguistic-cultural-and-literary-responses-to-a-changing-0",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:53amfull name / name of organization: The Academic Association\u2026"
+                }
+            },
+            {
+                "title": "Adaptation and Innovation: Linguistic, Cultural and Literary Responses to a Changing World (online conference for early career scholars)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/adaptation-and-innovation-linguistic-cultural-and-literary-responses-to-a-changing"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T10:04:59.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/adaptation-and-innovation-linguistic-cultural-and-literary-responses-to-a-changing",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:53amfull name / name of organization: The Academic Association\u2026"
+                }
+            },
+            {
+                "title": "CFP: 122nd Annual PAMLA Conference (San Francisco, CA) \u2013 November 20-23, 2025",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/cfp-122nd-annual-pamla-conference-san-francisco-ca-%E2%80%93-november-20-23-2025"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T08:16:59.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/24/cfp-122nd-annual-pamla-conference-san-francisco-ca-%E2%80%93-november-20-23-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:53amfull name / name of organization: Craig Svonkin / Pacific\u2026"
+                }
+            },
+            {
+                "title": "PAMLA: Queer Temporalities, Memory, and Resistance in Asia",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/23/pamla-queer-temporalities-memory-and-resistance-in-asia"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-24T03:07:25.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/23/pamla-queer-temporalities-memory-and-resistance-in-asia",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:53amfull name / name of organization: Pacific Ancient and\u2026"
+                }
+            },
+            {
+                "title": "ASAP 2025: Raving/Nightlife Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/23/asap-2025-ravingnightlife-studies"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-03-23T21:55:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/23/asap-2025-ravingnightlife-studies",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:52amfull name / name of organization: ASAP 2025contact\u2026"
+                }
+            },
+            {
+                "title": "MSA 2025 Boston Panel: Infrastructures of Hidden Labor",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/23/msa-2025-boston-panel-infrastructures-of-hidden-labor"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-03-23T13:41:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/23/msa-2025-boston-panel-infrastructures-of-hidden-labor",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, March 25, 2025 - 4:51amfull name / name of organization: Modernist Studies\u2026"
                 }
             },
             {
@@ -80,23 +352,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20063306/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Giovanni Boccaccio\u2019s One Hundred Tales",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/call-for-papers-giovanni-boccaccio%E2%80%99s-one-hundred-tales"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-21T18:40:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/call-for-papers-giovanni-boccaccio%E2%80%99s-one-hundred-tales",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:27amfull name / name of organization: Teaching the Middle\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -113,22 +369,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, March 22, 2025 - 8:27amfull name / name of organization: Teaching the Middle\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers on \"Confinement and Freedom\"",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/call-for-papers-on-confinement-and-freedom"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-21T17:37:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/call-for-papers-on-confinement-and-freedom",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 2:00pmfull name / name of organization: Arkansas Philological\u2026"
                 }
             },
             {
@@ -169,22 +409,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/feeling-contemporary-war-how-global-regimes-of-sensing-and-emotion-facilitate-and"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-21T11:54:26.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/feeling-contemporary-war-how-global-regimes-of-sensing-and-emotion-facilitate-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:24amfull name / name of organization: Amy Gaeta, University of\u2026"
-                }
-            },
-            {
-                "title": "Feeling Contemporary War: How Global Regimes of Sensing and Emotion Facilitate and Resist Military Power",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/feeling-contemporary-war-how-global-regimes-of-sensing-and-emotion-facilitate-and"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -193,54 +417,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, March 22, 2025 - 8:24amfull name / name of organization: Amy Gaeta, University of\u2026"
-                }
-            },
-            {
-                "title": "The Body, Anatomy, and Aesthetics: Special Issue: Art & the Public Sphere",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/the-body-anatomy-and-aesthetics-special-issue-art-the-public-sphere"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-21T10:57:11.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/the-body-anatomy-and-aesthetics-special-issue-art-the-public-sphere",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:24amfull name / name of organization: Linda Roland Danil\u2026"
-                }
-            },
-            {
-                "title": "European Films with Transgender Themes",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/european-films-with-transgender-themes"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-03-21T07:02:53.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/european-films-with-transgender-themes",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, March 23, 2025 - 4:53pmfull name / name of organization: The Handbook of Trans\u2026"
-                }
-            },
-            {
-                "title": "Indian Trans Cinema: Film, Television, and Web Series Exploring Transgender Themes",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-21T06:03:32.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, March 24, 2025 - 6:22pmfull name / name of organization: Bloomsbury\u2026"
                 }
             },
             {
@@ -256,23 +432,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, March 24, 2025 - 6:22pmfull name / name of organization: Bloomsbury\u2026"
-                }
-            },
-            {
-                "title": "Un siglo de Mrs. Dalloway y The Common Reader",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/20/un-siglo-de-mrs-dalloway-y-the-common-reader"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-20T17:26:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/20/un-siglo-de-mrs-dalloway-y-the-common-reader",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:23amfull name / name of organization: Universidad Nacional\u2026"
+                    "#text": "updated: Wednesday, March 26, 2025 - 12:11amfull name / name of organization: Bloomsbury\u2026"
                 }
             },
             {
@@ -288,39 +448,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20061242/catholic-record-society-67th-annual-conference-july-2025",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
-                }
-            },
-            {
-                "title": "PAMLA 2025 session: Seriality, Repetition, and Adaptation in 21st-Century Storytelling",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/20/pamla-2025-session-seriality-repetition-and-adaptation-in-21st-century-storytelling"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-20T14:03:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/20/pamla-2025-session-seriality-repetition-and-adaptation-in-21st-century-storytelling",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:23amfull name / name of organization: Pacific Ancient and\u2026"
-                }
-            },
-            {
-                "title": "Cer\u00e6: An Australasian Journal of Medieval and Early Modern Studies, volume 12: Dreams, Visions, and Utopias",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/20/cer%C3%A6-an-australasian-journal-of-medieval-and-early-modern-studies-volume-12-dreams"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-20T13:24:48.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/20/cer%C3%A6-an-australasian-journal-of-medieval-and-early-modern-studies-volume-12-dreams",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:23amfull name / name of organization: Cer\u00e6 - An Australasian\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -336,7 +464,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20063392/amsterdam-summer-school-buddhist-mindfulness-and-spiritual-care",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -352,7 +480,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20061244/catholic-record-society-67th-annual-conference-july-2025",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -368,7 +496,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20063305/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -457,22 +585,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/first-films-and-early-style"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-19T20:19:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/first-films-and-early-style",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:21amfull name / name of organization: Film Journal, Special\u2026"
-                }
-            },
-            {
-                "title": "First Films and Early Style",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/first-films-and-early-style"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -497,22 +609,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, March 24, 2025 - 6:47amfull name / name of organization: Dr. Abhisek Ghosal, Dr.\u2026"
-                }
-            },
-            {
-                "title": "Languages of the Future",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/languages-of-the-future"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-03-19T16:49:14.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/languages-of-the-future",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:16amfull name / name of organization: UCL \u2013 Institute of\u2026"
                 }
             },
             {
@@ -608,7 +704,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20063139/rangjung-yeshe-institute-summer-intensives-buddhist-studies-classical",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -624,7 +720,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20062914/extended-deadline-international-journal-buddhist-thought-culture-vol",
                 "content": {
                     "@type": "html",
-                    "#text": "Webinar: Meet the Journal of Asian Studies Editor Wednesday, June 1, 20227:00-8:30pm\u2026"
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
                 }
             },
             {
@@ -644,22 +740,6 @@
                 }
             },
             {
-                "title": "Call for Papers: Global Hip Hop Studies 7.1",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/call-for-papers-global-hip-hop-studies-71"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-03-17T10:25:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/call-for-papers-global-hip-hop-studies-71",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:24amfull name / name of organization: Global Hip Hop\u2026"
-                }
-            },
-            {
                 "title": "Them Among Us: No Nation for the Less Equals",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/them-among-us-no-nation-for-the-less-equals"
@@ -673,86 +753,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, March 18, 2025 - 8:24amfull name / name of organization: Debajyoti Biswascontact\u2026"
-                }
-            },
-            {
-                "title": "CfP: BROLLY. Journal of Social Sciences (London, UK)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/cfp-brolly-journal-of-social-sciences-london-uk"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-03-17T08:44:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/cfp-brolly-journal-of-social-sciences-london-uk",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:23amfull name / name of organization: London Academic\u2026"
-                }
-            },
-            {
-                "title": "Critique: Journal of English Language and Literature",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/critique-journal-of-english-language-and-literature"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-03-17T05:24:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/critique-journal-of-english-language-and-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:23amfull name / name of organization: Department of English\u2026"
-                }
-            },
-            {
-                "title": "An Archipelagic Turn and the \u201cOther Asias\u201d: Planetary Care in Literature, Politics, Culture",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/15/an-archipelagic-turn-and-the-%E2%80%9Cother-asias%E2%80%9D-planetary-care-in-literature-politics"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-03-15T21:31:42.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/15/an-archipelagic-turn-and-the-%E2%80%9Cother-asias%E2%80%9D-planetary-care-in-literature-politics",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, March 23, 2025 - 12:26amfull name / name of organization: The Center for\u2026"
-                }
-            },
-            {
-                "title": "10th Annual Siedlce Forum for Contemporary Issues in Language and Literature",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/15/10th-annual-siedlce-forum-for-contemporary-issues-in-language-and-literature"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-03-15T16:58:21.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/15/10th-annual-siedlce-forum-for-contemporary-issues-in-language-and-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:21amfull name / name of organization: University of Siedlce,\u2026"
-                }
-            },
-            {
-                "title": "CAA 2026 - Diasporic & LGBTQ+ Resistance",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/15/caa-2026-diasporic-lgbtq-resistance"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-03-15T15:12:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/15/caa-2026-diasporic-lgbtq-resistance",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:21amfull name / name of organization: College Art\u2026"
                 }
             },
             {
