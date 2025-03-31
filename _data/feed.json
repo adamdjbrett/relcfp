@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-03-27T11:50:53.000Z",
+        "updated": "2025-03-30T13:47:36.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "NEW BOOK> Collett Cox, A G\u0101ndh\u0101r\u012b Abhidharma Text: British Library Kharo\u1e63\u1e6dh\u012b Fragment 28",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20064297/new-book-collett-cox-gandhari-abhidharma-text-british-library"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-30T13:47:36.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20064297/new-book-collett-cox-gandhari-abhidharma-text-british-library",
+                "content": {
+                    "@type": "html",
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
+                }
+            },
+            {
+                "title": "FELLOWSHIP> Research Fellowships and Visiting Scholar programs available in Bangkok",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20064302/research-fellowships-and-visiting-scholar-programs-available-bangkok"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-03-30T13:46:46.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20064302/research-fellowships-and-visiting-scholar-programs-available-bangkok",
+                "content": {
+                    "@type": "html",
+                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
+                }
+            },
             {
                 "title": "H-Net Job Guide Weekly Report for H-USA: 3 March - 10 March",
                 "link": {
@@ -532,22 +564,6 @@
                 }
             },
             {
-                "title": "ANN: 2025-26 David M. and Virginia W. Stowe Fund for Mission Research",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20063306/2025-26-david-m-and-virginia-w-stowe-fund-mission-research"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-23T07:06:20.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20063306/2025-26-david-m-and-virginia-w-stowe-fund-mission-research",
-                "content": {
-                    "@type": "html",
-                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers: Giovanni Boccaccio\u2019s One Hundred Tales",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/call-for-papers-giovanni-boccaccio%E2%80%99s-one-hundred-tales"
@@ -624,23 +640,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/21/indian-trans-cinema-film-television-and-web-series-exploring-transgender-themes",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Saturday, March 29, 2025 - 3:01pmfull name / name of organization: Bloomsbury\u2026"
-                }
-            },
-            {
-                "title": "Catholic Record Society 67th Annual Conference | July 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20061242/catholic-record-society-67th-annual-conference-july-2025"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-20T16:14:21.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20061242/catholic-record-society-67th-annual-conference-july-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "Deadline Extended (Deadline, 05/15) \u2014 Call for Papers: Pennsylvania Historical Association's Annual\u2026"
+                    "#text": "updated: Monday, March 31, 2025 - 1:01amfull name / name of organization: Bloomsbury\u2026"
                 }
             },
             {
