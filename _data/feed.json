@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-01T14:20:33.000Z",
+        "updated": "2025-04-03T01:29:13.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "TOC and ABSTRACTS> Guide to Journal of Buddhist Ethics, 1994-2024",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20064761/guide-journal-buddhist-ethics-1994-2024"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-03T01:29:13.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20064761/guide-journal-buddhist-ethics-1994-2024",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
+                }
+            },
+            {
+                "title": "Online Lecture Series> Integrating Buddhist Teachings in Providing Care",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20064737/online-public-lecture-series-integrating-buddhist-teachings-providing"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-02T10:50:08.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20064737/online-public-lecture-series-integrating-buddhist-teachings-providing",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
+                }
+            },
             {
                 "title": "LECTURE> Taitetsu Unno: A Legacy of Dialogue, Debate, and Friendship <Hybrid, today Apr 1>",
                 "link": {
@@ -420,22 +452,6 @@
                 }
             },
             {
-                "title": "GRANTS> Kuroda Institute Manuscript Completion Grant (update)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064108/kuroda-institute-manuscript-completion-grant-update"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-27T09:53:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064108/kuroda-institute-manuscript-completion-grant-update",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers: C.S. Lewis and Popular Culture",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/03/26/call-for-papers-c-s-lewis-and-popular-culture/"
@@ -449,22 +465,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Volume Editor: George Tsakiridis, PhD Abstract and CV Due: May 15, 2025 Initial Final Paper Due:\u2026"
-                }
-            },
-            {
-                "title": "On Jewish Learning: Centering the Household in the Making of Jewish Culture",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20063956/jewish-learning-centering-household-making-jewish-culture"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-26T18:45:06.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20063956/jewish-learning-centering-household-making-jewish-culture",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
