@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-03T17:11:34.000Z",
+        "updated": "2025-04-04T16:52:47.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "It Is OK to Be a Jammette/Jamet (loose woman)\u2014The Bible Said So!",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/04/04/it-is-ok-to-be-a-jammette-jamet-loose-woman-the-bible-said-so/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-04-04T16:52:47.000Z",
+                "id": "https://popularcultureandtheology.com/2025/04/04/it-is-ok-to-be-a-jammette-jamet-loose-woman-the-bible-said-so/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Princess O\u2019Nika Auguste Last year, a friend posted on social media that Marion Hall, formerly\u2026"
+                }
+            },
             {
                 "title": "Teaching with Taylor: Pedagogical Approaches to Taylor Swift in the 21st Century Classroom",
                 "link": {
@@ -1089,22 +1105,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "For 20 years, the Presbyterian Historical Society\u2019s Research Fellowship Program has awarded annual\u2026"
-                }
-            },
-            {
-                "title": "Wolfenstein: Playing the Jew?",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/01/27/wolfenstein-playing-the-jew/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-01-27T17:00:00.000Z",
-                "id": "https://popularcultureandtheology.com/2025/01/27/wolfenstein-playing-the-jew/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By Dr. Frank G. Bosman We are in the year 1960. The Third Reich has solidified its political,\u2026"
                 }
             },
             {
