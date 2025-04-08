@@ -12,13 +12,125 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-06T19:23:49.000Z",
+        "updated": "2025-04-08T00:38:52.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Webinar Series: Padmasambhava, U\u1e0d\u1e0diy\u0101na, and Tibet",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065092/webinar-series-padmasambhava-uddiyana-and-tibet"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-08T00:38:52.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065092/webinar-series-padmasambhava-uddiyana-and-tibet",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 31 March - 7 April",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065134/h-net-job-guide-weekly-report-h-buddhism-31-march-7-april"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-08T00:32:27.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065134/h-net-job-guide-weekly-report-h-buddhism-31-march-7-april",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
+            {
+                "title": "KONF: Bodies in Action: Gestures and the Interruption of Violence | Wien (15.-17.05.2025)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065242/bodies-action-gestures-and-interruption-violence"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-07T16:31:38.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065242/bodies-action-gestures-and-interruption-violence",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
+            {
+                "title": "CFP: Summer School Literatur und Religion: Religionskritik | Halle/Wittenberg (17.05.2025)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065107/summer-school-literatur-und-religion-religionskritik"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-07T16:26:12.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065107/summer-school-literatur-und-religion-religionskritik",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
+            {
+                "title": "Friday, April 11th @10:00 AM EDT | MIT GHI hosts its 2nd Forum on \"The Good Life: Religions, Philosophies & Sciences\"",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065061/friday-april-11th-1000-am-edt-mit-ghi-hosts-its-2nd-forum-good-life"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-07T15:05:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065061/friday-april-11th-1000-am-edt-mit-ghi-hosts-its-2nd-forum-good-life",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
+            {
+                "title": "Calling Holy War in Boston: A Virtual Talk with Thomas Lecaque",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20064957/calling-holy-war-boston-virtual-talk-thomas-lecaque"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-07T12:13:00.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20064957/calling-holy-war-boston-virtual-talk-thomas-lecaque",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
+            {
+                "title": "CALL FOR ABSTRACTS - Religious Minorities under Muslim Rule",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20064795/call-abstracts-religious-minorities-under-muslim-rule"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-07T07:36:47.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20064795/call-abstracts-religious-minorities-under-muslim-rule",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
             {
                 "title": "Mimesis in Philosophy and Literature: Representation, Truth, and Meaning",
                 "link": {
@@ -32,7 +144,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20065038/mimesis-philosophy-and-literature-representation-truth-and-meaning",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
                 }
             },
             {
@@ -48,7 +160,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20065063/friday-april-11th-1000-am-edt-mit-ghi-hosts-its-2nd-forum-good-life",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
                 }
             },
             {
@@ -112,39 +224,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20064858/sogdian-fire-worship-between-zoroastrianism-and-buddhism-kutar",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
-                }
-            },
-            {
-                "title": "CFP: Religious Minorities under Muslim Rule",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064794/call-abstracts-religious-minorities-under-muslim-rule"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-03T16:22:45.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064794/call-abstracts-religious-minorities-under-muslim-rule",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
-                }
-            },
-            {
-                "title": "CFP: Southern Conference on British Studies Annual Meeting 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064821/cfp-southern-conference-british-studies-annual-meeting-2025"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-03T14:21:57.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064821/cfp-southern-conference-british-studies-annual-meeting-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
                 }
             },
             {
@@ -176,7 +256,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/03/call-for-papers-edited-book-the-inclusive-edge-reimagining-indias-development-in-the",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, April 3, 2025 - 3:48pmfull name / name of organization: VIT-AP University (School\u2026"
+                    "#text": "updated: Monday, April 7, 2025 - 2:10amfull name / name of organization: Soumik Sarkar and Ashraf\u2026"
                 }
             },
             {
@@ -192,23 +272,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/03/call-for-papers-edited-book-the-inclusive-edge-reimagining-indias-development-in-the",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, April 3, 2025 - 3:48pmfull name / name of organization: VIT-AP University (School\u2026"
-                }
-            },
-            {
-                "title": "TOC and ABSTRACTS> Guide to Journal of Buddhist Ethics, 1994-2024",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064761/guide-journal-buddhist-ethics-1994-2024"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-03T01:29:13.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064761/guide-journal-buddhist-ethics-1994-2024",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
+                    "#text": "updated: Monday, April 7, 2025 - 2:10amfull name / name of organization: Soumik Sarkar and Ashraf\u2026"
                 }
             },
             {
@@ -288,7 +352,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/02/now-what-what-now-the-writing-classroom-after-2025",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, April 3, 2025 - 3:42pmfull name / name of organization: SUNY Council on\u2026"
+                    "#text": "updated: Monday, April 7, 2025 - 11:15amfull name / name of organization: SUNY Council on\u2026"
                 }
             },
             {
@@ -337,22 +401,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, April 3, 2025 - 3:42pmfull name / name of organization: Lucian Blaga University\u2026"
-                }
-            },
-            {
-                "title": "Online Lecture Series> Integrating Buddhist Teachings in Providing Care",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064737/online-public-lecture-series-integrating-buddhist-teachings-providing"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-02T10:50:08.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064737/online-public-lecture-series-integrating-buddhist-teachings-providing",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
@@ -497,54 +545,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, April 3, 2025 - 3:40pmfull name / name of organization: Women\u2019s Studies: An\u2026"
-                }
-            },
-            {
-                "title": "LECTURE> Taitetsu Unno: A Legacy of Dialogue, Debate, and Friendship <Hybrid, today Apr 1>",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064650/lecture-taitetsu-unno-legacy-dialogue-debate-and-friendship"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-01T14:20:33.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064650/lecture-taitetsu-unno-legacy-dialogue-debate-and-friendship",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
-                }
-            },
-            {
-                "title": "Research Fellowships and Visiting Scholar programs available in Bangkok",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064303/research-fellowships-and-visiting-scholar-programs-available-bangkok"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-01T12:54:57.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064303/research-fellowships-and-visiting-scholar-programs-available-bangkok",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
-                }
-            },
-            {
-                "title": "Covid-19 and Religious Freedom in South Korea: Sincheonji",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064342/covid-19-and-religious-freedom-south-korea-sincheonji"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-03-31T20:30:46.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064342/covid-19-and-religious-freedom-south-korea-sincheonji",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net reviews posted to the H-Net Commons 24 Mar 2025 - 31 Mar 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
