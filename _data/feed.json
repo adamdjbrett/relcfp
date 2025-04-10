@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-08T12:25:48.000Z",
+        "updated": "2025-04-09T13:50:55.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Grad: 31 March - 7 April",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065157/h-net-job-guide-weekly-report-h-grad-31-march-7-april"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-09T13:50:55.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065157/h-net-job-guide-weekly-report-h-grad-31-march-7-april",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
+            {
+                "title": "SUMMER PROGRAM> 2025 DILA Classical Buddhist Chinese Language Summer Workshop",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065477/2025-dila-classical-buddhist-chinese-language-summer-workshop"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-09T12:55:12.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065477/2025-dila-classical-buddhist-chinese-language-summer-workshop",
+                "content": {
+                    "@type": "html",
+                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
+                }
+            },
             {
                 "title": "ANN: MIT GHI 2nd Forum on \"The Good Life: Religions, Philosophies & Sciences\", Friday, April 11, 2025",
                 "link": {
@@ -142,38 +174,6 @@
                 },
                 "updated": "2025-04-07T12:13:00.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20064957/calling-holy-war-boston-virtual-talk-thomas-lecaque",
-                "content": {
-                    "@type": "html",
-                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
-                }
-            },
-            {
-                "title": "CALL FOR ABSTRACTS - Religious Minorities under Muslim Rule",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20064795/call-abstracts-religious-minorities-under-muslim-rule"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-07T07:36:47.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20064795/call-abstracts-religious-minorities-under-muslim-rule",
-                "content": {
-                    "@type": "html",
-                    "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
-                }
-            },
-            {
-                "title": "Mimesis in Philosophy and Literature: Representation, Truth, and Meaning",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20065038/mimesis-philosophy-and-literature-representation-truth-and-meaning"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-06T19:23:49.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20065038/mimesis-philosophy-and-literature-representation-truth-and-meaning",
                 "content": {
                     "@type": "html",
                     "#text": "Covid-19 and Religious Freedom in South Korea: Sincheonji JOSEPH YI 03/31/2025 - 4:30pm \u2026"
