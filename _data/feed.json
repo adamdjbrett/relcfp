@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-14T22:58:11.000Z",
+        "updated": "2025-04-15T12:39:34.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Sogdian Fire-worship: Between Zoroastrianism and Buddhism | A Kutar Memorial Lecture (1 May)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20064859/sogdian-fire-worship-between-zoroastrianism-and-buddhism-kutar"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-15T12:39:34.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20064859/sogdian-fire-worship-between-zoroastrianism-and-buddhism-kutar",
+                "content": {
+                    "@type": "html",
+                    "#text": "Hagley History Hangout Podcast - New Episode - International Business Associations and Regulations\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: Baseball and Ecclesiology",
                 "link": {
@@ -224,7 +240,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/10/marginal-voices-on-stage-documenting-dalit-and-tribal-performance-traditions-in-south",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Sunday, April 13, 2025 - 1:38pmfull name / name of organization: Dr. Shubhendu Shekhar\u2026"
+                    "#text": "updated: Wednesday, April 16, 2025 - 1:21amfull name / name of organization: Dr. Shubhendu Shekhar\u2026"
                 }
             },
             {
@@ -288,7 +304,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/10/call-for-book-chapters-urban-imaginaries-and-indian-cities-in-literature",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Sunday, April 13, 2025 - 3:02amfull name / name of organization: Rupkatha Bookscontact\u2026"
+                    "#text": "updated: Tuesday, April 15, 2025 - 11:33pmfull name / name of organization: Rupkatha Bookscontact\u2026"
                 }
             },
             {
@@ -304,7 +320,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/10/call-for-book-chapters-urban-imaginaries-and-indian-cities-in-literature",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Sunday, April 13, 2025 - 3:02amfull name / name of organization: Rupkatha Bookscontact\u2026"
+                    "#text": "updated: Tuesday, April 15, 2025 - 11:33pmfull name / name of organization: Rupkatha Bookscontact\u2026"
                 }
             },
             {
@@ -433,22 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, April 10, 2025 - 12:33pmfull name / name of organization: Ellen Welch/UNC-Chapel\u2026"
-                }
-            },
-            {
-                "title": "ANN: MIT GHI 2nd Forum on \"The Good Life: Religions, Philosophies & Sciences\", Friday, April 11, 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20065062/friday-april-11th-1000-am-edt-mit-ghi-hosts-its-2nd-forum-good-life"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-08T12:25:48.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20065062/friday-april-11th-1000-am-edt-mit-ghi-hosts-its-2nd-forum-good-life",
-                "content": {
-                    "@type": "html",
-                    "#text": "Hagley History Hangout Podcast - New Episode - International Business Associations and Regulations\u2026"
                 }
             },
             {
