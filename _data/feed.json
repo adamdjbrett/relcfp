@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-15T12:39:34.000Z",
+        "updated": "2025-04-16T09:48:37.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CfP: Poetry and Knowledge \u2013 The Production and Transmission of Knowledge in Arabic Verse (1100\u20131800)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20065790/cfp-poetry-and-knowledge-production-and-transmission-knowledge-arabic"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-16T09:48:37.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20065790/cfp-poetry-and-knowledge-production-and-transmission-knowledge-arabic",
+                "content": {
+                    "@type": "html",
+                    "#text": "Hagley History Hangout Podcast - New Episode - International Business Associations and Regulations\u2026"
+                }
+            },
             {
                 "title": "Sogdian Fire-worship: Between Zoroastrianism and Buddhism | A Kutar Memorial Lecture (1 May)",
                 "link": {
@@ -304,7 +320,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/10/call-for-book-chapters-urban-imaginaries-and-indian-cities-in-literature",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, April 15, 2025 - 11:33pmfull name / name of organization: Rupkatha Bookscontact\u2026"
+                    "#text": "updated: Thursday, April 17, 2025 - 12:36amfull name / name of organization: Rupkatha Bookscontact\u2026"
                 }
             },
             {
@@ -320,7 +336,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/10/call-for-book-chapters-urban-imaginaries-and-indian-cities-in-literature",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, April 15, 2025 - 11:33pmfull name / name of organization: Rupkatha Bookscontact\u2026"
+                    "#text": "updated: Thursday, April 17, 2025 - 12:36amfull name / name of organization: Rupkatha Bookscontact\u2026"
                 }
             },
             {
@@ -398,22 +414,6 @@
                 },
                 "updated": "2025-04-09T13:50:55.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20065157/h-net-job-guide-weekly-report-h-grad-31-march-7-april",
-                "content": {
-                    "@type": "html",
-                    "#text": "Hagley History Hangout Podcast - New Episode - International Business Associations and Regulations\u2026"
-                }
-            },
-            {
-                "title": "SUMMER PROGRAM> 2025 DILA Classical Buddhist Chinese Language Summer Workshop",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20065477/2025-dila-classical-buddhist-chinese-language-summer-workshop"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-09T12:55:12.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20065477/2025-dila-classical-buddhist-chinese-language-summer-workshop",
                 "content": {
                     "@type": "html",
                     "#text": "Hagley History Hangout Podcast - New Episode - International Business Associations and Regulations\u2026"
