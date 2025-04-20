@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-17T16:57:03.000Z",
+        "updated": "2025-04-20T02:23:13.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFA: Jewish Activism Summer School (Berlin)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066319/jewish-activism-summer-school-berlin"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-20T02:23:13.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066319/jewish-activism-summer-school-berlin",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers \u2013 Radical Right Narratives, Conspiracy Theories, and Vigilantism (Bilbao, 27\u201328\u2026"
+                }
+            },
             {
                 "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 7 April - 14 April",
                 "link": {
@@ -174,22 +190,6 @@
                 },
                 "updated": "2025-04-11T11:32:59.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20065649/conversations-sarvastivada",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers \u2013 Radical Right Narratives, Conspiracy Theories, and Vigilantism (Bilbao, 27\u201328\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Scholar: 31 March - 7 April",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20065209/h-net-job-guide-weekly-report-h-scholar-31-march-7-april"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-11T01:13:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20065209/h-net-job-guide-weekly-report-h-scholar-31-march-7-april",
                 "content": {
                     "@type": "html",
                     "#text": "Call for Papers \u2013 Radical Right Narratives, Conspiracy Theories, and Vigilantism (Bilbao, 27\u201328\u2026"
