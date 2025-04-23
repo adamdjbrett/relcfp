@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-21T16:54:30.000Z",
+        "updated": "2025-04-22T16:52:17.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: Im Frieden vergessen? Amnestierungen in der Vormoderne, M\u00fcnster (15.7.2025)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066254/im-frieden-vergessen-amnestierungen-der-vormoderne"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-22T16:52:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066254/im-frieden-vergessen-amnestierungen-der-vormoderne",
+                "content": {
+                    "@type": "html",
+                    "#text": "4th International Forum on Drug Policy - Synergy: New Strategies, Technologies, and Measures in\u2026"
+                }
+            },
             {
                 "title": "Call for Nordic Summer Univeristy session 21-28th of July 2025 in Jyv\u00e4skyl\u00e4",
                 "link": {
@@ -174,22 +190,6 @@
                 },
                 "updated": "2025-04-14T12:16:43.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20065820/wars-lord-virtual-book-talk-matthew-j-tuininga",
-                "content": {
-                    "@type": "html",
-                    "#text": "4th International Forum on Drug Policy - Synergy: New Strategies, Technologies, and Measures in\u2026"
-                }
-            },
-            {
-                "title": "CFP: Religions of Revolution Symposium",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20065816/cfp-religions-revolution-symposium"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-14T12:13:46.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20065816/cfp-religions-revolution-symposium",
                 "content": {
                     "@type": "html",
                     "#text": "4th International Forum on Drug Policy - Synergy: New Strategies, Technologies, and Measures in\u2026"
