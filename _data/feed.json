@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-24T10:44:11.000Z",
+        "updated": "2025-04-26T03:42:12.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Extended Call for Papers: Theology, Religion, and LOST",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/04/25/extended-call-for-papers-theology-religion-and-lost/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-04-26T03:42:12.000Z",
+                "id": "https://popularcultureandtheology.com/2025/04/25/extended-call-for-papers-theology-religion-and-lost/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Few commercial television series in recent memory have had as lasting an impact on audiences as has\u2026"
+                }
+            },
             {
                 "title": "Workshop on authoritarianism, law, and the remaking of society",
                 "link": {
@@ -433,22 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Title \u2013 Religion and AI Romance in Popular Media: Wired for Love Edited by: Amanda Furiasse, Nova\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Theology, Religion, and Mad Max",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/02/03/call-for-papers-theology-religion-and-mad-max/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-02-04T03:46:00.000Z",
-                "id": "https://popularcultureandtheology.com/2025/02/03/call-for-papers-theology-religion-and-mad-max/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for contributions Title: Theology, Religion, and Mad Max: Rising from the Ashes Edited by: Yael\u2026"
                 }
             },
             {
