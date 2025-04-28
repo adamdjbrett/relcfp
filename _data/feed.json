@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-26T03:42:12.000Z",
+        "updated": "2025-04-28T02:30:37.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: Philosophers and the Abrahamic Religions: Centuries of Reciprocal Influence",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066888/philosophers-and-abrahamic-religions-centuries-reciprocal-influence"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-28T02:30:37.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066888/philosophers-and-abrahamic-religions-centuries-reciprocal-influence",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                }
+            },
             {
                 "title": "Extended Call for Papers: Theology, Religion, and LOST",
                 "link": {
@@ -206,22 +222,6 @@
                 },
                 "updated": "2025-04-17T16:57:03.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20065845/h-net-job-guide-weekly-report-h-buddhism-7-april-14-april",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "CfP: Poetry and Knowledge \u2013 The Production and Transmission of Knowledge in Arabic Verse (1100\u20131800)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20065790/cfp-poetry-and-knowledge-production-and-transmission-knowledge-arabic"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-16T09:48:37.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20065790/cfp-poetry-and-knowledge-production-and-transmission-knowledge-arabic",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
