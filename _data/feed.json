@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-28T02:30:37.000Z",
+        "updated": "2025-04-29T02:49:04.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "EVENT: Book Launch - Laws of the Spirit: Ritual, Mysticism, and the Commandments in Early Hasidism (May 6)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067030/book-launch-laws-spirit-ritual-mysticism-and-commandments-early"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-29T02:49:04.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067030/book-launch-laws-spirit-ritual-mysticism-and-commandments-early",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                }
+            },
+            {
+                "title": "Museum Charges: Curating Spiritual Presences",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066703/museum-charges-curating-spiritual-presences"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-28T22:28:32.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066703/museum-charges-curating-spiritual-presences",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                }
+            },
+            {
+                "title": "SUMMER COURSE> Advanced Classical Tibetan course focusing on Yogin\u012btantra",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066932/announcement-advanced-classical-tibetan-course-focusing-yoginitantra"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-28T14:26:46.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066932/announcement-advanced-classical-tibetan-course-focusing-yoginitantra",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                }
+            },
+            {
+                "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 21 April - 28 April",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066954/h-net-job-guide-weekly-report-h-buddhism-21-april-28-april"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-28T14:00:59.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066954/h-net-job-guide-weekly-report-h-buddhism-21-april-28-april",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                }
+            },
             {
                 "title": "CFP: Philosophers and the Abrahamic Religions: Centuries of Reciprocal Influence",
                 "link": {
@@ -158,70 +222,6 @@
                 },
                 "updated": "2025-04-22T16:52:17.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20066254/im-frieden-vergessen-amnestierungen-der-vormoderne",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "Call for Nordic Summer Univeristy session 21-28th of July 2025 in Jyv\u00e4skyl\u00e4",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066358/call-nordic-summer-univeristy-session-21-28th-july-2025-jyvaskyla"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-21T16:54:30.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066358/call-nordic-summer-univeristy-session-21-28th-july-2025-jyvaskyla",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "ANN: ISCSD Book Talk: Handbook of Divination and Prognostication in China, April 29, 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066238/iscsd-book-talk-handbook-divination-and-prognostication-china"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-21T14:46:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066238/iscsd-book-talk-handbook-divination-and-prognostication-china",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "CFA: Jewish Activism Summer School (Berlin)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066319/jewish-activism-summer-school-berlin"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-20T02:23:13.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066319/jewish-activism-summer-school-berlin",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 7 April - 14 April",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20065845/h-net-job-guide-weekly-report-h-buddhism-7-april-14-april"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-17T16:57:03.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20065845/h-net-job-guide-weekly-report-h-buddhism-7-april-14-april",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
