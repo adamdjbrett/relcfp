@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-04-29T02:49:04.000Z",
+        "updated": "2025-04-30T00:34:16.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "EVENT: Kabbalah and the Rupture of Modernity (May 14)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067131/kabbalah-and-rupture-modernity"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-30T00:34:16.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067131/kabbalah-and-rupture-modernity",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
+                }
+            },
+            {
+                "title": "CFP EDITED: Philosophers and the Abrahamic Religions: Centuries of Reciprocal Influence, AFH, September 9-10, 2025",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067119/edited-philosophers-and-abrahamic-religions-centuries-reciprocal"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-30T00:32:53.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067119/edited-philosophers-and-abrahamic-religions-centuries-reciprocal",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
+                }
+            },
+            {
+                "title": "Reposting: Ancient History seminar: Marcos on the Role of the Populace in the Pelagian Controversy (01.05.2025 @ 16:30)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067210/reposting-ancient-history-seminar-marcos-role-populace-pelagian"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-29T20:09:08.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067210/reposting-ancient-history-seminar-marcos-role-populace-pelagian",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Scholar: 21 April - 28 April",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066994/h-net-job-guide-weekly-report-h-scholar-21-april-28-april"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-04-29T17:49:59.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066994/h-net-job-guide-weekly-report-h-scholar-21-april-28-april",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
+                }
+            },
             {
                 "title": "EVENT: Book Launch - Laws of the Spirit: Ritual, Mysticism, and the Commandments in Early Hasidism (May 6)",
                 "link": {
@@ -32,7 +96,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20067030/book-launch-laws-spirit-ritual-mysticism-and-commandments-early",
                 "content": {
                     "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
@@ -48,7 +112,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20066703/museum-charges-curating-spiritual-presences",
                 "content": {
                     "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
@@ -64,7 +128,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20066932/announcement-advanced-classical-tibetan-course-focusing-yoginitantra",
                 "content": {
                     "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
@@ -80,7 +144,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20066954/h-net-job-guide-weekly-report-h-buddhism-21-april-28-april",
                 "content": {
                     "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
@@ -96,7 +160,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20066888/philosophers-and-abrahamic-religions-centuries-reciprocal-influence",
                 "content": {
                     "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
@@ -144,55 +208,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20066702/museum-charges-curating-spiritual-presences",
                 "content": {
                     "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "ANN: GRAA Collective Works-in-Progress Workshop (Virtual), April 25th 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066501/apr-25-graa-collective-works-progress-workshop-virtual"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-24T06:51:22.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066501/apr-25-graa-collective-works-progress-workshop-virtual",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "Call for Nordic Summer Univeristy session 21-28th of July 2025 in Jyv\u00e4skyl\u00e4",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066359/call-nordic-summer-univeristy-session-21-28th-july-2025-jyvaskyla"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-23T22:02:14.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066359/call-nordic-summer-univeristy-session-21-28th-july-2025-jyvaskyla",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
-                }
-            },
-            {
-                "title": "SYMPOSIUM> The Transmission of Buddhism to Imperial Tibet, May 2 & 3, Yale",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066560/transmission-buddhism-imperial-tibet"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-23T14:59:36.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066560/transmission-buddhism-imperial-tibet",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
+                    "#text": "H-Net reviews posted to the H-Net Commons 21 Apr 2025 - 28 Apr 2025 Emily Joan Elliott (she/hers)\u2026"
                 }
             },
             {
@@ -209,22 +225,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Fariya Yesmin's new article Beyond papers: understanding the making of citizenship in the\u2026"
-                }
-            },
-            {
-                "title": "CFP: Im Frieden vergessen? Amnestierungen in der Vormoderne, M\u00fcnster (15.7.2025)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066254/im-frieden-vergessen-amnestierungen-der-vormoderne"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-22T16:52:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066254/im-frieden-vergessen-amnestierungen-der-vormoderne",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series | Dana Listiana & Rifki Indra Maulana (Badan Riset dan Inovasi\u2026"
                 }
             },
             {
