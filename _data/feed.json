@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-02T05:29:31.000Z",
+        "updated": "2025-05-04T19:03:57.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Religions, Beliefs, and the Supernatural in Italy and across Italian Mobilities",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067459/religions-beliefs-and-supernatural-italy-and-across-italian-mobilities"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-04T19:03:57.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067459/religions-beliefs-and-supernatural-italy-and-across-italian-mobilities",
+                "content": {
+                    "@type": "html",
+                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
+                }
+            },
             {
                 "title": "CFP: Elemental - Ismaili Perspectives on Earth, Water, Air, Fire and Ether, 19-20 March 2026",
                 "link": {
@@ -158,22 +174,6 @@
                 },
                 "updated": "2025-04-29T02:49:04.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20067030/book-launch-laws-spirit-ritual-mysticism-and-commandments-early",
-                "content": {
-                    "@type": "html",
-                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
-                }
-            },
-            {
-                "title": "Museum Charges: Curating Spiritual Presences",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066703/museum-charges-curating-spiritual-presences"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-28T22:28:32.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066703/museum-charges-curating-spiritual-presences",
                 "content": {
                     "@type": "html",
                     "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
@@ -804,7 +804,7 @@
                 }
             },
             {
-                "title": "We Came on a Spaceship: Examining Pseudoarchaeology\u2019s Place in and Out of this World",
+                "title": "We Came on a Spaceship: Examining Pseudoarchaeology\u2019s Place in and Out of this World (Extended)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/26/we-came-on-a-spaceship-examining-pseudoarchaeology%E2%80%99s-place-in-and-out-of-this-world"
                 },
@@ -816,7 +816,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/26/we-came-on-a-spaceship-examining-pseudoarchaeology%E2%80%99s-place-in-and-out-of-this-world",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, March 31, 2025 - 2:24pmfull name / name of organization: Robert\u2026"
+                    "#text": "updated: Sunday, May 4, 2025 - 1:45pmfull name / name of organization: Robert Spinelli/Independent\u2026"
                 }
             },
             {
