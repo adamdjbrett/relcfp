@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-05T17:49:53.000Z",
+        "updated": "2025-05-06T23:45:48.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "LECTURE> Donald Lopez, How the Buddha Met His Mother: Book Talk - May 8 - National Museum of Asian Art",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067792/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-06T23:45:48.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067792/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum",
+                "content": {
+                    "@type": "html",
+                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
+                }
+            },
+            {
+                "title": "Donald Lopez, How the Buddha Met His Mother: Book Talk - May 8 - National Museum of Asian Art",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067791/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-06T23:22:49.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067791/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum",
+                "content": {
+                    "@type": "html",
+                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-NC: 28 April - 5 May",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067558/h-net-job-guide-weekly-report-h-nc-28-april-5-may"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-06T18:48:58.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067558/h-net-job-guide-weekly-report-h-nc-28-april-5-may",
+                "content": {
+                    "@type": "html",
+                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
+                }
+            },
+            {
+                "title": "The Materiality of Interreligoius Encounters - Special Issue Launch",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20067637/materiality-interreligoius-encounters-special-issue-launch"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-06T18:23:51.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20067637/materiality-interreligoius-encounters-special-issue-launch",
+                "content": {
+                    "@type": "html",
+                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
+                }
+            },
             {
                 "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 28 April - 5 May",
                 "link": {
@@ -513,70 +577,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, May 5, 2025 - 1:33pmfull name / name of organization: Pacific Ancient and Modern\u2026"
-                }
-            },
-            {
-                "title": "ANN: EMoDiR (Early Modern Religious Dissents and Radicalism) is looking for new social media manager(s)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067212/ann-emodir-early-modern-religious-dissents-and-radicalism-looking-new"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-30T07:31:21.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067212/ann-emodir-early-modern-religious-dissents-and-radicalism-looking-new",
-                "content": {
-                    "@type": "html",
-                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
-                }
-            },
-            {
-                "title": "EVENT: Kabbalah and the Rupture of Modernity (May 14)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067131/kabbalah-and-rupture-modernity"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-30T00:34:16.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067131/kabbalah-and-rupture-modernity",
-                "content": {
-                    "@type": "html",
-                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
-                }
-            },
-            {
-                "title": "CFP EDITED: Philosophers and the Abrahamic Religions: Centuries of Reciprocal Influence, AFH, September 9-10, 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067119/edited-philosophers-and-abrahamic-religions-centuries-reciprocal"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-30T00:32:53.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067119/edited-philosophers-and-abrahamic-religions-centuries-reciprocal",
-                "content": {
-                    "@type": "html",
-                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
-                }
-            },
-            {
-                "title": "Reposting: Ancient History seminar: Marcos on the Role of the Populace in the Pelagian Controversy (01.05.2025 @ 16:30)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067210/reposting-ancient-history-seminar-marcos-role-populace-pelagian"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-04-29T20:09:08.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067210/reposting-ancient-history-seminar-marcos-role-populace-pelagian",
-                "content": {
-                    "@type": "html",
-                    "#text": "New Service Announcement: Build, manage, and preserve digital projects with H-Net Spaces! Jesse\u2026"
                 }
             },
             {
