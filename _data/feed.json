@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-07T20:29:56.000Z",
+        "updated": "2025-05-10T12:05:23.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Devil: 21 April - 28 April",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20066956/h-net-job-guide-weekly-report-h-devil-21-april-28-april"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-10T12:05:23.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20066956/h-net-job-guide-weekly-report-h-devil-21-april-28-april",
+                "content": {
+                    "@type": "html",
+                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
+                }
+            },
             {
                 "title": "The \u201cCrisis\u201d of Sociality: Caring for the Dead Otherwise by Anne Allison at Sophia U., May 23rd, 6pm",
                 "link": {
@@ -241,22 +257,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, May 5, 2025 - 1:57pmfull name / name of organization: Nicolaus Copernicus\u2026"
-                }
-            },
-            {
-                "title": "Issue 19 (2024) of the Canadian Journal of Buddhist Studies",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067492/issue-19-2024-canadian-journal-buddhist-studies"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-05T07:40:57.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067492/issue-19-2024-canadian-journal-buddhist-studies",
-                "content": {
-                    "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
                 }
             },
             {
