@@ -12,13 +12,109 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-11T23:37:23.000Z",
+        "updated": "2025-05-13T01:48:39.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "H-Net Job Guide Weekly Report for H-NC: 5 May - 12 May",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068186/h-net-job-guide-weekly-report-h-nc-5-may-12-may"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-13T01:48:39.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068186/h-net-job-guide-weekly-report-h-nc-5-may-12-may",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "\u2018Tantric Borderlands\u2019 Workshop \u2013 Paris, 30 May 2025",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068242/tantric-borderlands-workshop-paris-30-may-2025"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-12T18:50:26.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068242/tantric-borderlands-workshop-paris-30-may-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 5 May - 12 May",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068147/h-net-job-guide-weekly-report-h-buddhism-5-may-12-may"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-12T18:49:06.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068147/h-net-job-guide-weekly-report-h-buddhism-5-may-12-may",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Grad: 5 May - 12 May",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068164/h-net-job-guide-weekly-report-h-grad-5-may-12-may"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-12T15:20:56.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068164/h-net-job-guide-weekly-report-h-grad-5-may-12-may",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "CFP: Small Forms in Nineteenth-Century America",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068110/cfp-small-forms-nineteenth-century-america"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-12T13:16:52.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068110/cfp-small-forms-nineteenth-century-america",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "TALKS> Online Buddhist Studies Events (May 14 - June 25)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068128/talks-online-buddhist-studies-events-may-14-june-25"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-12T11:31:15.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068128/talks-online-buddhist-studies-events-may-14-june-25",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
             {
                 "title": "Disgraced: How Sex Scandals Transformed American Protestantism",
                 "link": {
@@ -32,7 +128,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20067771/disgraced-how-sex-scandals-transformed-american-protestantism",
                 "content": {
                     "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
                 }
             },
             {
@@ -48,7 +144,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20068044/deadline-approaching-southern-conference-british-studies-cfp",
                 "content": {
                     "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
                 }
             },
             {
@@ -64,7 +160,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20066956/h-net-job-guide-weekly-report-h-devil-21-april-28-april",
                 "content": {
                     "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
                 }
             },
             {
@@ -80,103 +176,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20067686/crisis-sociality-caring-dead-otherwise-anne-allison-sophia-u-may-23rd",
                 "content": {
                     "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
-                }
-            },
-            {
-                "title": "Reposting: CRSN Summer Speaker Series \u2013 Ancient Violence and Contemporary Receptions: Challenges and Perspectives",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067842/reposting-crsn-summer-speaker-series-ancient-violence-and-contemporary"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-07T14:21:11.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067842/reposting-crsn-summer-speaker-series-ancient-violence-and-contemporary",
-                "content": {
-                    "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
-                }
-            },
-            {
-                "title": "Reposting: Workshop 'The Other and Empire in Christianity: Postcolonial Reading of Late Antique Literature', Durham, December 16-17",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067840/reposting-workshop-other-and-empire-christianity-postcolonial-reading"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-07T14:12:42.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067840/reposting-workshop-other-and-empire-christianity-postcolonial-reading",
-                "content": {
-                    "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
-                }
-            },
-            {
-                "title": "Sacred Rebellion Virtual Exhibition Tour",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067731/sacred-rebellion-virtual-exhibition-tour"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-07T10:14:54.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067731/sacred-rebellion-virtual-exhibition-tour",
-                "content": {
-                    "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
-                }
-            },
-            {
-                "title": "LECTURE> Donald Lopez, How the Buddha Met His Mother: Book Talk - May 8 - National Museum of Asian Art",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067792/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-06T23:45:48.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067792/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum",
-                "content": {
-                    "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
-                }
-            },
-            {
-                "title": "Donald Lopez, How the Buddha Met His Mother: Book Talk - May 8 - National Museum of Asian Art",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067791/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-06T23:22:49.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067791/donald-lopez-how-buddha-met-his-mother-book-talk-may-8-national-museum",
-                "content": {
-                    "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-NC: 28 April - 5 May",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067558/h-net-job-guide-weekly-report-h-nc-28-april-5-may"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-06T18:48:58.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067558/h-net-job-guide-weekly-report-h-nc-28-april-5-may",
-                "content": {
-                    "@type": "html",
-                    "#text": "History of nursing events: workhouses, climate change and women's health (online/London) Sarah\u2026"
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
                 }
             },
             {
