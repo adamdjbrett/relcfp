@@ -12,13 +12,125 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-13T01:48:39.000Z",
+        "updated": "2025-05-13T14:29:24.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP> Journal of Buddhist Philosophy: \u2018Buddhist Political Philosophy\u2019 Special Issue",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068292/journal-buddhist-philosophy-buddhist-political-philosophy-special"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-13T14:29:24.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068292/journal-buddhist-philosophy-buddhist-political-philosophy-special",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "Upcoming Event \u2013 Nonconformity and Revolutions:",
+                "link": {
+                    "@href": "https://churchhistory.org/upcoming-event-nonconformity-and-revolutions/"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2025-05-13T12:57:46.000Z",
+                "id": "https://churchhistory.org/upcoming-event-nonconformity-and-revolutions/",
+                "content": {
+                    "@type": "html",
+                    "#text": "When: June 21, 2025 in Bath, Somerset, England 2025 marks the 250th anniversaries which commemorate\u2026"
+                }
+            },
+            {
+                "title": "HAUNTED ARCHIVES OF LIVINGNESS: Visual Culture and the Politics of Care in the Age of Ecological Entanglement",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/haunted-archives-of-livingness-visual-culture-and-the-politics-of-care-in-the-age-of"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-13T10:58:14.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/haunted-archives-of-livingness-visual-culture-and-the-politics-of-care-in-the-age-of",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Reframing the Archive\u2026"
+                }
+            },
+            {
+                "title": "Call for paper for the July issue (Open Issue) of Entanglements: Journal of Posthumanities",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/call-for-paper-for-the-july-issue-open-issue-of-entanglements-journal-of"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-13T10:18:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/call-for-paper-for-the-july-issue-open-issue-of-entanglements-journal-of",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Entanglements: Journal of\u2026"
+                }
+            },
+            {
+                "title": "Call for paper for the July issue (Open Issue) of Entanglements: Journal of Posthumanities",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/call-for-paper-for-the-july-issue-open-issue-of-entanglements-journal-of"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-05-13T10:18:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/call-for-paper-for-the-july-issue-open-issue-of-entanglements-journal-of",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Entanglements: Journal of\u2026"
+                }
+            },
+            {
+                "title": "Multisensuality and Language Across Media, Cultures, and Histories: International Scientific Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/multisensuality-and-language-across-media-cultures-and-histories-international"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-13T09:04:59.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/multisensuality-and-language-across-media-cultures-and-histories-international",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Sprachenzentrum, University\u2026"
+                }
+            },
+            {
+                "title": "Special Session on African Literature and Abdulrazak Gurnah - 122nd PAMLA Conference 2025",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/special-session-on-african-literature-and-abdulrazak-gurnah-122nd-pamla-conference"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-13T06:20:48.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/13/special-session-on-african-literature-and-abdulrazak-gurnah-122nd-pamla-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Pacific Ancient Modern\u2026"
+                }
+            },
             {
                 "title": "H-Net Job Guide Weekly Report for H-NC: 5 May - 12 May",
                 "link": {
@@ -33,6 +145,70 @@
                 "content": {
                     "@type": "html",
                     "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "Edited Collection CFP: \"Killing It In The Classroom: Teaching the Young Adult Detective Genre\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/edited-collection-cfp-killing-it-in-the-classroom-teaching-the-young-adult-detective"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-12T21:29:58.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/edited-collection-cfp-killing-it-in-the-classroom-teaching-the-young-adult-detective",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Dr. Myers Enlow and Dr.\u2026"
+                }
+            },
+            {
+                "title": "Call for Submissions: Poetry Anthology Titled \"Alone Together: Echoes of Existence in the Modern Abyss\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/call-for-submissions-poetry-anthology-titled-alone-together-echoes-of-existence-in"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-12T20:22:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/call-for-submissions-poetry-anthology-titled-alone-together-echoes-of-existence-in",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Fresh Words-An\u2026"
+                }
+            },
+            {
+                "title": "Bible and Literature",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/bible-and-literature"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-12T19:12:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/bible-and-literature",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Pacific Ancient and Modern\u2026"
+                }
+            },
+            {
+                "title": "Manuscripts and Textual Criticism",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/manuscripts-and-textual-criticism"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-12T19:10:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/manuscripts-and-textual-criticism",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: Pacific Ancient and Modern\u2026"
                 }
             },
             {
@@ -65,6 +241,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "Special Issue on Early Childhood Studies of Research in Education Curriculum and Pedagogy: Global Perspectives",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/special-issue-on-early-childhood-studies-of-research-in-education-curriculum-and"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-12T18:13:48.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/special-issue-on-early-childhood-studies-of-research-in-education-curriculum-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:05pmfull name / name of organization: AT-Publishingcontact\u2026"
                 }
             },
             {
@@ -116,6 +308,38 @@
                 }
             },
             {
+                "title": "Call for Review Essays - C21 Literature: Journal of 21st-Century Writings",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/call-for-review-essays-c21-literature-journal-of-21st-century-writings"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-12T10:39:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/call-for-review-essays-c21-literature-journal-of-21st-century-writings",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:04pmfull name / name of organization: C21 Literature: Journal of\u2026"
+                }
+            },
+            {
+                "title": "Narratives of Nature: Representations of the Environment, Urban Ecology and Planetary Crisis in Indigenous and Postcolonial Literatures",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/narratives-of-nature-representations-of-the-environment-urban-ecology-and-planetary"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-12T08:38:07.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/narratives-of-nature-representations-of-the-environment-urban-ecology-and-planetary",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:04pmfull name / name of organization: Litinfinite Journalcontact\u2026"
+                }
+            },
+            {
                 "title": "Disgraced: How Sex Scandals Transformed American Protestantism",
                 "link": {
                     "@href": "https://networks.h-net.org/group/announcements/20067771/disgraced-how-sex-scandals-transformed-american-protestantism"
@@ -129,6 +353,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "Travel and Tourism (Mid-Atlantic Popular/American Culture Association Conference) 2025",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/11/travel-and-tourism-mid-atlantic-popularamerican-culture-association-conference-2025"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-11T22:02:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/11/travel-and-tourism-mid-atlantic-popularamerican-culture-association-conference-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:04pmfull name / name of organization: MAPACA (Mid-Atlantic\u2026"
                 }
             },
             {
@@ -148,6 +388,54 @@
                 }
             },
             {
+                "title": "Marxism and the Coercive Forces of Capital: Today\u2019s Implications and Critical Perspectives",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/marxism-and-the-coercive-forces-of-capital-today%E2%80%99s-implications-and-critical"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-11T03:17:17.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/marxism-and-the-coercive-forces-of-capital-today%E2%80%99s-implications-and-critical",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:04pmfull name / name of organization: University of Southern\u2026"
+                }
+            },
+            {
+                "title": "Marxism and the Coercive Forces of Capital: Today\u2019s Implications and Critical Perspectives",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/marxism-and-the-coercive-forces-of-capital-today%E2%80%99s-implications-and-critical"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-11T03:17:17.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/marxism-and-the-coercive-forces-of-capital-today%E2%80%99s-implications-and-critical",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:04pmfull name / name of organization: University of Southern\u2026"
+                }
+            },
+            {
+                "title": "Marginal Infrastructures",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/marginal-infrastructures"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-10T20:37:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/marginal-infrastructures",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:04pmfull name / name of organization: University of\u2026"
+                }
+            },
+            {
                 "title": "H-Net Job Guide Weekly Report for H-Devil: 21 April - 28 April",
                 "link": {
                     "@href": "https://networks.h-net.org/group/announcements/20066956/h-net-job-guide-weekly-report-h-devil-21-april-28-april"
@@ -164,243 +452,339 @@
                 }
             },
             {
-                "title": "The \u201cCrisis\u201d of Sociality: Caring for the Dead Otherwise by Anne Allison at Sophia U., May 23rd, 6pm",
+                "title": "Small Forms in Nineteenth-Century America",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067686/crisis-sociality-caring-dead-otherwise-anne-allison-sophia-u-may-23rd"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-07T20:29:56.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067686/crisis-sociality-caring-dead-otherwise-anne-allison-sophia-u-may-23rd",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
-                }
-            },
-            {
-                "title": "Time Trial: Advancing an Understanding of Temporality in Play and Games",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/time-trial-advancing-an-understanding-of-temporality-in-play-and-games"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/small-forms-in-nineteenth-century-america"
                 },
                 "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
-                "updated": "2025-05-05T16:50:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/time-trial-advancing-an-understanding-of-temporality-in-play-and-games",
+                "updated": "2025-05-10T10:31:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/small-forms-in-nineteenth-century-america",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:58pmfull name / name of organization: Emma Kostopoluscontact\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:03pmfull name / name of organization: Madeline Zehnder and Thomas\u2026"
                 }
             },
             {
-                "title": "Call for Book Chapters -- Fans, Fandoms, and Tabletop Roleplaying Games",
+                "title": "Small Forms in Nineteenth-Century America",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/call-for-book-chapters-fans-fandoms-and-tabletop-roleplaying-games"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/small-forms-in-nineteenth-century-america"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-10T10:31:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/small-forms-in-nineteenth-century-america",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:03pmfull name / name of organization: Madeline Zehnder and Thomas\u2026"
+                }
+            },
+            {
+                "title": "Rhetorical Theory (PAMLA Standing Session)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/rhetorical-theory-pamla-standing-session"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-05-10T00:17:16.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/rhetorical-theory-pamla-standing-session",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:03pmfull name / name of organization: Pacific Ancient and Modern\u2026"
+                }
+            },
+            {
+                "title": "MAPACA 2025 Summer Virtual Symposium Call for Proposals",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/mapaca-2025-summer-virtual-symposium-call-for-proposals"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-09T20:16:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/mapaca-2025-summer-virtual-symposium-call-for-proposals",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:03pmfull name / name of organization: Mid Atlantic Popular and\u2026"
+                }
+            },
+            {
+                "title": "(CFP: PAMLA 2025) Haunted Belonging: Memory, Erasure, and Identity in Diasporic Literatures",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-pamla-2025-haunted-belonging-memory-erasure-and-identity-in-diasporic-literatures"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-09T17:12:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-pamla-2025-haunted-belonging-memory-erasure-and-identity-in-diasporic-literatures",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:03pmfull name / name of organization: Wenyuan Wang / / Pacific\u2026"
+                }
+            },
+            {
+                "title": "Call for Articles for L'Histoire Volume 4, Issue 1, a Biannual Magazine of the Social Sciences",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/call-for-articles-for-lhistoire-volume-4-issue-1-a-biannual-magazine-of-the-social"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-09T16:12:42.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/call-for-articles-for-lhistoire-volume-4-issue-1-a-biannual-magazine-of-the-social",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:03pmfull name / name of organization: Voyages into the\u2026"
+                }
+            },
+            {
+                "title": "CFP Screening Women and/in Politics - Film Journal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-screening-women-andin-politics-film-journal"
                 },
                 "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
-                "updated": "2025-05-05T16:08:28.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/call-for-book-chapters-fans-fandoms-and-tabletop-roleplaying-games",
+                "updated": "2025-05-09T08:56:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-screening-women-andin-politics-film-journal",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:58pmfull name / name of organization: Fans, Fandoms, and Tabletop\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:02pmfull name / name of organization: Film Journalcontact\u2026"
                 }
             },
             {
-                "title": "Lectures from the Underground: Rethinking \u201cEducation\u201d in the Long C19",
+                "title": "Deadline Aprroaching: Postcolonial Interventions (ISSN 2455-6564) Call for Papers Vol. X, Issue 2 (June 2025)",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/lectures-from-the-underground-rethinking-%E2%80%9Ceducation%E2%80%9D-in-the-long-c19"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-05T15:29:12.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/lectures-from-the-underground-rethinking-%E2%80%9Ceducation%E2%80%9D-in-the-long-c19",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:58pmfull name / name of organization: C19: The Society of\u2026"
-                }
-            },
-            {
-                "title": "Medieval Times in Early Modern Texts",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/medieval-times-in-early-modern-texts"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-05T10:32:39.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/medieval-times-in-early-modern-texts",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:57pmfull name / name of organization: SAS Institute of History and\u2026"
-                }
-            },
-            {
-                "title": "THE CULTURE OF ATTRACTIONS: PAST AND PRESENT International Scholarly Conference 10\u201312 September 2025",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/the-culture-of-attractions-past-and-present-international-scholarly-conference-10%E2%80%9312"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-05T08:15:11.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/the-culture-of-attractions-past-and-present-international-scholarly-conference-10%E2%80%9312",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:57pmfull name / name of organization: Nicolaus Copernicus\u2026"
-                }
-            },
-            {
-                "title": "Art, Architecture, and Culture of Odisha: Bridging Traditions and Global Narratives",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/art-architecture-and-culture-of-odisha-bridging-traditions-and-global-narratives"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-05T06:30:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/05/art-architecture-and-culture-of-odisha-bridging-traditions-and-global-narratives",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:57pmfull name / name of organization: S.C.S. (A) COLLEGEcontact\u2026"
-                }
-            },
-            {
-                "title": "(Call For Book Chapters) In Living Color: Exploring the Complexities of Colorism in the Twenty-First Century",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/04/call-for-book-chapters-in-living-color-exploring-the-complexities-of-colorism-in-the"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-04T21:52:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/04/call-for-book-chapters-in-living-color-exploring-the-complexities-of-colorism-in-the",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:57pmfull name / name of organization: Amir Gilmorecontact\u2026"
-                }
-            },
-            {
-                "title": "Call for replacement chapters: Shifting Borders, Emerging Voices: Narratives of Change in Global South Asia",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/04/call-for-replacement-chapters-shifting-borders-emerging-voices-narratives-of-change"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-04T19:57:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/04/call-for-replacement-chapters-shifting-borders-emerging-voices-narratives-of-change",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:57pmfull name / name of organization: Springer Nature / University\u2026"
-                }
-            },
-            {
-                "title": "CFP: Fearful Performances: Stardom, Skill, and Style of Acting in the Horror Film",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/04/cfp-fearful-performances-stardom-skill-and-style-of-acting-in-the-horror-film"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/deadline-aprroaching-postcolonial-interventions-issn-2455-6564-call-for-papers-vol-x"
                 },
                 "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
-                "updated": "2025-05-04T04:53:13.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/04/cfp-fearful-performances-stardom-skill-and-style-of-acting-in-the-horror-film",
+                "updated": "2025-05-09T07:21:26.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/deadline-aprroaching-postcolonial-interventions-issn-2455-6564-call-for-papers-vol-x",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: Steffen Hantkecontact\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:02pmfull name / name of organization: Postcolonial\u2026"
                 }
             },
             {
-                "title": "Call for chapters (Art volume in the series Oceans, Seas and Shorelines)",
+                "title": "CfP Culture and Dialogue, Special Issue: GEORGE ORWELL, THE PHILOSOPHER",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/03/call-for-chapters-art-volume-in-the-series-oceans-seas-and-shorelines"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-culture-and-dialogue-special-issue-george-orwell-the-philosopher"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
-                "updated": "2025-05-03T08:15:09.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/03/call-for-chapters-art-volume-in-the-series-oceans-seas-and-shorelines",
+                "updated": "2025-05-09T04:10:01.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-culture-and-dialogue-special-issue-george-orwell-the-philosopher",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, May 9, 2025 - 3:12pmfull name / name of organization: Amin Heidaricontact\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:01pmfull name / name of organization: Culture and Dialogue\u2026"
                 }
             },
             {
-                "title": "Call for chapters (Art volume in the series Oceans, Seas and Shorelines)",
+                "title": "CfP Culture and Dialogue, Special Issue: THE PHILOSOPHY AND INFLUENCE OF GILLES DELEUZE",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/03/call-for-chapters-art-volume-in-the-series-oceans-seas-and-shorelines"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-culture-and-dialogue-special-issue-the-philosophy-and-influence-of-gilles-deleuze"
                 },
                 "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
-                "updated": "2025-05-03T08:15:09.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/03/call-for-chapters-art-volume-in-the-series-oceans-seas-and-shorelines",
+                "updated": "2025-05-09T04:08:05.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-culture-and-dialogue-special-issue-the-philosophy-and-influence-of-gilles-deleuze",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, May 9, 2025 - 3:12pmfull name / name of organization: Amin Heidaricontact\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:01pmfull name / name of organization: Culture and Dialogue\u2026"
                 }
             },
             {
-                "title": "Virtual Crime and Detection",
+                "title": "Call for Chapters | Mapping the Trajectory of Indian Muslim Women\u2019s Life-Writings: An Autoethnographical Approach",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/virtual-crime-and-detection"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/08/call-for-chapters-mapping-the-trajectory-of-indian-muslim-women%E2%80%99s-life-writings-an"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
                 },
-                "updated": "2025-05-03T01:39:50.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/virtual-crime-and-detection",
+                "updated": "2025-05-08T05:47:48.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/08/call-for-chapters-mapping-the-trajectory-of-indian-muslim-women%E2%80%99s-life-writings-an",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: Virtual Crime and Detection,\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:00pmfull name / name of organization: Dr. N. Safrine /\u2026"
                 }
             },
             {
-                "title": "Call for Chapters: Routledge Handbook of Humanities and Social Science Communication",
+                "title": "'Theory Today' workshop with Todd McGowan",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/call-for-chapters-routledge-handbook-of-humanities-and-social-science-communication"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/theory-today-workshop-with-todd-mcgowan"
                 },
                 "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
-                "updated": "2025-05-02T20:30:13.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/call-for-chapters-routledge-handbook-of-humanities-and-social-science-communication",
+                "updated": "2025-05-07T21:46:25.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/theory-today-workshop-with-todd-mcgowan",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: Gwendolynne Reid / Oxford\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:00pmfull name / name of organization: USCcontact\u2026"
                 }
             },
             {
-                "title": "Multi-Ethnic Queer Literature & Culture",
+                "title": "Call to Host the 2026 Post45 Graduate Symposium",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/multi-ethnic-queer-literature-culture"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/call-to-host-the-2026-post45-graduate-symposium"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
-                "updated": "2025-05-02T17:30:23.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/multi-ethnic-queer-literature-culture",
+                "updated": "2025-05-07T18:32:13.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/call-to-host-the-2026-post45-graduate-symposium",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: PAMLA 2025 - San\u2026"
+                    "#text": "updated: Tuesday, May 13, 2025 - 2:00pmfull name / name of organization: Post45contact\u2026"
+                }
+            },
+            {
+                "title": "South Asia Research at the Crossroads: Current World Order, New Horizons and Theorisations",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/south-asia-research-at-the-crossroads-current-world-order-new-horizons-and"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-07T10:21:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/south-asia-research-at-the-crossroads-current-world-order-new-horizons-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:59pmfull name / name of organization: Institute of Language\u2026"
+                }
+            },
+            {
+                "title": "South Asia Research at the Crossroads: Current World Order, New Horizons and Theorisations",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/south-asia-research-at-the-crossroads-current-world-order-new-horizons-and"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-05-07T10:21:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/07/south-asia-research-at-the-crossroads-current-world-order-new-horizons-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:59pmfull name / name of organization: Institute of Language\u2026"
+                }
+            },
+            {
+                "title": "Dialectics of Transformation",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/dialectics-of-transformation"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-05-07T03:32:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/dialectics-of-transformation",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:57pmfull name / name of organization: The Phenomenology of Spirit\u2026"
+                }
+            },
+            {
+                "title": "Toleration and Cosmopolitanism II: English and European Literature in Global Contexts (RSA Paper Panel)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/toleration-and-cosmopolitanism-ii-english-and-european-literature-in-global-contexts"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-06T18:34:09.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/toleration-and-cosmopolitanism-ii-english-and-european-literature-in-global-contexts",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:56pmfull name / name of organization: Rhema Hokama and Tom\u2026"
+                }
+            },
+            {
+                "title": "Toleration and Cosmopolitanism I: English and Transnational European Literature (RSA Paper Panel)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/toleration-and-cosmopolitanism-i-english-and-transnational-european-literature-rsa"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-06T18:32:02.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/toleration-and-cosmopolitanism-i-english-and-transnational-european-literature-rsa",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:56pmfull name / name of organization: Rhema Hokama and Jonathan\u2026"
+                }
+            },
+            {
+                "title": "East and Southeast Asia in Global Literary Studies (RSA Roundtable)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/east-and-southeast-asia-in-global-literary-studies-rsa-roundtable"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-06T18:22:29.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/east-and-southeast-asia-in-global-literary-studies-rsa-roundtable",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:56pmfull name / name of organization: Rhema Hokama and Mihoko\u2026"
+                }
+            },
+            {
+                "title": "The Asia-Pacific World in English and Global Literary History (RSA Panel Session)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/the-asia-pacific-world-in-english-and-global-literary-history-rsa-panel-session"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-06T18:18:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/the-asia-pacific-world-in-english-and-global-literary-history-rsa-panel-session",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:56pmfull name / name of organization: Rhema Hokama / Renaissance\u2026"
+                }
+            },
+            {
+                "title": "Philosophy and Theatre",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/philosophy-and-theatre"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-05-06T10:48:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/philosophy-and-theatre",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, May 13, 2025 - 1:41pmfull name / name of organization: Emanuel Stelzer /\u2026"
                 }
             },
             {
@@ -425,22 +809,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/camping-and-philosophy"
                 },
                 "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-02T17:25:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/camping-and-philosophy",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: Milestone Press (an imprint\u2026"
-                }
-            },
-            {
-                "title": "Camping and Philosophy",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/camping-and-philosophy"
-                },
-                "author": {
                     "name": "UPenn - Religion",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
                 },
@@ -449,86 +817,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: Milestone Press (an imprint\u2026"
-                }
-            },
-            {
-                "title": "Call for Submissions: Creative and Critical Works on Translation",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/call-for-submissions-creative-and-critical-works-on-translation"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-02T17:03:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/call-for-submissions-creative-and-critical-works-on-translation",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: Living in Languagescontact\u2026"
-                }
-            },
-            {
-                "title": "Call for Submissions: Creative and Critical Works on Translation",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/call-for-submissions-creative-and-critical-works-on-translation"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-05-02T17:03:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/02/call-for-submissions-creative-and-critical-works-on-translation",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:56pmfull name / name of organization: Living in Languagescontact\u2026"
-                }
-            },
-            {
-                "title": "Call for film, television, novel, and theoretical texts reviews",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/call-for-film-television-novel-and-theoretical-texts-reviews"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-01T16:53:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/call-for-film-television-novel-and-theoretical-texts-reviews",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:52pmfull name / name of organization: FEMSPECcontact\u2026"
-                }
-            },
-            {
-                "title": "Edited Collection The Arden Handbook to Shakespeare\u2019s Worlds",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/edited-collection-the-arden-handbook-to-shakespeare%E2%80%99s-worlds"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-01T12:58:50.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/edited-collection-the-arden-handbook-to-shakespeare%E2%80%99s-worlds",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:51pmfull name / name of organization: Lisa Hopkins and Katherine\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Research in Contemporary World Literature",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/call-for-papers-research-in-contemporary-world-literature"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-01T10:36:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/call-for-papers-research-in-contemporary-world-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:51pmfull name / name of organization: University of Tehrancontact\u2026"
                 }
             },
             {
@@ -545,38 +833,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, May 5, 2025 - 1:51pmfull name / name of organization: Special Issue: National\u2026"
-                }
-            },
-            {
-                "title": "Xenophobia and Violence in Asia",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/xenophobia-and-violence-in-asia"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-05-01T06:23:28.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/01/xenophobia-and-violence-in-asia",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:51pmfull name / name of organization: Special Issue: National\u2026"
-                }
-            },
-            {
-                "title": "Disruptions of Memory in Contemporary Television, Film, and Literature",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/30/disruptions-of-memory-in-contemporary-television-film-and-literature"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-04-30T17:50:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/30/disruptions-of-memory-in-contemporary-television-film-and-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:33pmfull name / name of organization: Pacific Ancient and Modern\u2026"
                 }
             },
             {
@@ -628,38 +884,6 @@
                 }
             },
             {
-                "title": "Laughter, Humor, and Power: Cultural Palimpsests in Spanish Narratives and Performance",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/17/laughter-humor-and-power-cultural-palimpsests-in-spanish-narratives-and-performance"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-04-17T19:47:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/17/laughter-humor-and-power-cultural-palimpsests-in-spanish-narratives-and-performance",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:32pmfull name / name of\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Chapters: A Humanities Pedagogy Approach to Modern Masculinity (under contract with Routledge)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/17/call-for-book-chapters-a-humanities-pedagogy-approach-to-modern-masculinity-under"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-04-17T14:40:43.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/17/call-for-book-chapters-a-humanities-pedagogy-approach-to-modern-masculinity-under",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:22pmfull name / name of organization: Nahum Welangcontact\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers: Baseball and Ecclesiology",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/04/14/call-for-papers-baseball-and-ecclesiology/"
@@ -673,102 +897,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "ECCLESIOLOGY AND BASEBALL: Exploring the Church Through America\u2019s Pastime Call For Papers Editors:\u2026"
-                }
-            },
-            {
-                "title": "Games & Game Studies Beyond Postmodernism",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/14/games-game-studies-beyond-postmodernism"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-04-14T16:09:49.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/14/games-game-studies-beyond-postmodernism",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:18pmfull name / name of organization: University of Konstanz,\u2026"
-                }
-            },
-            {
-                "title": "Planned, Unplanned, and the In-between: Interactions of Architecture, Space, and Experience",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/12/planned-unplanned-and-the-in-between-interactions-of-architecture-space-and"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-04-12T06:24:29.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/12/planned-unplanned-and-the-in-between-interactions-of-architecture-space-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, May 8, 2025 - 1:48amfull name / name of organization: Language, Literature, and\u2026"
-                }
-            },
-            {
-                "title": "Call For Papers for The Renaissance Conference of Southern California 67th Annual Conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/11/call-for-papers-for-the-renaissance-conference-of-southern-california-67th-annual"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-04-11T23:32:47.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/11/call-for-papers-for-the-renaissance-conference-of-southern-california-67th-annual",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, May 5, 2025 - 1:05pmfull name / name of organization: THE RENAISSANCE CONFERENCE OF\u2026"
-                }
-            },
-            {
-                "title": "Workshop: The Companies We Keep \u2013 Figurations, Narratives, and Practices of Co-Living in Common Spaces in 21st-Century British and Anglophone Literatures\u201d",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/09/workshop-the-companies-we-keep-%E2%80%93-figurations-narratives-and-practices-of-co-living-in"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-04-09T15:03:36.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/09/workshop-the-companies-we-keep-%E2%80%93-figurations-narratives-and-practices-of-co-living-in",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, April 10, 2025 - 12:46pmfull name / name of organization: Goethe University,\u2026"
-                }
-            },
-            {
-                "title": "Ch\u00eani\u00e8re journal call-for-papers",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/07/ch%C3%AAni%C3%A8re-journal-call-for-papers"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-04-07T19:34:11.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/07/ch%C3%AAni%C3%A8re-journal-call-for-papers",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, April 10, 2025 - 12:32pmfull name / name of organization: Ch\u00eani\u00e8re at Nicholls\u2026"
-                }
-            },
-            {
-                "title": "IVC: Open Call for Submissions",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/07/ivc-open-call-for-submissions"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-04-07T17:57:35.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/07/ivc-open-call-for-submissions",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, April 10, 2025 - 12:32pmfull name / name of organization: InVisible\u2026"
                 }
             },
             {
@@ -788,38 +916,6 @@
                 }
             },
             {
-                "title": "NCS 2026: Discernment as Process/Method",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/02/ncs-2026-discernment-as-processmethod"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-04-02T15:38:38.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/04/02/ncs-2026-discernment-as-processmethod",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, April 3, 2025 - 3:42pmfull name / name of organization: Yea Jung Parkcontact\u2026"
-                }
-            },
-            {
-                "title": "Eliot Society: MMLA 2025",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/30/eliot-society-mmla-2025"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-03-30T17:50:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/30/eliot-society-mmla-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, March 31, 2025 - 3:45pmfull name / name of organization: Edward Upton/International\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers: C.S. Lewis and Popular Culture",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/03/26/call-for-papers-c-s-lewis-and-popular-culture/"
@@ -833,38 +929,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Volume Editor: George Tsakiridis, PhD Abstract and CV Due: May 15, 2025 Initial Final Paper Due:\u2026"
-                }
-            },
-            {
-                "title": "We Came on a Spaceship: Examining Pseudoarchaeology\u2019s Place in and Out of this World (Extended)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/26/we-came-on-a-spaceship-examining-pseudoarchaeology%E2%80%99s-place-in-and-out-of-this-world"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-03-26T17:21:36.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/26/we-came-on-a-spaceship-examining-pseudoarchaeology%E2%80%99s-place-in-and-out-of-this-world",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, May 4, 2025 - 1:45pmfull name / name of organization: Robert Spinelli/Independent\u2026"
-                }
-            },
-            {
-                "title": "CFP: Imaginative Reading: Walking Into the Wardrobe",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/cfp-imaginative-reading-walking-into-the-wardrobe"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-03-19T21:13:47.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/19/cfp-imaginative-reading-walking-into-the-wardrobe",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, March 22, 2025 - 8:21amfull name / name of organization: Southeast Regional\u2026"
                 }
             },
             {
@@ -913,54 +977,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call for Papers: Theology, Religion and Taylor Swift Edited by: Alexis Bradford and Chris Swann\u2026"
-                }
-            },
-            {
-                "title": "Culinary Expeditions \u2013 Media, Food, and Halal Tourism in the Global South",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/culinary-expeditions-%E2%80%93-media-food-and-halal-tourism-in-the-global-south"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-03-17T12:47:56.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/culinary-expeditions-%E2%80%93-media-food-and-halal-tourism-in-the-global-south",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:24amfull name / name of organization: Dr Tamilselvi Natarajan /\u2026"
-                }
-            },
-            {
-                "title": "Them Among Us: No Nation for the Less Equals",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/them-among-us-no-nation-for-the-less-equals"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-03-17T09:41:47.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/17/them-among-us-no-nation-for-the-less-equals",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 18, 2025 - 8:24amfull name / name of organization: Debajyoti Biswascontact\u2026"
-                }
-            },
-            {
-                "title": "Writing with the Gods: African Influences in African American and Caribbean Literature",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/14/writing-with-the-gods-african-influences-in-african-american-and-caribbean-literature"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-03-14T14:46:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/03/14/writing-with-the-gods-african-influences-in-african-american-and-caribbean-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, March 14, 2025 - 4:39pmfull name / name of organization: Camille Alexander/Tuskegee\u2026"
                 }
             },
             {
@@ -1521,22 +1537,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Date: August 3, 2024 Location: Old Divinity School, St John\u2019s College \u2013 Cambridge, UK 2024\u2026"
-                }
-            },
-            {
-                "title": "CFP: 2024 Conference of the Orthodox Canon Law Society of North America",
-                "link": {
-                    "@href": "https://churchhistory.org/cfp-2024-conference-of-the-orthodox-canon-law-society-of-north-america/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2024-03-11T21:14:40.000Z",
-                "id": "https://churchhistory.org/cfp-2024-conference-of-the-orthodox-canon-law-society-of-north-america/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Dates: October 18\u201319, 2024 Location: Holy Cross Greek Orthodox School of Theology \u2013 Brookline, MA\u2026"
                 }
             }
         ]
