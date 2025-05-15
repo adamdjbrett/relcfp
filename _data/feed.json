@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-13T14:29:24.000Z",
+        "updated": "2025-05-14T21:23:18.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "\u2018Tantric Borderlands\u2019 Workshop \u2013 Paris, 30 May 2025",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068243/tantric-borderlands-workshop-paris-30-may-2025"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-14T21:23:18.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068243/tantric-borderlands-workshop-paris-30-may-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Devil: 5 May - 12 May",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068154/h-net-job-guide-weekly-report-h-devil-5-may-12-may"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-14T11:40:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068154/h-net-job-guide-weekly-report-h-devil-5-may-12-may",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
             {
                 "title": "CFP> Journal of Buddhist Philosophy: \u2018Buddhist Political Philosophy\u2019 Special Issue",
                 "link": {
@@ -372,22 +404,6 @@
                 }
             },
             {
-                "title": "Deadline Approaching: Southern Conference on British Studies CFP",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20068044/deadline-approaching-southern-conference-british-studies-cfp"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-11T12:09:33.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20068044/deadline-approaching-southern-conference-british-studies-cfp",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
-                }
-            },
-            {
                 "title": "Marxism and the Coercive Forces of Capital: Today\u2019s Implications and Critical Perspectives",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/10/marxism-and-the-coercive-forces-of-capital-today%E2%80%99s-implications-and-critical"
@@ -433,22 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, May 13, 2025 - 2:04pmfull name / name of organization: University of\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Devil: 21 April - 28 April",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20066956/h-net-job-guide-weekly-report-h-devil-21-april-28-april"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-10T12:05:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20066956/h-net-job-guide-weekly-report-h-devil-21-april-28-april",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
                 }
             },
             {
