@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-14T21:23:18.000Z",
+        "updated": "2025-05-16T05:28:47.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP> Special Edition on J\u0101takas for The Journal of the Siam Society (JSS)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068452/call-papers-special-edition-jatakas-journal-siam-society-jss"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-16T05:28:47.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068452/call-papers-special-edition-jatakas-journal-siam-society-jss",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
+                }
+            },
             {
                 "title": "\u2018Tantric Borderlands\u2019 Workshop \u2013 Paris, 30 May 2025",
                 "link": {
@@ -372,22 +388,6 @@
                 }
             },
             {
-                "title": "Disgraced: How Sex Scandals Transformed American Protestantism",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067771/disgraced-how-sex-scandals-transformed-american-protestantism"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-11T23:37:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067771/disgraced-how-sex-scandals-transformed-american-protestantism",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: Central Europe and Colonialism: Migrations, Knowledges, Perspectives, Commodities \u2026"
-                }
-            },
-            {
                 "title": "Travel and Tourism (Mid-Atlantic Popular/American Culture Association Conference) 2025",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/11/travel-and-tourism-mid-atlantic-popularamerican-culture-association-conference-2025"
@@ -528,7 +528,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/09/cfp-pamla-2025-haunted-belonging-memory-erasure-and-identity-in-diasporic-literatures",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, May 13, 2025 - 2:03pmfull name / name of organization: Wenyuan Wang / / Pacific\u2026"
+                    "#text": "updated: Thursday, May 15, 2025 - 5:04pmfull name / name of organization: Wenyuan Wang / / Pacific\u2026"
                 }
             },
             {
