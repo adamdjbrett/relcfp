@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-19T19:09:38.000Z",
+        "updated": "2025-05-21T01:54:56.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Extended Call for Papers: Theology, Religion, and Taylor Swift",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/05/20/call-for-papers-theology-religion-and-taylor-swift-2/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-05-21T01:54:56.000Z",
+                "id": "https://popularcultureandtheology.com/2025/05/20/call-for-papers-theology-religion-and-taylor-swift-2/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers: Theology, Religion and Taylor Swift Edited by: Alexis Bradford and Chris Swann\u2026"
+                }
+            },
+            {
+                "title": "Final Call for Papers: Theology, Religion, and Mad Max",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/05/20/final-call-for-papers-theology-religion-and-mad-max/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-05-21T01:38:37.000Z",
+                "id": "https://popularcultureandtheology.com/2025/05/20/final-call-for-papers-theology-religion-and-mad-max/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for contributions Title: Theology, Religion, and Mad Max: Rising from the Ashes Edited by: Yael\u2026"
+                }
+            },
+            {
+                "title": "CFP: Special Issue on Women Ordination in Judaism",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20068648/cfp-special-issue-women-ordination-judaism"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-20T11:52:45.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20068648/cfp-special-issue-women-ordination-judaism",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
             {
                 "title": "Extended Call for Papers: C.S. Lewis and Popular Culture",
                 "link": {
@@ -112,7 +160,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/19/cfp-blood-and-bile-perspectives-from-the-humanities-art-and-gaming-culture-on",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 19, 2025 - 3:41pmfull name / name of organization: Staats- und\u2026"
+                    "#text": "updated: Tuesday, May 20, 2025 - 4:29amfull name / name of organization: Jonas M\u00fcller-Laackman;\u2026"
                 }
             },
             {
@@ -128,7 +176,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/19/cfp-blood-and-bile-perspectives-from-the-humanities-art-and-gaming-culture-on",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 19, 2025 - 3:41pmfull name / name of organization: Staats- und\u2026"
+                    "#text": "updated: Tuesday, May 20, 2025 - 4:29amfull name / name of organization: Jonas M\u00fcller-Laackman;\u2026"
                 }
             },
             {
@@ -560,7 +608,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/14/call-for-papers-for-dialog-no-45-spring-2025",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 19, 2025 - 3:20pmfull name / name of organization: Department of English and\u2026"
+                    "#text": "updated: Tuesday, May 20, 2025 - 2:04amfull name / name of organization: Department of English and\u2026"
                 }
             },
             {
@@ -654,22 +702,6 @@
                 },
                 "updated": "2025-05-12T18:50:26.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20068242/tantric-borderlands-workshop-paris-30-may-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 5 May - 12 May",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20068147/h-net-job-guide-weekly-report-h-buddhism-5-may-12-may"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-12T18:49:06.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20068147/h-net-job-guide-weekly-report-h-buddhism-5-may-12-may",
                 "content": {
                     "@type": "html",
                     "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
@@ -996,22 +1028,6 @@
                 }
             },
             {
-                "title": "Extended Call For Papers: Religion, Popular Culture, and the Nineties",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/03/10/extended-call-for-papers-religion-popular-culture-and-the-nineties/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-03-10T16:25:52.000Z",
-                "id": "https://popularcultureandtheology.com/2025/03/10/extended-call-for-papers-religion-popular-culture-and-the-nineties/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: Religion, Popular Culture, and the Nineties Edited by Ilaria W. Biano Although initially\u2026"
-                }
-            },
-            {
                 "title": "#CFP: The Power of Marxist Thought",
                 "link": {
                     "@href": "https://relcfp.com/2025/03/06/marxist-thought/"
@@ -1025,22 +1041,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Details The Power of Marxist Thought York University, Toronto Friday & Saturday, 26\u201327 September\u2026"
-                }
-            },
-            {
-                "title": "Jon Stewart, AOC, and MLK\u2019s Critique of the White Liberal",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/03/03/jon-stewart-aoc-and-mlks-critique-of-the-white-liberal/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-03-03T17:00:00.000Z",
-                "id": "https://popularcultureandtheology.com/2025/03/03/jon-stewart-aoc-and-mlks-critique-of-the-white-liberal/",
-                "content": {
-                    "@type": "html",
-                    "#text": "I wish there was a bold opposition party to stand against the Trump administration. The Democratic\u2026"
                 }
             },
             {
