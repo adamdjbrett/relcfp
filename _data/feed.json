@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-22T12:36:16.000Z",
+        "updated": "2025-05-23T22:07:31.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Journal of Chinese Religions 53, no. 1 (June 2025) now online",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20069076/journal-chinese-religions-53-no-1-june-2025-now-online"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-23T22:07:31.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20069076/journal-chinese-religions-53-no-1-june-2025-now-online",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
             {
                 "title": "ANN: El Movimiento 14 de junio y las disputas de Trujillo con la Iglesia Cat\u00f3lica",
                 "link": {
@@ -529,22 +545,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, May 19, 2025 - 3:34pmfull name / name of organization: Prof Jason S Polley/Hong\u2026"
-                }
-            },
-            {
-                "title": "CFP> Special Edition on J\u0101takas for The Journal of the Siam Society (JSS)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20068452/call-papers-special-edition-jatakas-journal-siam-society-jss"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-16T05:28:47.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20068452/call-papers-special-edition-jatakas-journal-siam-society-jss",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
                 }
             },
             {
