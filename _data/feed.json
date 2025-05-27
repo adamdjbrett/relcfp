@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-23T22:07:31.000Z",
+        "updated": "2025-05-26T12:18:41.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Chie Ikeya's book talk on Thu, June 26, at 10:30am JST (Zoom)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20069182/chie-ikeyas-book-talk-thu-june-26-1030am-jst-zoom"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-05-26T12:18:41.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20069182/chie-ikeyas-book-talk-thu-june-26-1030am-jst-zoom",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
             {
                 "title": "Journal of Chinese Religions 53, no. 1 (June 2025) now online",
                 "link": {
@@ -256,7 +272,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/19/cfp-blood-and-bile-perspectives-from-the-humanities-art-and-gaming-culture-on",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, May 22, 2025 - 6:08amfull name / name of organization: Jonas M\u00fcller-Laackman;\u2026"
+                    "#text": "updated: Monday, May 26, 2025 - 4:38amfull name / name of organization: Jonas M\u00fcller-Laackman;\u2026"
                 }
             },
             {
@@ -272,7 +288,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/19/cfp-blood-and-bile-perspectives-from-the-humanities-art-and-gaming-culture-on",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, May 22, 2025 - 6:08amfull name / name of organization: Jonas M\u00fcller-Laackman;\u2026"
+                    "#text": "updated: Monday, May 26, 2025 - 4:38amfull name / name of organization: Jonas M\u00fcller-Laackman;\u2026"
                 }
             },
             {
@@ -352,23 +368,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/19/jeasa-journal-of-the-european-association-for-studies-on-australia-permanent-call",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, May 19, 2025 - 3:41pmfull name / name of organization: Journal of the European\u2026"
-                }
-            },
-            {
-                "title": "Religions, Beliefs, and the Supernatural in Italy and across Italian Mobilities",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20067458/religions-beliefs-and-supernatural-italy-and-across-italian-mobilities"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-05-19T08:56:06.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20067458/religions-beliefs-and-supernatural-italy-and-across-italian-mobilities",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                    "#text": "updated: Monday, May 26, 2025 - 10:31amfull name / name of organization: Journal of the European\u2026"
                 }
             },
             {
@@ -656,7 +656,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/14/call-for-papers-for-dialog-no-45-spring-2025",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Sunday, May 25, 2025 - 3:01amfull name / name of organization: Department of English and\u2026"
+                    "#text": "updated: Monday, May 26, 2025 - 10:17amfull name / name of organization: Department of English and\u2026"
                 }
             },
             {
