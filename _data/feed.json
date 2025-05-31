@@ -12,13 +12,109 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-05-30T03:26:50.000Z",
+        "updated": "2025-05-30T10:49:39.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Holocaust Memory in Central Europe",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/holocaust-memory-in-central-europe"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-30T10:49:39.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/holocaust-memory-in-central-europe",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:06amfull name / name of organization: The Polish Journal of the\u2026"
+                }
+            },
+            {
+                "title": "Holocaust Memory in Central Europe",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/holocaust-memory-in-central-europe"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-30T10:49:39.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/holocaust-memory-in-central-europe",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:06amfull name / name of organization: The Polish Journal of the\u2026"
+                }
+            },
+            {
+                "title": "When I Knew: Coming Out as a Form of Self-Knowledge",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/when-i-knew-coming-out-as-a-form-of-self-knowledge"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-30T06:21:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/when-i-knew-coming-out-as-a-form-of-self-knowledge",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:06amfull name / name of organization: South Atlantic Modern\u2026"
+                }
+            },
+            {
+                "title": "Money and Gender: an interdisciplinary online symposium",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/money-and-gender-an-interdisciplinary-online-symposium"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-30T06:21:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/money-and-gender-an-interdisciplinary-online-symposium",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:06amfull name / name of organization: Naomi Segal, Kate Maclean,\u2026"
+                }
+            },
+            {
+                "title": "Aesthetic Education: From Sensibility to Critical Engagement",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/aesthetic-education-from-sensibility-to-critical-engagement"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-30T03:27:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/aesthetic-education-from-sensibility-to-critical-engagement",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:06amfull name / name of organization: Louisiana State University\u2026"
+                }
+            },
+            {
+                "title": "Aesthetic Education: From Sensibility to Critical Engagement",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/aesthetic-education-from-sensibility-to-critical-engagement"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-05-30T03:27:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/aesthetic-education-from-sensibility-to-critical-engagement",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:06amfull name / name of organization: Louisiana State University\u2026"
+                }
+            },
             {
                 "title": "TOC: Jewish Ecologies: New Special Issue of Dibur Literary Journal",
                 "link": {
@@ -33,6 +129,86 @@
                 "content": {
                     "@type": "html",
                     "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
+            {
+                "title": "Money and Gender: an interdisciplinary online symposium",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/money-and-gender-an-interdisciplinary-online-symposium"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-05-30T02:53:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/money-and-gender-an-interdisciplinary-online-symposium",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:06amfull name / name of organization: Naomi Segal, Kate Maclean,\u2026"
+                }
+            },
+            {
+                "title": "Lonesome Dove at 40: McMurtry, Mythmaking, and the Reimagining of the American Southwest",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/lonesome-dove-at-40-mcmurtry-mythmaking-and-the-reimagining-of-the-american-southwest"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-29T18:39:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/lonesome-dove-at-40-mcmurtry-mythmaking-and-the-reimagining-of-the-american-southwest",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:03amfull name / name of organization: Abel F. Fenwick (University\u2026"
+                }
+            },
+            {
+                "title": "Special Issue of Langston Hughes Review: Langston Hughes's The Weary Blues at 100",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/special-issue-of-langston-hughes-review-langston-hughess-the-weary-blues-at-100"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-05-29T18:31:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/special-issue-of-langston-hughes-review-langston-hughess-the-weary-blues-at-100",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:03amfull name / name of organization: Michael Borshukcontact\u2026"
+                }
+            },
+            {
+                "title": "New Perspectives on Bob Dylan (NeMLA 2026)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/new-perspectives-on-bob-dylan-nemla-2026"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-29T17:38:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/new-perspectives-on-bob-dylan-nemla-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:03amfull name / name of organization: David Polanski (Independent\u2026"
+                }
+            },
+            {
+                "title": "Atras Journal: Call for Papers - Varia Volume 7, issue 1, January 2026",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/atras-journal-call-for-papers-varia-volume-7-issue-1-january-2026"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-05-29T15:41:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/29/atras-journal-call-for-papers-varia-volume-7-issue-1-january-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, May 30, 2025 - 9:03amfull name / name of organization: University of Saida, Dr.\u2026"
                 }
             },
             {
@@ -276,22 +452,6 @@
                 }
             },
             {
-                "title": "Speculative Imaginaries & Counter-Futures in the Middle East & North Africa",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/speculative-imaginaries-counter-futures-in-the-middle-east-north-africa"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-28T01:43:53.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/speculative-imaginaries-counter-futures-in-the-middle-east-north-africa",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:46pmfull name / name of organization: Oded Nircontact\u2026"
-                }
-            },
-            {
                 "title": "Veterans Studies Panel, PAMLA 2025",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/veterans-studies-panel-pamla-2025"
@@ -305,22 +465,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, May 28, 2025 - 2:46pmfull name / name of organization: Pacific Ancient and\u2026"
-                }
-            },
-            {
-                "title": "CFP PAMLA 2025--ITALIAN CINEMA STANDING SESSION",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/cfp-pamla-2025-italian-cinema-standing-session"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-27T21:59:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/cfp-pamla-2025-italian-cinema-standing-session",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:46pmfull name / name of organization: PACIFIC ANCIENT & MODERN\u2026"
                 }
             },
             {
@@ -393,22 +537,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/the-53rd-annual-louisville-conference-on-literature-and-culture"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-27T19:34:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/the-53rd-annual-louisville-conference-on-literature-and-culture",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:46pmfull name / name of organization: The Louisville Conference\u2026"
-                }
-            },
-            {
-                "title": "The 53rd Annual Louisville Conference on Literature and Culture",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/the-53rd-annual-louisville-conference-on-literature-and-culture"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -417,54 +545,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, May 28, 2025 - 2:46pmfull name / name of organization: The Louisville Conference\u2026"
-                }
-            },
-            {
-                "title": "Politics, Civic Life, and Pop Culture \u2013 NEPCA Online Fall Conference 2025",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/politics-civic-life-and-pop-culture-%E2%80%93-nepca-online-fall-conference-2025"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-27T12:29:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/27/politics-civic-life-and-pop-culture-%E2%80%93-nepca-online-fall-conference-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:45pmfull name / name of organization: Northeast Popular and\u2026"
-                }
-            },
-            {
-                "title": "On Speaking Obscenely: Queer and Trans Cultural Production in an Atmosphere of Censorship",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/26/on-speaking-obscenely-queer-and-trans-cultural-production-in-an-atmosphere-of"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-26T23:28:49.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/26/on-speaking-obscenely-queer-and-trans-cultural-production-in-an-atmosphere-of",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:35pmfull name / name of organization: South Atlantic Modern\u2026"
-                }
-            },
-            {
-                "title": "Borderland Cartographies in the Global South: Postcolonial Cinema, Identity, and National Allegories",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/26/borderland-cartographies-in-the-global-south-postcolonial-cinema-identity-and"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-05-26T20:48:43.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/26/borderland-cartographies-in-the-global-south-postcolonial-cinema-identity-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:35pmfull name / name of organization: SAMLA 97 South Atlantic\u2026"
                 }
             },
             {
@@ -561,54 +641,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Submissions are invited for a special issue of"
-                }
-            },
-            {
-                "title": "European Journal of American Culture *Open Call for Papers*",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/24/european-journal-of-american-culture-open-call-for-papers"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-24T23:15:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/24/european-journal-of-american-culture-open-call-for-papers",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:33pmfull name / name of organization: European Journal of\u2026"
-                }
-            },
-            {
-                "title": "Songs in Shakespeare: proposal for a special issue of Cahiers \u00c9lisab\u00e9thains",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/24/songs-in-shakespeare-proposal-for-a-special-issue-of-cahiers-%C3%A9lisab%C3%A9thains"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-24T23:13:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/24/songs-in-shakespeare-proposal-for-a-special-issue-of-cahiers-%C3%A9lisab%C3%A9thains",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:33pmfull name / name of organization: Nicholas Bellinson, St.\u2026"
-                }
-            },
-            {
-                "title": "Mothers, Mothering, and Motherhood in the King Universe",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/24/mothers-mothering-and-motherhood-in-the-king-universe"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-05-24T17:46:39.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/24/mothers-mothering-and-motherhood-in-the-king-universe",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:33pmfull name / name of organization: Dr Conner McAleesecontact\u2026"
                 }
             },
             {
@@ -804,22 +836,6 @@
                 }
             },
             {
-                "title": "Emerson, Memory, and Oblivion",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/20/emerson-memory-and-oblivion"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-05-20T07:18:50.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/20/emerson-memory-and-oblivion",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, May 28, 2025 - 2:06pmfull name / name of organization: PAMLA / Ralph Waldo\u2026"
-                }
-            },
-            {
                 "title": "Victorians: A Journal of Culture and Literature Special Issue: Reading Victorian Religion",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/19/victorians-a-journal-of-culture-and-literature-special-issue-reading-victorian"
@@ -961,22 +977,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, May 13, 2025 - 1:56pmfull name / name of organization: Rhema Hokama and Tom\u2026"
-                }
-            },
-            {
-                "title": "Toleration and Cosmopolitanism I: English and Transnational European Literature (RSA Paper Panel)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/toleration-and-cosmopolitanism-i-english-and-transnational-european-literature-rsa"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-05-06T18:32:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/06/toleration-and-cosmopolitanism-i-english-and-transnational-european-literature-rsa",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, May 13, 2025 - 1:56pmfull name / name of organization: Rhema Hokama and Jonathan\u2026"
                 }
             },
             {
