@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-06-02T19:59:08.000Z",
+        "updated": "2025-06-04T02:55:41.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Extended Call for Papers: Baseball and Ecclesiology",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/06/03/extended-call-for-papers-baseball-and-ecclesiology/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-06-04T02:55:41.000Z",
+                "id": "https://popularcultureandtheology.com/2025/06/03/extended-call-for-papers-baseball-and-ecclesiology/",
+                "content": {
+                    "@type": "html",
+                    "#text": "ECCLESIOLOGY AND BASEBALL: Exploring the Church Through America\u2019s Pastime Call For Papers Editors:\u2026"
+                }
+            },
+            {
+                "title": "World Genealogy: Knowledge, Kinship and Ancestors in Global and Historical Perspective (June 2026 / Hamburg, Germany)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20069800/world-genealogy-knowledge-kinship-and-ancestors-global-and-historical"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-03T13:06:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20069800/world-genealogy-knowledge-kinship-and-ancestors-global-and-historical",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
             {
                 "title": "European Journal of Jewish Studies Volume 19 (2025): Issue 1",
                 "link": {
@@ -128,7 +160,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/06/02/m-c-m-marx-commodity-modernism",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, June 2, 2025 - 2:32pmfull name / name of organization: George Kovalenko (New York\u2026"
+                    "#text": "updated: Tuesday, June 3, 2025 - 9:57amfull name / name of organization: George Kovalenko (New York\u2026"
                 }
             },
             {
@@ -144,7 +176,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/06/02/m-c-m-marx-commodity-modernism",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, June 2, 2025 - 2:32pmfull name / name of organization: George Kovalenko (New York\u2026"
+                    "#text": "updated: Tuesday, June 3, 2025 - 9:57amfull name / name of organization: George Kovalenko (New York\u2026"
                 }
             },
             {
@@ -160,7 +192,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/06/02/m-c-m-marx-commodity-modernism",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, June 2, 2025 - 2:32pmfull name / name of organization: George Kovalenko (New York\u2026"
+                    "#text": "updated: Tuesday, June 3, 2025 - 9:57amfull name / name of organization: George Kovalenko (New York\u2026"
                 }
             },
             {
@@ -276,6 +308,22 @@
                 }
             },
             {
+                "title": "#CFP: Bible and Literature",
+                "link": {
+                    "@href": "https://relcfp.com/2025/06/01/bible-literature/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-06-01T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/06/01/bible-literature/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Bible and Literature"
+                }
+            },
+            {
                 "title": "C19 2026: Talking About Slavery",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/31/c19-2026-talking-about-slavery"
@@ -320,7 +368,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/05/30/call-for-paper-international-journal-of-humanities-and-social-sciences",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, June 3, 2025 - 12:03amfull name / name of organization: South Atlantic Modern\u2026"
+                    "#text": "updated: Tuesday, June 3, 2025 - 10:23pmfull name / name of organization: South Atlantic Modern\u2026"
                 }
             },
             {
@@ -417,6 +465,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, May 30, 2025 - 9:03amfull name / name of organization: Michael Borshukcontact\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Blood and Bile: Perspectives from the humanities, art and gaming culture on Blasphemous",
+                "link": {
+                    "@href": "https://relcfp.com/2025/05/29/blood-bile/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-05-29T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/05/29/blood-bile/",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP Blood and Bile: Perspectives from the humanities, art and gaming culture on Blasphemous"
                 }
             },
             {
@@ -548,19 +612,19 @@
                 }
             },
             {
-                "title": "EVENT: The Light of Learning. Hasidism in Poland on the Eve of the Holocaust (May 29)",
+                "title": "#CFP: Embodied Spaces: Digital Reconfigurations of Experience",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20069396/light-learning-hasidism-poland-eve-holocaust"
+                    "@href": "https://relcfp.com/2025/05/28/embodied-spaces/"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
                 },
-                "updated": "2025-05-27T21:21:42.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20069396/light-learning-hasidism-poland-eve-holocaust",
+                "updated": "2025-05-28T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/05/28/embodied-spaces/",
                 "content": {
                     "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                    "#text": "Embodied Spaces: Digital Reconfigurations of Experience"
                 }
             },
             {
@@ -577,6 +641,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, May 28, 2025 - 2:46pmfull name / name of organization: The Louisville Conference\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Extended Deadline\u2013Rebellion and Revolution in African American Literature",
+                "link": {
+                    "@href": "https://relcfp.com/2025/05/27/rebellion/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-05-27T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/05/27/rebellion/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Extended Deadline\u2013Rebellion and Revolution in African American Literature"
                 }
             },
             {
@@ -1105,86 +1185,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Theology, Philosophy, and Severance Call for Papers Severance, created by Dan Erickson and Ben\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Theology, Religion, and Taylor Swift",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/03/18/call-for-papers-theology-religion-and-taylor-swift/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-03-18T14:21:00.000Z",
-                "id": "https://popularcultureandtheology.com/2025/03/18/call-for-papers-theology-religion-and-taylor-swift/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers: Theology, Religion and Taylor Swift Edited by: Alexis Bradford and Chris Swann\u2026"
-                }
-            },
-            {
-                "title": "#CFP: The Power of Marxist Thought",
-                "link": {
-                    "@href": "https://relcfp.com/2025/03/06/marxist-thought/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-03-06T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/03/06/marxist-thought/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Details The Power of Marxist Thought York University, Toronto Friday & Saturday, 26\u201327 September\u2026"
-                }
-            },
-            {
-                "title": "#CFP: Religion Matters",
-                "link": {
-                    "@href": "https://relcfp.com/2025/02/15/religion-matter/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-02-15T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/02/15/religion-matter/",
-                "content": {
-                    "@type": "html",
-                    "#text": "2025 Call for Papers Religion Matters ======================================"
-                }
-            },
-            {
-                "title": "#CFP: Rethinking Middle Eastern and Islamicate Studies, New Generations Annual Graduate Student Conference at the University of Texas at Austin",
-                "link": {
-                    "@href": "https://relcfp.com/2025/02/13/rethinking-islamic-studies/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-02-13T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/02/13/rethinking-islamic-studies/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers"
-                }
-            },
-            {
-                "title": "#CFP: Labor Network, Annual Meeting of the Social Science History Association (SSHA), Chicago, Nov. 20-23, 2025",
-                "link": {
-                    "@href": "https://relcfp.com/2025/02/12/labor/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-02-12T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/02/12/labor/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Conference Details Date: February 5, 2025 - March 12, 2025 Location: Illinois, United States Subject\u2026"
                 }
             },
             {
