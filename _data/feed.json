@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-06-06T15:33:37.000Z",
+        "updated": "2025-06-09T17:57:39.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 2 June - 9 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20070233/h-net-job-guide-weekly-report-h-amindian-2-june-9-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-09T17:57:39.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20070233/h-net-job-guide-weekly-report-h-amindian-2-june-9-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
+            {
+                "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 2 June - 9 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20070240/h-net-job-guide-weekly-report-h-buddhism-2-june-9-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-09T14:23:31.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20070240/h-net-job-guide-weekly-report-h-buddhism-2-june-9-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
             {
                 "title": "CFP> Panel on Tibetan Yoga at the 17th Seminar of the International Association of Tibetan Studies (Kathmandu, August 23-29, 2026)",
                 "link": {
@@ -254,38 +286,6 @@
                 },
                 "updated": "2025-06-04T10:58:34.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20069918/iats-2026-kathmandu-international-association-tibetan-studies-call",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
-                }
-            },
-            {
-                "title": "NEW BOOK > Buddhist Masters of Modern China: The Lives and Legacies of Eight Eminent Teachers",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20069821/new-book-buddhist-masters-modern-china-lives-and-legacies-eight"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-04T10:57:35.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20069821/new-book-buddhist-masters-modern-china-lives-and-legacies-eight",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
-                }
-            },
-            {
-                "title": "CFP> World Genealogy: Knowledge, Kinship and Ancestors in Global and Historical Perspective (June 2026 / Hamburg, Germany)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20069799/world-genealogy-knowledge-kinship-and-ancestors-global-and-historical"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-04T10:56:56.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20069799/world-genealogy-knowledge-kinship-and-ancestors-global-and-historical",
                 "content": {
                     "@type": "html",
                     "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
