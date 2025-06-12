@@ -12,13 +12,93 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-06-10T19:32:29.000Z",
+        "updated": "2025-06-12T03:24:12.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: Theology, Religion, and Middle Earth",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/06/11/call-for-papers-theology-religion-and-middle-earth/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-06-12T03:24:12.000Z",
+                "id": "https://popularcultureandtheology.com/2025/06/11/call-for-papers-theology-religion-and-middle-earth/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Theology, Religion, and Middle Earth Edited by Scott Donahue-Martens, Ph.D., and Brandon Simonson,\u2026"
+                }
+            },
+            {
+                "title": "ONLINE TALK> \u201cAnother Sh\u014dtoku: History and Mythmaking in Modern Japanese Religion\u201d A Virtual Book Talk with Dr. Orion Klautau, Tohoku University",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20070534/another-shotoku-history-and-mythmaking-modern-japanese-religion"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-12T02:13:35.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20070534/another-shotoku-history-and-mythmaking-modern-japanese-religion",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
+            {
+                "title": "NEW BOOK> Ati\u015ba's Stages of the Path to Awakening: Together with Commentaries and Ritual Texts by James B. Apple",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20070507/new-book-atisas-stages-path-awakening-together-commentaries-and-ritual"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-11T12:36:57.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20070507/new-book-atisas-stages-path-awakening-together-commentaries-and-ritual",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-NC: 2 June - 9 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20070273/h-net-job-guide-weekly-report-h-nc-2-june-9-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-11T10:35:10.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20070273/h-net-job-guide-weekly-report-h-nc-2-june-9-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
+            {
+                "title": "Photographic exhibition on Authoritarianism, Law, and the Remaking of Society",
+                "link": {
+                    "@href": "https://www.socialifeoflaw.com/post/photographic-exhibition-on-authoritarianism-law-and-the-remaking-of-society"
+                },
+                "author": {
+                    "name": "The Social Life of Authoritarian Legality",
+                    "uri": "https://www.socialifeoflaw.com/"
+                },
+                "updated": "2025-06-11T08:40:44.000Z",
+                "id": "https://www.socialifeoflaw.com/post/photographic-exhibition-on-authoritarianism-law-and-the-remaking-of-society",
+                "content": {
+                    "@type": "html",
+                    "#text": "Authoritarian regimes often use everyday laws and bureaucracy to target communities and consolidate\u2026"
+                }
+            },
             {
                 "title": "H-Net Job Guide Weekly Report for H-Mideast-Medieval: 2 June - 9 June",
                 "link": {
@@ -352,23 +432,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/06/09/crearte-latino-arts-humanities-conference",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, June 10, 2025 - 1:59pmfull name / name of organization: CreArte Expocontact\u2026"
-                }
-            },
-            {
-                "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 2 June - 9 June",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20070240/h-net-job-guide-weekly-report-h-buddhism-2-june-9-june"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-09T14:23:31.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20070240/h-net-job-guide-weekly-report-h-buddhism-2-june-9-june",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                    "#text": "updated: Wednesday, June 11, 2025 - 2:43pmfull name / name of organization: CreArte Expocontact\u2026"
                 }
             },
             {
@@ -580,38 +644,6 @@
                 }
             },
             {
-                "title": "CFP> Panel on Tibetan Yoga at the 17th Seminar of the International Association of Tibetan Studies (Kathmandu, August 23-29, 2026)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20070111/panel-tibetan-yoga-17th-seminar-international-association-tibetan"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-06T15:33:37.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20070111/panel-tibetan-yoga-17th-seminar-international-association-tibetan",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
-                }
-            },
-            {
-                "title": "NEW BOOK>The Bhai\u1e63ajyavastu of the M\u016blasarv\u0101stiv\u0101da Vinaya, BMSC V",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20070106/new-bookthe-bhaisajyavastu-mulasarvastivada-vinaya-bmsc-v"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-06T15:31:30.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20070106/new-bookthe-bhaisajyavastu-mulasarvastivada-vinaya-bmsc-v",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
-                }
-            },
-            {
                 "title": "Updating Ecocriticism: Perspectives from Gen Z",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/06/06/updating-ecocriticism-perspectives-from-gen-z"
@@ -624,7 +656,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/06/06/updating-ecocriticism-perspectives-from-gen-z",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, June 10, 2025 - 1:54pmfull name / name of organization: Lenka Filipova / Freie\u2026"
+                    "#text": "updated: Wednesday, June 11, 2025 - 3:14amfull name / name of organization: Lenka Filipova / Freie\u2026"
                 }
             },
             {
@@ -1169,22 +1201,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "By Matthew Brake \u201cI know what it\u2019s like to lose. To feel so desperately that you\u2019re right, yet to\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Theology, Philosophy, and Severance",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/03/18/call-for-papers-theology-philosophy-and-severance/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-03-18T19:28:00.000Z",
-                "id": "https://popularcultureandtheology.com/2025/03/18/call-for-papers-theology-philosophy-and-severance/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Theology, Philosophy, and Severance Call for Papers Severance, created by Dan Erickson and Ben\u2026"
                 }
             },
             {
