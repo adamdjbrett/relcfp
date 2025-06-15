@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-06-13T08:26:57.000Z",
+        "updated": "2025-06-15T05:13:45.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: Theology, Religion, and Video Games",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/06/15/call-for-papers-theology-religion-and-video-games/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-06-15T05:13:45.000Z",
+                "id": "https://popularcultureandtheology.com/2025/06/15/call-for-papers-theology-religion-and-video-games/",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Theology, Religion and Video Games Volume Editor: Trevor B. Williams Abstract + CV due: Oct 1,\u2026"
+                }
+            },
+            {
+                "title": "\u201cAnother Sh\u014dtoku: History and Mythmaking in Modern Japanese Religion\u201d A Virtual Book Talk with Dr. Orion Klautau, Tohoku University",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20070533/another-shotoku-history-and-mythmaking-modern-japanese-religion"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-14T16:08:53.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20070533/another-shotoku-history-and-mythmaking-modern-japanese-religion",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
             {
                 "title": "TAGB: Ritualisierte Praktiken: Formeln \u00ad\u2013 Zeichen \u2013 Rezeptarien, Basel (07.11. \u2013 08.11.2024)",
                 "link": {
@@ -526,22 +558,6 @@
                 },
                 "updated": "2025-06-10T08:37:05.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20070411/buddhism-and-cold-war",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
-                }
-            },
-            {
-                "title": "Panel on Tibetan Yoga at the 17th Seminar of the International Association of Tibetan Studies (Kathmandu, August 23-29, 2026)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20070110/panel-tibetan-yoga-17th-seminar-international-association-tibetan"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-10T06:36:52.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20070110/panel-tibetan-yoga-17th-seminar-international-association-tibetan",
                 "content": {
                     "@type": "html",
                     "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
@@ -1185,22 +1201,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Volume Editor: George Tsakiridis, PhD Abstract and CV Due: May 15, 2025 Initial Final Paper Due:\u2026"
-                }
-            },
-            {
-                "title": "Avengers: Infinity War, Losing an Election, and What Comes After",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/03/19/avengers-infinity-war-losing-an-election-and-what-comes-after/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-03-19T20:52:00.000Z",
-                "id": "https://popularcultureandtheology.com/2025/03/19/avengers-infinity-war-losing-an-election-and-what-comes-after/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By Matthew Brake \u201cI know what it\u2019s like to lose. To feel so desperately that you\u2019re right, yet to\u2026"
                 }
             },
             {
