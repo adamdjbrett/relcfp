@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-06-15T05:13:45.000Z",
+        "updated": "2025-06-16T00:53:12.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Past Imperfect Podcast: Manu S. Pillai on Missionaries, Reformers, and the Making of Modern Hinduism",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20070511/past-imperfect-podcast-manu-s-pillai-missionaries-reformers-and-making"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-16T00:53:12.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20070511/past-imperfect-podcast-manu-s-pillai-missionaries-reformers-and-making",
+                "content": {
+                    "@type": "html",
+                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: Theology, Religion, and Video Games",
                 "link": {
@@ -542,22 +558,6 @@
                 },
                 "updated": "2025-06-10T11:40:51.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20070199/cfp-satan-seductor-willful-and-unwitting-damnation-early-modern-europe",
-                "content": {
-                    "@type": "html",
-                    "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
-                }
-            },
-            {
-                "title": "CONFERENCE> Buddhism and the Cold War",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20070411/buddhism-and-cold-war"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-10T08:37:05.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20070411/buddhism-and-cold-war",
                 "content": {
                     "@type": "html",
                     "#text": "When did aliens become a problem? The Mediterranean Association for Marine Biology and Oceanology in\u2026"
