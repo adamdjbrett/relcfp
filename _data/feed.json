@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-06-26T14:10:54.000Z",
+        "updated": "2025-06-27T11:06:41.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CONFERENCE> California Buddhist Studies Graduate Student Conference, UCLA, Oct. 10-12",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071768/california-buddhist-studies-graduate-student-conference"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-27T11:06:41.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071768/california-buddhist-studies-graduate-student-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "TOC: Dutch Crossing: Journal of Low Countries Studies, vol. 46, no. 3 (March 2022) Dutch\u2026"
+                }
+            },
             {
                 "title": "Abortion Within and Beyond Medico-Legal Frameworks",
                 "link": {
@@ -657,22 +673,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, June 18, 2025 - 5:55amfull name / name of organization: Pascale\u2026"
-                }
-            },
-            {
-                "title": "LECTURE> MU-CRS Seminar with Prof. Ujjwal Kumar",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20070963/mu-crs-seminar-prof-ujjwal-kumar"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-17T17:10:14.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20070963/mu-crs-seminar-prof-ujjwal-kumar",
-                "content": {
-                    "@type": "html",
-                    "#text": "TOC: Dutch Crossing: Journal of Low Countries Studies, vol. 46, no. 3 (March 2022) Dutch\u2026"
                 }
             },
             {
