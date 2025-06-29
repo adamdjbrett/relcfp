@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-06-27T11:06:41.000Z",
+        "updated": "2025-06-28T22:42:52.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "EVENT: International Catacomb Society Online Panel with Recent Shohet Grant Recipients (August 5)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071858/international-catacomb-society-online-panel-recent-shohet-grant"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-28T22:42:52.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071858/international-catacomb-society-online-panel-recent-shohet-grant",
+                "content": {
+                    "@type": "html",
+                    "#text": "TOC: Dutch Crossing: Journal of Low Countries Studies, vol. 46, no. 3 (March 2022) Dutch\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: Religion and AI in Science Fiction and Horror",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/06/28/call-for-papers-religion-and-ai-in-science-fiction-and-horror/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-06-28T19:18:30.000Z",
+                "id": "https://popularcultureandtheology.com/2025/06/28/call-for-papers-religion-and-ai-in-science-fiction-and-horror/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Book Title: A (Holy?) Ghost in the Machine: Religion and Artificial Intelligence in Science-Fiction\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: Religious Emergence and The Sacred in Legends of Zelda",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/06/28/call-for-papers-religious-emergence-and-the-sacred-in-legends-of-zelda/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-06-28T19:13:30.000Z",
+                "id": "https://popularcultureandtheology.com/2025/06/28/call-for-papers-religious-emergence-and-the-sacred-in-legends-of-zelda/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Volume Editor: Michael Barros This book will explore how religion and the sacred emerge from within\u2026"
+                }
+            },
             {
                 "title": "CONFERENCE> California Buddhist Studies Graduate Student Conference, UCLA, Oct. 10-12",
                 "link": {
@@ -628,22 +676,6 @@
                 }
             },
             {
-                "title": "CFP: Kunstb\u00e4ume in Text und Bild der Vormoderne 2.0. \u2013 Kommunikation in \u00f6kologischen Verflechtungen, Frankfurt am Main (13.07.2025)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20071067/call-papers-kunstbaume-text-und-bild-der-vormoderne-20-kommunikation"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-06-18T21:37:05.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20071067/call-papers-kunstbaume-text-und-bild-der-vormoderne-20-kommunikation",
-                "content": {
-                    "@type": "html",
-                    "#text": "TOC: Dutch Crossing: Journal of Low Countries Studies, vol. 46, no. 3 (March 2022) Dutch\u2026"
-                }
-            },
-            {
                 "title": "The Pittsburgh Review of Books (PRoB)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/06/18/the-pittsburgh-review-of-books-prob"
@@ -1169,38 +1201,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Fariya Yesmin's new article Beyond papers: understanding the making of citizenship in the\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Baseball and Ecclesiology",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/04/14/call-for-papers-baseball-and-ecclesiology/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-04-14T22:58:11.000Z",
-                "id": "https://popularcultureandtheology.com/2025/04/14/call-for-papers-baseball-and-ecclesiology/",
-                "content": {
-                    "@type": "html",
-                    "#text": "ECCLESIOLOGY AND BASEBALL: Exploring the Church Through America\u2019s Pastime Call For Papers Editors:\u2026"
-                }
-            },
-            {
-                "title": "It Is OK to Be a Jammette/Jamet (loose woman)\u2014The Bible Said So!",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/04/04/it-is-ok-to-be-a-jammette-jamet-loose-woman-the-bible-said-so/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-04-04T16:52:47.000Z",
-                "id": "https://popularcultureandtheology.com/2025/04/04/it-is-ok-to-be-a-jammette-jamet-loose-woman-the-bible-said-so/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By Princess O\u2019Nika Auguste Last year, a friend posted on social media that Marion Hall, formerly\u2026"
                 }
             },
             {
