@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-07-03T18:05:51.000Z",
+        "updated": "2025-07-05T15:51:57.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP - Journal of Sakarya University Faculty of Theology",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071759/call-papers-journal-sakarya-university-faculty-theology"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-05T15:51:57.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071759/call-papers-journal-sakarya-university-faculty-theology",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
             {
                 "title": "[Taller] Electric Marronaege Call for Submissions",
                 "link": {
@@ -33,6 +49,54 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 3, 2025 - 3:08pmfull name / name of organization: [Taller] Electric\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Devil: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072034/h-net-job-guide-weekly-report-h-devil-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-03T12:36:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072034/h-net-job-guide-weekly-report-h-devil-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
+            {
+                "title": "Discursive and Non-Discursive Reasoning in Chinese Philosophy",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072183/discursive-and-non-discursive-reasoning-chinese-philosophy"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-03T08:12:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072183/discursive-and-non-discursive-reasoning-chinese-philosophy",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072026/h-net-job-guide-weekly-report-h-buddhism-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-03T08:11:20.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072026/h-net-job-guide-weekly-report-h-buddhism-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -129,6 +193,38 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 3, 2025 - 3:07pmfull name / name of organization: James Baldwin\u2026"
+                }
+            },
+            {
+                "title": "Korea Journal special issue - Anticommunism in South Korea",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20119608/korea-journal-special-issue-anticommunism-south-korea"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-02T16:29:09.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20119608/korea-journal-special-issue-anticommunism-south-korea",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
+            {
+                "title": "Discursive and Non-Discursive Reasoning in Chinese Philosophy",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072182/discursive-and-non-discursive-reasoning-chinese-philosophy"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-02T16:27:21.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072182/discursive-and-non-discursive-reasoning-chinese-philosophy",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -272,7 +368,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/01/naturing-bodies-embodying-nature-icms-2026",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, July 3, 2025 - 2:57pmfull name / name of organization: ICMS 2026 / Sponsored by\u2026"
+                    "#text": "updated: Saturday, July 5, 2025 - 12:14pmfull name / name of organization: International Congress on\u2026"
                 }
             },
             {
@@ -289,6 +385,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 3, 2025 - 2:57pmfull name / name of organization: InMind Supportcontact\u2026"
+                }
+            },
+            {
+                "title": "International Catacomb Society Online Panel with Recent Shohet Grant Recipients | August 5, 2025",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071857/international-catacomb-society-online-panel-recent-shohet-grant"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-01T14:46:47.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071857/international-catacomb-society-online-panel-recent-shohet-grant",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -369,6 +481,54 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 3, 2025 - 2:55pmfull name / name of organization: Heather Ostman & Quinn\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072017/h-net-job-guide-weekly-report-h-amindian-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-30T17:10:59.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072017/h-net-job-guide-weekly-report-h-amindian-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Mideast-Medieval: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072063/h-net-job-guide-weekly-report-h-mideast-medieval-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-30T16:28:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072063/h-net-job-guide-weekly-report-h-mideast-medieval-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers - Journal of Sakarya University Faculty of Theology",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071760/call-papers-journal-sakarya-university-faculty-theology"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-06-30T16:25:36.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071760/call-papers-journal-sakarya-university-faculty-theology",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
