@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-07-08T15:59:19.000Z",
+        "updated": "2025-07-10T01:14:18.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Japan Review Early Access articles",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20120202/japan-review-early-access-articles"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-10T01:14:18.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20120202/japan-review-early-access-articles",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                }
+            },
             {
                 "title": "Call for Applications: Imaginations of the Womb \u2013 Uterine Imaginaries (Graduate Student Workshop)",
                 "link": {
@@ -65,6 +81,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, July 8, 2025 - 12:22pmfull name / name of organization: The Northeast Modern\u2026"
+                }
+            },
+            {
+                "title": "EVENT: Online event \"Jewish-Catholic Relations in a Volatile World: A Conversation on the Legacy of Pope Francis and Future Directions under Pope Leo XIV\" (July 24)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20120003/724-online-event-jewish-catholic-relations-volatile-world-conversation"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-08T15:50:11.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20120003/724-online-event-jewish-catholic-relations-volatile-world-conversation",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
                 }
             },
             {
@@ -132,6 +164,22 @@
                 }
             },
             {
+                "title": "International Catacomb Society Online Panel with Recent Shohet Grant Recipients | August 5, 2025",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071859/international-catacomb-society-online-panel-recent-shohet-grant"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-08T11:17:31.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071859/international-catacomb-society-online-panel-recent-shohet-grant",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                }
+            },
+            {
                 "title": "Recovering late-colonial Malay(si)a: Histories and Legacies of Resettlement",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/recovering-late-colonial-malaysia-histories-and-legacies-of-resettlement"
@@ -193,6 +241,54 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, July 8, 2025 - 12:21pmfull name / name of organization: Azzeddine Tajjioucontact\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-USA: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072097/h-net-job-guide-weekly-report-h-usa-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-07T19:00:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072097/h-net-job-guide-weekly-report-h-usa-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                }
+            },
+            {
+                "title": "10th Enemy Encounters Webinar \u201cRumours and 19th-20th Century Religious Resistance, State Repression and Maoist Campaigns in China\u201d",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071682/10th-enemy-encounters-webinar-rumours-and-19th-20th-century-religious"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-06T07:17:20.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071682/10th-enemy-encounters-webinar-rumours-and-19th-20th-century-religious",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                }
+            },
+            {
+                "title": "CFP - Journal of Sakarya University Faculty of Theology",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071759/call-papers-journal-sakarya-university-faculty-theology"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-05T15:51:57.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071759/call-papers-journal-sakarya-university-faculty-theology",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
                 }
             },
             {
@@ -308,6 +404,54 @@
                 }
             },
             {
+                "title": "H-Net Job Guide Weekly Report for H-Devil: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072034/h-net-job-guide-weekly-report-h-devil-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-03T12:36:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072034/h-net-job-guide-weekly-report-h-devil-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                }
+            },
+            {
+                "title": "Discursive and Non-Discursive Reasoning in Chinese Philosophy",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072183/discursive-and-non-discursive-reasoning-chinese-philosophy"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-03T08:12:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072183/discursive-and-non-discursive-reasoning-chinese-philosophy",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072026/h-net-job-guide-weekly-report-h-buddhism-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-03T08:11:20.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072026/h-net-job-guide-weekly-report-h-buddhism-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                }
+            },
+            {
                 "title": "[CfP due 15 July] Providence, Propaganda, and Profit in the Early Modern English World (4\u20136 September)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/02/cfp-due-15-july-providence-propaganda-and-profit-in-the-early-modern-english-world-4"
@@ -369,6 +513,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 3, 2025 - 3:07pmfull name / name of organization: James Baldwin\u2026"
+                }
+            },
+            {
+                "title": "Korea Journal special issue - Anticommunism in South Korea",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20119608/korea-journal-special-issue-anticommunism-south-korea"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-02T16:29:09.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20119608/korea-journal-special-issue-anticommunism-south-korea",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
                 }
             },
             {
