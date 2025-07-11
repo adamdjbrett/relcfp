@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-07-10T01:14:18.000Z",
+        "updated": "2025-07-10T14:06:08.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers - Journal of Sakarya University Faculty of Theology",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071761/call-papers-journal-sakarya-university-faculty-theology"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-10T14:06:08.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071761/call-papers-journal-sakarya-university-faculty-theology",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Histsex: 23 June - 30 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20072046/h-net-job-guide-weekly-report-h-histsex-23-june-30-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-10T06:49:51.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20072046/h-net-job-guide-weekly-report-h-histsex-23-june-30-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
+                }
+            },
             {
                 "title": "Japan Review Early Access articles",
                 "link": {
@@ -32,7 +64,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120202/japan-review-early-access-articles",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -96,7 +128,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120003/724-online-event-jewish-catholic-relations-volatile-world-conversation",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -176,7 +208,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20071859/international-catacomb-society-online-panel-recent-shohet-grant",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -256,7 +288,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20072097/h-net-job-guide-weekly-report-h-usa-23-june-30-june",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -272,7 +304,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20071682/10th-enemy-encounters-webinar-rumours-and-19th-20th-century-religious",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -288,7 +320,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20071759/call-papers-journal-sakarya-university-faculty-theology",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -416,7 +448,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20072034/h-net-job-guide-weekly-report-h-devil-23-june-30-june",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -432,23 +464,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20072183/discursive-and-non-discursive-reasoning-chinese-philosophy",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 23 June - 30 June",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20072026/h-net-job-guide-weekly-report-h-buddhism-23-june-30-june"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-07-03T08:11:20.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20072026/h-net-job-guide-weekly-report-h-buddhism-23-june-30-june",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
+                    "#text": "REPOSTING: Lecture by Wiebke Denecke (MIT) on \u2018How Can We Leverage Our Cultural Wiring Around Nature\u2026"
                 }
             },
             {
@@ -513,22 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 3, 2025 - 3:07pmfull name / name of organization: James Baldwin\u2026"
-                }
-            },
-            {
-                "title": "Korea Journal special issue - Anticommunism in South Korea",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20119608/korea-journal-special-issue-anticommunism-south-korea"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-07-02T16:29:09.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20119608/korea-journal-special-issue-anticommunism-south-korea",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Diplo Article Review 1197: Emery on Cummins, \"American Cold War Strategy and the Absence of 'Swift\u2026"
                 }
             },
             {
