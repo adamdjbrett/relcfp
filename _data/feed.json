@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-07-13T16:53:52.000Z",
+        "updated": "2025-07-15T18:43:06.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Japan Review Early Access articles",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20120201/japan-review-early-access-articles"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-15T18:43:06.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20120201/japan-review-early-access-articles",
+                "content": {
+                    "@type": "html",
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
+                }
+            },
+            {
+                "title": "CFP: 2026 Gods and Monsters Conference at Texas State University",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20120465/cfp-2026-gods-and-monsters-conference-texas-state-university"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-15T12:18:56.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20120465/cfp-2026-gods-and-monsters-conference-texas-state-university",
+                "content": {
+                    "@type": "html",
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
+                }
+            },
+            {
+                "title": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025, Vienna",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20120484/conference-chinese-buddhist-philosophy-three-treatises-five-schools"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-15T12:04:16.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20120484/conference-chinese-buddhist-philosophy-three-treatises-five-schools",
+                "content": {
+                    "@type": "html",
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
+                }
+            },
             {
                 "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 30 June - 7 July",
                 "link": {
@@ -32,7 +80,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120385/jobs-h-net-job-guide-weekly-report-h-buddhism-30-june-7-july",
                 "content": {
                     "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
                 }
             },
             {
@@ -48,7 +96,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120306/public-lecture-circulation-pure-land-imaginaire-medieval-east-asia",
                 "content": {
                     "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
                 }
             },
             {
@@ -64,7 +112,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120110/cfp-book-reviews-journal-buddhist-ethics",
                 "content": {
                     "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
                 }
             },
             {
@@ -80,7 +128,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120024/call-participants-roundtable-knowing-and-doing-buddhism-1980s-asia",
                 "content": {
                     "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
                 }
             },
             {
@@ -112,7 +160,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20071761/call-papers-journal-sakarya-university-faculty-theology",
                 "content": {
                     "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
                 }
             },
             {
@@ -128,7 +176,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20072046/h-net-job-guide-weekly-report-h-histsex-23-june-30-june",
                 "content": {
                     "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
                 }
             },
             {
@@ -144,7 +192,71 @@
                 "id": "https://networks.h-net.org/group/announcements/20120202/japan-review-early-access-articles",
                 "content": {
                     "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
+                    "#text": "Digitized archives, 2017 (comment) Friends:H-Hist-Bibl shared a link to the Atlas Obscura\u2026"
+                }
+            },
+            {
+                "title": "\"Knowledge from the Cracks\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/knowledge-from-the-cracks"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-09T10:46:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/knowledge-from-the-cracks",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, July 15, 2025 - 4:43pmfull name / name of organization: Patience Odeh/ University\u2026"
+                }
+            },
+            {
+                "title": "Call for Chapters: Critical Sociocultural Examinations of Gender Discrimination and Persecution",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/call-for-chapters-critical-sociocultural-examinations-of-gender-discrimination-and"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-09T10:40:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/call-for-chapters-critical-sociocultural-examinations-of-gender-discrimination-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, July 15, 2025 - 12:11pmfull name / name of organization: Robin Throne, PhDcontact\u2026"
+                }
+            },
+            {
+                "title": "CFP: BROLLY (peer-reviewed journal, London, UK) - [Humanities]",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/cfp-brolly-peer-reviewed-journal-london-uk-humanities"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-09T09:14:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/cfp-brolly-peer-reviewed-journal-london-uk-humanities",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, July 15, 2025 - 12:11pmfull name / name of organization: London Academic\u2026"
+                }
+            },
+            {
+                "title": "CFP: BROLLY (peer-reviewed journal, London, UK) - [Humanities]",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/cfp-brolly-peer-reviewed-journal-london-uk-humanities"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-09T09:14:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/cfp-brolly-peer-reviewed-journal-london-uk-humanities",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, July 15, 2025 - 12:11pmfull name / name of organization: London Academic\u2026"
                 }
             },
             {
@@ -308,22 +420,6 @@
                 }
             },
             {
-                "title": "EVENT: Online event \"Jewish-Catholic Relations in a Volatile World: A Conversation on the Legacy of Pope Francis and Future Directions under Pope Leo XIV\" (July 24)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20120003/724-online-event-jewish-catholic-relations-volatile-world-conversation"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-07-08T15:50:11.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20120003/724-online-event-jewish-catholic-relations-volatile-world-conversation",
-                "content": {
-                    "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
-                }
-            },
-            {
                 "title": "Critical Readings on the Silver Surfer",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/critical-readings-on-the-silver-surfer"
@@ -353,70 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, July 8, 2025 - 12:22pmfull name / name of organization: Mike Lemon and Rob\u2026"
-                }
-            },
-            {
-                "title": "El v\u00e9rtigo de las nuevas mitolog\u00edas: cuerpo y poshumanismos desde la literatura y el arte latinoamericanos",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/el-v%C3%A9rtigo-de-las-nuevas-mitolog%C3%ADas-cuerpo-y-poshumanismos-desde-la-literatura-y-el"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-07-08T14:25:57.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/el-v%C3%A9rtigo-de-las-nuevas-mitolog%C3%ADas-cuerpo-y-poshumanismos-desde-la-literatura-y-el",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, July 8, 2025 - 12:22pmfull name / name of organization: Call for papers for NeMLA\u2026"
-                }
-            },
-            {
-                "title": "Postmodern Horror in the New Millennium",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/postmodern-horror-in-the-new-millennium"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-07-08T14:25:08.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/postmodern-horror-in-the-new-millennium",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, July 8, 2025 - 12:22pmfull name / name of organization: NeMLAcontact\u2026"
-                }
-            },
-            {
-                "title": "International Catacomb Society Online Panel with Recent Shohet Grant Recipients | August 5, 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20071859/international-catacomb-society-online-panel-recent-shohet-grant"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-07-08T11:17:31.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20071859/international-catacomb-society-online-panel-recent-shohet-grant",
-                "content": {
-                    "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
-                }
-            },
-            {
-                "title": "Recovering late-colonial Malay(si)a: Histories and Legacies of Resettlement",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/recovering-late-colonial-malaysia-histories-and-legacies-of-resettlement"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-07-08T11:00:35.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/recovering-late-colonial-malaysia-histories-and-legacies-of-resettlement",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, July 8, 2025 - 12:22pmfull name / name of organization: University of\u2026"
                 }
             },
             {
@@ -436,22 +468,6 @@
                 }
             },
             {
-                "title": "H-Net Job Guide Weekly Report for H-USA: 23 June - 30 June",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20072097/h-net-job-guide-weekly-report-h-usa-23-june-30-june"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-07-07T19:00:25.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20072097/h-net-job-guide-weekly-report-h-usa-23-june-30-june",
-                "content": {
-                    "@type": "html",
-                    "#text": "ToC (Special Issue): Racing the Korean Imaginary: Racialization and Gender in South Korea Sohoon Yi\u2026"
-                }
-            },
-            {
                 "title": "Speical issue of Tropos on Mimetic Studies. New Steps for the Mimetic TUrn",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/05/speical-issue-of-tropos-on-mimetic-studies-new-steps-for-the-mimetic-turn"
@@ -464,7 +480,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/05/speical-issue-of-tropos-on-mimetic-studies-new-steps-for-the-mimetic-turn",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, July 7, 2025 - 2:20pmfull name / name of organization: Leiden Universitycontact\u2026"
+                    "#text": "updated: Tuesday, July 15, 2025 - 2:54amfull name / name of organization: Leiden Universitycontact\u2026"
                 }
             },
             {
@@ -673,22 +689,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 3, 2025 - 2:56pmfull name / name of organization: Georgia Munro-Cook, \u0141ukasz\u2026"
-                }
-            },
-            {
-                "title": "Overtones Ege Journal of Engilsh Studies Vol. 5 (2026)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/01/overtones-ege-journal-of-engilsh-studies-vol-5-2026"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-07-01T07:55:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/01/overtones-ege-journal-of-engilsh-studies-vol-5-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 3, 2025 - 2:56pmfull name / name of organization: Ege University contact\u2026"
                 }
             },
             {
