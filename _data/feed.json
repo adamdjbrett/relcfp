@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-07-18T19:59:10.000Z",
+        "updated": "2025-07-20T00:33:06.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: Religion and Peak TV",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/07/19/call-for-papers-religion-and-peak-tv/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-07-20T00:33:06.000Z",
+                "id": "https://popularcultureandtheology.com/2025/07/19/call-for-papers-religion-and-peak-tv/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Volume Editor: George Tsakiridis, PhD Abstract and CV Due: September 30, 2025 Initial Final Paper\u2026"
+                }
+            },
             {
                 "title": "CFP: Despotismus. Aufkl\u00e4rerische Diskurse der Machtstabilisierung und -begrenzung aus interdisziplin\u00e4rer Perspektive - F\u00f6rderpreis f\u00fcr junge Aufkl\u00e4rungsforschung 2026, IZEA, Halle (30. September 2025)",
                 "link": {
@@ -32,7 +48,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120751/cfp-despotismus-aufklarerische-diskurse-der-machtstabilisierung-und",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -208,7 +224,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/17/nemla-2026-touching-the-world-at-the-speed-of-light-community-and-conflict-in-the",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, July 17, 2025 - 6:07pmfull name / name of organization: Northeast Modern Language\u2026"
+                    "#text": "updated: Saturday, July 19, 2025 - 2:01pmfull name / name of organization: Northeast Modern Language\u2026"
                 }
             },
             {
@@ -304,7 +320,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120587/remote-course-virgin-birth-differences-between-christian-and-jewish",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -400,7 +416,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120201/japan-review-early-access-articles",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -464,7 +480,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120465/cfp-2026-gods-and-monsters-conference-texas-state-university",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -480,7 +496,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120484/conference-chinese-buddhist-philosophy-three-treatises-five-schools",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -592,7 +608,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120385/jobs-h-net-job-guide-weekly-report-h-buddhism-30-june-7-july",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -608,7 +624,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120306/public-lecture-circulation-pure-land-imaginaire-medieval-east-asia",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -624,7 +640,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120110/cfp-book-reviews-journal-buddhist-ethics",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -640,7 +656,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20120024/call-participants-roundtable-knowing-and-doing-buddhism-1980s-asia",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -720,7 +736,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20071761/call-papers-journal-sakarya-university-faculty-theology",
                 "content": {
                     "@type": "html",
-                    "#text": "Reviews: announcement Dear all,The H-histsex book review editor team is pleased to\u2026"
+                    "#text": "CFP: Visibilising Marginalised Early Career Researchers in Peace, Conflict and Security Studies: A\u2026"
                 }
             },
             {
@@ -1153,22 +1169,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "When: June 21, 2025 in Bath, Somerset, England 2025 marks the 250th anniversaries which commemorate\u2026"
-                }
-            },
-            {
-                "title": "Extended Call for Papers: Theology, Religion, and LOST",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/04/25/extended-call-for-papers-theology-religion-and-lost/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-04-26T03:42:12.000Z",
-                "id": "https://popularcultureandtheology.com/2025/04/25/extended-call-for-papers-theology-religion-and-lost/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Few commercial television series in recent memory have had as lasting an impact on audiences as has\u2026"
                 }
             },
             {
