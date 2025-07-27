@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-07-26T00:24:41.000Z",
+        "updated": "2025-07-26T16:50:39.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Journal of Ecumenical Studies: Religious Pluralism, Freedom, and the Founding of the Nation",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121201/journal-ecumenical-studies-religious-pluralism-freedom-and-founding"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-26T16:50:39.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121201/journal-ecumenical-studies-religious-pluralism-freedom-and-founding",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Chapter Submissions: New Perspectives in Africana Studies Call for Chapter\u2026"
+                }
+            },
             {
                 "title": "CFP: 2026 Gods and Monsters Conference at Texas State University",
                 "link": {
@@ -174,22 +190,6 @@
                 },
                 "updated": "2025-07-22T05:02:20.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20120494/open-access-book-shopping-allah-muslim-pilgrimage-gender-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Chapter Submissions: New Perspectives in Africana Studies Call for Chapter\u2026"
-                }
-            },
-            {
-                "title": "Past Imperfect Podcast: Manu S. Pillai on Missionaries, Reformers, and the Making of Modern Hinduism",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20070513/past-imperfect-podcast-manu-s-pillai-missionaries-reformers-and-making"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-07-21T12:33:06.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20070513/past-imperfect-podcast-manu-s-pillai-missionaries-reformers-and-making",
                 "content": {
                     "@type": "html",
                     "#text": "Call for Chapter Submissions: New Perspectives in Africana Studies Call for Chapter\u2026"
