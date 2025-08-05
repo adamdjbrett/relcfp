@@ -12,13 +12,621 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-07-23T20:20:17.000Z",
+        "updated": "2025-08-05T05:05:35.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Japanese Journal of Religious Studies 51/2",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121769/japanese-journal-religious-studies-512"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-05T05:05:35.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121769/japanese-journal-religious-studies-512",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "CFP: 2026 Gods and Monsters Conference at Texas State University",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20120801/cfp-2026-gods-and-monsters-conference-texas-state-university"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-04T13:08:10.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20120801/cfp-2026-gods-and-monsters-conference-texas-state-university",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "Call for Abstract \u2013 Divine Devices: Religion and Emergent Technologies of Wonder, Enchantment and Mediation (Online International Workshop)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121420/call-abstract-divine-devices-religion-and-emergent-technologies-wonder"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-04T13:02:59.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121420/call-abstract-divine-devices-religion-and-emergent-technologies-wonder",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "CFP: 2026 Gods and Monsters Conference at Texas State University",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121178/cfp-2026-gods-and-monsters-conference-texas-state-university"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-03T23:54:02.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121178/cfp-2026-gods-and-monsters-conference-texas-state-university",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "Call for Paper Proposals - Materiality and Buddhist Art, College Art Association 2026 Annual Meeting (Feb. 18-21)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121567/call-paper-proposals-materiality-and-buddhist-art-college-art"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-03T18:33:07.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121567/call-paper-proposals-materiality-and-buddhist-art-college-art",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "CAA 2026 - Diasporic & LGBTQ+ Resistance",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/03/caa-2026-diasporic-lgbtq-resistance"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-03T18:24:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/03/caa-2026-diasporic-lgbtq-resistance",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:41amfull name / name of organization: College Art\u2026"
+                }
+            },
+            {
+                "title": "[Call for AAS 2026 Panelists] Writing and Imagining the Afterlife: Mourning, Ritual, and Materiality in Premodern and Early Modern East Asia",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121473/call-aas-2026-panelists-writing-and-imagining-afterlife-mourning"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-03T18:09:11.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121473/call-aas-2026-panelists-writing-and-imagining-afterlife-mourning",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "Edited Collection: Rhetoric and/as Academic Leadership",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/02/edited-collection-rhetoric-andas-academic-leadership"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-02T17:12:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/02/edited-collection-rhetoric-andas-academic-leadership",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:41amfull name / name of organization: Kelly Ritter, Georgia\u2026"
+                }
+            },
+            {
+                "title": "'The Soliloquist Journal' seeks submissions of poems and soliloquies for Fall 2025 issue",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/02/the-soliloquist-journal-seeks-submissions-of-poems-and-soliloquies-for-fall-2025"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-08-02T14:42:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/02/the-soliloquist-journal-seeks-submissions-of-poems-and-soliloquies-for-fall-2025",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:41amfull name / name of organization: The Soliloquist\u2026"
+                }
+            },
+            {
+                "title": "Call for Abstract -Divine Devices: Religion and Emergent Technologies of Wonder, Enchantment and Mediation (Online International Workshop)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121417/call-abstract-divine-devices-religion-and-emergent-technologies-wonder"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-02T12:16:08.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121417/call-abstract-divine-devices-religion-and-emergent-technologies-wonder",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "Call for Paper Proposals - Materiality and Buddhist Art, College Art Association 2026 Annual Meeting (Feb. 18-21)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121566/call-paper-proposals-materiality-and-buddhist-art-college-art"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-01T16:33:23.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121566/call-paper-proposals-materiality-and-buddhist-art-college-art",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "\"Memory, Trauma and Recovery\" 6th International Interdisciplinary Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/01/memory-trauma-and-recovery-6th-international-interdisciplinary-conference"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-01T16:06:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/01/memory-trauma-and-recovery-6th-international-interdisciplinary-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:41amfull name / name of organization: InMind Supportcontact\u2026"
+                }
+            },
+            {
+                "title": "Call for Chapters - Contested Bodies: Corporeality in Contemporary India",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/call-for-chapters-contested-bodies-corporeality-in-contemporary-india"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-01T03:58:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/call-for-chapters-contested-bodies-corporeality-in-contemporary-india",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:41amfull name / name of organization: Dr. Sushant Kishore,\u2026"
+                }
+            },
+            {
+                "title": "Long Live the Discourse of the Real?: Documentary Theory for the 2020s (Panel)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/long-live-the-discourse-of-the-real-documentary-theory-for-the-2020s-panel"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-31T20:41:56.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/long-live-the-discourse-of-the-real-documentary-theory-for-the-2020s-panel",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:40amfull name / name of organization: NeMLAcontact\u2026"
+                }
+            },
+            {
+                "title": "Editing Cotton Mather's Biblia Americana (1693-1728): America\u2019s First Bible Commentary and Storehouse of Early Modern Learning",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121478/editing-cotton-mathers-biblia-americana-1693-1728-americas-first-bible"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-31T15:54:07.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121478/editing-cotton-mathers-biblia-americana-1693-1728-americas-first-bible",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "International Symposium: \"1984 and its afterlife: legacy, narratives, and the making of a community\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/international-symposium-1984-and-its-afterlife-legacy-narratives-and-the-making-of-a"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-31T15:30:18.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/international-symposium-1984-and-its-afterlife-legacy-narratives-and-the-making-of-a",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:40amfull name / name of organization: London Metropolitan\u2026"
+                }
+            },
+            {
+                "title": "5th Hawaii International Conference on English Language and Literature Studies (HICELLS 2026)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/5th-hawaii-international-conference-on-english-language-and-literature-studies"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-31T10:47:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/5th-hawaii-international-conference-on-english-language-and-literature-studies",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:40amfull name / name of organization: Francisco P.\u2026"
+                }
+            },
+            {
+                "title": "CFP> Call for Abstracts \u2013 Divine Devices: Religion and Emergent Technologies of Wonder, Enchantment and Mediation (Online International Workshop)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121418/call-abstract-divine-devices-religion-and-emergent-technologies-wonder"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-07-31T06:50:32.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121418/call-abstract-divine-devices-religion-and-emergent-technologies-wonder",
+                "content": {
+                    "@type": "html",
+                    "#text": "Pirino on Suzuki, 'Humanitarian Internationalism Under Empire: The Global Evolution of the Japanese\u2026"
+                }
+            },
+            {
+                "title": "Telangana Journal of Higher Education",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/30/telangana-journal-of-higher-education"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-30T09:27:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/30/telangana-journal-of-higher-education",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:40amfull name / name of organization: Telangana Council of\u2026"
+                }
+            },
+            {
+                "title": "Telangana Journal of Higher Education",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/30/telangana-journal-of-higher-education"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-30T09:27:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/30/telangana-journal-of-higher-education",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:40amfull name / name of organization: Telangana Council of\u2026"
+                }
+            },
+            {
+                "title": "Science and Sensibility: Method Meets Art",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/science-and-sensibility-method-meets-art"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-30T00:24:39.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/science-and-sensibility-method-meets-art",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:39amfull name / name of organization: London Arts-Based\u2026"
+                }
+            },
+            {
+                "title": "Science and Sensibility: Method Meets Art",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/science-and-sensibility-method-meets-art"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-30T00:24:39.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/science-and-sensibility-method-meets-art",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:39amfull name / name of organization: London Arts-Based\u2026"
+                }
+            },
+            {
+                "title": "Call for panelists -- What is Research? Religious Studies Methods and Theory",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/call-for-panelists-what-is-research-religious-studies-methods-and-theory"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-29T19:57:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/call-for-panelists-what-is-research-religious-studies-methods-and-theory",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:39amfull name / name of organization: Jacques Parkercontact\u2026"
+                }
+            },
+            {
+                "title": "'Theory Today' workshop w/ Alberto Toscano",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/theory-today-workshop-w-alberto-toscano"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-29T16:03:43.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/theory-today-workshop-w-alberto-toscano",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:38amfull name / name of organization: USCcontact\u2026"
+                }
+            },
+            {
+                "title": "'Theory Today' workshop w/ Todd McGowan",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/theory-today-workshop-w-todd-mcgowan"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-29T15:51:33.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/theory-today-workshop-w-todd-mcgowan",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:38amfull name / name of organization: USCcontact\u2026"
+                }
+            },
+            {
+                "title": "'Theory Today' workshop w/ Todd McGowan",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/theory-today-workshop-w-todd-mcgowan"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-29T15:51:33.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/theory-today-workshop-w-todd-mcgowan",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:38amfull name / name of organization: USCcontact\u2026"
+                }
+            },
+            {
+                "title": "Frankensteinian Resonance: Transtemporal Reanimations in Fiction, Film, and Video",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/frankensteinian-resonance-transtemporal-reanimations-in-fiction-film-and-video"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-07-29T13:08:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/frankensteinian-resonance-transtemporal-reanimations-in-fiction-film-and-video",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 4, 2025 - 11:38amfull name / name of organization: Assoc. Prof. Ela \u0130pek\u2026"
+                }
+            },
+            {
+                "title": "CFP: Edited Collection on Contingent Teaching from WAC Clearinghouse",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-edited-collection-on-contingent-teaching-from-wac-clearinghouse"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-28T18:36:02.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-edited-collection-on-contingent-teaching-from-wac-clearinghouse",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:39pmfull name / name of organization: Precarious Pedagogy,\u2026"
+                }
+            },
+            {
+                "title": "CFP: Edited Volume on Star Wars and Politics in the Disney Era",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-edited-volume-on-star-wars-and-politics-in-the-disney-era"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-28T10:40:11.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-edited-volume-on-star-wars-and-politics-in-the-disney-era",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: Dominic J Nardicontact\u2026"
+                }
+            },
+            {
+                "title": "CFP: Call for Papers: Walter Benjamin in Times of Crisis - NEW BENJAMIN STUDIES (Brill | Fink)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-call-for-papers-walter-benjamin-in-times-of-crisis-new-benjamin-studies-brill"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-28T08:19:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-call-for-papers-walter-benjamin-in-times-of-crisis-new-benjamin-studies-brill",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: NEW BENJAMIN STUDIES (Brill\u2026"
+                }
+            },
+            {
+                "title": "CFP: Call for Papers: Walter Benjamin in Times of Crisis - NEW BENJAMIN STUDIES (Brill | Fink)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-call-for-papers-walter-benjamin-in-times-of-crisis-new-benjamin-studies-brill"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-28T08:19:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-call-for-papers-walter-benjamin-in-times-of-crisis-new-benjamin-studies-brill",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: NEW BENJAMIN STUDIES (Brill\u2026"
+                }
+            },
+            {
+                "title": "Call for Submissions: \"THRESHOLDS\" A Micro Fiction Anthology",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/27/call-for-submissions-thresholds-a-micro-fiction-anthology"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-27T17:58:15.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/27/call-for-submissions-thresholds-a-micro-fiction-anthology",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: Fresh Words-An\u2026"
+                }
+            },
+            {
+                "title": "State of the Nation Film and TV in Britain: Representations of the Social, Political, and Cultural Landscape.",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/27/state-of-the-nation-film-and-tv-in-britain-representations-of-the-social-political"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-27T12:40:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/27/state-of-the-nation-film-and-tv-in-britain-representations-of-the-social-political",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:36pmfull name / name of organization: Jon Baldwin London\u2026"
+                }
+            },
+            {
+                "title": "Roots of Change: The Power and Promise of Black Men in Education (An Anthology)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/26/roots-of-change-the-power-and-promise-of-black-men-in-education-an-anthology"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-26T19:32:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/26/roots-of-change-the-power-and-promise-of-black-men-in-education-an-anthology",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:35pmfull name / name of organization: Dr. Emily Williams and Dr.\u2026"
+                }
+            },
+            {
+                "title": "Call for articles: GOTHIC MATERNITIES",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/26/call-for-articles-gothic-maternities"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-26T11:28:31.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/26/call-for-articles-gothic-maternities",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:35pmfull name / name of organization: West University of\u2026"
+                }
+            },
+            {
+                "title": "IVC 41: (Un)Doing Labor",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/25/ivc-41-undoing-labor"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-07-26T00:17:20.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/25/ivc-41-undoing-labor",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:35pmfull name / name of organization: InVisible Culture: A\u2026"
+                }
+            },
+            {
+                "title": "Blue Humanities and the Indian Ocean: South Asian Literary and Cultural Representations",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/25/blue-humanities-and-the-indian-ocean-south-asian-literary-and-cultural"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-25T14:43:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/25/blue-humanities-and-the-indian-ocean-south-asian-literary-and-cultural",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:35pmfull name / name of organization: Dr. Abhisek Ghosal, Dr.\u2026"
+                }
+            },
+            {
+                "title": "Frances E.W. Harper Unearthed",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/23/frances-ew-harper-unearthed"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-23T22:23:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/23/frances-ew-harper-unearthed",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:34pmfull name / name of organization: C19\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: Religion in Jack Kirby\u2019s Fourth World and Beyond",
                 "link": {
@@ -33,6 +641,118 @@
                 "content": {
                     "@type": "html",
                     "#text": "Religion in Jack Kirby\u2019s Fourth World and Beyond Editor: Matthew Brake Jack Kirby needs no\u2026"
+                }
+            },
+            {
+                "title": "Crisis",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/23/crisis"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-23T15:01:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/23/crisis",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:34pmfull name / name of organization: Signs: Journal of Women in\u2026"
+                }
+            },
+            {
+                "title": "Toward a Theory of Black Affective Knowledge",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/23/toward-a-theory-of-black-affective-knowledge"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-23T13:17:14.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/23/toward-a-theory-of-black-affective-knowledge",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 2:34pmfull name / name of organization: SAMLAcontact\u2026"
+                }
+            },
+            {
+                "title": "Psyche and Society Literature, Language, History, and Education",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/22/psyche-and-society-literature-language-history-and-education"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-22T06:45:37.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/22/psyche-and-society-literature-language-history-and-education",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 12:58pmfull name / name of organization: October 6 University,\u2026"
+                }
+            },
+            {
+                "title": "Considering Empathy: Critical Approaches across Disciplines",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/21/considering-empathy-critical-approaches-across-disciplines"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-21T18:52:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/21/considering-empathy-critical-approaches-across-disciplines",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 12:58pmfull name / name of organization: Diana Ashe & Beverley\u2026"
+                }
+            },
+            {
+                "title": "EXTENDED DEADLINE: Inter- and transcultural Heritage: Conflicts, Overlaps, Coexistence",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/21/extended-deadline-inter-and-transcultural-heritage-conflicts-overlaps-coexistence"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-07-21T09:02:11.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/21/extended-deadline-inter-and-transcultural-heritage-conflicts-overlaps-coexistence",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 12:57pmfull name / name of organization: Lucian Blaga University of\u2026"
+                }
+            },
+            {
+                "title": "Mary Jacobs Memorial Essay Prize 2026",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/20/mary-jacobs-memorial-essay-prize-2026"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-20T09:19:15.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/20/mary-jacobs-memorial-essay-prize-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 28, 2025 - 10:56amfull name / name of organization: Sylvia Townsend Warner\u2026"
+                }
+            },
+            {
+                "title": "Lolly Willowes at 100: Sylvia Townsend Warner, Religion, and the Supernatural",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/20/lolly-willowes-at-100-sylvia-townsend-warner-religion-and-the-supernatural"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-20T09:15:29.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/20/lolly-willowes-at-100-sylvia-townsend-warner-religion-and-the-supernatural",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, July 24, 2025 - 2:50pmfull name / name of organization: Sylvia Townsend Warner\u2026"
                 }
             },
             {
@@ -52,6 +772,54 @@
                 }
             },
             {
+                "title": "Roundtable: The Krewe de Jeanne d'Arc in New Orleans",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/roundtable-the-krewe-de-jeanne-darc-in-new-orleans"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-18T11:35:22.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/roundtable-the-krewe-de-jeanne-darc-in-new-orleans",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, July 18, 2025 - 12:04pmfull name / name of organization: International Joan of Arc\u2026"
+                }
+            },
+            {
+                "title": "Panel: Sound, Silence, Voice, and Ventriloquism in Joan of Arc's Life and Legacy",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/panel-sound-silence-voice-and-ventriloquism-in-joan-of-arcs-life-and-legacy"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-18T11:21:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/panel-sound-silence-voice-and-ventriloquism-in-joan-of-arcs-life-and-legacy",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, July 18, 2025 - 12:04pmfull name / name of organization: International Joan of Arc\u2026"
+                }
+            },
+            {
+                "title": "Panel: On the Path of Joan of Arc: Tracing Johannic Itineraries through Art, War, and Tourism (Panel at International Conference for Medieval Studies in Kalamazoo, MI)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/panel-on-the-path-of-joan-of-arc-tracing-johannic-itineraries-through-art-war-and"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-18T11:10:52.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/panel-on-the-path-of-joan-of-arc-tracing-johannic-itineraries-through-art-war-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, July 18, 2025 - 7:15amfull name / name of organization: International Joan of Arc\u2026"
+                }
+            },
+            {
                 "title": "#CFP: The Gods and Monsters Conference 2026",
                 "link": {
                     "@href": "https://relcfp.com/2025/07/11/gods-monsters/"
@@ -65,6 +833,38 @@
                 "content": {
                     "@type": "html",
                     "#text": "Details Call for Papers: The Gods and Monsters Conference 2026 March 26 - 29, 2026 Texas State\u2026"
+                }
+            },
+            {
+                "title": "Religion, Conversion and Cultural Memory in Indo-Caribbean Women\u2019s Writing",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/religion-conversion-and-cultural-memory-in-indo-caribbean-women%E2%80%99s-writing"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-09T06:38:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/religion-conversion-and-cultural-memory-in-indo-caribbean-women%E2%80%99s-writing",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, August 2, 2025 - 3:21amfull name / name of organization: University of\u2026"
+                }
+            },
+            {
+                "title": "Call for Applications: Imaginations of the Womb \u2013 Uterine Imaginaries (Graduate Student Workshop)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/call-for-applications-imaginations-of-the-womb-%E2%80%93-uterine-imaginaries-graduate-student"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-07-08T15:59:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/call-for-applications-imaginations-of-the-womb-%E2%80%93-uterine-imaginaries-graduate-student",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, July 8, 2025 - 5:06pmfull name / name of organization: Princeton University\u2026"
                 }
             },
             {
