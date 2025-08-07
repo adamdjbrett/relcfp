@@ -12,13 +12,125 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-08-05T13:53:55.000Z",
+        "updated": "2025-08-06T12:27:55.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: ICMS 2026 Panel, \"The Imagined Woman\"",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20121835/call-papers-icms-2026-panel-imagined-woman"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-06T12:27:55.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20121835/call-papers-icms-2026-panel-imagined-woman",
+                "content": {
+                    "@type": "html",
+                    "#text": "University of Alaska - Fairbanks - Alaska & Polar Regions Area Studies Bibliographer & Curator of\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers, ReFocus: Mira Nair",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/06/call-for-papers-refocus-mira-nair"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-08-06T09:25:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/06/call-for-papers-refocus-mira-nair",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 6, 2025 - 9:01amfull name / name of organization: The University of\u2026"
+                }
+            },
+            {
+                "title": "Literature Compass Special Issue - memorial issue for Simon J James",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/06/literature-compass-special-issue-memorial-issue-for-simon-j-james"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-08-06T06:40:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/06/literature-compass-special-issue-memorial-issue-for-simon-j-james",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 6, 2025 - 9:00amfull name / name of organization: Hadas\u2026"
+                }
+            },
+            {
+                "title": "Contemporary India and Hindi Cinema",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/06/contemporary-india-and-hindi-cinema"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-08-06T06:25:01.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/06/contemporary-india-and-hindi-cinema",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 6, 2025 - 9:00amfull name / name of organization: Special Issue in the\u2026"
+                }
+            },
+            {
+                "title": "CFP: ICMS 2026 Panel, \"The Imagined Woman\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/05/cfp-icms-2026-panel-the-imagined-woman"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-06T00:33:01.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/05/cfp-icms-2026-panel-the-imagined-woman",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 6, 2025 - 9:00amfull name / name of organization: Dr. Anne Crafton,\u2026"
+                }
+            },
+            {
+                "title": "Mommy Knows Best: Maternal Knowledge in Popular Culture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/05/mommy-knows-best-maternal-knowledge-in-popular-culture"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-05T23:10:52.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/05/mommy-knows-best-maternal-knowledge-in-popular-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 6, 2025 - 8:58amfull name / name of organization: SAMLAcontact\u2026"
+                }
+            },
+            {
+                "title": "RSA 2026- Renaissance Natural and Not-so-Natural Disasters",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/05/rsa-2026-renaissance-natural-and-not-so-natural-disasters"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-08-05T22:34:04.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/05/rsa-2026-renaissance-natural-and-not-so-natural-disasters",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 6, 2025 - 8:57amfull name / name of organization: Kirsten Schuhmacher,\u2026"
+                }
+            },
             {
                 "title": "Richard D. Gooder Prize -- The Cambridge Quarterly",
                 "link": {
@@ -64,7 +176,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/05/unsettled-knowledge-migration-and-the-epistemologies-of-the-global-south",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, August 5, 2025 - 12:43pmfull name / name of organization: South Atlantic Modern\u2026"
+                    "#text": "updated: Wednesday, August 6, 2025 - 9:46amfull name / name of organization: South Atlantic Modern\u2026"
                 }
             },
             {
@@ -436,54 +548,6 @@
                 }
             },
             {
-                "title": "Call for Abstract -Divine Devices: Religion and Emergent Technologies of Wonder, Enchantment and Mediation (Online International Workshop)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20121417/call-abstract-divine-devices-religion-and-emergent-technologies-wonder"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-02T12:16:08.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20121417/call-abstract-divine-devices-religion-and-emergent-technologies-wonder",
-                "content": {
-                    "@type": "html",
-                    "#text": "University of Alaska - Fairbanks - Alaska & Polar Regions Area Studies Bibliographer & Curator of\u2026"
-                }
-            },
-            {
-                "title": "\"Memory, Trauma and Recovery\" 6th International Interdisciplinary Conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/01/memory-trauma-and-recovery-6th-international-interdisciplinary-conference"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-08-01T16:06:08.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/01/memory-trauma-and-recovery-6th-international-interdisciplinary-conference",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, August 4, 2025 - 11:41amfull name / name of organization: InMind Supportcontact\u2026"
-                }
-            },
-            {
-                "title": "Call for Chapters - Contested Bodies: Corporeality in Contemporary India",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/call-for-chapters-contested-bodies-corporeality-in-contemporary-india"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-08-01T03:58:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/31/call-for-chapters-contested-bodies-corporeality-in-contemporary-india",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, August 4, 2025 - 11:41amfull name / name of organization: Dr. Sushant Kishore,\u2026"
-                }
-            },
-            {
                 "title": "Telangana Journal of Higher Education",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/30/telangana-journal-of-higher-education"
@@ -596,38 +660,6 @@
                 }
             },
             {
-                "title": "CFP: Edited Volume on Star Wars and Politics in the Disney Era",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-edited-volume-on-star-wars-and-politics-in-the-disney-era"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-07-28T10:40:11.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-edited-volume-on-star-wars-and-politics-in-the-disney-era",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: Dominic J Nardicontact\u2026"
-                }
-            },
-            {
-                "title": "CFP: Call for Papers: Walter Benjamin in Times of Crisis - NEW BENJAMIN STUDIES (Brill | Fink)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-call-for-papers-walter-benjamin-in-times-of-crisis-new-benjamin-studies-brill"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-07-28T08:19:10.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-call-for-papers-walter-benjamin-in-times-of-crisis-new-benjamin-studies-brill",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: NEW BENJAMIN STUDIES (Brill\u2026"
-                }
-            },
-            {
                 "title": "CFP: Call for Papers: Walter Benjamin in Times of Crisis - NEW BENJAMIN STUDIES (Brill | Fink)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/28/cfp-call-for-papers-walter-benjamin-in-times-of-crisis-new-benjamin-studies-brill"
@@ -641,22 +673,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: NEW BENJAMIN STUDIES (Brill\u2026"
-                }
-            },
-            {
-                "title": "Call for Submissions: \"THRESHOLDS\" A Micro Fiction Anthology",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/27/call-for-submissions-thresholds-a-micro-fiction-anthology"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-07-27T17:58:15.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/27/call-for-submissions-thresholds-a-micro-fiction-anthology",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, July 28, 2025 - 2:38pmfull name / name of organization: Fresh Words-An\u2026"
                 }
             },
             {
@@ -849,22 +865,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, August 2, 2025 - 3:21amfull name / name of organization: University of\u2026"
-                }
-            },
-            {
-                "title": "Call for Applications: Imaginations of the Womb \u2013 Uterine Imaginaries (Graduate Student Workshop)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/call-for-applications-imaginations-of-the-womb-%E2%80%93-uterine-imaginaries-graduate-student"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-07-08T15:59:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/08/call-for-applications-imaginations-of-the-womb-%E2%80%93-uterine-imaginaries-graduate-student",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, July 8, 2025 - 5:06pmfull name / name of organization: Princeton University\u2026"
                 }
             },
             {
