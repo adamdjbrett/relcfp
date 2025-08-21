@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-08-19T23:35:25.000Z",
+        "updated": "2025-08-20T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: A special issue of Southern Cultures on Religion",
+                "link": {
+                    "@href": "https://relcfp.com/2025/08/20/cfp-southern-cultures/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-08-20T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/08/20/cfp-southern-cultures/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers: Religion"
+                }
+            },
             {
                 "title": "LECTURE> Prof. Mei Lin \u6885\u6797 - Dunhuang Cave 96",
                 "link": {
@@ -81,6 +97,134 @@
                 "content": {
                     "@type": "html",
                     "#text": "Fuller Theological Seminary School of Mission and Theology Geoffrey Bromiley Professor of Church\u2026"
+                }
+            },
+            {
+                "title": "Postcolonialism",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/postcolonialism"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-17T12:55:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/postcolonialism",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:08amfull name / name of organization: Marmara University in\u2026"
+                }
+            },
+            {
+                "title": "American Academy of Religion, Western Region 2026 Annual Conference - RELIGIONS OF ASIA UNIT \u200b(with an opportunity for inclusion in a planned edited volume)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/american-academy-of-religion-western-region-2026-annual-conference-religions-of-asia"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-17T05:33:59.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/american-academy-of-religion-western-region-2026-annual-conference-religions-of-asia",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:05amfull name / name of organization: American Academy of\u2026"
+                }
+            },
+            {
+                "title": "American Academy of Religion, Western Region 2026 Annual Conference - RELIGIONS OF ASIA UNIT \u200b(with an opportunity for inclusion in a planned edited volume)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/american-academy-of-religion-western-region-2026-annual-conference-religions-of-asia"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-08-17T05:33:59.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/american-academy-of-religion-western-region-2026-annual-conference-religions-of-asia",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:05amfull name / name of organization: American Academy of\u2026"
+                }
+            },
+            {
+                "title": "India, Poverty, and Western Eyes",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/india-poverty-and-western-eyes"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-17T04:52:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/india-poverty-and-western-eyes",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:04amfull name / name of organization: American Comparative\u2026"
+                }
+            },
+            {
+                "title": "India, Poverty, and Western Eyes",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/india-poverty-and-western-eyes"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-08-17T04:52:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/india-poverty-and-western-eyes",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:04amfull name / name of organization: American Comparative\u2026"
+                }
+            },
+            {
+                "title": "Reproducing Motherhood: Between the Poles of Natality and Maternity",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/16/reproducing-motherhood-between-the-poles-of-natality-and-maternity"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-16T19:14:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/16/reproducing-motherhood-between-the-poles-of-natality-and-maternity",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:03amfull name / name of organization: American Comparative\u2026"
+                }
+            },
+            {
+                "title": "Reproducing Motherhood: Between the Poles of Natality and Maternity",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/16/reproducing-motherhood-between-the-poles-of-natality-and-maternity"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-08-16T19:14:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/16/reproducing-motherhood-between-the-poles-of-natality-and-maternity",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:03amfull name / name of organization: American Comparative\u2026"
+                }
+            },
+            {
+                "title": "CFP: Dime Novels and Juvenile Series Books Area, PCA Conference 2026",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/15/cfp-dime-novels-and-juvenile-series-books-area-pca-conference-2026"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-08-16T00:37:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/15/cfp-dime-novels-and-juvenile-series-books-area-pca-conference-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 20, 2025 - 10:02amfull name / name of organization: Popluar Culture\u2026"
                 }
             },
             {
@@ -201,22 +345,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/14/acla-2026-uses-and-abuses-of-history-in-literary-narratives"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-08-14T16:04:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/14/acla-2026-uses-and-abuses-of-history-in-literary-narratives",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, August 15, 2025 - 12:54pmfull name / name of organization: ACLA 2026contact\u2026"
-                }
-            },
-            {
-                "title": "ACLA 2026: Uses and Abuses of History in Literary Narratives",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/14/acla-2026-uses-and-abuses-of-history-in-literary-narratives"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -225,22 +353,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, August 15, 2025 - 12:54pmfull name / name of organization: ACLA 2026contact\u2026"
-                }
-            },
-            {
-                "title": "Talking Records: Pollution in the Archive",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/14/talking-records-pollution-in-the-archive"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-08-14T11:58:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/14/talking-records-pollution-in-the-archive",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, August 15, 2025 - 12:53pmfull name / name of organization: The National Archives,\u2026"
                 }
             },
             {
@@ -324,22 +436,6 @@
                 }
             },
             {
-                "title": "Re - Defining Work, Issue VI, Perspectives - JDMC",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/13/re-defining-work-issue-vi-perspectives-jdmc"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-08-13T18:24:18.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/13/re-defining-work-issue-vi-perspectives-jdmc",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, August 15, 2025 - 12:51pmfull name / name of organization: Janki Devi Memorial\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers: ICMS 2026 Panel, \"The Imagined Woman\"",
                 "link": {
                     "@href": "https://networks.h-net.org/group/announcements/20121834/call-papers-icms-2026-panel-imagined-woman"
@@ -361,22 +457,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/13/workshop-black-presence-and-influence-in-europe-before-the-atlantic-slavery"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-08-13T17:37:54.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/13/workshop-black-presence-and-influence-in-europe-before-the-atlantic-slavery",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, August 15, 2025 - 12:51pmfull name / name of organization: Leuphana Institute for\u2026"
-                }
-            },
-            {
-                "title": "Workshop: Black Presence and Influence in Europe Before the Atlantic Slavery",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/13/workshop-black-presence-and-influence-in-europe-before-the-atlantic-slavery"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -385,22 +465,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, August 15, 2025 - 12:51pmfull name / name of organization: Leuphana Institute for\u2026"
-                }
-            },
-            {
-                "title": "Medieval Foremothers Society Honors Sharon Kinoshita",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/13/medieval-foremothers-society-honors-sharon-kinoshita"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-08-13T14:23:32.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/13/medieval-foremothers-society-honors-sharon-kinoshita",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, August 15, 2025 - 12:49pmfull name / name of organization: Society for Society for\u2026"
                 }
             },
             {
@@ -692,22 +756,6 @@
                 }
             },
             {
-                "title": "Telangana Journal of Higher Education",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/30/telangana-journal-of-higher-education"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-07-30T09:27:35.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/30/telangana-journal-of-higher-education",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, August 4, 2025 - 11:40amfull name / name of organization: Telangana Council of\u2026"
-                }
-            },
-            {
                 "title": "Call for panelists -- What is Research? Religious Studies Methods and Theory",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/call-for-panelists-what-is-research-religious-studies-methods-and-theory"
@@ -852,22 +900,6 @@
                 }
             },
             {
-                "title": "Panel: On the Path of Joan of Arc: Tracing Johannic Itineraries through Art, War, and Tourism (Panel at International Conference for Medieval Studies in Kalamazoo, MI)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/panel-on-the-path-of-joan-of-arc-tracing-johannic-itineraries-through-art-war-and"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-07-18T11:10:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/18/panel-on-the-path-of-joan-of-arc-tracing-johannic-itineraries-through-art-war-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, July 18, 2025 - 7:15amfull name / name of organization: International Joan of Arc\u2026"
-                }
-            },
-            {
                 "title": "#CFP: The Gods and Monsters Conference 2026",
                 "link": {
                     "@href": "https://relcfp.com/2025/07/11/gods-monsters/"
@@ -881,22 +913,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Details Call for Papers: The Gods and Monsters Conference 2026 March 26 - 29, 2026 Texas State\u2026"
-                }
-            },
-            {
-                "title": "Religion, Conversion and Cultural Memory in Indo-Caribbean Women\u2019s Writing",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/religion-conversion-and-cultural-memory-in-indo-caribbean-women%E2%80%99s-writing"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-07-09T06:38:55.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/09/religion-conversion-and-cultural-memory-in-indo-caribbean-women%E2%80%99s-writing",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, August 2, 2025 - 3:21amfull name / name of organization: University of\u2026"
                 }
             },
             {
@@ -1137,22 +1153,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call for contributions"
-                }
-            },
-            {
-                "title": "#CFP: Special Issue on Women Ordination in Judaism",
-                "link": {
-                    "@href": "https://relcfp.com/2025/05/25/women-ordination/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-05-25T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/05/25/women-ordination/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Submissions are invited for a special issue of"
                 }
             },
             {
