@@ -12,29 +12,13 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-01T19:45:28.000Z",
+        "updated": "2025-09-01T19:07:03.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
-            {
-                "title": "Remote Course",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123766/remote-course"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-01T19:45:28.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123766/remote-course",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
-                }
-            },
             {
                 "title": "ACLA 26 - Law and Literature: Rethinking the Interdiscipline",
                 "link": {
@@ -128,7 +112,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/nemla-2026-panel-kafkas-fiction",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 3:11pmfull name / name of organization: Northeast Modern\u2026"
+                    "#text": "updated: Monday, September 1, 2025 - 9:01pmfull name / name of organization: Northeast Modern\u2026"
                 }
             },
             {
@@ -161,22 +145,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, September 1, 2025 - 3:11pmfull name / name of organization: Northeast Modern\u2026"
-                }
-            },
-            {
-                "title": "Spirits in the Stacks: A Ghostly Tour at the Congregational Library & Archives",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123702/spirits-stacks-ghostly-tour-congregational-library-archives"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-01T13:28:47.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123702/spirits-stacks-ghostly-tour-congregational-library-archives",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
                 }
             },
             {
@@ -196,7 +164,7 @@
                 }
             },
             {
-                "title": "Gendered Modalities of Remembering in South Asian literatures",
+                "title": "Gendered Modalities of Remembering in South Asian Literatures",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/gendered-modalities-of-remembering-in-south-asian-literatures"
                 },
@@ -208,7 +176,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/gendered-modalities-of-remembering-in-south-asian-literatures",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 3:10pmfull name / name of organization: Department of Liberal\u2026"
+                    "#text": "updated: Tuesday, September 2, 2025 - 2:21amfull name / name of organization: Department of Liberal\u2026"
                 }
             },
             {
@@ -324,22 +292,6 @@
                 }
             },
             {
-                "title": "ANN: Asian Ethnology Vol. 84, No. 1 (2025): Sensing Mu\u1e25arram in Asia",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123599/asian-ethnology-vol-84-no-1-2025-sensing-muharram-asia"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-30T12:38:44.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123599/asian-ethnology-vol-84-no-1-2025-sensing-muharram-asia",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
-                }
-            },
-            {
                 "title": "Unresolved Feeling, Fragments of Belonging: Emotion Across Text and Screen",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/29/unresolved-feeling-fragments-of-belonging-emotion-across-text-and-screen"
@@ -384,7 +336,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/28/cfp-acla-2026-impudent-flesh-thinking-bodies-material-life",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 3:05pmfull name / name of organization: David Bordelon & Britt\u2026"
+                    "#text": "updated: Monday, September 1, 2025 - 5:53pmfull name / name of organization: American Comparative\u2026"
                 }
             },
             {
@@ -500,54 +452,6 @@
                 }
             },
             {
-                "title": "H-Net Job Guide Weekly Report for H-Grad: 17 August - 24 August",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123261/h-net-job-guide-weekly-report-h-grad-17-august-24-august"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-26T13:13:48.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123261/h-net-job-guide-weekly-report-h-grad-17-august-24-august",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 17 August - 24 August",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123243/h-net-job-guide-weekly-report-h-buddhism-17-august-24-august"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-26T12:21:03.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123243/h-net-job-guide-weekly-report-h-buddhism-17-august-24-august",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
-                }
-            },
-            {
-                "title": "LECTURE> MU-CRS Seminar (Aug 27) on Cittam\u0101tra, Prof. Phra Panyavajrapandit (Somboon Vuddhikaro)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123407/mu-crs-seminar-associate-professor-phra-panyavajrapandit-somboon"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-26T12:17:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123407/mu-crs-seminar-associate-professor-phra-panyavajrapandit-somboon",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
-                }
-            },
-            {
                 "title": "Edited Volume \u201cFormats and Institutions of American Literary Culture in the Long Nineteenth Century\u201d",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/25/edited-volume-%E2%80%9Cformats-and-institutions-of-american-literary-culture-in-the-long"
@@ -596,22 +500,6 @@
                 }
             },
             {
-                "title": "Religions of Revolution Symposium",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20122951/religions-revolution-symposium"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-20T16:45:16.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20122951/religions-revolution-symposium",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
-                }
-            },
-            {
                 "title": "#CFP: A special issue of Southern Cultures on Religion",
                 "link": {
                     "@href": "https://relcfp.com/2025/08/20/cfp-southern-cultures/"
@@ -644,22 +532,6 @@
                 }
             },
             {
-                "title": "LECTURE> Prof. Mei Lin \u6885\u6797 - Dunhuang Cave 96",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20122876/talk-prof-mei-lin-meilin-dunhuang-cave-96"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-19T23:35:25.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20122876/talk-prof-mei-lin-meilin-dunhuang-cave-96",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
-                }
-            },
-            {
                 "title": "Special Issue: (Re)articulating an Old Ideal: Self-Care and Self-Help in Contemporary Culture",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/19/special-issue-rearticulating-an-old-ideal-self-care-and-self-help-in-contemporary"
@@ -673,22 +545,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, August 20, 2025 - 10:52amfull name / name of organization: Cultures in Transit.\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: \"Religion\"",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20122510/call-papers-religion"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-19T18:19:44.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20122510/call-papers-religion",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
                 }
             },
             {
@@ -753,22 +609,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, August 20, 2025 - 12:36pmfull name / name of organization: American Comparative\u2026"
-                }
-            },
-            {
-                "title": "Research Awards - 2025 Canadian Friends of Sufi Arts, Culture, and Knowledge (CFSACK)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20122435/research-awards-2025-canadian-friends-sufi-arts-culture-and-knowledge"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-14T16:05:06.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20122435/research-awards-2025-canadian-friends-sufi-arts-culture-and-knowledge",
-                "content": {
-                    "@type": "html",
-                    "#text": "Rutgers Global Affairs Conference now VIRTUAL - new CFP deadline Rutgers University\u2026"
                 }
             },
             {
