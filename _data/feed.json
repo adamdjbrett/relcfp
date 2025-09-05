@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-03T18:07:02.000Z",
+        "updated": "2025-09-04T00:03:57.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,19 +20,51 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "Opening the Gates of Hasidic Thought: A Fall Symposium",
+                "title": "Resurrecting Species: Speculative Engagements with De-Extinction",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20124054/opening-gates-hasidic-thought-fall-symposium"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/resurrecting-species-speculative-engagements-with-de-extinction"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
                 },
-                "updated": "2025-09-03T18:07:02.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20124054/opening-gates-hasidic-thought-fall-symposium",
+                "updated": "2025-09-04T00:03:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/resurrecting-species-speculative-engagements-with-de-extinction",
                 "content": {
                     "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
+                    "#text": "updated: Thursday, September 4, 2025 - 6:02amfull name / name of organization: Hannah Stark,\u2026"
+                }
+            },
+            {
+                "title": "Resurrecting Species: Speculative Engagements with De-Extinction",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/resurrecting-species-speculative-engagements-with-de-extinction"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-04T00:03:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/resurrecting-species-speculative-engagements-with-de-extinction",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, September 4, 2025 - 6:02amfull name / name of organization: Hannah Stark,\u2026"
+                }
+            },
+            {
+                "title": "ACLA 2026: Climate Fictions Before Climate Change",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/acla-2026-climate-fictions-before-climate-change"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-03T21:37:56.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/acla-2026-climate-fictions-before-climate-change",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, September 4, 2025 - 6:02amfull name / name of organization: American Comparative\u2026"
                 }
             },
             {
@@ -49,6 +81,38 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 3, 2025 - 2:45pmfull name / name of\u2026"
+                }
+            },
+            {
+                "title": "Literature and Geography",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/literature-and-geography"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-03T17:49:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/literature-and-geography",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, September 3, 2025 - 2:45pmfull name / name of\u2026"
+                }
+            },
+            {
+                "title": "Call for Submissions: *SHHH! BREATHE SLOW!* \u2013 A One-Minute Horror Plays Anthology (Volume 4)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/call-for-submissions-shhh-breathe-slow-%E2%80%93-a-one-minute-horror-plays-anthology-volume-4"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-03T14:55:22.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/call-for-submissions-shhh-breathe-slow-%E2%80%93-a-one-minute-horror-plays-anthology-volume-4",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, September 3, 2025 - 2:45pmfull name / name of organization: Fresh Words-An\u2026"
                 }
             },
             {
@@ -100,19 +164,19 @@
                 }
             },
             {
-                "title": "The Devil at the Canadian Historical Association",
+                "title": "Theoretical Inquiries, Critical Dialogues I\u2013II",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20124111/devil-canadian-historical-association"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/theoretical-inquiries-critical-dialogues-i%E2%80%93ii"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
-                "updated": "2025-09-03T12:25:34.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20124111/devil-canadian-historical-association",
+                "updated": "2025-09-03T12:09:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/theoretical-inquiries-critical-dialogues-i%E2%80%93ii",
                 "content": {
                     "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
+                    "#text": "updated: Wednesday, September 3, 2025 - 4:05pmfull name / name of organization: Nesir: Journal of\u2026"
                 }
             },
             {
@@ -148,70 +212,6 @@
                 }
             },
             {
-                "title": "MU-CRS Seminar with Asst. Prof. Dr. John Naley Johnston about \"Transactionality in the material culture of Thai Buddhism\"",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20124017/mu-crs-seminar-asst-prof-dr-john-naley-johnston-about-transactionality"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-03T08:09:25.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20124017/mu-crs-seminar-asst-prof-dr-john-naley-johnston-about-transactionality",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
-                }
-            },
-            {
-                "title": "University of Toronto / McMaster University Numata Event Series, 2025-26",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123959/university-toronto-mcmaster-university-numata-event-series-2025-26"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-03T07:57:04.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123959/university-toronto-mcmaster-university-numata-event-series-2025-26",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 24 August - 31 August",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123811/h-net-job-guide-weekly-report-h-buddhism-24-august-31-august"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-03T07:55:02.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123811/h-net-job-guide-weekly-report-h-buddhism-24-august-31-august",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
-                }
-            },
-            {
-                "title": "CALL FOR PAPERS> Critical Review for Buddhist Studies (CRBS) vol. 38 (extended until 2025. Sep. 7th)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123771/call-papers-critical-review-buddhist-studies-crbs-vol-38-extended"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-03T07:52:12.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123771/call-papers-critical-review-buddhist-studies-crbs-vol-38-extended",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
-                }
-            },
-            {
                 "title": "ACLA 2026: Paper Pushers and Ink Suckers: Objectifying the Administrative Subject in Bureaucratic Fiction",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/acla-2026-paper-pushers-and-ink-suckers-objectifying-the-administrative-subject-in"
@@ -224,7 +224,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/acla-2026-paper-pushers-and-ink-suckers-objectifying-the-administrative-subject-in",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:14pmfull name / name of organization: American Comparative\u2026"
+                    "#text": "updated: Thursday, September 4, 2025 - 5:51amfull name / name of organization: American Comparative\u2026"
                 }
             },
             {
@@ -345,22 +345,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/queer-phenomenology-at-20-acla-2026"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-02T14:49:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/queer-phenomenology-at-20-acla-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:13pmfull name / name of organization: Tia Glistacontact\u2026"
-                }
-            },
-            {
-                "title": "Queer Phenomenology at 20 (ACLA 2026)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/queer-phenomenology-at-20-acla-2026"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -369,22 +353,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, September 2, 2025 - 10:13pmfull name / name of organization: Tia Glistacontact\u2026"
-                }
-            },
-            {
-                "title": "[AAAS 2026] Asian American Literature and the Law",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/aaas-2026-asian-american-literature-and-the-law"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-02T12:36:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/aaas-2026-asian-american-literature-and-the-law",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:13pmfull name / name of organization: Association for Asian\u2026"
                 }
             },
             {
@@ -401,22 +369,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, September 2, 2025 - 10:13pmfull name / name of organization: South Atlantic Modern\u2026"
-                }
-            },
-            {
-                "title": "Remote Course",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123766/remote-course"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-01T19:45:28.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123766/remote-course",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
                 }
             },
             {
@@ -468,38 +420,6 @@
                 }
             },
             {
-                "title": "New Approaches to Literatures of the Early Americas",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/new-approaches-to-literatures-of-the-early-americas"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-01T14:52:13.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/new-approaches-to-literatures-of-the-early-americas",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 3:11pmfull name / name of organization: Northeast Modern\u2026"
-                }
-            },
-            {
-                "title": "Spirits in the Stacks: A Ghostly Tour at the Congregational Library & Archives",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123702/spirits-stacks-ghostly-tour-congregational-library-archives"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-01T13:28:47.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123702/spirits-stacks-ghostly-tour-congregational-library-archives",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
-                }
-            },
-            {
                 "title": "Esotericism, Occultism, and Magic at Southwest Popular/American Culture Association 2026, Feb. 25-28, Albuquerque, New Mexico",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/31/esotericism-occultism-and-magic-at-southwest-popularamerican-culture-association-2026"
@@ -513,22 +433,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, September 1, 2025 - 3:07pmfull name / name of organization: Southwest\u2026"
-                }
-            },
-            {
-                "title": "ANN: Asian Ethnology Vol. 84, No. 1 (2025): Sensing Mu\u1e25arram in Asia",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123599/asian-ethnology-vol-84-no-1-2025-sensing-muharram-asia"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-30T12:38:44.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123599/asian-ethnology-vol-84-no-1-2025-sensing-muharram-asia",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
                 }
             },
             {
@@ -625,70 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, August 28, 2025 - 8:05amfull name / name of organization: Instituto Nuevos\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Grad: 17 August - 24 August",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20123261/h-net-job-guide-weekly-report-h-grad-17-august-24-august"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-08-26T13:13:48.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20123261/h-net-job-guide-weekly-report-h-grad-17-august-24-august",
-                "content": {
-                    "@type": "html",
-                    "#text": "ANN: New Book on Matriculture, Shamanism, and the Authority of Women: The Powers That Be Linn\u00e9a\u2026"
-                }
-            },
-            {
-                "title": "Edited Volume \u201cFormats and Institutions of American Literary Culture in the Long Nineteenth Century\u201d",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/25/edited-volume-%E2%80%9Cformats-and-institutions-of-american-literary-culture-in-the-long"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-08-25T09:08:12.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/25/edited-volume-%E2%80%9Cformats-and-institutions-of-american-literary-culture-in-the-long",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, August 28, 2025 - 7:55amfull name / name of organization: Alexander Starre (FU\u2026"
-                }
-            },
-            {
-                "title": "Chapters for Edited Collection on Resistance Narratives: Voices of Defiance and Survival",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/23/chapters-for-edited-collection-on-resistance-narratives-voices-of-defiance-and"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-08-23T18:43:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/23/chapters-for-edited-collection-on-resistance-narratives-voices-of-defiance-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, August 24, 2025 - 6:58amfull name / name of organization: Dr. Ferma Lekesizal\u0131n,\u2026"
-                }
-            },
-            {
-                "title": "Cultural Constellations: A Journal of Literature and Art",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/20/cultural-constellations-a-journal-of-literature-and-art"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-08-20T19:01:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/20/cultural-constellations-a-journal-of-literature-and-art",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, August 23, 2025 - 8:01amfull name / name of organization: University of Maryland\u2026"
                 }
             },
             {
@@ -816,7 +656,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/29/call-for-panelists-what-is-research-religious-studies-methods-and-theory",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 2:31pmfull name / name of organization: Jacques Parker\u2026"
+                    "#text": "updated: Wednesday, September 3, 2025 - 11:22pmfull name / name of organization: Jacques Parker\u2026"
                 }
             },
             {
