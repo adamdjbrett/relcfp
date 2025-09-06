@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-04T00:03:57.000Z",
+        "updated": "2025-09-05T14:23:01.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,19 +20,291 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "Resurrecting Species: Speculative Engagements with De-Extinction",
+                "title": "Call for Editors and Peer Reviewers",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/resurrecting-species-speculative-engagements-with-de-extinction"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/call-for-editors-and-peer-reviewers"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-05T14:23:01.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/call-for-editors-and-peer-reviewers",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 12:18pmfull name / name of organization: Watchung Reviewcontact\u2026"
+                }
+            },
+            {
+                "title": "Reconsidering Selfhood in Fragmented Narratives",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/102724"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-09-05T13:41:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/102724",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 11:43amfull name / name of organization: American Comparative\u2026"
+                }
+            },
+            {
+                "title": "CFP: Victorians Institute Journal, Vol 53",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/102723"
                 },
                 "author": {
                     "name": "UPenn - cultural studies and historical approaches",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
                 },
-                "updated": "2025-09-04T00:03:57.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/resurrecting-species-speculative-engagements-with-de-extinction",
+                "updated": "2025-09-05T13:09:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/102723",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Thursday, September 4, 2025 - 6:02amfull name / name of organization: Hannah Stark,\u2026"
+                    "#text": "updated: Friday, September 5, 2025 - 9:25amfull name / name of organization: Victorians Institute\u2026"
+                }
+            },
+            {
+                "title": "CFP: Victorians Institute Journal, Vol 53",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/102723"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-05T13:09:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/102723",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:25amfull name / name of organization: Victorians Institute\u2026"
+                }
+            },
+            {
+                "title": "CALL FOR PROPOSALS: Palgrave Studies in Mediating Kinship, Representation, and Difference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/call-for-proposals-palgrave-studies-in-mediating-kinship-representation-and"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-05T12:25:15.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/call-for-proposals-palgrave-studies-in-mediating-kinship-representation-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:25amfull name / name of organization: Series editors: May\u2026"
+                }
+            },
+            {
+                "title": "The reception of ancient Greece in Europe through the dialogue between texts et images inside and outside the book (14th-16th century)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/the-reception-of-ancient-greece-in-europe-through-the-dialogue-between-texts-et"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-05T09:55:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/the-reception-of-ancient-greece-in-europe-through-the-dialogue-between-texts-et",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:25amfull name / name of organization: ERC Advanced Grant\u2026"
+                }
+            },
+            {
+                "title": "The Second Coming of Humanities: 2nd International Conference on Literature, Linguistics, and Language",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/the-second-coming-of-humanities-2nd-international-conference-on-literature"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-05T09:49:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/the-second-coming-of-humanities-2nd-international-conference-on-literature",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:25amfull name / name of organization: University of Central\u2026"
+                }
+            },
+            {
+                "title": "\u201cCollecting in/as Crisis\u201d",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/%E2%80%9Ccollecting-inas-crisis%E2%80%9D"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-05T02:14:56.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/%E2%80%9Ccollecting-inas-crisis%E2%80%9D",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:25amfull name / name of organization: Popular Cultural\u2026"
+                }
+            },
+            {
+                "title": "Children's Literature and Graphic Narrative",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/childrens-literature-and-graphic-narrative"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-05T00:18:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/childrens-literature-and-graphic-narrative",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:21amfull name / name of organization: Routledgecontact\u2026"
+                }
+            },
+            {
+                "title": "ACLA2026: W[h]ither Identity?: The Ethics and Aesthetics of Unselving",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/acla2026-whither-identity-the-ethics-and-aesthetics-of-unselving"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-09-05T00:04:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/acla2026-whither-identity-the-ethics-and-aesthetics-of-unselving",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:21amfull name / name of organization: Suchismito Khatua\u2026"
+                }
+            },
+            {
+                "title": "Forest Stories seminar--ACLA 2026",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/forest-stories-seminar-acla-2026"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-04T20:39:16.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/forest-stories-seminar-acla-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:21amfull name / name of organization: Caren Irrcontact\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers -- American Academy of Religion Western Region, Pagan Studies Unit",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/call-for-papers-american-academy-of-religion-western-region-pagan-studies-unit"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-09-04T16:46:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/call-for-papers-american-academy-of-religion-western-region-pagan-studies-unit",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:21amfull name / name of organization: American Academy of\u2026"
+                }
+            },
+            {
+                "title": "The Velvet Light Trap - 98 - Media Futures",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/the-velvet-light-trap-98-media-futures"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-04T14:29:16.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/the-velvet-light-trap-98-media-futures",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:19amfull name / name of organization: The Velvet Light\u2026"
+                }
+            },
+            {
+                "title": "Transient Histories- Form (Aesthetics) and Relations (Ecology) in Sustainable Development",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/transient-histories-form-aesthetics-and-relations-ecology-in-sustainable-developmen-0"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-04T13:45:14.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/transient-histories-form-aesthetics-and-relations-ecology-in-sustainable-developmen-0",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:17amfull name / name of organization: Kristu Jayanti Deemed\u2026"
+                }
+            },
+            {
+                "title": "Non-Western Aesthetics: Rhetoric, Resistance, and Representation",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/non-western-aesthetics-rhetoric-resistance-and-representation"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-04T13:44:03.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/non-western-aesthetics-rhetoric-resistance-and-representation",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:16amfull name / name of organization: NeMLA (Northeast Modern\u2026"
+                }
+            },
+            {
+                "title": "INNOVATIONS IN PSYCHOLOGY AND WELLBEING OF NEW GENERATION",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/innovations-in-psychology-and-wellbeing-of-new-generation"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-04T13:16:52.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/innovations-in-psychology-and-wellbeing-of-new-generation",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:15amfull name / name of organization: Global Center for\u2026"
+                }
+            },
+            {
+                "title": "Carl Schmitt and the Premodern",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/carl-schmitt-and-the-premodern"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-04T11:18:20.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/carl-schmitt-and-the-premodern",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:14amfull name / name of organization: Finlay Darlington-Bell\u2026"
+                }
+            },
+            {
+                "title": "Carl Schmitt and the Premodern",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/carl-schmitt-and-the-premodern"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-09-04T11:18:20.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/carl-schmitt-and-the-premodern",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 9:14amfull name / name of organization: Finlay Darlington-Bell\u2026"
                 }
             },
             {
@@ -49,38 +321,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, September 4, 2025 - 6:02amfull name / name of organization: Hannah Stark,\u2026"
-                }
-            },
-            {
-                "title": "ACLA 2026: Climate Fictions Before Climate Change",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/acla-2026-climate-fictions-before-climate-change"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-03T21:37:56.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/acla-2026-climate-fictions-before-climate-change",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, September 4, 2025 - 6:02amfull name / name of organization: American Comparative\u2026"
-                }
-            },
-            {
-                "title": "Literature and Geography",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/literature-and-geography"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-03T17:49:47.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/literature-and-geography",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 3, 2025 - 2:45pmfull name / name of\u2026"
                 }
             },
             {
@@ -113,38 +353,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 3, 2025 - 2:45pmfull name / name of organization: Fresh Words-An\u2026"
-                }
-            },
-            {
-                "title": "Contested Authority, Trust in Transition. Making Sense of the American Landscape",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/contested-authority-trust-in-transition-making-sense-of-the-american-landscape"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-03T14:37:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/contested-authority-trust-in-transition-making-sense-of-the-american-landscape",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 3, 2025 - 2:45pmfull name / name of organization: Heidelberg Center\u2026"
-                }
-            },
-            {
-                "title": "Paul Hamann-Rose, Kai Merten, eds. Energy Ecologies in Anglophone Literatures and Cultures: 1500 to the Present. Focus Section for Anglistik 2027 summer issue (38.2).",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/paul-hamann-rose-kai-merten-eds-energy-ecologies-in-anglophone-literatures-and"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-03T13:43:55.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/paul-hamann-rose-kai-merten-eds-energy-ecologies-in-anglophone-literatures-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 3, 2025 - 2:45pmfull name / name of organization: Prof. Dr. Kai Merten\u2026"
                 }
             },
             {
@@ -212,38 +420,6 @@
                 }
             },
             {
-                "title": "ACLA 2026: Paper Pushers and Ink Suckers: Objectifying the Administrative Subject in Bureaucratic Fiction",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/acla-2026-paper-pushers-and-ink-suckers-objectifying-the-administrative-subject-in"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-02T22:25:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/acla-2026-paper-pushers-and-ink-suckers-objectifying-the-administrative-subject-in",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, September 4, 2025 - 5:51amfull name / name of organization: American Comparative\u2026"
-                }
-            },
-            {
-                "title": "\"Thinking Dickens\" (2026 Dickens Society Symposium)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/thinking-dickens-2026-dickens-society-symposium"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-02T21:26:44.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/thinking-dickens-2026-dickens-society-symposium",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:14pmfull name / name of organization: The Dickens\u2026"
-                }
-            },
-            {
                 "title": "\"Thinking Dickens\" (2026 Dickens Society Symposium)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/thinking-dickens-2026-dickens-society-symposium"
@@ -265,22 +441,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/nemla-2026-regenerating-dickens-studies"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-02T21:20:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/nemla-2026-regenerating-dickens-studies",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:14pmfull name / name of organization: The Dickens\u2026"
-                }
-            },
-            {
-                "title": "NEMLA 2026: (Re)generating Dickens Studies",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/nemla-2026-regenerating-dickens-studies"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -289,38 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, September 2, 2025 - 10:14pmfull name / name of organization: The Dickens\u2026"
-                }
-            },
-            {
-                "title": "REMINDER: Working With Tainted Legacies (virtual NeMLA panel)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/reminder-working-with-tainted-legacies-virtual-nemla-panel"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-02T17:45:53.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/reminder-working-with-tainted-legacies-virtual-nemla-panel",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:14pmfull name / name of organization: Northeast Modern\u2026"
-                }
-            },
-            {
-                "title": "Call for Chapters: Religion, Conversion and Cultural Memory in Indian Diasporic Women\u2019s Writing",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/call-for-chapters-religion-conversion-and-cultural-memory-in-indian-diasporic-women%E2%80%99s"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-02T17:13:07.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/call-for-chapters-religion-conversion-and-cultural-memory-in-indian-diasporic-women%E2%80%99s",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:14pmfull name / name of organization: University of\u2026"
                 }
             },
             {
@@ -372,54 +500,6 @@
                 }
             },
             {
-                "title": "ACLA 26 - Law and Literature: Rethinking the Interdiscipline",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/acla-26-law-and-literature-rethinking-the-interdiscipline"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-01T19:07:03.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/acla-26-law-and-literature-rethinking-the-interdiscipline",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 3:12pmfull name / name of organization: Nimisha Sinha\u2026"
-                }
-            },
-            {
-                "title": "Cer\u00e6 at Leeds IMC 2026: Call for Papers",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/cer%C3%A6-at-leeds-imc-2026-call-for-papers"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-01T18:53:44.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/cer%C3%A6-at-leeds-imc-2026-call-for-papers",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 3:12pmfull name / name of organization: Cer\u00e6 - An Australasian\u2026"
-                }
-            },
-            {
-                "title": "[NeMLA 2026 Panel] Kafka's Fiction",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/nemla-2026-panel-kafkas-fiction"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-01T17:25:55.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/01/nemla-2026-panel-kafkas-fiction",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 1, 2025 - 9:01pmfull name / name of organization: Northeast Modern\u2026"
-                }
-            },
-            {
                 "title": "Esotericism, Occultism, and Magic at Southwest Popular/American Culture Association 2026, Feb. 25-28, Albuquerque, New Mexico",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/31/esotericism-occultism-and-magic-at-southwest-popularamerican-culture-association-2026"
@@ -465,70 +545,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, August 28, 2025 - 8:08amfull name / name of organization: The Digital\u2026"
-                }
-            },
-            {
-                "title": "Rust Belt Studies Special Issue: The Regenerative Rust Belt",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/27/rust-belt-studies-special-issue-the-regenerative-rust-belt"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-08-27T22:29:10.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/27/rust-belt-studies-special-issue-the-regenerative-rust-belt",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, August 28, 2025 - 8:54amfull name / name of organization: The Rust Belt\u2026"
-                }
-            },
-            {
-                "title": "CFP: Conservative Cultural Criticism",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/27/cfp-conservative-cultural-criticism"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-08-27T17:57:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/27/cfp-conservative-cultural-criticism",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, August 28, 2025 - 8:08amfull name / name of organization: Camilo Peraltacontact\u2026"
-                }
-            },
-            {
-                "title": "Fractal Rhetorics: Scaling Small and Subtle Feminist Rhetorical Actions",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/26/fractal-rhetorics-scaling-small-and-subtle-feminist-rhetorical-actions"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-08-26T18:20:38.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/26/fractal-rhetorics-scaling-small-and-subtle-feminist-rhetorical-actions",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, August 28, 2025 - 8:05amfull name / name of organization: Jessi Thomsen, Western\u2026"
-                }
-            },
-            {
-                "title": "Series on Travel Writing",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/26/series-on-travel-writing"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-08-26T17:10:14.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/26/series-on-travel-writing",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, August 28, 2025 - 8:05amfull name / name of organization: Instituto Nuevos\u2026"
                 }
             },
             {
@@ -721,22 +737,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, July 28, 2025 - 10:56amfull name / name of organization: Sylvia Townsend Warner\u2026"
-                }
-            },
-            {
-                "title": "Lolly Willowes at 100: Sylvia Townsend Warner, Religion, and the Supernatural",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/20/lolly-willowes-at-100-sylvia-townsend-warner-religion-and-the-supernatural"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-07-20T09:15:29.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/07/20/lolly-willowes-at-100-sylvia-townsend-warner-religion-and-the-supernatural",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 24, 2025 - 2:50pmfull name / name of organization: Sylvia Townsend Warner\u2026"
                 }
             },
             {
