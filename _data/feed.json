@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-05T14:23:01.000Z",
+        "updated": "2025-09-05T18:55:29.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "\"Memory, Guilt and Shame\" 7th International Interdisciplinary Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/memory-guilt-and-shame-7th-international-interdisciplinary-conference"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-05T18:55:29.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/memory-guilt-and-shame-7th-international-interdisciplinary-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 3:17pmfull name / name of organization: InMind Supportcontact\u2026"
+                }
+            },
+            {
+                "title": "For The Record: Punk Histories and Archival Practices, Punk Rock Museum - Las Vegas",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/for-the-record-punk-histories-and-archival-practices-punk-rock-museum-las-vegas"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-05T17:57:29.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/for-the-record-punk-histories-and-archival-practices-punk-rock-museum-las-vegas",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 3:17pmfull name / name of organization: Punk Scholars\u2026"
+                }
+            },
+            {
+                "title": "For The Record: Punk Histories and Archival Practices, Punk Rock Museum - Las Vegas",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/for-the-record-punk-histories-and-archival-practices-punk-rock-museum-las-vegas"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-09-05T17:57:29.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/for-the-record-punk-histories-and-archival-practices-punk-rock-museum-las-vegas",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 5, 2025 - 3:17pmfull name / name of organization: Punk Scholars\u2026"
+                }
+            },
             {
                 "title": "Call for Editors and Peer Reviewers",
                 "link": {
@@ -244,22 +292,6 @@
                 }
             },
             {
-                "title": "Non-Western Aesthetics: Rhetoric, Resistance, and Representation",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/non-western-aesthetics-rhetoric-resistance-and-representation"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-04T13:44:03.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/non-western-aesthetics-rhetoric-resistance-and-representation",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, September 5, 2025 - 9:16amfull name / name of organization: NeMLA (Northeast Modern\u2026"
-                }
-            },
-            {
                 "title": "INNOVATIONS IN PSYCHOLOGY AND WELLBEING OF NEW GENERATION",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/innovations-in-psychology-and-wellbeing-of-new-generation"
@@ -273,22 +305,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, September 5, 2025 - 9:15amfull name / name of organization: Global Center for\u2026"
-                }
-            },
-            {
-                "title": "Carl Schmitt and the Premodern",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/carl-schmitt-and-the-premodern"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-04T11:18:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/04/carl-schmitt-and-the-premodern",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, September 5, 2025 - 9:14amfull name / name of organization: Finlay Darlington-Bell\u2026"
                 }
             },
             {
@@ -481,22 +497,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, September 2, 2025 - 10:13pmfull name / name of organization: Tia Glistacontact\u2026"
-                }
-            },
-            {
-                "title": "The Uncanny and Sublime: The Liminality of Knowledge",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/the-uncanny-and-sublime-the-liminality-of-knowledge"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-02T12:23:32.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/the-uncanny-and-sublime-the-liminality-of-knowledge",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:13pmfull name / name of organization: South Atlantic Modern\u2026"
                 }
             },
             {
