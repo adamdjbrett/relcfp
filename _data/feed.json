@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-05T18:55:29.000Z",
+        "updated": "2025-09-05T21:20:28.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Fluidity: Water's Perpetual Shapelessness",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/fluidity-waters-perpetual-shapelessness"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-09-05T21:20:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/05/fluidity-waters-perpetual-shapelessness",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, September 8, 2025 - 11:20amfull name / name of organization: Georgetown University\u2026"
+                }
+            },
             {
                 "title": "\"Memory, Guilt and Shame\" 7th International Interdisciplinary Conference",
                 "link": {
@@ -324,6 +340,22 @@
                 }
             },
             {
+                "title": "Gathered Into a Church: Indigenous-English Congregationalism in Woodland New England",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20124184/gathered-church-indigenous-english-congregationalism-woodland-new"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-04T10:08:05.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20124184/gathered-church-indigenous-english-congregationalism-woodland-new",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
+                }
+            },
+            {
                 "title": "Resurrecting Species: Speculative Engagements with De-Extinction",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/resurrecting-species-speculative-engagements-with-de-extinction"
@@ -337,6 +369,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, September 4, 2025 - 6:02amfull name / name of organization: Hannah Stark,\u2026"
+                }
+            },
+            {
+                "title": "Opening the Gates of Hasidic Thought: A Fall Symposium",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20124054/opening-gates-hasidic-thought-fall-symposium"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-03T18:07:02.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20124054/opening-gates-hasidic-thought-fall-symposium",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
                 }
             },
             {
@@ -388,6 +436,22 @@
                 }
             },
             {
+                "title": "The Devil at the Canadian Historical Association",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20124111/devil-canadian-historical-association"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-03T12:25:34.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20124111/devil-canadian-historical-association",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
+                }
+            },
+            {
                 "title": "Theoretical Inquiries, Critical Dialogues I\u2013II",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/03/theoretical-inquiries-critical-dialogues-i%E2%80%93ii"
@@ -433,6 +497,70 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 3, 2025 - 2:43pmfull name / name of organization: Aleksandar\u2026"
+                }
+            },
+            {
+                "title": "MU-CRS Seminar with Asst. Prof. Dr. John Naley Johnston about \"Transactionality in the material culture of Thai Buddhism\"",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20124017/mu-crs-seminar-asst-prof-dr-john-naley-johnston-about-transactionality"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-03T08:09:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20124017/mu-crs-seminar-asst-prof-dr-john-naley-johnston-about-transactionality",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
+                }
+            },
+            {
+                "title": "University of Toronto / McMaster University Numata Event Series, 2025-26",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20123959/university-toronto-mcmaster-university-numata-event-series-2025-26"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-03T07:57:04.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20123959/university-toronto-mcmaster-university-numata-event-series-2025-26",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 24 August - 31 August",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20123811/h-net-job-guide-weekly-report-h-buddhism-24-august-31-august"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-03T07:55:02.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20123811/h-net-job-guide-weekly-report-h-buddhism-24-august-31-august",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
+                }
+            },
+            {
+                "title": "CALL FOR PAPERS> Critical Review for Buddhist Studies (CRBS) vol. 38 (extended until 2025. Sep. 7th)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20123771/call-papers-critical-review-buddhist-studies-crbs-vol-38-extended"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-03T07:52:12.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20123771/call-papers-critical-review-buddhist-studies-crbs-vol-38-extended",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
                 }
             },
             {
@@ -484,19 +612,35 @@
                 }
             },
             {
-                "title": "Queer Phenomenology at 20 (ACLA 2026)",
+                "title": "Remote Course",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/queer-phenomenology-at-20-acla-2026"
+                    "@href": "https://networks.h-net.org/group/announcements/20123766/remote-course"
                 },
                 "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
                 },
-                "updated": "2025-09-02T14:49:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/02/queer-phenomenology-at-20-acla-2026",
+                "updated": "2025-09-01T19:45:28.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20123766/remote-course",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, September 2, 2025 - 10:13pmfull name / name of organization: Tia Glistacontact\u2026"
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
+                }
+            },
+            {
+                "title": "Spirits in the Stacks: A Ghostly Tour at the Congregational Library & Archives",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20123702/spirits-stacks-ghostly-tour-congregational-library-archives"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-01T13:28:47.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20123702/spirits-stacks-ghostly-tour-congregational-library-archives",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
                 }
             },
             {
@@ -513,6 +657,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, September 1, 2025 - 3:07pmfull name / name of organization: Southwest\u2026"
+                }
+            },
+            {
+                "title": "ANN: Asian Ethnology Vol. 84, No. 1 (2025): Sensing Mu\u1e25arram in Asia",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20123599/asian-ethnology-vol-84-no-1-2025-sensing-muharram-asia"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-08-30T12:38:44.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20123599/asian-ethnology-vol-84-no-1-2025-sensing-muharram-asia",
+                "content": {
+                    "@type": "html",
+                    "#text": "Conference> Chinese Buddhist Philosophy: From Three Treatises to Five Schools, 7-8 August 2025,\u2026"
                 }
             },
             {
@@ -1076,54 +1236,6 @@
                 }
             },
             {
-                "title": "Religious Studies Project Opportunities Digest \u2013 December 9, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-december-9-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-12-11T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-december-9-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 21 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunities Digest \u2013 December 4, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-december-4-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-12-04T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-december-4-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 11 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunities Digest \u2013 November 27, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-27-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-11-27T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-27-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 17 new job\u2026"
-                }
-            },
-            {
                 "title": "BORDERLANDS AS AUTHORITARIAN ZONES",
                 "link": {
                     "@href": "https://www.socialifeoflaw.com/post/borderlands-as-authoritarian-zones"
@@ -1137,118 +1249,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Borderlands as authoritarian zones by Fariya Yesmin."
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunities Digest \u2013 November 18, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-18-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-11-20T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-18-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 36 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunities Digest \u2013 November 13, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-13-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-11-13T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-13-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 13 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunities Digest \u2013 November 6, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-6-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-11-06T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-november-6-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 23 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Opportunities Digest \u2013 October 30, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-opportunities-digest-october-30-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-10-30T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-opportunities-digest-october-30-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 35 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunities Digest \u2013 October 23, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-october-23-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-10-23T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-october-23-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 13 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunites Digest \u2013 October 16, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunites-digest-october-16-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-10-16T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunites-digest-october-16-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 38 new job\u2026"
-                }
-            },
-            {
-                "title": "Religious Studies Project Opportunities Digest \u2013 October 9, 2024",
-                "link": {
-                    "@href": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-october-9-2024/"
-                },
-                "author": {
-                    "name": "Digests Archive - The Religious Studies Project",
-                    "uri": "https://www.religiousstudiesproject.com/"
-                },
-                "updated": "2024-10-09T09:00:00.000Z",
-                "id": "https://www.religiousstudiesproject.com/opportunities/religious-studies-project-opportunities-digest-october-9-2024/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Welcome to the Religious Studies Project Opportunities Digest! This week, you will find 28 new job\u2026"
                 }
             },
             {
