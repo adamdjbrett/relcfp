@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-12T17:02:22.000Z",
+        "updated": "2025-09-12T21:15:02.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "REIMAGINING FRANKENSTEIN IN THE 21ST CENTURY: Cross-Cultural Adaptations in Visual Culture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/12/reimagining-frankenstein-in-the-21st-century-cross-cultural-adaptations-in-visual"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-12T21:15:02.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/12/reimagining-frankenstein-in-the-21st-century-cross-cultural-adaptations-in-visual",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, September 13, 2025 - 7:34pmfull name / name of organization: Cenk Tan and Defne\u2026"
+                }
+            },
+            {
+                "title": "Call for papers (Canadian Association for Postcolonial Studies CAPS 2026 conference)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/12/call-for-papers-canadian-association-for-postcolonial-studies-caps-2026-conference"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-12T20:37:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/12/call-for-papers-canadian-association-for-postcolonial-studies-caps-2026-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, September 13, 2025 - 7:34pmfull name / name of organization: Canadian Association\u2026"
+                }
+            },
+            {
+                "title": "Call for papers (Canadian Association for Postcolonial Studies CAPS 2026 conference)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/12/call-for-papers-canadian-association-for-postcolonial-studies-caps-2026-conference"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-09-12T20:37:47.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/12/call-for-papers-canadian-association-for-postcolonial-studies-caps-2026-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, September 13, 2025 - 7:34pmfull name / name of organization: Canadian Association\u2026"
+                }
+            },
             {
                 "title": "Call for Papers for a Special Issue: \"One Hundred Years of Fanon(ism): Fanon and Postcolonial Writing\"",
                 "link": {
@@ -329,22 +377,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/09/companion-texts-and-regenerated-feminist-pedagogy-nemla-2026"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-09T15:02:05.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/09/companion-texts-and-regenerated-feminist-pedagogy-nemla-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, September 11, 2025 - 3:34pmfull name / name of organization: Mary Thompson /\u2026"
-                }
-            },
-            {
-                "title": "'Companion Texts' and Regenerated Feminist Pedagogy (NEMLA 2026)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/09/companion-texts-and-regenerated-feminist-pedagogy-nemla-2026"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -369,22 +401,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, September 11, 2025 - 3:34pmfull name / name of organization: Andrea\u2026"
-                }
-            },
-            {
-                "title": "Literary Studies and the Culture Wars, Now (ACLA 2026)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/08/literary-studies-and-the-culture-wars-now-acla-2026"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-08T20:16:40.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/08/literary-studies-and-the-culture-wars-now-acla-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, September 11, 2025 - 3:34pmfull name / name of organization: American Comparative\u2026"
                 }
             },
             {
@@ -513,22 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 10, 2025 - 10:50amfull name / name of organization: Literature\u2026"
-                }
-            },
-            {
-                "title": "Transimperial Encounters: Networks of Cultural and Literary Exchange Between India and Europe, 1870-1947",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/06/transimperial-encounters-networks-of-cultural-and-literary-exchange-between-india-and"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-09-06T15:13:55.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/06/transimperial-encounters-networks-of-cultural-and-literary-exchange-between-india-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 8, 2025 - 11:59amfull name / name of organization: LEA-Journalcontact\u2026"
                 }
             },
             {
