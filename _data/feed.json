@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-20T17:44:12.000Z",
+        "updated": "2025-09-23T20:19:36.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "WORKSHOP> Doctoral School Specialist Course for PhD students at Ghent University (Belgium): \u201cCurrent Research on Middle Chinese and \u2018Buddhist Hybrid Chinese\u2019\u201d",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20126331/doctoral-school-specialist-course-phd-students-ghent-university"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-23T20:19:36.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20126331/doctoral-school-specialist-course-phd-students-ghent-university",
+                "content": {
+                    "@type": "html",
+                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
+                }
+            },
+            {
+                "title": "TALKS> Online Buddhist Studies Events (Sep 22 - Oct 23)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20126138/talks-online-buddhist-studies-events-sep-22-oct-23"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-23T20:17:12.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20126138/talks-online-buddhist-studies-events-sep-22-oct-23",
+                "content": {
+                    "@type": "html",
+                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
+                }
+            },
+            {
+                "title": "LECTURE> MU-CRS Seminar with Assoc. Prof. Dr. Tomas Larsson about \u201cSacred Things and Democracy in Thailand\u201d",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20126128/mu-crs-seminar-assoc-prof-dr-tomas-larsson-about-sacred-things-and"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-09-23T20:04:56.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20126128/mu-crs-seminar-assoc-prof-dr-tomas-larsson-about-sacred-things-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
+                }
+            },
             {
                 "title": "Reimagining Totemism: Mystical Experience, Life Values, and Contemporary Art Practices",
                 "link": {
@@ -449,54 +497,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, September 16, 2025 - 11:07amfull name / name of organization: Kristin Girten,\u2026"
-                }
-            },
-            {
-                "title": "Christianity, Nationalism, and Ideology in a Globalized World",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20125478/christianity-nationalism-and-ideology-globalized-world"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-16T09:22:30.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20125478/christianity-nationalism-and-ideology-globalized-world",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
-                }
-            },
-            {
-                "title": "N\u0101gas and Territorial Deity Cosmologies in Monsoon Asia: Tantras, Mantras, and Worldly Rituals in Comparative Perspective",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20125219/nagas-and-territorial-deity-cosmologies-monsoon-asia-tantras-mantras"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-16T04:03:50.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20125219/nagas-and-territorial-deity-cosmologies-monsoon-asia-tantras-mantras",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
-                }
-            },
-            {
-                "title": "CFP: Special issue on Israel/Palestine in the Journal of Jewish Ethics",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20125196/cfp-special-issue-israelpalestine-journal-jewish-ethics"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-15T20:45:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20125196/cfp-special-issue-israelpalestine-journal-jewish-ethics",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
                 }
             },
             {
