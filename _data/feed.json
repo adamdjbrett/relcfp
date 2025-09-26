@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-25T14:06:25.000Z",
+        "updated": "2025-09-25T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,67 +20,35 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "The Bicentennial of the American Unitarian Association and Congregational History",
+                "title": "#CFP: 2026 Conference: Religion, Technology, and Innovation",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126327/bicentennial-american-unitarian-association-and-congregational-history"
+                    "@href": "https://relcfp.com/2025/09/25/aarwr/"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
                 },
-                "updated": "2025-09-25T14:06:25.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126327/bicentennial-american-unitarian-association-and-congregational-history",
+                "updated": "2025-09-25T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/09/25/aarwr/",
                 "content": {
                     "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
+                    "#text": "2026 Call for Papers"
                 }
             },
             {
-                "title": "History of Christianity collection launches on Theology & Religion Online",
+                "title": "Tragedy and Resistance",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126493/history-christianity-collection-launches-theology-religion-online"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/tragedy-and-resistance"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
-                "updated": "2025-09-25T11:32:37.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126493/history-christianity-collection-launches-theology-religion-online",
+                "updated": "2025-09-24T20:29:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/tragedy-and-resistance",
                 "content": {
                     "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
-                }
-            },
-            {
-                "title": "Illuminations from a Bright Mirror: Peter Gregory as Scholar, Editor, and Mentor in the Study of Chinese Buddhism",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126545/illuminations-bright-mirror-peter-gregory-scholar-editor-and-mentor"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-24T23:53:45.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126545/illuminations-bright-mirror-peter-gregory-scholar-editor-and-mentor",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Grad: 14 September - 21 September",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126199/h-net-job-guide-weekly-report-h-grad-14-september-21-september"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-24T20:17:39.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126199/h-net-job-guide-weekly-report-h-grad-14-september-21-september",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
+                    "#text": "updated: Thursday, September 25, 2025 - 3:46pmfull name / name of organization: Literaturforum im\u2026"
                 }
             },
             {
@@ -91,6 +59,22 @@
                 "author": {
                     "name": "UPenn - cultural studies and historical approaches",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-24T16:50:16.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/call-for-papers-etki-journal-of-literature-theatre-and-culture-studies",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, September 24, 2025 - 3:15pmfull name / name of organization: ETKI: Journal of\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers ETKI: Journal of Literature, Theatre and Culture Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/call-for-papers-etki-journal-of-literature-theatre-and-culture-studies"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
                 "updated": "2025-09-24T16:50:16.000Z",
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/call-for-papers-etki-journal-of-literature-theatre-and-culture-studies",
@@ -112,7 +96,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/global-bollywood-cultural-appropriation-streaming-media-and-the-politics-of",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 10:57amfull name / name of organization: Tanima Kumari,\u2026"
+                    "#text": "updated: Thursday, September 25, 2025 - 1:16amfull name / name of organization: Tanima Kumari, Lalit\u2026"
                 }
             },
             {
@@ -129,22 +113,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 24, 2025 - 10:57amfull name / name of organization: Imagining the\u2026"
-                }
-            },
-            {
-                "title": "TALK> Annual Kawamura Lecture and Seminar at the University of Calgary, Oct. 2 & 3",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126473/annual-kawamura-lecture-and-seminar-university-calgary-oct-2-3"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-24T11:56:30.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126473/annual-kawamura-lecture-and-seminar-university-calgary-oct-2-3",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
                 }
             },
             {
@@ -193,54 +161,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 24, 2025 - 12:02amfull name / name of organization: Nineteenth Century\u2026"
-                }
-            },
-            {
-                "title": "WORKSHOP> Doctoral School Specialist Course for PhD students at Ghent University (Belgium): \u201cCurrent Research on Middle Chinese and \u2018Buddhist Hybrid Chinese\u2019\u201d",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126331/doctoral-school-specialist-course-phd-students-ghent-university"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-23T20:19:36.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126331/doctoral-school-specialist-course-phd-students-ghent-university",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
-                }
-            },
-            {
-                "title": "TALKS> Online Buddhist Studies Events (Sep 22 - Oct 23)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126138/talks-online-buddhist-studies-events-sep-22-oct-23"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-23T20:17:12.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126138/talks-online-buddhist-studies-events-sep-22-oct-23",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
-                }
-            },
-            {
-                "title": "LECTURE> MU-CRS Seminar with Assoc. Prof. Dr. Tomas Larsson about \u201cSacred Things and Democracy in Thailand\u201d",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126128/mu-crs-seminar-assoc-prof-dr-tomas-larsson-about-sacred-things-and"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-23T20:04:56.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126128/mu-crs-seminar-assoc-prof-dr-tomas-larsson-about-sacred-things-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
                 }
             },
             {
@@ -548,22 +468,6 @@
                 }
             },
             {
-                "title": "Reimagining Totemism: Mystical Experience, Life Values, and Contemporary Art Practices",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20126070/reimagining-totemism-mystical-experience-life-values-and-contemporary"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-20T17:44:12.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20126070/reimagining-totemism-mystical-experience-life-values-and-contemporary",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
-                }
-            },
-            {
                 "title": "8th Annual International Comparative Literature Conference",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/19/8th-annual-international-comparative-literature-conference"
@@ -577,22 +481,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 24, 2025 - 12:04amfull name / name of organization: Department of\u2026"
-                }
-            },
-            {
-                "title": "CFP: The Lessing Yearbook",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20125656/cfp-lessing-yearbook"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-09-19T14:31:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20125656/cfp-lessing-yearbook",
-                "content": {
-                    "@type": "html",
-                    "#text": "Summer 2026 Vietnamese Language Study with Indiana University Kathleen Evans 09/19/2025 - 9:31am \u2026"
                 }
             },
             {
@@ -676,22 +564,6 @@
                 }
             },
             {
-                "title": "CFP \"Indigenous Studies in Relation\" April 7 Symposium at Texas A&M",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/16/cfp-indigenous-studies-in-relation-april-7-symposium-at-texas-am"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-16T21:06:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/16/cfp-indigenous-studies-in-relation-april-7-symposium-at-texas-am",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 17, 2025 - 10:22amfull name / name of organization: Ray Leonard, Texas\u2026"
-                }
-            },
-            {
                 "title": "Classic Rock and Philosophy: Call for Abstracts",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/16/classic-rock-and-philosophy-call-for-abstracts"
@@ -705,22 +577,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, September 16, 2025 - 1:14pmfull name / name of organization: Wallace & Jacobs\u2026"
-                }
-            },
-            {
-                "title": "How We Watch The Real Housewives of Salt Lake City",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/15/how-we-watch-the-real-housewives-of-salt-lake-city"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-15T19:57:11.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/15/how-we-watch-the-real-housewives-of-salt-lake-city",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 15, 2025 - 4:17pmfull name / name of organization: Tanner Humanities\u2026"
                 }
             },
             {
@@ -1137,22 +993,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Embodied Spaces: Digital Reconfigurations of Experience"
-                }
-            },
-            {
-                "title": "#CFP: Extended Deadline\u2013Rebellion and Revolution in African American Literature",
-                "link": {
-                    "@href": "https://relcfp.com/2025/05/27/rebellion/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-05-27T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/05/27/rebellion/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Extended Deadline\u2013Rebellion and Revolution in African American Literature"
                 }
             },
             {
