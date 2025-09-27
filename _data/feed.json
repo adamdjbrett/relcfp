@@ -12,13 +12,109 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-09-25T00:00:00.000Z",
+        "updated": "2025-09-26T19:57:32.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Mirror Worlds (Medieval Studies Student Colloquium, MSSC 2026)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/26/mirror-worlds-medieval-studies-student-colloquium-mssc-2026"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2025-09-26T19:57:32.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/26/mirror-worlds-medieval-studies-student-colloquium-mssc-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 26, 2025 - 6:15pmfull name / name of organization: Cornell University\u2026"
+                }
+            },
+            {
+                "title": "International African Theory Camp",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/26/international-african-theory-camp"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2025-09-26T18:43:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/26/international-african-theory-camp",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 26, 2025 - 2:53pmfull name / name of organization: University of\u2026"
+                }
+            },
+            {
+                "title": "True Crime CFP for Popular Culture Association Annual Conference 2026",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/true-crime-cfp-for-popular-culture-association-annual-conference-2026"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-25T14:39:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/true-crime-cfp-for-popular-culture-association-annual-conference-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 26, 2025 - 1:32pmfull name / name of organization: Popular Culture\u2026"
+                }
+            },
+            {
+                "title": "Irish Exceptionalism",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/irish-exceptionalism"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-25T10:16:48.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/irish-exceptionalism",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 26, 2025 - 1:32pmfull name / name of organization: SOFEIR (French Society\u2026"
+                }
+            },
+            {
+                "title": "Matrifocal Narratives in Indian Fiction",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/matrifocal-narratives-in-indian-fiction"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-09-25T10:13:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/matrifocal-narratives-in-indian-fiction",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 26, 2025 - 1:32pmfull name / name of organization: Proposed for\u2026"
+                }
+            },
+            {
+                "title": "Postcolonial Spaces in Indian Science Fiction",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/postcolonial-spaces-in-indian-science-fiction"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-25T07:26:26.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/25/postcolonial-spaces-in-indian-science-fiction",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 26, 2025 - 1:32pmfull name / name of organization: Indian Institute of\u2026"
+                }
+            },
             {
                 "title": "#CFP: 2026 Conference: Religion, Technology, and Innovation",
                 "link": {
@@ -33,6 +129,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "2026 Call for Papers"
+                }
+            },
+            {
+                "title": "Beyond Fracture: Reimagining Futures through Divergence and Convergence",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/beyond-fracture-reimagining-futures-through-divergence-and-convergence"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-09-24T22:16:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/beyond-fracture-reimagining-futures-through-divergence-and-convergence",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, September 26, 2025 - 1:32pmfull name / name of organization: 7TH ANNUAL MODERN\u2026"
                 }
             },
             {
@@ -64,7 +176,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/call-for-papers-etki-journal-of-literature-theatre-and-culture-studies",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 3:15pmfull name / name of organization: ETKI: Journal of\u2026"
+                    "#text": "updated: Friday, September 26, 2025 - 12:24amfull name / name of organization: ETKI: Journal of\u2026"
                 }
             },
             {
@@ -80,7 +192,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/24/call-for-papers-etki-journal-of-literature-theatre-and-culture-studies",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 3:15pmfull name / name of organization: ETKI: Journal of\u2026"
+                    "#text": "updated: Friday, September 26, 2025 - 12:24amfull name / name of organization: ETKI: Journal of\u2026"
                 }
             },
             {
@@ -292,54 +404,6 @@
                 }
             },
             {
-                "title": "Transitional Justice? Representing Legacies of Violence in Asian and Transpacific Frames",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/23/transitional-justice-representing-legacies-of-violence-in-asian-and-transpacific"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-23T04:18:48.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/23/transitional-justice-representing-legacies-of-violence-in-asian-and-transpacific",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 12:03amfull name / name of organization: Concentric:\u2026"
-                }
-            },
-            {
-                "title": "The 58th Texas Tech University Comparative Literature Symposium \u201cArtificial Intelligence and the Futures of the Human\u201d April 10-11, 2026 Texas Tech University, Lubbock, Texas, USA",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/the-58th-texas-tech-university-comparative-literature-symposium-%E2%80%9Cartificial"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-23T03:49:10.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/the-58th-texas-tech-university-comparative-literature-symposium-%E2%80%9Cartificial",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 12:03amfull name / name of organization: The 58th Texas\u2026"
-                }
-            },
-            {
-                "title": "ACLA 2026 Seminar: Reading Marx Beyond Western Europe",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/acla-2026-seminar-reading-marx-beyond-western-europe"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-23T01:37:18.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/acla-2026-seminar-reading-marx-beyond-western-europe",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 12:03amfull name / name of organization: ACLA 2026 Annual\u2026"
-                }
-            },
-            {
                 "title": "ACLA 2026 Seminar: Reading Marx Beyond Western Europe",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/acla-2026-seminar-reading-marx-beyond-western-europe"
@@ -401,38 +465,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 24, 2025 - 12:03amfull name / name of organization: Fresh Words \u2013 An\u2026"
-                }
-            },
-            {
-                "title": "SARGASSO Call for Contributions: Post-Narrative Futures in Caribbean Letters and Cultures",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/sargasso-call-for-contributions-post-narrative-futures-in-caribbean-letters-and"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-22T13:21:14.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/sargasso-call-for-contributions-post-narrative-futures-in-caribbean-letters-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 12:03amfull name / name of organization: Sargasso A Journal\u2026"
-                }
-            },
-            {
-                "title": "SARGASSO Call for Contributions: Post-Narrative Futures in Caribbean Letters and Cultures",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/sargasso-call-for-contributions-post-narrative-futures-in-caribbean-letters-and"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-09-22T13:21:14.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/22/sargasso-call-for-contributions-post-narrative-futures-in-caribbean-letters-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 24, 2025 - 12:03amfull name / name of organization: Sargasso A Journal\u2026"
                 }
             },
             {
@@ -513,22 +545,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, September 24, 2025 - 12:10amfull name / name of organization: Department of\u2026"
-                }
-            },
-            {
-                "title": "ART, AESTHETICS, AND VISUALITY IN CULTURE AND LITERATURE",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/17/art-aesthetics-and-visuality-in-culture-and-literature"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2025-09-17T10:14:24.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/17/art-aesthetics-and-visuality-in-culture-and-literature",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 17, 2025 - 11:06amfull name / name of organization: Handique Girls'\u2026"
                 }
             },
             {
@@ -721,22 +737,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Fuller Theological Seminary School of Mission and Theology Geoffrey Bromiley Professor of Church\u2026"
-                }
-            },
-            {
-                "title": "American Academy of Religion, Western Region 2026 Annual Conference - RELIGIONS OF ASIA UNIT \u200b(with an opportunity for inclusion in a planned edited volume)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/american-academy-of-religion-western-region-2026-annual-conference-religions-of-asia"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2025-08-17T05:33:59.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/08/17/american-academy-of-religion-western-region-2026-annual-conference-religions-of-asia",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, August 21, 2025 - 6:14pmfull name / name of organization: American Academy of\u2026"
                 }
             },
             {
