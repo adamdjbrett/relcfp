@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-10-02T00:15:57.000Z",
+        "updated": "2025-10-03T09:49:35.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers - Journal of Sakarya University Faculty of Theology",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20071758/call-papers-journal-sakarya-university-faculty-theology"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-10-03T09:49:35.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20071758/call-papers-journal-sakarya-university-faculty-theology",
+                "content": {
+                    "@type": "html",
+                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
+                }
+            },
             {
                 "title": "CFP > Intrinsic Perfection (University of Hawaii at Manoa, 12\u201313 March 2026)",
                 "link": {
@@ -164,6 +180,54 @@
                 }
             },
             {
+                "title": "Human-Animal Studies and Literary Animal Studies in German Narratives",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/human-animal-studies-and-literary-animal-studies-in-german-narratives"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-10-01T20:17:33.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/human-animal-studies-and-literary-animal-studies-in-german-narratives",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, October 3, 2025 - 10:09amfull name / name of organization: Marmara\u2026"
+                }
+            },
+            {
+                "title": "Utopia, Dystopia, and Heterotopia in Narratives",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/utopia-dystopia-and-heterotopia-in-narratives"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2025-10-01T20:11:03.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/utopia-dystopia-and-heterotopia-in-narratives",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, October 3, 2025 - 9:06amfull name / name of organization: Marmara Universitycontact\u2026"
+                }
+            },
+            {
+                "title": "\u201cCuriosity & Care\u201d - Stony Brook University English/WGSS CFP, New York Graduate Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/%E2%80%9Ccuriosity-care%E2%80%9D-stony-brook-university-englishwgss-cfp-new-york-graduate-conference"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-10-01T20:08:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/%E2%80%9Ccuriosity-care%E2%80%9D-stony-brook-university-englishwgss-cfp-new-york-graduate-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, October 3, 2025 - 9:06amfull name / name of organization: Stony Brook\u2026"
+                }
+            },
+            {
                 "title": "Pittsburgh Graduate Music Conference 2026 - Sonic Power: Speculation, Surveillance, and Strength",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/pittsburgh-graduate-music-conference-2026-sonic-power-speculation-surveillance-and"
@@ -228,22 +292,6 @@
                 }
             },
             {
-                "title": "Reimagining Totemism: Mystical Experience, Life Values, and Contemporary Art Practices",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127235/reimagining-totemism-mystical-experience-life-values-and-contemporary"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-01T15:24:56.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127235/reimagining-totemism-mystical-experience-life-values-and-contemporary",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
                 "title": "Bad Feelings: Sadness and Gender in Contemporary Culture",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/bad-feelings-sadness-and-gender-in-contemporary-culture"
@@ -272,7 +320,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/reimagining-frankenstein-in-the-21st-century-cross-cultural-adaptations-in-visual",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Wednesday, October 1, 2025 - 2:48pmfull name / name of organization: Cenk Tan and Defne\u2026"
+                    "#text": "updated: Thursday, October 2, 2025 - 3:27pmfull name / name of organization: Cenk Tan and Defne\u2026"
                 }
             },
             {
@@ -577,54 +625,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, September 30, 2025 - 2:02pmfull name / name of organization: Cecily Chen, Clara\u2026"
-                }
-            },
-            {
-                "title": "Weapons: Violence, Moral Panics and Safety in Children\u2019s Literature, Media and Cultures",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/28/weapons-violence-moral-panics-and-safety-in-children%E2%80%99s-literature-media-and-cultures"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-09-29T00:24:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/28/weapons-violence-moral-panics-and-safety-in-children%E2%80%99s-literature-media-and-cultures",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 29, 2025 - 11:53amfull name / name of organization: Children\u2019s Literature\u2026"
-                }
-            },
-            {
-                "title": "Call for Submissions: SPECIAL ANTHOLOGY OF ONE-MINUTE PLAYS & MONOLOGUES \u2018REWRITING SHAKESPEARE\u2019 (Volume 2)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/28/call-for-submissions-special-anthology-of-one-minute-plays-monologues-%E2%80%98rewriting"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-09-28T20:30:36.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/28/call-for-submissions-special-anthology-of-one-minute-plays-monologues-%E2%80%98rewriting",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 29, 2025 - 11:53amfull name / name of organization: Fresh Words-An\u2026"
-                }
-            },
-            {
-                "title": "CFP: Colonial Afterlives: Public Art and the Trans-Pacific World - Public Art Dialogue Special Issue",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/27/cfp-colonial-afterlives-public-art-and-the-trans-pacific-world-public-art-dialogue"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2025-09-27T18:05:28.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/09/27/cfp-colonial-afterlives-public-art-and-the-trans-pacific-world-public-art-dialogue",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, September 29, 2025 - 11:26amfull name / name of organization: Public Art\u2026"
                 }
             },
             {
