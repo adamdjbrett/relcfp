@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-10-05T08:07:45.000Z",
+        "updated": "2025-10-07T02:35:08.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,35 +20,67 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "CFP: Process Philosophy in Under-Explored Traditions in Philosophical History: An online Conference, May 19-29, 2026",
+                "title": "Call for Papers for The Association for the Study of Eastern Christian History and Culture, Inc.",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127313/call-papers-process-philosophy-under-explored-traditions-philosophical"
+                    "@href": "https://churchhistory.org/call-for-papers-for-the-association-for-the-study-of-eastern-christian-history-and-culture-inc/"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
                 },
-                "updated": "2025-10-05T08:07:45.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127313/call-papers-process-philosophy-under-explored-traditions-philosophical",
+                "updated": "2025-10-07T02:35:08.000Z",
+                "id": "https://churchhistory.org/call-for-papers-for-the-association-for-the-study-of-eastern-christian-history-and-culture-inc/",
                 "content": {
                     "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
+                    "#text": "Call for Papers: The Association for the Study of Eastern Christian History and Culture, Inc. (ASEC)\u2026"
                 }
             },
             {
-                "title": "CFP: Reimagining Totemism: Mystical Experience, Life Values, and Contemporary Art Practices",
+                "title": "Assistant Professor of Hebrew Bible",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127238/reimagining-totemism-mystical-experience-life-values-and-contemporary"
+                    "@href": "https://churchhistory.org/assistant-professor-of-hebrew-bible/"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
                 },
-                "updated": "2025-10-05T07:35:11.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127238/reimagining-totemism-mystical-experience-life-values-and-contemporary",
+                "updated": "2025-10-07T02:33:09.000Z",
+                "id": "https://churchhistory.org/assistant-professor-of-hebrew-bible/",
                 "content": {
                     "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
+                    "#text": "Phillips Theological Seminary seeks a scholar of the Hebrew Bible for a tenure-trackposition at the\u2026"
+                }
+            },
+            {
+                "title": "Assistant Professor of the History(ies) of Global Christianity(ies)",
+                "link": {
+                    "@href": "https://churchhistory.org/assistant-professor-of-the-historyies-of-global-christianityies/"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2025-10-07T02:30:51.000Z",
+                "id": "https://churchhistory.org/assistant-professor-of-the-historyies-of-global-christianityies/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Phillips Theological Seminary invites applications for a full-time, tenure-trackposition in the\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Knox College Undergraduate Religious Studies Conference 2025",
+                "link": {
+                    "@href": "https://relcfp.com/2025/10/06/knox-college-undergraduate-conference/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-10-06T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/10/06/knox-college-undergraduate-conference/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Save the date! October 24-25, 2025 Knox College, Galesburg, IL \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014-"
                 }
             },
             {
@@ -100,22 +132,6 @@
                 }
             },
             {
-                "title": "Call for Papers - Journal of Sakarya University Faculty of Theology",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20071758/call-papers-journal-sakarya-university-faculty-theology"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-03T09:49:35.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20071758/call-papers-journal-sakarya-university-faculty-theology",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
                 "title": "The Politics of Emotion: Affect, Identity and Power",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/03/the-politics-of-emotion-affect-identity-and-power"
@@ -144,7 +160,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/03/cfp-new-issue-essence-critique-journal-of-literature-and-drama-studies-issn-2791-6553",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, October 3, 2025 - 3:23pmfull name / name of organization: Essence & Critique:\u2026"
+                    "#text": "updated: Monday, October 6, 2025 - 1:47amfull name / name of organization: Essence & Critique:\u2026"
                 }
             },
             {
@@ -160,7 +176,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/03/lives-remembered-trans-narratives-of-memory",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, October 3, 2025 - 3:23pmfull name / name of organization: Bloomsburycontact\u2026"
+                    "#text": "updated: Monday, October 6, 2025 - 4:44amfull name / name of organization: Bloomsburycontact\u2026"
                 }
             },
             {
@@ -324,118 +340,6 @@
                 }
             },
             {
-                "title": "CFP > Intrinsic Perfection (University of Hawaii at Manoa, 12\u201313 March 2026)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127460/cfp-intrinsic-perfection-university-hawaii-manoa-12-13-march-2026"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-02T00:15:57.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127460/cfp-intrinsic-perfection-university-hawaii-manoa-12-13-march-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
-                "title": "SYMPOSIUM> Workshop on Reading Buddhist Texts (Toledo, April 2026)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127456/workshop-reading-buddhist-texts-toledo-april-2026"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-02T00:13:57.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127456/workshop-reading-buddhist-texts-toledo-april-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
-                "title": "CFP> Process Philosophy in Under-Explored Traditions in Philosophical History: An online Conference, May 19-21, 2026",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127314/call-papers-process-philosophy-under-explored-traditions-philosophical"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-02T00:10:40.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127314/call-papers-process-philosophy-under-explored-traditions-philosophical",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
-                "title": "LECTURES> Padmasambhava, U\u1e0d\u1e0diy\u0101na, and Tibet Seminar Series: Michaelmas Term 2025",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127241/padmasambhava-uddiyana-and-tibet-seminar-series-michaelmas-term-2025"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-02T00:05:16.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127241/padmasambhava-uddiyana-and-tibet-seminar-series-michaelmas-term-2025",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
-                "title": "LECTURE> Friday 10/3: Nicholas Witkowski, \u201cComparative Subalternities\u201d",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127193/friday-103-nicholas-witkowski-public-lecture"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-02T00:02:33.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127193/friday-103-nicholas-witkowski-public-lecture",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
-                "title": "NEW BOOK> Buddhist Epistemology in the Geluk School: three key texts",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127129/new-book"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-02T00:00:20.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127129/new-book",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
-                "title": "NEW PROGRAM> The Contemplative Semester (including college credit)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127061/contemplative-semester-including-college-credit"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-01T23:54:34.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127061/contemplative-semester-including-college-credit",
-                "content": {
-                    "@type": "html",
-                    "#text": "Lessons for the Upcoming Age of Climate Refugees: Next meeting of the ASLH Environment, Law, and\u2026"
-                }
-            },
-            {
                 "title": "Ecocriticism in German Narratives",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/ecocriticism-in-german-narratives"
@@ -496,7 +400,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/%E2%80%9Ccuriosity-care%E2%80%9D-stony-brook-university-englishwgss-cfp-new-york-graduate-conference",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, October 3, 2025 - 9:06amfull name / name of organization: Stony Brook\u2026"
+                    "#text": "updated: Sunday, October 5, 2025 - 1:21pmfull name / name of organization: Stony Brook\u2026"
                 }
             },
             {
@@ -1140,22 +1044,6 @@
                 }
             },
             {
-                "title": "#CFP: Embodied Spaces: Digital Reconfigurations of Experience",
-                "link": {
-                    "@href": "https://relcfp.com/2025/05/28/embodied-spaces/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-05-28T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/05/28/embodied-spaces/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Embodied Spaces: Digital Reconfigurations of Experience"
-                }
-            },
-            {
                 "title": "Extended Call for Papers: Theology, Religion, and Taylor Swift",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/05/20/call-for-papers-theology-religion-and-taylor-swift-2/"
@@ -1505,22 +1393,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "The Francis and Ann Curran Center for American Catholic Studies invites applications for its first\u2026"
-                }
-            },
-            {
-                "title": "Linda F. Dietz Prize",
-                "link": {
-                    "@href": "https://churchhistory.org/linda-f-dietz-prize/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2017-09-26T02:48:04.000Z",
-                "id": "https://churchhistory.org/linda-f-dietz-prize/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Please see the message below for information about the Linda F. Dietz Prize! Each year the Canadian\u2026"
                 }
             }
         ]
