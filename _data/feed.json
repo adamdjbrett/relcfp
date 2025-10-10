@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-10-07T16:20:34.000Z",
+        "updated": "2025-10-07T20:57:30.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Eastern Noir Cinema: the Soviet Union, Eastern Europe, and China in the 1980s",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/07/eastern-noir-cinema-the-soviet-union-eastern-europe-and-china-in-the-1980s"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-10-07T20:57:30.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/07/eastern-noir-cinema-the-soviet-union-eastern-europe-and-china-in-the-1980s",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, October 9, 2025 - 3:58pmfull name / name of organization: National University of\u2026"
+                }
+            },
+            {
+                "title": "Movement(s): Migrations, Resistance, and Currents of Asian Diasporas",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/07/movements-migrations-resistance-and-currents-of-asian-diasporas"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2025-10-07T20:55:37.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/07/movements-migrations-resistance-and-currents-of-asian-diasporas",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, October 9, 2025 - 3:50pmfull name / name of organization: Texas Association for\u2026"
+                }
+            },
             {
                 "title": "The Every Day Horror of American Life: The Rhetorical Vision of Stephen King",
                 "link": {
@@ -340,22 +372,6 @@
                 }
             },
             {
-                "title": "Call For Papers: Rendering Violence in Textual and Visual Media (April 2026)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/06/call-for-papers-rendering-violence-in-textual-and-visual-media-april-2026"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-10-06T13:44:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/06/call-for-papers-rendering-violence-in-textual-and-visual-media-april-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 7, 2025 - 12:36pmfull name / name of organization: The Liberal Arts\u2026"
-                }
-            },
-            {
                 "title": "Crude Tunes: The Histories and Cultures of Petroleum in Popular Music",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/06/crude-tunes-the-histories-and-cultures-of-petroleum-in-popular-music"
@@ -417,22 +433,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Save the date! October 24-25, 2025 Knox College, Galesburg, IL \u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014\u2014-"
-                }
-            },
-            {
-                "title": "Panel CfP: Infrastructures of Feeling: The European City in Contemporary Literature and Visual Media /18th ESSE Conference, 31st August \u2013 4th September 2026, Santiago de Compostela, Spain",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/05/panel-cfp-infrastructures-of-feeling-the-european-city-in-contemporary-literature-and"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2025-10-05T16:09:31.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/05/panel-cfp-infrastructures-of-feeling-the-european-city-in-contemporary-literature-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, October 7, 2025 - 12:22pmfull name / name of organization: \u00c1gnes Gy\u00f6rke and Ana\u2026"
                 }
             },
             {
@@ -528,7 +528,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/03/lives-remembered-trans-narratives-of-memory",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Wednesday, October 8, 2025 - 4:14amfull name / name of organization: Bloomsburycontact\u2026"
+                    "#text": "updated: Thursday, October 9, 2025 - 2:26amfull name / name of organization: Bloomsburycontact\u2026"
                 }
             },
             {
@@ -592,7 +592,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/01/bad-feelings-sadness-and-gender-in-contemporary-culture",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Wednesday, October 1, 2025 - 1:51pmfull name / name of organization: University College\u2026"
+                    "#text": "updated: Thursday, October 9, 2025 - 6:45amfull name / name of organization: University College\u2026"
                 }
             },
             {
