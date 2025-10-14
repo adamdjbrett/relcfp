@@ -12,93 +12,13 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-10-12T22:25:26.000Z",
+        "updated": "2025-10-10T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Adjunct: 28 September - 5 October",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20127731/h-net-job-guide-weekly-report-h-adjunct-28-september-5-october"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-12T22:25:26.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20127731/h-net-job-guide-weekly-report-h-adjunct-28-september-5-october",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Wisdom from the Middle Ages: Philosophical Contributions from the Abrahamic Traditions",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128429/call-papers-wisdom-middle-ages-philosophical-contributions-abrahamic"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-12T22:08:13.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128429/call-papers-wisdom-middle-ages-philosophical-contributions-abrahamic",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
-            {
-                "title": "Research Awards - 2025 CFSACK - Deadline Extended until Oct. 20",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128417/deadline-extended-2025-cfsack-research-awards"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-12T17:29:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128417/deadline-extended-2025-cfsack-research-awards",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: \u201cMary\u2019s Grandsons: Marian devotion, colonial politics and native strategies against imperial pressure\u201d",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128234/cfp-international-conference-marys-grandsons-marian-devotion-colonial"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-10T23:28:32.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128234/cfp-international-conference-marys-grandsons-marian-devotion-colonial",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
-            {
-                "title": "Coming Soon: History of Judaism collection on Theology & Religion Online",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128353/coming-soon-history-judaism-collection-theology-religion-online"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-10T19:44:09.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128353/coming-soon-history-judaism-collection-theology-religion-online",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
             {
                 "title": "#CFP: The Midwest American Academy of Religion will host its 2026 conference in Cincinnati, Ohio.",
                 "link": {
@@ -113,38 +33,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Dear Colleagues,"
-                }
-            },
-            {
-                "title": "LECTURE> Bernard Faure, \"Awakening a no-brainer?\" at Institute for the Cultural and Intellectual History of Asia, Austrian Academy of Sciences",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128268/lecture-bernard-faure-institute-cultural-and-intellectual-history-asia"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-09T20:02:41.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128268/lecture-bernard-faure-institute-cultural-and-intellectual-history-asia",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
-            {
-                "title": "2026 Midwest AAR Conference",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128276/2026-midwest-aar-conference"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-09T19:09:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128276/2026-midwest-aar-conference",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
                 }
             },
             {
@@ -177,54 +65,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, October 10, 2025 - 11:21amfull name / name of organization: Poetry@Leeds\u2026"
-                }
-            },
-            {
-                "title": "LECTURES> Prof. Vesna A. Wallace, \"The Interrelationship Between the Texts, Images, and Rituals in Mongolian Buddhism\" - MaMa Charitable Foundation Lecture Series in Buddhist Studies",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128217/lecture-series-prof-vesna-wallace-interrelationship-between-texts"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-09T12:09:00.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128217/lecture-series-prof-vesna-wallace-interrelationship-between-texts",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
-            {
-                "title": "CFP: Ecclesia laborans: Reproductive Labor and the Hidden Work of Liturgical Performance, 1350\u20131600, Berlin (03.11.2025)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128182/cfp-ecclesia-laborans-reproductive-labor-and-hidden-work-liturgical"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-09T06:51:56.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128182/cfp-ecclesia-laborans-reproductive-labor-and-hidden-work-liturgical",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
-                }
-            },
-            {
-                "title": "NYU Hebrew and Judaic Studies Graduate Studies Virtual Open Houses",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20128189/nyu-hebrew-and-judaic-studies-graduate-studies-virtual-open-houses"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-10-09T03:07:43.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20128189/nyu-hebrew-and-judaic-studies-graduate-studies-virtual-open-houses",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking Book Reviewers for Women and Social Movements in the United States Erica Hayden 10/06/2025 -\u2026"
                 }
             },
             {
