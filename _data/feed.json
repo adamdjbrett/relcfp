@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-10-10T00:00:00.000Z",
+        "updated": "2025-10-16T01:24:49.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Extended Call for Papers: Consequential Play \u2013 Theology, Video Games, & Culture",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/10/15/extended-call-for-papers-consequential-play-theology-video-games-culture/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-10-16T01:24:49.000Z",
+                "id": "https://popularcultureandtheology.com/2025/10/15/extended-call-for-papers-consequential-play-theology-video-games-culture/",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: Consequential Play \u2013 Theology, Religion and Video Games Volume Editor: Trevor B. Williams\u2026"
+                }
+            },
             {
                 "title": "#CFP: The Midwest American Academy of Religion will host its 2026 conference in Cincinnati, Ohio.",
                 "link": {
@@ -592,7 +608,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/10/03/lives-remembered-trans-narratives-of-memory",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Monday, October 13, 2025 - 6:00amfull name / name of organization: Bloomsburycontact\u2026"
+                    "#text": "updated: Wednesday, October 15, 2025 - 12:44amfull name / name of organization: Bloomsburycontact\u2026"
                 }
             },
             {
@@ -1057,22 +1073,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call for Papers: Theology, Religion and Taylor Swift Edited by: Alexis Bradford and Chris Swann\u2026"
-                }
-            },
-            {
-                "title": "Final Call for Papers: Theology, Religion, and Mad Max",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/05/20/final-call-for-papers-theology-religion-and-mad-max/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-05-21T01:38:37.000Z",
-                "id": "https://popularcultureandtheology.com/2025/05/20/final-call-for-papers-theology-religion-and-mad-max/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for contributions Title: Theology, Religion, and Mad Max: Rising from the Ashes Edited by: Yael\u2026"
                 }
             },
             {
