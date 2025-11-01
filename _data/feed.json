@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-10-30T15:53:59.000Z",
+        "updated": "2025-11-01T00:35:29.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Extended Call for Papers: Religion and Peak TV",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/10/31/extended-call-for-papers-religion-and-peak-tv/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-11-01T00:35:29.000Z",
+                "id": "https://popularcultureandtheology.com/2025/10/31/extended-call-for-papers-religion-and-peak-tv/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Extended Call for Papers: Religion and Peak TV Volume Editor: George Tsakiridis, PhD Abstract and CV\u2026"
+                }
+            },
+            {
+                "title": "#CFP: EASR/IAHR Religiosn 360\u00ba conference in Bucharest 2026",
+                "link": {
+                    "@href": "https://relcfp.com/2025/10/31/cfp-iahr/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-10-31T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/10/31/cfp-iahr/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers"
+                }
+            },
             {
                 "title": "Postwar Area Literature Group CFPs - American Literature Association 2026 Conference (Chicago)",
                 "link": {
@@ -1028,22 +1060,6 @@
                 }
             },
             {
-                "title": "#CFP: Seeking Chapters on Foucault\u2019s History of Sexuality, Power, & Knowledge; Proposals Due July 1, 2025",
-                "link": {
-                    "@href": "https://relcfp.com/2025/06/06/foucault-volume/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-06-06T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/06/06/foucault-volume/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Seeking chapters drawing on Foucault\u2019s history of sexuality to analyze transgender themes in Indian\u2026"
-                }
-            },
-            {
                 "title": "Extended Call for Papers: Baseball and Ecclesiology",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/06/03/extended-call-for-papers-baseball-and-ecclesiology/"
@@ -1057,22 +1073,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "ECCLESIOLOGY AND BASEBALL: Exploring the Church Through America\u2019s Pastime Call For Papers Editors:\u2026"
-                }
-            },
-            {
-                "title": "Extended Call for Papers: Theology, Religion, and Taylor Swift",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/05/20/call-for-papers-theology-religion-and-taylor-swift-2/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-05-21T01:54:56.000Z",
-                "id": "https://popularcultureandtheology.com/2025/05/20/call-for-papers-theology-religion-and-taylor-swift-2/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers: Theology, Religion and Taylor Swift Edited by: Alexis Bradford and Chris Swann\u2026"
                 }
             },
             {
