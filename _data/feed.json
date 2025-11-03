@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-11-01T00:35:29.000Z",
+        "updated": "2025-11-03T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Center for Religion and Cities",
+                "link": {
+                    "@href": "https://relcfp.com/2025/11/03/cfp-religion-cities/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-11-03T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/11/03/cfp-religion-cities/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Members and friends of the Center for Religion and Cities (CRC) ,"
+                }
+            },
             {
                 "title": "Extended Call for Papers: Religion and Peak TV",
                 "link": {
@@ -1041,22 +1057,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Authoritarian regimes often use everyday laws and bureaucracy to target communities and consolidate\u2026"
-                }
-            },
-            {
-                "title": "#CFP: Meeting at the Crossroads: Understanding the Intersection of Rhetoric, Race, and Religion",
-                "link": {
-                    "@href": "https://relcfp.com/2025/06/06/crossroads/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-06-06T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/06/06/crossroads/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Laurent Pernot wrote, \u201cReligion is intimately linked with words. Everyone knows that the spoken and\u2026"
                 }
             },
             {
