@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-11-03T00:00:00.000Z",
+        "updated": "2025-11-03T17:16:23.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Sweeney, noted scholar of Great Awakening and American Evangelicalism, in Arlington Nov. 17-18",
+                "link": {
+                    "@href": "https://churchhistory.org/sweeney-noted-scholar-of-great-awakening-and-american-evangelicalism-in-arlington-nov-17-18/"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2025-11-03T17:16:23.000Z",
+                "id": "https://churchhistory.org/sweeney-noted-scholar-of-great-awakening-and-american-evangelicalism-in-arlington-nov-17-18/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Douglas Sweeney, dean of Beeson Divinity School of Samford University and author of The American\u2026"
+                }
+            },
+            {
+                "title": "#CFP: NABPR Region-at-Large Call for Papers CTS/NABPR-RAL 2026 Meeting at Villanova University in Pennsylvania, May 28-31, 2026",
+                "link": {
+                    "@href": "https://relcfp.com/2025/11/03/cfp-nabpr-religion-at-large-villanova/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2025-11-03T00:00:00.000Z",
+                "id": "https://relcfp.com/2025/11/03/cfp-nabpr-religion-at-large-villanova/",
+                "content": {
+                    "@type": "html",
+                    "#text": "NABPR Region-at-Large Call for Papers CTS/NABPR-RAL 2026 Meeting Villanova University in\u2026"
+                }
+            },
             {
                 "title": "#CFP: Center for Religion and Cities",
                 "link": {
@@ -948,22 +980,6 @@
                 }
             },
             {
-                "title": "#CFP: AAR-Southeast Conference Theme: Shifting Identities and Fractured Communities",
-                "link": {
-                    "@href": "https://relcfp.com/2025/06/30/cfp-aarse/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-06-30T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/06/30/cfp-aarse/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The Call for Papers for the 2026 Meeting is live! Submissions due October 1, 2025"
-                }
-            },
-            {
                 "title": "Call for Papers: Religion and AI in Science Fiction and Horror",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/06/28/call-for-papers-religion-and-ai-in-science-fiction-and-horror/"
@@ -1377,22 +1393,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Know of a Call for Papers we\u2019d be interested in? Please let us know at churchhi@umn.edu The post\u2026"
-                }
-            },
-            {
-                "title": "New Scholar Essay Prize for Catholic Studies in the Americas",
-                "link": {
-                    "@href": "https://churchhistory.org/new-scholar-essay-prize-for-catholic-studies-in-the-americas/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2019-09-22T04:06:51.000Z",
-                "id": "https://churchhistory.org/new-scholar-essay-prize-for-catholic-studies-in-the-americas/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The Francis and Ann Curran Center for American Catholic Studies invites applications for its first\u2026"
                 }
             }
         ]
