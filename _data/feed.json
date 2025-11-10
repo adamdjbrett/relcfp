@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-11-07T22:05:52.000Z",
+        "updated": "2025-11-09T18:29:02.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Adjunct: 12 October - 19 October",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20129266/h-net-job-guide-weekly-report-h-adjunct-12-october-19-october"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-09T18:29:02.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20129266/h-net-job-guide-weekly-report-h-adjunct-12-october-19-october",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20130718/research-fellowships-massachusetts-historical-society-2026-2027"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-09T18:25:09.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20130718/research-fellowships-massachusetts-historical-society-2026-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
             {
                 "title": "Women in Judaism: A Multidisciplinary e-Journal -CfP",
                 "link": {
@@ -100,19 +132,19 @@
                 }
             },
             {
-                "title": "Artificiality | Surfaciality",
+                "title": "Artificiality | Surfaciality - International conference on AI",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/11/07/artificiality-surfaciality"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/11/07/artificiality-surfaciality-international-conference-on-ai"
                 },
                 "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
                 "updated": "2025-11-07T16:09:43.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/11/07/artificiality-surfaciality",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2025/11/07/artificiality-surfaciality-international-conference-on-ai",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, November 7, 2025 - 3:59pmfull name / name of organization: Rutgers French\u2026"
+                    "#text": "updated: Saturday, November 8, 2025 - 5:12pmfull name / name of organization: St\u00e9phane Eckertcontact\u2026"
                 }
             },
             {
@@ -388,22 +420,6 @@
                 }
             },
             {
-                "title": "Lecture: Ugo Mondini, \"The Mother of God in Byzantium between Art, Poetry, and Music\"",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20131323/lecture-ugo-mondini-mother-god-byzantium-between-art-poetry-and-music"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-05T18:45:29.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20131323/lecture-ugo-mondini-mother-god-byzantium-between-art-poetry-and-music",
-                "content": {
-                    "@type": "html",
-                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
-                }
-            },
-            {
                 "title": "PhD Open House - Theatre and Performance CUNY Graduate Center",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2025/11/05/phd-open-house-theatre-and-performance-cuny-graduate-center"
@@ -417,22 +433,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, November 6, 2025 - 3:23pmfull name / name of organization: Theatre and\u2026"
-                }
-            },
-            {
-                "title": "KONF: Jenseits des Gerichtshofs: Alternative Imaginationen moderner \u00d6ffentlichkeit, Halle (20.11. \u2013 22.11.2025)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20131234/jenseits-des-gerichtshofs-alternative-imaginationen-moderner"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-05T16:33:24.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20131234/jenseits-des-gerichtshofs-alternative-imaginationen-moderner",
-                "content": {
-                    "@type": "html",
-                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
                 }
             },
             {
