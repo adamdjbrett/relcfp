@@ -12,13 +12,173 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-11-07T20:27:21.000Z",
+        "updated": "2025-11-12T06:01:27.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "INVITATION: Join us for the 4th MIT Global Humanities Initiative Conference on \u201cSTEMAH = The University of the Future\u201d on November 20/21 (KST)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131924/invitation-join-us-4th-mit-global-humanities-initiative-conference"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-12T06:01:27.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131924/invitation-join-us-4th-mit-global-humanities-initiative-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "CfP UChicago's 23rd Annual South Asia Graduate Student Conference",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131627/cfp-uchicagos-23rd-annual-south-asia-graduate-student-conference"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-12T05:34:01.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131627/cfp-uchicagos-23rd-annual-south-asia-graduate-student-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "SEMINAR> Dr. Phramaha Anon Anando, \u201cEmpress Wu Zetian and Her Faith in Maitreya Bodhisattva\u201d",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131938/mu-crs-seminar-asst-prof-dr-phramaha-anon-anando-about-empress-wu"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-12T01:46:23.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131938/mu-crs-seminar-asst-prof-dr-phramaha-anon-anando-about-empress-wu",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "CONFERENCE> Join us for the 4th MIT Global Humanities Initiative Conference on \u201cSTEMAH = The University of the Future\u201d on November 20/21 (KST)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131926/invitation-join-us-4th-mit-global-humanities-initiative-conference"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-12T01:43:24.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131926/invitation-join-us-4th-mit-global-humanities-initiative-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "INVITATION: Join us for the 4th MIT Global Humanities Initiative Conference on \u201cSTEMAH = The University of the Future\u201d on November 20/21 (KST)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131933/invitation-join-us-4th-mit-global-humanities-initiative-conference"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-11T19:35:08.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131933/invitation-join-us-4th-mit-global-humanities-initiative-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "INVITATION: Join us for the 4th MIT Global Humanities Initiative Conference on \u201cSTEMAH = The University of the Future\u201d on November 20/21 (KST)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131925/invitation-join-us-4th-mit-global-humanities-initiative-conference"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-11T18:23:46.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131925/invitation-join-us-4th-mit-global-humanities-initiative-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Mideast-Medieval",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131793/h-net-job-guide-weekly-report-h-mideast-medieval-2-november-9-november"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-11T10:13:48.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131793/h-net-job-guide-weekly-report-h-mideast-medieval-2-november-9-november",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "Communal Affiliation in Early Islam",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131537/communal-affiliation-early-islam"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-11T10:06:14.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131537/communal-affiliation-early-islam",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "INVITATION: Join us for the 4th MIT Global Humanities Initiative Conference on \u201cSTEMAH = The University of the Future\u201d on November 20/21 (KST)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131931/invitation-join-us-4th-mit-global-humanities-initiative-conference"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-11T03:56:14.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131931/invitation-join-us-4th-mit-global-humanities-initiative-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
+            {
+                "title": "QUERY: grad student journal",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20131920/query-grad-student-journal"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-11-11T00:05:56.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20131920/query-grad-student-journal",
+                "content": {
+                    "@type": "html",
+                    "#text": "Contention Vol. 7, Issue 1 Dear Colleague, The new issue of Contention has\u2026"
+                }
+            },
             {
                 "title": "34th Conference on British and American Studies: Reconfiguring Borders and Boundaries in/through the Lens of Literature, Language and Culture",
                 "link": {
