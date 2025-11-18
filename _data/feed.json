@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-11-15T18:31:08.000Z",
+        "updated": "2025-11-17T18:08:16.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Participation: Help ACLS Understand Public Scholarship on Religion",
+                "link": {
+                    "@href": "https://churchhistory.org/call-for-participation-help-acls-understand-public-scholarship-on-religion/"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2025-11-17T18:08:16.000Z",
+                "id": "https://churchhistory.org/call-for-participation-help-acls-understand-public-scholarship-on-religion/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Publicly Engaged Religion Mapping Project invites scholars, practitioners, and community\u2026"
+                }
+            },
             {
                 "title": "Nikos Kazantzakis: International Conference",
                 "link": {
@@ -1377,22 +1393,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Amount: $5,000 Deadline: awarded annually 2024 \u2013 2033 The purpose of the Lutheran Quarterly Annual\u2026"
-                }
-            },
-            {
-                "title": "Calls for Papers",
-                "link": {
-                    "@href": "https://churchhistory.org/calls-for-papers/"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2020-01-20T21:17:37.000Z",
-                "id": "https://churchhistory.org/calls-for-papers/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Know of a Call for Papers we\u2019d be interested in? Please let us know at churchhi@umn.edu The post\u2026"
                 }
             }
         ]
