@@ -48,14 +48,7 @@ We welcome proposals on topics including, but not limited to:
 
 Proposals adopting comparative, theological, or interdisciplinary approaches to Humanistic Buddhism are especially welcome.
 
- |
-|
-
-* * * * *
-
- |
-|  |
-|
+ 
 
 ### SUBMISSION GUIDELINES
 
