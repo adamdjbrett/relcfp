@@ -12,77 +12,13 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-11-27T23:14:49.000Z",
+        "updated": "2025-11-24T13:33:11.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
-            {
-                "title": "H-Net Job Guide Weekly Report for H-HOAC: 16 November - 23 November",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20133220/h-net-job-guide-weekly-report-h-hoac-16-november-23-november"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-27T23:14:49.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20133220/h-net-job-guide-weekly-report-h-hoac-16-november-23-november",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
-            {
-                "title": "TALK> Rupert Gethin - Dec 4 - at Mangalam Research Center & on Zoom",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20133501/rupert-gethin-talk-dec-4-mangalam-research-center-zoom"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-26T13:31:53.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20133501/rupert-gethin-talk-dec-4-mangalam-research-center-zoom",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
-            {
-                "title": "Pali Text Society book clearance",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20133374/pali-text-society-book-clearance"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-25T01:30:43.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20133374/pali-text-society-book-clearance",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 16 November - 23 November",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20133190/h-net-job-guide-weekly-report-h-buddhism-16-november-23-november"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-25T01:29:20.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20133190/h-net-job-guide-weekly-report-h-buddhism-16-november-23-november",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
             {
                 "title": "Disruptive Mobilities: Unsettling Law, Space, and Identities through Movement",
                 "link": {
@@ -129,86 +65,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "United Lutheran Seminary to Host \u201cA Vision for Liberating Our Democracy\u201d Conference, February 27\u201328,\u2026"
-                }
-            },
-            {
-                "title": "AAR> Lives of the Buddha: A Staged Reading of a New Play",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20132899/aar-lives-buddha-staged-reading-new-play"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-19T23:10:38.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20132899/aar-lives-buddha-staged-reading-new-play",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
-            {
-                "title": "AAR 2025, Yog\u0101c\u0101ra Studies Unit, upcoming panels",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20132871/aar-2025-yogacara-studies-unit-upcoming-panels"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-19T23:09:30.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20132871/aar-2025-yogacara-studies-unit-upcoming-panels",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-HOAC: 9 November - 16 November",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20132584/h-net-job-guide-weekly-report-h-hoac-9-november-16-november"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-19T20:54:57.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20132584/h-net-job-guide-weekly-report-h-hoac-9-november-16-november",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-HOAC: 2 November - 9 November",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20131766/h-net-job-guide-weekly-report-h-hoac-2-november-9-november"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-19T20:54:36.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20131766/h-net-job-guide-weekly-report-h-hoac-2-november-9-november",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-HOAC: 26 October - 2 November",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20131024/h-net-job-guide-weekly-report-h-hoac-26-october-2-november"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-19T20:54:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20131024/h-net-job-guide-weekly-report-h-hoac-26-october-2-november",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
                 }
             },
             {
@@ -273,22 +129,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, November 19, 2025 - 3:06pmfull name / name of organization: The Performance\u2026"
-                }
-            },
-            {
-                "title": "Preternature journal seeking book reviews",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20130312/preternature-journal-seeking-book-reviews"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-11-19T13:41:24.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20130312/preternature-journal-seeking-book-reviews",
-                "content": {
-                    "@type": "html",
-                    "#text": "Critical Survey (Vol. 34, Issue 2) Dear Colleague, The latest issue of Critical Survey\u2026"
                 }
             },
             {
