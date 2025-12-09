@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-12-08T15:27:33.000Z",
+        "updated": "2025-12-09T14:39:13.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 30 November - 7 December",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20134643/h-net-job-guide-weekly-report-h-amindian-30-november-7-december"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-09T14:39:13.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20134643/h-net-job-guide-weekly-report-h-amindian-30-november-7-december",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
             {
                 "title": "12th Enemy Encounters Webinar \u201cCreating Enmity in Pre-Modern Nichiren Buddhism\u201d",
                 "link": {
@@ -494,22 +510,6 @@
                 },
                 "updated": "2025-12-04T17:35:30.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20134207/toronto-newar-summer-school-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 23 November - 30 November",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20133898/h-net-job-guide-weekly-report-h-amindian-23-november-30-november"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-12-04T15:26:35.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20133898/h-net-job-guide-weekly-report-h-amindian-23-november-30-november",
                 "content": {
                     "@type": "html",
                     "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
