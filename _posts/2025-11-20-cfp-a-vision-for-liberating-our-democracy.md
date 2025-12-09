@@ -82,7 +82,7 @@ The organizing committee invites proposals for papers, panel discussions, roundt
 
 The program will also include undergraduate poster sessions, graduate student panels, and live podcast recordings designed for classroom and public scholarship use. Following the event, an open-access journal volume will publish selected presentations.
 
-Proposals should include a 300-word abstract and a 100-wordbiography. The submission deadline is January 15, 2025. Proposals may be sent to [abrett@uls.edu](https://abrett@uls.edu/).
+Proposals should include a 300-word abstract and a 100-word biography. The submission deadline is January 15, 2025. Proposals may be sent to [abrett@uls.edu](https://abrett@uls.edu/).
 
 ### **Event Details**
 
