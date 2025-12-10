@@ -23,34 +23,33 @@ Dean Teresa L. Smallwood said, "The American context is ripe for a time of refle
 "United Lutheran Seminary is committed to fostering public conversations about the moral and historical foundations of democracy," said the conference organizing committee member Adam DJ Brett. "By examining the ways religion and race intertwine with political life, we can better imagine inclusive and equitable systems of governance."
 
 ### **Featured Speakers**
+The conference will feature exciting plenary addresses by:
 
-The conference will feature exciting plenary addresses by
+-   [Maya D. Wiley](https://civilrights.org/about/our-staff/maya-wiley/), President and CEO of Leadership Conference on Civil and Human Rights
 
-- Maya D. Wiley, President and CEO of Leadership Conference on Civil and Human Rights
+-   [Rev. Alba Onofrio](https://soulforce.org/alba/) (Reverend Sex), Executive Director of Soulforce
 
-- Rev. Alba Onofrio (Reverend Sex), Executive Director of Soulforce
+-   [Dr. Raymond Winbush](https://www.morgan.edu/institute-for-urban-research/about/our-team/raymond-winbush), Research Professor and the Director of the Institute for Urban Research, Morgan State University
 
-- Dr. Raymond Winbush, Research Professor and the Director of the Institute for Urban Research, Morgan State University
+-   [Rev. Dr. Joseph Evans](https://bst.edu/people/joseph-evans/), The J. Alfred Smith, Senior Professor of Theology in the Public Square Director at Berkeley School of Theology
 
-- Rev. Dr. Joseph Evans, The J. Alfred Smith, Senior Professor of Theology in the Public Square Director at Berkeley School of Theology
+-   [Brandon Paradise](https://law.rutgers.edu/brandon-paradise), Associate Professor of Law and Professor Dallas Willard Scholar at Rutgers Law School
 
-- Brandon Paradise, Associate Professor of Law and Professor Dallas Willard Scholar at Rutgers Law School
+-   [Rev. Dr. Gabby Cudjoe Wilkes](https://www.doubleloveexperience.org/thewilkes), Pastor of The Double Love Experience Church
 
-- Rev. Dr. Gabby Cudjoe Wilkes, Pastor of The Double Love Experience Church
+-   [Tadodaho Sidney Hill](https://www.cnyhistory.org/wp-content/themes/oha/press/2015-10-11-55-SH.pdf) of the Haudenosaunee Confederacy
 
-- Tadodaho Sidney Hill of the Haudenosaunee Confederacy
+-   [Betty Hill (Lyons)](https://aila.ngo/staff-and-board/), (Onondaga Nation, Snipe Clan), Executive Director of the American Indian Law Alliance
 
-- Betty Hill (Lyons), (Onondaga Nation, Snipe Clan), Executive Director of the American Indian Law Alliance
+-   [Rev. Dr. Benjamin F. Chavis, Jr](https://thechavischronicles.com/about/)., President and CEO of the National Newspaper Publishers Association (NNPA): The Black Press of America.  Environmental Justice and Racial Equity Fellow at Duke University.
 
-- Rev. Dr. Benjamin F. Chavis, Jr., President and CEO of the National Newspaper Publishers Association (NNPA): The Black Press of America.
+-   [Rev. Naomi Washington-Leapheart](https://politicalresearch.org/bio/rev-naomi-washington-leapheart), Strategic Partnerships Director, Political Research Associates
 
-- Rev. Naomi Washington-Leapheart, Strategic Partnerships Director, Political Research Associates
+-   [Rev. Dr. Yvette R. Blair-Lavallais](https://www.feedingamerica.org/research/equity-research-fellow), Equity Research Fellow for Feeding America and Professor at Memphis Theological Seminary
 
-- Rev. Dr. Yvette R. Blair-Lavallais, Equity Research Fellow for Feeding America and Professor at Memphis Theological Seminary
+-   [Rev .Dr. Obery M. Hendricks, Jr.](https://religion.columbia.edu/content/obery-m-hendricks), Professor in the Departments of Religion and African American and African Diaspora Studies at Columbia University.
 
-- Rev .Dr. Obery M. Hendricks, Jr., Visiting Scholar, Departments of Religion & African and African Diaspora Studies at Columbia University
-
-- Rev. Damien C. Durr, General Secretary of the Proctor Conference
+-   [Rev. Damien C. Durr](https://sdpconference.info/news-and-highlights/leadership-transition), General Secretary of the Proctor Conference
 
 ### **Call for Papers - The organizing committee invites papers on the following Topics to Be Covered During Exploring Religion, Race, and Democracy:**
 
