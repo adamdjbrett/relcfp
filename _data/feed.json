@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-12-16T00:41:32.000Z",
+        "updated": "2025-12-17T00:04:17.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "New Issue of Pacific World: Journal of the Institute of Buddhist Studies",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20135656/new-issue-pacific-world-journal-institute-buddhist-studies"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-17T00:04:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20135656/new-issue-pacific-world-journal-institute-buddhist-studies",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 7 December - 14 December",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20135383/h-net-job-guide-weekly-report-h-buddhism-7-december-14-december"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-16T08:53:15.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20135383/h-net-job-guide-weekly-report-h-buddhism-7-december-14-december",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: \"Gods in/of the Machine: Technologies of Metahuman Presence and Communication\" in EASA 2026 conference (European Association of Social Anthropologists)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20135354/call-papers-gods-inof-machine-technologies-metahuman-presence-and"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-16T07:18:40.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20135354/call-papers-gods-inof-machine-technologies-metahuman-presence-and",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "TALKS > Online Buddhist Studies Events (Dec 16 - Jan 21)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20135341/talks-online-buddhist-studies-events-dec-16-jan-21"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-16T07:17:43.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20135341/talks-online-buddhist-studies-events-dec-16-jan-21",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
             {
                 "title": "CALL FOR APPLICATIONS | 21st Singapore Graduate Forum on Southeast Asian Studies",
                 "link": {
@@ -110,70 +174,6 @@
                 },
                 "updated": "2025-12-15T15:39:30.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20134939/one-year-jewish-studies-program-paideia-european-institute-jewish",
-                "content": {
-                    "@type": "html",
-                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
-                }
-            },
-            {
-                "title": "Short-Term Research Fellowships at Haverford College Quaker & Special Collections",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20134912/short-term-research-fellowships-haverford-college-quaker-special"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-12-15T15:16:51.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20134912/short-term-research-fellowships-haverford-college-quaker-special",
-                "content": {
-                    "@type": "html",
-                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: \"Gods in/of the Machine: Technologies of Metahuman Presence and Communication\" in EASA 2026 conference (European Association of Social Anthropologists)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20135355/call-papers-gods-inof-machine-technologies-metahuman-presence-and"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-12-15T14:55:19.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20135355/call-papers-gods-inof-machine-technologies-metahuman-presence-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 7 December - 14 December",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20135371/h-net-job-guide-weekly-report-h-amindian-7-december-14-december"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-12-15T14:49:46.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20135371/h-net-job-guide-weekly-report-h-amindian-7-december-14-december",
-                "content": {
-                    "@type": "html",
-                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
-                }
-            },
-            {
-                "title": "Lecture by Prof. Cheng Zheng \u7a0b\u6b63 (Komazawa University \u99d2\u6fa4\u5927\u5b66):\u300e\u4fee\u79aa\u8981\u8a23\u300f\u8af8\u672c\u306e\u7814\u7a76 [A Study of the Different Copies of the \u201cXiuchan Yaojue\u201d (Essentials to the Practice of Meditation)]",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20135167/lecture-prof-cheng-zheng-chengzheng-komazawa-university"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2025-12-15T14:32:20.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20135167/lecture-prof-cheng-zheng-chengzheng-komazawa-university",
                 "content": {
                     "@type": "html",
                     "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
