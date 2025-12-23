@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-12-18T21:14:18.000Z",
+        "updated": "2025-12-22T21:25:17.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Share Your Experience with Religion and Works of Fantasy! (Lord of the Rings, Harry Potter)",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/12/22/share-your-experience-with-religion-and-works-of-fantasy-lord-of-the-rings-harry-potter/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-12-22T21:25:17.000Z",
+                "id": "https://popularcultureandtheology.com/2025/12/22/share-your-experience-with-religion-and-works-of-fantasy-lord-of-the-rings-harry-potter/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Researchers at the University of Maine and Kingswood University are conducting a brief survey to\u2026"
+                }
+            },
+            {
+                "title": "Overshadowed: Re-Examining Consent in Divine \u201cVirgin Birth\u201d Narratives from Luke to Xena",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2025/12/22/overshadowed-re-examining-consent-in-divine-virgin-birth-narratives-from-luke-to-xena/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2025-12-22T21:19:01.000Z",
+                "id": "https://popularcultureandtheology.com/2025/12/22/overshadowed-re-examining-consent-in-divine-virgin-birth-narratives-from-luke-to-xena/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Princess O\u2019Nika Auguste The Christmas season centres the story of the Virgin Mary, a narrative of\u2026"
+                }
+            },
             {
                 "title": "Women\u2019s Writing and Anger in Ireland",
                 "link": {
@@ -1092,22 +1124,6 @@
                 }
             },
             {
-                "title": "Call for Papers: Theology, Religion, and Middle Earth",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/06/11/call-for-papers-theology-religion-and-middle-earth/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-06-12T03:24:12.000Z",
-                "id": "https://popularcultureandtheology.com/2025/06/11/call-for-papers-theology-religion-and-middle-earth/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Theology, Religion, and Middle Earth Edited by Scott Donahue-Martens, Ph.D., and Brandon Simonson,\u2026"
-                }
-            },
-            {
                 "title": "Photographic exhibition on Authoritarianism, Law, and the Remaking of Society",
                 "link": {
                     "@href": "https://www.socialifeoflaw.com/post/photographic-exhibition-on-authoritarianism-law-and-the-remaking-of-society"
@@ -1121,22 +1137,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Authoritarian regimes often use everyday laws and bureaucracy to target communities and consolidate\u2026"
-                }
-            },
-            {
-                "title": "Extended Call for Papers: Baseball and Ecclesiology",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/06/03/extended-call-for-papers-baseball-and-ecclesiology/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-06-04T02:55:41.000Z",
-                "id": "https://popularcultureandtheology.com/2025/06/03/extended-call-for-papers-baseball-and-ecclesiology/",
-                "content": {
-                    "@type": "html",
-                    "#text": "ECCLESIOLOGY AND BASEBALL: Exploring the Church Through America\u2019s Pastime Call For Papers Editors:\u2026"
                 }
             },
             {
