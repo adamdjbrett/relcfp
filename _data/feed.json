@@ -12,13 +12,157 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2025-12-22T21:25:17.000Z",
+        "updated": "2025-12-24T19:21:45.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "SYMPOSIUM> Fifty-Year Anniversary of the Nanzan Institute for Religion and Culture",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136308/fifty-year-anniversary-nanzan-institute-religion-and-culture"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-24T19:21:45.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136308/fifty-year-anniversary-nanzan-institute-religion-and-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "JOURNAL> Japanese Journal of Religious Studies 52",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136305/japanese-journal-religious-studies-52"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-24T19:20:10.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136305/japanese-journal-religious-studies-52",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "<SYMPOSIUM> Fifty-Year Anniversary of the Nanzan Institute for Religion and Culture",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136310/fifty-year-anniversary-nanzan-institute-religion-and-culture"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-23T20:15:03.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136310/fifty-year-anniversary-nanzan-institute-religion-and-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "<JOURNAL TOC> Japanese Journal of Religious Studies 52",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136307/japanese-journal-religious-studies-52"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-23T20:14:44.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136307/japanese-journal-religious-studies-52",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "Sandra Seltzer Silberman HBI Conversations Series Featuring Rabbi Jane Kanarek, PhD, author of \"Beyond Brutality, Reclaiming Female Presence in Bavli Sotah\"",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136277/sandra-seltzer-silberman-hbi-conversations-series-featuring-rabbi-jane"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-23T16:15:04.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136277/sandra-seltzer-silberman-hbi-conversations-series-featuring-rabbi-jane",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "Journal of the Australian Catholic Historical Society",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136311/journal-australian-catholic-historical-society"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-23T08:50:51.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136311/journal-australian-catholic-historical-society",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "The Agony and the Ecstasy: Sacred and Carnal Devotion to Saints - Eric Huang",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20135038/agony-and-ecstasy-sacred-and-carnal-devotion-saints-eric-huang"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-22T23:15:16.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20135038/agony-and-ecstasy-sacred-and-carnal-devotion-saints-eric-huang",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "CFP: Pietism and Rule: VII. International Congress for Pietism Research, Halle (Saale), 5\u20138 September 2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20135822/cfp-pietism-and-rule-vii-international-congress-pietism-research-halle"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-22T23:05:09.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20135822/cfp-pietism-and-rule-vii-international-congress-pietism-research-halle",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
+            {
+                "title": "JOURNAL> Journal of Global Buddhism v 26, n 1",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136290/journal-journal-global-buddhism-v-26-n-1"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-22T22:16:14.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136290/journal-journal-global-buddhism-v-26-n-1",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
+                }
+            },
             {
                 "title": "Share Your Experience with Religion and Works of Fantasy! (Lord of the Rings, Harry Potter)",
                 "link": {
@@ -49,6 +193,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "By Princess O\u2019Nika Auguste The Christmas season centres the story of the Virgin Mary, a narrative of\u2026"
+                }
+            },
+            {
+                "title": "RESOURCE> Three new publications from the BuddhistRoad World",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136016/three-new-publications-buddhistroad-world"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2025-12-22T18:59:46.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136016/three-new-publications-buddhistroad-world",
+                "content": {
+                    "@type": "html",
+                    "#text": "Mining the Logs: Sources on Blue Humor URL \u2026"
                 }
             },
             {
