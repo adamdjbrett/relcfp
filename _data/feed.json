@@ -12,13 +12,173 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-01-06T05:04:02.000Z",
+        "updated": "2026-01-07T05:08:19.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136761/reminder-applications-research-fellowships-winterthur-museum-garden"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-07T05:08:19.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136761/reminder-applications-research-fellowships-winterthur-museum-garden",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "Revitalizing the Feminist Historiography of Witchcraft",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136915/revitalizing-feminist-historiography-witchcraft"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-07T03:50:06.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136915/revitalizing-feminist-historiography-witchcraft",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "A Nostalgic Journey and a Guiding Star: Revisiting Hercules, Xena, and the Magi",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2026/01/06/a-nostalgic-journey-and-a-guiding-star-revisiting-hercules-xena-and-the-magi/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2026-01-07T01:42:43.000Z",
+                "id": "https://popularcultureandtheology.com/2026/01/06/a-nostalgic-journey-and-a-guiding-star-revisiting-hercules-xena-and-the-magi/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Princess O\u2019Nika Auguste During the holiday season, the pull of childhood nostalgia often leads me\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 28 December - 4 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136831/h-net-job-guide-weekly-report-h-amindian-28-december-4-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-06T20:35:28.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136831/h-net-job-guide-weekly-report-h-amindian-28-december-4-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136769/reminder-applications-research-fellowships-winterthur-museum-garden"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-06T20:28:21.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136769/reminder-applications-research-fellowships-winterthur-museum-garden",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136762/reminder-applications-research-fellowships-winterthur-museum-garden"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-06T19:09:38.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136762/reminder-applications-research-fellowships-winterthur-museum-garden",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Asia: 28 December - 4 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136834/h-net-job-guide-weekly-report-h-asia-28-december-4-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-06T17:48:02.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136834/h-net-job-guide-weekly-report-h-asia-28-december-4-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Asia: 21 December - 28 December",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136486/h-net-job-guide-weekly-report-h-asia-21-december-28-december"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-06T17:44:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136486/h-net-job-guide-weekly-report-h-asia-21-december-28-december",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "The Sin-eater: lives and afterlives - Dr Helen Frisby - Zoom Sun, Nov 1, 2026, 8:00 PM",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136052/sin-eater-lives-and-afterlives-dr-helen-frisby-zoom-sun-nov-1-2026-800"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-06T13:47:06.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136052/sin-eater-lives-and-afterlives-dr-helen-frisby-zoom-sun-nov-1-2026-800",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
+            {
+                "title": "New Book Publication: Evangelicals in a Dictatorship Protestants, social capital and civil society in Belarus by Paula Borowska-Kryvoi",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136957/new-book-publication-evangelicals-dictatorship-protestants-social"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-06T08:06:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136957/new-book-publication-evangelicals-dictatorship-protestants-social",
+                "content": {
+                    "@type": "html",
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
+                }
+            },
             {
                 "title": "$5000 Essay Prize/Call For Papers: Skirball Cultural Center",
                 "link": {
@@ -32,151 +192,7 @@
                 "id": "https://networks.h-net.org/group/announcements/20136927/5000-essay-prizecall-papers-skirball-cultural-center",
                 "content": {
                     "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "Call for applications: 2026/2027 Shohet Scholar Grants of the International Catacomb Society",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136870/call-applications-20262027-shohet-scholar-grants-international"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-06T04:55:27.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136870/call-applications-20262027-shohet-scholar-grants-international",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "Revitalizing the Feminist Historiography of Witchcraft",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136914/revitalizing-feminist-historiography-witchcraft"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-05T21:53:00.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136914/revitalizing-feminist-historiography-witchcraft",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "SHARED WORLDS Online Conference August 1, 2026 | Call for Papers Deadline February 1, 2026",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20135739/shared-worlds-online-conference-august-1-2026-call-papers-deadline"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-05T21:30:41.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20135739/shared-worlds-online-conference-august-1-2026-call-papers-deadline",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "Call for applications: 2026/2027 Shohet Scholar Grants of the International Catacomb Society",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136871/call-applications-20262027-shohet-scholar-grants-international"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-05T20:30:49.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136871/call-applications-20262027-shohet-scholar-grants-international",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-NC: 28 December - 4 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136846/h-net-job-guide-weekly-report-h-nc-28-december-4-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-05T19:47:24.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136846/h-net-job-guide-weekly-report-h-nc-28-december-4-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136759/reminder-applications-research-fellowships-winterthur-museum-garden"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-05T17:18:58.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136759/reminder-applications-research-fellowships-winterthur-museum-garden",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136724/reminder-applications-research-fellowships-winterthur-museum-garden"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-05T12:03:26.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136724/reminder-applications-research-fellowships-winterthur-museum-garden",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136760/reminder-applications-research-fellowships-winterthur-museum-garden"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-04T22:02:08.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136760/reminder-applications-research-fellowships-winterthur-museum-garden",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
-                }
-            },
-            {
-                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136768/reminder-applications-research-fellowships-winterthur-museum-garden"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-04T13:45:51.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136768/reminder-applications-research-fellowships-winterthur-museum-garden",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Minerva News Roundup EXCERPT The Strange, Complex Story of Women and ISIS\u2026"
+                    "#text": "CfP: International Conference \"Violent Turns: Sources, Interpretations, Responses\" \u2026"
                 }
             },
             {
@@ -1265,22 +1281,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "By Justin Martin In The Dawn of Everything: A New History of Humanity (2021), anthropologist David\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Theology, Religion, and Video Games",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/06/15/call-for-papers-theology-religion-and-video-games/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-06-15T05:13:45.000Z",
-                "id": "https://popularcultureandtheology.com/2025/06/15/call-for-papers-theology-religion-and-video-games/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: Theology, Religion and Video Games Volume Editor: Trevor B. Williams Abstract + CV due: Oct 1,\u2026"
                 }
             },
             {
