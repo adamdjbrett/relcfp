@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-01-09T05:13:30.000Z",
+        "updated": "2026-01-09T21:34:54.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137384/research-fellowships-massachusetts-historical-society-2026-2027"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-09T21:34:54.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137384/research-fellowships-massachusetts-historical-society-2026-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
+            {
+                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136767/reminder-applications-research-fellowships-winterthur-museum-garden"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-09T20:57:38.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136767/reminder-applications-research-fellowships-winterthur-museum-garden",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-HOAC: 28 December - 4 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136841/h-net-job-guide-weekly-report-h-hoac-28-december-4-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-09T15:16:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136841/h-net-job-guide-weekly-report-h-hoac-28-december-4-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
             {
                 "title": "Event: Rejoicing Rabbis and the Roman Economy of Emotions",
                 "link": {
@@ -148,38 +196,6 @@
                 }
             },
             {
-                "title": "Reminder: Applications for Research Fellowships at Winterthur Museum, Garden & Library due Jan. 15, 2026",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136761/reminder-applications-research-fellowships-winterthur-museum-garden"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-07T05:08:19.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136761/reminder-applications-research-fellowships-winterthur-museum-garden",
-                "content": {
-                    "@type": "html",
-                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
-                }
-            },
-            {
-                "title": "Revitalizing the Feminist Historiography of Witchcraft",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136915/revitalizing-feminist-historiography-witchcraft"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-07T03:50:06.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136915/revitalizing-feminist-historiography-witchcraft",
-                "content": {
-                    "@type": "html",
-                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
-                }
-            },
-            {
                 "title": "A Nostalgic Journey and a Guiding Star: Revisiting Hercules, Xena, and the Magi",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2026/01/06/a-nostalgic-journey-and-a-guiding-star-revisiting-hercules-xena-and-the-magi/"
@@ -193,22 +209,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "By Princess O\u2019Nika Auguste During the holiday season, the pull of childhood nostalgia often leads me\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 28 December - 4 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20136831/h-net-job-guide-weekly-report-h-amindian-28-december-4-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-06T20:35:28.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20136831/h-net-job-guide-weekly-report-h-amindian-28-december-4-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
                 }
             },
             {
