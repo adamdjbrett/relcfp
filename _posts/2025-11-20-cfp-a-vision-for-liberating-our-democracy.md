@@ -91,7 +91,7 @@ Proposals should include a 300-word abstract and a 100-word biography. The submi
 
 - Location: United Lutheran Seminary, 7301 Germantown Avenue, Philadelphia, PA 19119
 
-- Submission Deadline: December 15, 2025
+- Submission Deadline: January 15, 2026
 
 - Contact: Adam DJ Brett, <abrett@uls.edu>
 
