@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-01-12T16:02:26.000Z",
+        "updated": "2026-01-13T10:45:46.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137370/research-fellowships-massachusetts-historical-society-2026-2027"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-13T10:45:46.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137370/research-fellowships-massachusetts-historical-society-2026-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Adjunct: 4 January - 11 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137531/h-net-job-guide-weekly-report-h-adjunct-4-january-11-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-12T19:44:00.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137531/h-net-job-guide-weekly-report-h-adjunct-4-january-11-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
             {
                 "title": "Linguistic Cartographies: Narratives of Displacement and Belonging Through Language Contact in Political Literature",
                 "link": {
@@ -33,6 +65,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, January 12, 2026 - 3:17pmfull name / name of organization: Anna\u2026"
+                }
+            },
+            {
+                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137369/research-fellowships-massachusetts-historical-society-2026-2027"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-12T15:38:01.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137369/research-fellowships-massachusetts-historical-society-2026-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
                 }
             },
             {
@@ -84,6 +132,22 @@
                 }
             },
             {
+                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137374/research-fellowships-massachusetts-historical-society-2026-2027"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-12T14:30:42.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137374/research-fellowships-massachusetts-historical-society-2026-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
+            {
                 "title": "MLA 2027 Panel: Censorship in Spanish Cinema",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/12/mla-2027-panel-censorship-in-spanish-cinema"
@@ -97,6 +161,38 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, January 12, 2026 - 3:16pmfull name / name of organization: Dr. Jos\u00e9 Eduardo\u2026"
+                }
+            },
+            {
+                "title": "Reading Heschel Today: Resonances and Dissonances (The Inaugural Interfaith Lecture Honouring Professor Edward K. Kaplan (Z\u201dL)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137527/reading-heschel-today-resonances-and-dissonances-inaugural-interfaith"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-12T14:22:16.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137527/reading-heschel-today-resonances-and-dissonances-inaugural-interfaith",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Diplo: 4 January - 11 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137559/h-net-job-guide-weekly-report-h-diplo-4-january-11-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-12T13:27:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137559/h-net-job-guide-weekly-report-h-diplo-4-january-11-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
                 }
             },
             {
@@ -148,6 +244,38 @@
                 }
             },
             {
+                "title": "Revitalizing the Feminist Historiography of Witchcraft",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136918/revitalizing-feminist-historiography-witchcraft"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-12T01:04:13.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136918/revitalizing-feminist-historiography-witchcraft",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
+            {
+                "title": "LGBTQ Religious Archives Network Seeks Part-Time Archivist",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20136553/lgbtq-religious-archives-network-seeks-part-time-archivist"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-12T00:57:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20136553/lgbtq-religious-archives-network-seeks-part-time-archivist",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
+                }
+            },
+            {
                 "title": "CFP Food and Censorship (publication)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/11/cfp-food-and-censorship-publication"
@@ -161,6 +289,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, January 12, 2026 - 3:16pmfull name / name of organization: Food&contact\u2026"
+                }
+            },
+            {
+                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137378/research-fellowships-massachusetts-historical-society-2026-2027"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-11T17:36:11.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137378/research-fellowships-massachusetts-historical-society-2026-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
                 }
             },
             {
@@ -225,6 +369,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, January 12, 2026 - 3:15pmfull name / name of organization: Joy McEntee / Adelaide\u2026"
+                }
+            },
+            {
+                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137384/research-fellowships-massachusetts-historical-society-2026-2027"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-09T21:34:54.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137384/research-fellowships-massachusetts-historical-society-2026-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "ResearchGate: Publishers Take Formal Steps to Force Copyright Compliance A summary of\u2026"
                 }
             },
             {
