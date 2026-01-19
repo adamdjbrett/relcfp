@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-01-16T22:12:51.000Z",
+        "updated": "2026-01-19T06:07:40.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "SEMINAR> \"Padmasambhava, U\u1e0d\u1e0diy\u0101na, and Tibet\" Seminar at Oxford, Webinar Series",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137903/padmasambhava-uddiyana-and-tibet-seminar"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-19T06:07:40.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137903/padmasambhava-uddiyana-and-tibet-seminar",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                }
+            },
+            {
+                "title": "LECTURE> Steven Heine on D\u014dgen's Approach to Personal and Political Upheaval - Wed, Jan 21 4-5:30 PT",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20137770/steven-heine-dogens-approach-personal-and-political-upheaval-wed-jan"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-19T06:04:45.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20137770/steven-heine-dogens-approach-personal-and-political-upheaval-wed-jan",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                }
+            },
+            {
+                "title": "UC Berkeley Postdoctoral Fellow in Buddhist Studies",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20138017/uc-berkeley-postdoctoral-fellow-buddhist-studies"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-19T05:59:21.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20138017/uc-berkeley-postdoctoral-fellow-buddhist-studies",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                }
+            },
             {
                 "title": "Deadline Approaching: New England Regional Fellowship Consortium",
                 "link": {
@@ -126,54 +174,6 @@
                 },
                 "updated": "2026-01-14T16:15:18.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20136727/reminder-applications-research-fellowships-winterthur-museum-garden",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-NC: 4 January - 11 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137598/h-net-job-guide-weekly-report-h-nc-4-january-11-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-14T14:22:09.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137598/h-net-job-guide-weekly-report-h-nc-4-january-11-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137385/research-fellowships-massachusetts-historical-society-2026-2027"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-14T13:24:18.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137385/research-fellowships-massachusetts-historical-society-2026-2027",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-HOAC: 4 January - 11 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137571/h-net-job-guide-weekly-report-h-hoac-4-january-11-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-13T21:35:28.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137571/h-net-job-guide-weekly-report-h-hoac-4-january-11-january",
                 "content": {
                     "@type": "html",
                     "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
