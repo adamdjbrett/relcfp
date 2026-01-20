@@ -6,7 +6,6 @@ tags:
  - humanities
  - philosophy
 paginate: true 
-
 ---
 
 ## DESCRIPTION
