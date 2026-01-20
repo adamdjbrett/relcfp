@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-01-20T04:04:30.000Z",
+        "updated": "2026-01-20T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,163 +20,19 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "USC Levan Book Chat\u2014Jessica X. Zu, Just Awakening",
+                "title": "#CFP: SUMMER SCHOOL ON THE KYOTO SCHOOL 2026 (1-12 June 2026)",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137738/usc-levan-book-chat-jessica-x-zu-just-awakening"
+                    "@href": "https://relcfp.com/2026/01/20/cfp-totality/"
                 },
                 "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
                 },
-                "updated": "2026-01-20T04:04:30.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137738/usc-levan-book-chat-jessica-x-zu-just-awakening",
+                "updated": "2026-01-20T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/01/20/cfp-totality/",
                 "content": {
                     "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Asia: 4 January - 11 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137546/h-net-job-guide-weekly-report-h-asia-4-january-11-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-20T04:01:31.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137546/h-net-job-guide-weekly-report-h-asia-4-january-11-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 11 January - 18 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138410/h-net-job-guide-weekly-report-h-buddhism-11-january-18-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-20T01:34:21.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138410/h-net-job-guide-weekly-report-h-buddhism-11-january-18-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Diplo: 11 January - 18 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138422/h-net-job-guide-weekly-report-h-diplo-11-january-18-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T20:17:49.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138422/h-net-job-guide-weekly-report-h-diplo-11-january-18-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: New England Regional Fellowship Consortium",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138231/deadline-approaching-new-england-regional-fellowship-consortium"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T15:59:32.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138231/deadline-approaching-new-england-regional-fellowship-consortium",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "Exploring Cotton Mather\u2019s Curiosa Americana",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138207/exploring-cotton-mathers-curiosa-americana"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T14:49:48.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138207/exploring-cotton-mathers-curiosa-americana",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: New England Regional Fellowship Consortium",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138232/deadline-approaching-new-england-regional-fellowship-consortium"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T14:48:27.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138232/deadline-approaching-new-england-regional-fellowship-consortium",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 4 January - 11 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137550/h-net-job-guide-weekly-report-h-buddhism-4-january-11-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T06:15:17.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137550/h-net-job-guide-weekly-report-h-buddhism-4-january-11-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "CFP> Hybrid Symposium on Hangzhou Buddhist Culture (April 24\u201325, 2026)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138005/hybrid-symposium-hangzhou-buddhist-culture-april-24-25-2026"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T06:10:43.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138005/hybrid-symposium-hangzhou-buddhist-culture-april-24-25-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "SEMINAR> \"Padmasambhava, U\u1e0d\u1e0diy\u0101na, and Tibet\" Seminar at Oxford, Webinar Series",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137903/padmasambhava-uddiyana-and-tibet-seminar"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T06:07:40.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137903/padmasambhava-uddiyana-and-tibet-seminar",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                    "#text": "DESCRIPTION While major Western philosophical movements in the 20th century looked upon claims to\u2026"
                 }
             },
             {
@@ -193,6 +49,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "Anthropology at the End of Worlds Due February 23, 2026 Northeastern University will host\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Second Annual UNCG Game Studies Conference Give and Take: Transactional Experiences in Gaming",
+                "link": {
+                    "@href": "https://relcfp.com/2026/01/19/cfp-uncg-game-studies-conference/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-01-19T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/01/19/cfp-uncg-game-studies-conference/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Friday and Saturday, March 20-21, 2026"
                 }
             },
             {
@@ -1092,22 +964,6 @@
                 }
             },
             {
-                "title": "#CFP: American Academy of Religion, Western Region 2026 Conference: Religion, Technology, and Innovation",
-                "link": {
-                    "@href": "https://relcfp.com/2025/10/21/cfp-aarwr/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-10-21T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/10/21/cfp-aarwr/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: American Academy of Religion, Western Region 2026 Conference: Religion, Technology, and\u2026"
-                }
-            },
-            {
                 "title": "Extended Call for Papers: Consequential Play \u2013 Theology, Video Games, & Culture",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/10/15/extended-call-for-papers-consequential-play-theology-video-games-culture/"
@@ -1121,22 +977,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "CFP: Consequential Play \u2013 Theology, Religion and Video Games Volume Editor: Trevor B. Williams\u2026"
-                }
-            },
-            {
-                "title": "#CFP: The Midwest American Academy of Religion will host its 2026 conference in Cincinnati, Ohio.",
-                "link": {
-                    "@href": "https://relcfp.com/2025/10/10/cfp-midwest-aar-ohio/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-10-10T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/10/10/cfp-midwest-aar-ohio/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Dear Colleagues,"
                 }
             },
             {
