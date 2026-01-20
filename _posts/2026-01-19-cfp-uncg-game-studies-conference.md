@@ -19,23 +19,14 @@ The 2026 interdisciplinary UNCG Game Studies Conference seeks proposals for acad
 Proposals might consider, but are not limtted to, such ideas as:
 
 - Gender or queer theory
-
 - Feminism
-
 - Transmedia and multimodality
-
 - Critiques, reviews, hype, and other reactive or reflective gaming practices
-
 - Games designed for health, wellness, or therapeutic functions
-
 - Games designed for causes, such as environmentalism or mental health advocacy
-
 - Fan-made pursuits such as modding, machinima, and fan fiction
-
 - Relationships across media, such as those between Marvel games, Marvel media franchises, and the military-entertainment complex
-
 - Questions of agency, player embodiment, immersion, etc.
-
 - Pedagogy and transmedia or rnultimodal approaches to teaching
 
 We invrte proposals from individuals, panels of no more than four presenters, roundtable discussions, and non-traditional sessions. The organizing committee will assemble panels from the accepted individual proposals. Some proposals will be accepted as Talk-and-Play presentations, which include the audience's ability to play a portion of the game included in your presentation. For these we will use the UNCG Esports Arena, which offers a presentation area and 48 gaming PCs for attendees.
@@ -46,13 +37,9 @@ via Microsoft form: <https://forms.off1ce.com/r/RSVxdSPSvs>
 Proposals should include the following:
 
 - A title
-
 - A 500-word maximum abstract for individual proposals
-
 - A 1,000-word maximum abstract for panels and roundtables, including the common subject, theme, or other connective material
-
 - There will be options in the proposal form to indicate in-person or remote attendance for your presentation, A/V needs, or other specific requests.
-
 - Please send any questions to <uncggamestud1esconference@gmail.com>.
 
 
