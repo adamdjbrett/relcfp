@@ -1,5 +1,5 @@
 ---
-title: "#CFP: SUMMER SCHOOL ON THE KYOTO SCHOOL 2026 (1-12 June 2026)"
+title: "#CFP: Conatus: Between Visible & Invisible Worlds: Medieval Forms of Mediation"
 image: /assets/images/relcfp-cover.webp
 tags:
  - religion
