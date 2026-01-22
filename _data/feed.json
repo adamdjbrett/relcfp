@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-01-21T05:16:55.000Z",
+        "updated": "2026-01-22T04:52:04.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Deadline January 30th: CFP Wisdom from the Middle Ages: Philosophical Contributions from the Abrahamic Traditions",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20138805/deadline-january-30th-cfp-wisdom-middle-ages-philosophical"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-22T04:52:04.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20138805/deadline-january-30th-cfp-wisdom-middle-ages-philosophical",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                }
+            },
+            {
+                "title": "NEW PROGRAM> Call for Applications to attend the Black Buddhism Faculty Training Summer '26",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20138817/call-applications-attend-black-buddhism-faculty-training-summer-26"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-21T22:27:14.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20138817/call-applications-attend-black-buddhism-faculty-training-summer-26",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-NC: 11 January - 18 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20138463/h-net-job-guide-weekly-report-h-nc-11-january-18-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-21T15:05:27.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20138463/h-net-job-guide-weekly-report-h-nc-11-january-18-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                }
+            },
+            {
+                "title": "USC Levan Book Chat\u2014Jessica X. Zu, Just Awakening",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20138673/usc-levan-book-chat-jessica-x-zu-just-awakening"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-21T12:46:26.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20138673/usc-levan-book-chat-jessica-x-zu-just-awakening",
+                "content": {
+                    "@type": "html",
+                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
+                }
+            },
             {
                 "title": "7th MIT Global Humanities Forum on \u201cPILLAR 5: Environment, Biodiversity & Planetary Stewardship\u201d on Feb 13 (online)",
                 "link": {
@@ -164,22 +228,6 @@
                 }
             },
             {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 11 January - 18 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138410/h-net-job-guide-weekly-report-h-buddhism-11-january-18-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-20T01:34:21.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138410/h-net-job-guide-weekly-report-h-buddhism-11-january-18-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
                 "title": "Global Perestroika and Soviet Literatures (conference and subsequent edited volume)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/19/global-perestroika-and-soviet-literatures-conference-and-subsequent-edited-volume"
@@ -289,54 +337,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, January 20, 2026 - 1:35pmfull name / name of organization: The Apollonian: A\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Diplo: 11 January - 18 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138422/h-net-job-guide-weekly-report-h-diplo-11-january-18-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T20:17:49.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138422/h-net-job-guide-weekly-report-h-diplo-11-january-18-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: New England Regional Fellowship Consortium",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138231/deadline-approaching-new-england-regional-fellowship-consortium"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T15:59:32.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138231/deadline-approaching-new-england-regional-fellowship-consortium",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
-                }
-            },
-            {
-                "title": "Exploring Cotton Mather\u2019s Curiosa Americana",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20138207/exploring-cotton-mathers-curiosa-americana"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-19T14:49:48.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20138207/exploring-cotton-mathers-curiosa-americana",
-                "content": {
-                    "@type": "html",
-                    "#text": "CFP: [FRISTVERL\u00c4NGERUNG] Variations 28/2021: Gender through technology (25.09.2021) Call\u2026"
                 }
             },
             {
