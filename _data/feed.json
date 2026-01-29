@@ -12,13 +12,109 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-01-27T19:20:50.000Z",
+        "updated": "2026-01-29T00:15:03.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Feb 5 - Kurtis Schaeffer on How to Live in Hard Times: Examples from Buddhist Lives",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20139568/feb-5-kurtis-schaeffer-how-live-hard-times-examples-buddhist-lives"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-29T00:15:03.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20139568/feb-5-kurtis-schaeffer-how-live-hard-times-examples-buddhist-lives",
+                "content": {
+                    "@type": "html",
+                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-OralHist: 18 January - 25 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20139312/h-net-job-guide-weekly-report-h-oralhist-18-january-25-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-29T00:12:00.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20139312/h-net-job-guide-weekly-report-h-oralhist-18-january-25-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-OralHist: 11 January - 18 January",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20138470/h-net-job-guide-weekly-report-h-oralhist-11-january-18-january"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-28T23:45:19.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20138470/h-net-job-guide-weekly-report-h-oralhist-11-january-18-january",
+                "content": {
+                    "@type": "html",
+                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
+                }
+            },
+            {
+                "title": "CFP: Apokalypse - Zeitenende oder Zeitenwende?, Freiburg im Breisgau (31.03.2026)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20139479/tagung-apokalypse-zeitenende-oder-zeitenwende"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-28T19:33:20.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20139479/tagung-apokalypse-zeitenende-oder-zeitenwende",
+                "content": {
+                    "@type": "html",
+                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
+                }
+            },
+            {
+                "title": "CFP on Panel \"Creedal or Contested Space?: A Conversation on Partiality, Transparency, and the Teaching of History\" at AHA 2027 (New Orleans)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20139635/cfp-panel-creedal-or-contested-space-conversation-partiality"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-28T16:16:17.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20139635/cfp-panel-creedal-or-contested-space-conversation-partiality",
+                "content": {
+                    "@type": "html",
+                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
+                }
+            },
+            {
+                "title": "CFP on Panel \"Creedal or Contested Space?: A Conversation on Partiality, Transparency, and the Teaching of History\" at AHA 2027 (New Orleans)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20139634/cfp-panel-creedal-or-contested-space-conversation-partiality"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-01-28T15:58:36.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20139634/cfp-panel-creedal-or-contested-space-conversation-partiality",
+                "content": {
+                    "@type": "html",
+                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
+                }
+            },
             {
                 "title": "Christian Voices in Arabic: A Manuscript Heritage",
                 "link": {
@@ -78,102 +174,6 @@
                 },
                 "updated": "2026-01-27T07:46:06.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20139446/japanese-religions-462",
-                "content": {
-                    "@type": "html",
-                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
-                }
-            },
-            {
-                "title": "JOURNAL TOC> The Eastern Buddhist, Third Series, volume 5, numbers 1 & 2",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20139434/journal-toc-eastern-buddhist-third-series-volume-5-numbers-1-2"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-27T07:43:01.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20139434/journal-toc-eastern-buddhist-third-series-volume-5-numbers-1-2",
-                "content": {
-                    "@type": "html",
-                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 18 January - 25 January",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20139222/h-net-job-guide-weekly-report-h-buddhism-18-january-25-january"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-27T07:41:15.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20139222/h-net-job-guide-weekly-report-h-buddhism-18-january-25-january",
-                "content": {
-                    "@type": "html",
-                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
-                }
-            },
-            {
-                "title": "TALKS > Online Buddhist Studies Events (Jan 27 - Feb 25)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20139182/talks-online-buddhist-studies-events-jan-27-feb-25"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-27T07:39:20.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20139182/talks-online-buddhist-studies-events-jan-27-feb-25",
-                "content": {
-                    "@type": "html",
-                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
-                }
-            },
-            {
-                "title": "Research Fellowships at the Massachusetts Historical Society, 2026-2027",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20137375/research-fellowships-massachusetts-historical-society-2026-2027"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-27T02:18:30.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20137375/research-fellowships-massachusetts-historical-society-2026-2027",
-                "content": {
-                    "@type": "html",
-                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
-                }
-            },
-            {
-                "title": "Japanese Religions 46/2",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20139447/japanese-religions-462"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-27T01:50:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20139447/japanese-religions-462",
-                "content": {
-                    "@type": "html",
-                    "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
-                }
-            },
-            {
-                "title": "JOURNAL TOC> The Eastern Buddhist, Third Series, volume 5, numbers 1 & 2",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20139435/journal-toc-eastern-buddhist-third-series-volume-5-numbers-1-2"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-01-27T01:49:53.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20139435/journal-toc-eastern-buddhist-third-series-volume-5-numbers-1-2",
                 "content": {
                     "@type": "html",
                     "#text": "Member book announcement: Slaymaker, _Wild Lines and Poetic Travels, a Keijiro Suga Reader_ \u2026"
