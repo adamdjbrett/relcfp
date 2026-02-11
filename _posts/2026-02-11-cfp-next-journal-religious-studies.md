@@ -31,13 +31,8 @@ In addition, we are also interested in creative works that take up concepts or i
     - author's area of study
     - graduate or undergraduate
 
-## *** Creative works ONLY: 
+## Creative works ONLY: 
 Creative works should include a 1-page, double-spaced creative bio/description of the piece which includes any other info the artist would like an audience to know.
-
-We look forward to reading your submissions!
-
-Genevieve Hauer and Lucienne Brown
-_NEXT Journal Co-editors_
 
 ## About  NEXT Journal
 NEXT is a peer-reviewed journal of the Department of Religious Studies at the University of Colorado Boulder featuring insightful work from the next generation of religious studies scholars.  
