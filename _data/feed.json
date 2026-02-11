@@ -12,13 +12,205 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-07T21:22:53.000Z",
+        "updated": "2026-02-09T16:15:36.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Global Asias and Francosph\u00e8res: Intersections, Exchanges, Tensions",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/global-asias-and-francosph%C3%A8res-intersections-exchanges-tensions"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-09T16:15:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/global-asias-and-francosph%C3%A8res-intersections-exchanges-tensions",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Modern Language\u2026"
+                }
+            },
+            {
+                "title": "Opening Sequences: The Narrative Architecture of TV Titles",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/opening-sequences-the-narrative-architecture-of-tv-titles"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-09T14:11:29.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/opening-sequences-the-narrative-architecture-of-tv-titles",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Jos\u00e9 Duarte (ULICES,\u2026"
+                }
+            },
+            {
+                "title": "Forum for Contemporary Issues in Language and Literature",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/forum-for-contemporary-issues-in-language-and-literature"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-09T13:13:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/forum-for-contemporary-issues-in-language-and-literature",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: University of\u2026"
+                }
+            },
+            {
+                "title": "Forum for Contemporary Issues in Language and Literature",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/forum-for-contemporary-issues-in-language-and-literature"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-09T13:13:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/forum-for-contemporary-issues-in-language-and-literature",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: University of\u2026"
+                }
+            },
+            {
+                "title": "Filmic Ruptures and Black World-Making: Cinema as Epistemology in African and Afro-Diasporic Contexts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/filmic-ruptures-and-black-world-making-cinema-as-epistemology-in-african-and-afro"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-09T06:44:20.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/09/filmic-ruptures-and-black-world-making-cinema-as-epistemology-in-african-and-afro",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: African Studies\u2026"
+                }
+            },
+            {
+                "title": "MLA 27 - Medieval Studies, Leadership, and Public Humanities Advocacy",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/mla-27-medieval-studies-leadership-and-public-humanities-advocacy"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-09T00:33:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/mla-27-medieval-studies-leadership-and-public-humanities-advocacy",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Megan Moore / MLA Forum:\u2026"
+                }
+            },
+            {
+                "title": "The Body and Anatomy",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/the-body-and-anatomy"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-08T15:33:25.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/the-body-and-anatomy",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Art and Public\u2026"
+                }
+            },
+            {
+                "title": "The Body and Anatomy",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/the-body-and-anatomy"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-08T15:33:25.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/the-body-and-anatomy",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Art and Public\u2026"
+                }
+            },
+            {
+                "title": "Call for Book Proposals - Rolling",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/call-for-book-proposals-rolling"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-08T10:08:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/call-for-book-proposals-rolling",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: VoyGull Presscontact\u2026"
+                }
+            },
+            {
+                "title": "JOKING MATTERS: HUMOUR, ETHICS, AND SOCIAL DIFFERENCE (HUMOUR IN THE 21ST CENTURY)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/joking-matters-humour-ethics-and-social-difference-humour-in-the-21st-century"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-08T09:02:44.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/08/joking-matters-humour-ethics-and-social-difference-humour-in-the-21st-century",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Humanities and Social\u2026"
+                }
+            },
+            {
+                "title": "One Hundred Years of Magical Realism in Literature, Film, and A.I. Simulation",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/07/one-hundred-years-of-magical-realism-in-literature-film-and-ai-simulation"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-07T22:52:52.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/07/one-hundred-years-of-magical-realism-in-literature-film-and-ai-simulation",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Eugene Arva / University\u2026"
+                }
+            },
+            {
+                "title": "Italian Americans and the Making of America: Design, Diaspora, and the Architecture of Belonging",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/07/italian-americans-and-the-making-of-america-design-diaspora-and-the-architecture-of"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-07T22:19:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/07/italian-americans-and-the-making-of-america-design-diaspora-and-the-architecture-of",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, February 9, 2026 - 2:10pmfull name / name of organization: Italian American Studies\u2026"
+                }
+            },
             {
                 "title": "Wilde West Coast",
                 "link": {
@@ -153,22 +345,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/06/call-for-book-chapters"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-06T08:06:58.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/06/call-for-book-chapters",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:49pmfull name / name of organization: LORETO COLLEGE,\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Chapters",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/06/call-for-book-chapters"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -177,22 +353,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, February 7, 2026 - 3:49pmfull name / name of organization: LORETO COLLEGE,\u2026"
-                }
-            },
-            {
-                "title": "Repeating Stuart Hall",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/repeating-stuart-hall"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-06T02:52:14.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/repeating-stuart-hall",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:48pmfull name / name of organization: MLA 2027 Psychology,\u2026"
                 }
             },
             {
@@ -208,39 +368,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/repeating-stuart-hall",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:48pmfull name / name of organization: MLA 2027 Psychology,\u2026"
-                }
-            },
-            {
-                "title": "MLA 2027: Filipinx Placemaking (special session)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/mla-2027-filipinx-placemaking-special-session"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-05T22:13:15.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/mla-2027-filipinx-placemaking-special-session",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:48pmfull name / name of organization: Kathleen DeGuzman, San\u2026"
-                }
-            },
-            {
-                "title": "Journal of Global Postcolonial Studies",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/journal-of-global-postcolonial-studies"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-05T16:07:05.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/journal-of-global-postcolonial-studies",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:48pmfull name / name of organization: Journal of Global\u2026"
+                    "#text": "updated: Sunday, February 8, 2026 - 10:10pmfull name / name of organization: MLA 2027 Psychology,\u2026"
                 }
             },
             {
@@ -265,22 +393,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwin%E2%80%99s-revolutions"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-05T15:49:03.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwin%E2%80%99s-revolutions",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:48pmfull name / name of organization: James Baldwin\u2026"
-                }
-            },
-            {
-                "title": "James Baldwin\u2019s Revolutions",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwin%E2%80%99s-revolutions"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -289,70 +401,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Saturday, February 7, 2026 - 3:48pmfull name / name of organization: James Baldwin\u2026"
-                }
-            },
-            {
-                "title": "James Baldwin and Abolition",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwin-and-abolition"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-05T15:47:41.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwin-and-abolition",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:45pmfull name / name of organization: James Baldwin\u2026"
-                }
-            },
-            {
-                "title": "James Baldwin and Abolition",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwin-and-abolition"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-05T15:47:41.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwin-and-abolition",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 3:45pmfull name / name of organization: James Baldwin\u2026"
-                }
-            },
-            {
-                "title": "James Baldwin's Late Style",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwins-late-style"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-05T15:46:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwins-late-style",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 2:34pmfull name / name of organization: James Baldwin\u2026"
-                }
-            },
-            {
-                "title": "James Baldwin's Late Style",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwins-late-style"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-05T15:46:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/05/james-baldwins-late-style",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, February 7, 2026 - 2:34pmfull name / name of organization: James Baldwin\u2026"
                 }
             },
             {
@@ -532,22 +580,6 @@
                 }
             },
             {
-                "title": "Cultural Narratologies: Form and Context in Contemporary Narrative Theory",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/23/cultural-narratologies-form-and-context-in-contemporary-narrative-theory"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-01-23T12:04:31.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/23/cultural-narratologies-form-and-context-in-contemporary-narrative-theory",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 23, 2026 - 4:18pmfull name / name of organization: Between Journalcontact\u2026"
-                }
-            },
-            {
                 "title": "City of Angels: Migration, Encounter, and New Forms of Faith",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/22/city-of-angels-migration-encounter-and-new-forms-of-faith"
@@ -561,38 +593,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 23, 2026 - 4:17pmfull name / name of organization: TC Religion and\u2026"
-                }
-            },
-            {
-                "title": "City of Angels: Migration, Encounter, and New Forms of Faith",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/22/city-of-angels-migration-encounter-and-new-forms-of-faith"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-01-22T21:43:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/22/city-of-angels-migration-encounter-and-new-forms-of-faith",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 23, 2026 - 4:17pmfull name / name of organization: TC Religion and\u2026"
-                }
-            },
-            {
-                "title": "Accelerationism Revisited",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/21/accelerationism-revisited"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-01-21T12:46:18.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/21/accelerationism-revisited",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 23, 2026 - 1:28pmfull name / name of organization: Rhona Jamieson /\u2026"
                 }
             },
             {
