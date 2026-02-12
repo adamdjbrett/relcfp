@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-09T16:15:36.000Z",
+        "updated": "2026-02-12T01:56:03.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Gadflies, the Golden Rule, and Getting Justice \u201cRight\u201d\u2014The Animating and Cautionary Features of Daredevil: Born Again",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2026/02/11/gadflies-the-golden-rule-and-getting-justice-right-the-animating-and-cautionary-features-of-daredevil-born-again/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2026-02-12T01:56:03.000Z",
+                "id": "https://popularcultureandtheology.com/2026/02/11/gadflies-the-golden-rule-and-getting-justice-right-the-animating-and-cautionary-features-of-daredevil-born-again/",
+                "content": {
+                    "@type": "html",
+                    "#text": "By Justin Martin I was raised to believe in grace. That we can be touched by the divine and\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Next Journal",
+                "link": {
+                    "@href": "https://relcfp.com/2026/02/11/cfp-next-journal-religious-studies/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-02-11T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/02/11/cfp-next-journal-religious-studies/",
+                "content": {
+                    "@type": "html",
+                    "#text": "2025\u2013\u201326 Call for Papers"
+                }
+            },
             {
                 "title": "Global Asias and Francosph\u00e8res: Intersections, Exchanges, Tensions",
                 "link": {
@@ -900,22 +932,6 @@
                 }
             },
             {
-                "title": "#CFP: NABPR Region-at-Large Call for Papers CTS/NABPR-RAL 2026 Meeting at Villanova University in Pennsylvania, May 28-31, 2026",
-                "link": {
-                    "@href": "https://relcfp.com/2025/11/03/cfp-nabpr-religion-at-large-villanova/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-11-03T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/11/03/cfp-nabpr-religion-at-large-villanova/",
-                "content": {
-                    "@type": "html",
-                    "#text": "NABPR Region-at-Large Call for Papers CTS/NABPR-RAL 2026 Meeting Villanova University in\u2026"
-                }
-            },
-            {
                 "title": "Extended Call for Papers: Religion and Peak TV",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2025/10/31/extended-call-for-papers-religion-and-peak-tv/"
@@ -977,22 +993,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Volume Editor: George Tsakiridis, PhD Abstract and CV Due: September 30, 2025 Initial Final Paper\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Religion and AI in Science Fiction and Horror",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/06/28/call-for-papers-religion-and-ai-in-science-fiction-and-horror/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-06-28T19:18:30.000Z",
-                "id": "https://popularcultureandtheology.com/2025/06/28/call-for-papers-religion-and-ai-in-science-fiction-and-horror/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Book Title: A (Holy?) Ghost in the Machine: Religion and Artificial Intelligence in Science-Fiction\u2026"
                 }
             },
             {
