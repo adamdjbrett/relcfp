@@ -7,7 +7,6 @@ tags:
   - history
   - theology
   - baptist
-paginate: true   
 canonical_url: https://nabpr.org/dissertation/
 ---
 Dissertation Scholarship

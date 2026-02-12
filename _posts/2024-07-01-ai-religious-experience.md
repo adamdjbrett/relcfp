@@ -1,7 +1,6 @@
 ---
 title: "AI and Religous Experience"
 image: "/assets/images/relcfp-cover.jpg"
-paginate: true   
 tags:
   - religion
   - AI

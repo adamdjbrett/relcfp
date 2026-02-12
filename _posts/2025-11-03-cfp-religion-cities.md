@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://usreligion.substack.com/p/cfp-center-for-religion-and-cities
 ---
 

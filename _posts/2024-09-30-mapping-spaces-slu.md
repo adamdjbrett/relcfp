@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 Fifty years ago, the towers fell. Two miles north of the gleaming steel of the then-still-new Gateway Arch in St. Louis, the Pruitt-Igoe public housing development had been a triumph of Modernist design when it was completed in 1954. Initially racially separated, by 1955 the 33 11-storey towers were racially integrated and white residents began relocating to other parts of the expanding suburban area. Between 1972 and 1976 the now-neglected and derelict buildings were demolished. The 57-acre campus was left untended for decades, allowing native vegetation to reclaim this section of the urban landscape. In November 2019, the National Geospatial-Intelligence Agency, broke ground on its new $2B campus in north St. Louis. The new home for the US intelligence agency that specializes in mapping, surveillance, and satellite imagery is across the street from the ruins of Pruitt-Igoe. Both building projects on this site contributed to histories and legacies of design and displacement that played out in innumerable urban contexts across the United States over the past half century.
 

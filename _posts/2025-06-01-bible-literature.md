@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://call-for-papers.sas.upenn.edu/cfp/2025/05/12/bible-and-literature
 ---
 Bible and Literature

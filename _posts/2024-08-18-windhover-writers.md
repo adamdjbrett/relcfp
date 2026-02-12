@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - rhetoric
-paginate: true   
 ---
 2025 Windhover Writers' Festivval CFP
 -------------------------------------

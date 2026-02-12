@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - medical
-paginate: true   
 ---
 
 Dates & Format

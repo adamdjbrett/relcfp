@@ -7,7 +7,6 @@ tags:
   - history
   - philosophy
   - ethics
-paginate: true   
 canonical_url: https://philevents.org/event/show/130178
 ---
 Details

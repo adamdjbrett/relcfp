@@ -2,7 +2,6 @@
 title: "CFP: Foucault and the Frankfurt School – DePaul University Philosophy Graduate Student Conference"
 date: 2024-06-13 14:43:53
 image: "/assets/images/Chicago-300x300.jpg"
-paginate: true   
 tags:
   - foucault
   - frankfurt-school

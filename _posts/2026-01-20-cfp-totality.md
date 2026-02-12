@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 ---
 
 ## DESCRIPTION

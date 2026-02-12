@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: 
 ---
 Seeking chapters drawing on Foucault's history of sexuality to analyze transgender themes in Indian film, television, and web series. We seek a diverse group of contributors from countries throughout the world. Chapters will be included in *The Handbook of Indian Trans Cinema*, alongside other chapters applying Foucauldian insights into power, knowledge, and discourse. (See Theme 13 below.) Proposals are due July 1, 2025.

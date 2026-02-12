@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Palgrave Studies in Global Literatures and Religions (book series)
 ------------------------------------------------------------------

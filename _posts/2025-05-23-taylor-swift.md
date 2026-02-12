@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://popularcultureandtheology.com/2025/05/20/call-for-papers-theology-religion-and-taylor-swift-2/
 ---
 **Call for Papers: Theology, Religion and Taylor Swift**

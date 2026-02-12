@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 CFP: Essay Prize: Panpsychism and the Divine Mind
 =================================================

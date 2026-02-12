@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 ---
 ## Deadlines
 - Submission deadline: February 1, 2025

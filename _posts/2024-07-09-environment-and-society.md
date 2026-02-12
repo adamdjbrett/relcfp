@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Bloomsbury's Environment and Society Book Series
 ------------------------------------------------

@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://www.knox.edu/academics/research-and-creative-work/undergraduate-religious-studies-conference-2025
 ---
 Save the date!

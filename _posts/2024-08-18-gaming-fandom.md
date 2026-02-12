@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - rhetoric
-paginate: true   
 ---
 Gaming Fandom - Transformative Works and Culture
 ------------------------------------------------

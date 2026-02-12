@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Religious Encounters: Tradition, Text, and Travel (Edited Volume, proposed to be published by Bloomsbury)
 ---------------------------------------------------------------------------------------------------------

@@ -2,7 +2,6 @@
 title: "Religion and Politics: Historical Developments and Contemporary Transformations"
 date: 2024-06-13 13:26:40
 image: "/assets/images/religions-logo-social.webp"
-paginate: true   
 tags:
   - reliigon
   - politics

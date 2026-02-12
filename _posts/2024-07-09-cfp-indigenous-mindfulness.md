@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Mindfulness, Movement, and Cultural Revitalization: Indigenous Contemplative Theories and Practices
 ---------------------------------------------------------------------------------------------------

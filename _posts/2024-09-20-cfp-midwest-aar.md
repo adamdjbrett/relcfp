@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 Midwest AAR Call for Papers
 

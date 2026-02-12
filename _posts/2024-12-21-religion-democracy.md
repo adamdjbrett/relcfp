@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - history
-paginate: true  
 canonical_url: https://philevents.org/event/show/130518
 ---
 

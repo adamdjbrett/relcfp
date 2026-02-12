@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 ---
 The BYU Charles Redd Center for Western Studies annual awards and funding season is upon us! For 2025 there are multiple awards available for scholars, students, or organizations conducting research or producing public programming related to the Intermountain regions of Arizona, Colorado, Idaho, Montana, Nevada, New Mexico, Utah, or Wyoming. Applications for 2025 are due by 11:59 p.m. MST on March 15, and awardees will be notified by May 1.
 

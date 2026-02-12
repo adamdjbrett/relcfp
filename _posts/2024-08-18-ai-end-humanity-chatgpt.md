@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - theology
-paginate: true   
 ---
 The advent of increasingly sophisticated and potentially autonomous forms of artificial intelligence poses a challenge to understandings of the human place in the cosmos in ways perhaps as profound as the Copernican Revolution.  And while artificial general intelligence is not yet and may never be a reality, digital technologies are already introducing powerful new possibilities for deception, surveillance, and bias, exacerbating polarization, and changing the meaning of intimacy, care, creativity, and work.  This conference brings together theologians, ethicists and philosophers of religion to reflect on the profound ways in which AI is transforming our sense of selfhood and agency, our interpersonal relationships, and our societies.  How is the Spirit at work in this new thing?  And how can we ensure that digital technologies serve a more flourishing human and creaturely future?
 

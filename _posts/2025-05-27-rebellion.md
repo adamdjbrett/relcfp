@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://call-for-papers.sas.upenn.edu/cfp/2025/05/28/extended-deadline-rebellion-and-revolution-in-african-american-literature
 ---
 Extended Deadline--Rebellion and Revolution in African American Literature

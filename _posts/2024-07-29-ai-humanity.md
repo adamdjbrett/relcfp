@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 [REGISTER NOW!](https://cvent.me/V4ZgyQ)
 

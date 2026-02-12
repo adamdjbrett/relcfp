@@ -8,7 +8,6 @@ tags:
   - toxic 
   - sacred
   - theology
-paginate: true
 ---
 
 Canadian Theological Society

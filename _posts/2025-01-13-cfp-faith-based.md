@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 ---
 ## Brigham Young University Religious Education and the Moral Education Professorship
 Send submissions to Dr. Michael MacKay at <michael_mackay@byu.edu>

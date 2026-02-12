@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 ## Call for Proposals
 2025 Rocky Mountain-Great Plains (RMGP) Regional Meeting

@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 
 CFP: SI: "The Future of Human Ecology", Revista Naturaleza y Libertad

@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 canonical_url: https://fis.uiii.ac.id/activities/events/call-for-papers-the-international-conference-on-decolonizing-social-sciences-and-humanities-islamic-and-non-western-perspectives-1600/
 ---
 ## CALL FOR PAPERS 

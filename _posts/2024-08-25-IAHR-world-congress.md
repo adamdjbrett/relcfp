@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 #### 1. Reimagining Religion, Rethinking Philosophy: Theories and Methods from Buddhist Sources
 

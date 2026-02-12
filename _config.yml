@@ -68,6 +68,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
+      paginate: true
   - scope:
       path: ""
     values:

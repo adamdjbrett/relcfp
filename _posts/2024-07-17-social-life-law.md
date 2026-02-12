@@ -6,7 +6,6 @@ tags:
   - humanities
   - history
   - law
-paginate: true   
 ---
 Call for papers: Authoritarianism, law, and the remaking of society
 ===================================================================

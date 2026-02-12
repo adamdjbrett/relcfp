@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Reconceptualizing Religion in Early African American Literature (Deadline Extended)
 -----------------------------------------------------------------------------------

@@ -10,7 +10,6 @@ categories:
 tags:
   - call for authors
   - doctrine-discovery
-paginate: true
 author: adamdjbrett
 
 ---

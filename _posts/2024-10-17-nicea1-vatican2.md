@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 ## Details
 Call for Papers (Due March 1, 2025) - The Legacies Conference 2025: "The Legacies of Nicaea I and Vatican II: An Inheritance Unfolding", September 4-7, 2025, Marquette University, Milwaukee, Wisconsin

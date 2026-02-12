@@ -6,7 +6,6 @@ tags:
   - religion
   - foucault
   - humanities
-paginate: true   
 ---
 ## CFP: "Michel Foucault and Phenomenology" The Southern Journal of Philosophy Workshop 2025
 

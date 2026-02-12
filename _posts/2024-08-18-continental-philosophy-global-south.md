@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 (New Deadline) CFP: Continental Philosophy and Global South Perspectives
 ------------------------------------------------------------------------

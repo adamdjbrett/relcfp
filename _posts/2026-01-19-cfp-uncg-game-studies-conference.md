@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://forms.off1ce.com/r/RSVxdSPSvs
 ---
 Friday and Saturday, March 20-21, 2026

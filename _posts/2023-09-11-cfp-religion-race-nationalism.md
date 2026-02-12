@@ -11,7 +11,6 @@ tags:
   - racism
   - acrel
   - religion
-paginate: true
 author: adamdjbrett
 ---
 Dear Colleagues,

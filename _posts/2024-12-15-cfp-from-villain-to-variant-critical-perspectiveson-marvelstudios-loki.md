@@ -6,7 +6,6 @@ tags:
  - humanities
  - history
  - philosophy
-paginate: true  
 canonical_url: https://sites.google.com/view/loki-call-for-papers
 ---
 From Villain to Variant:

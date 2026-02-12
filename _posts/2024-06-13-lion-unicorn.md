@@ -2,7 +2,6 @@
 title: "CFP: Special Issue of The Lion and the Unicorn (Twenty-First-Century Religion and Culture in Youth Literature)"
 date: 2024-06-13 12:26:40
 image: "/assets/images/relcfp-cover.jpg"
-paginate: true   
 tags:
   - religion
   - culture

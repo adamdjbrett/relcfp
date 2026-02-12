@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 ## CFP: Sensing Euphoric and Dysphoric Atmospheres
 ### deadline for submissions: 

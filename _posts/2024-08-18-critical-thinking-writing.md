@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - rhetoric
-paginate: true   
 ---
 Critical Thinking and Writing
 -----------------------------

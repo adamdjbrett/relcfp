@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url:
 ---
 JEASA - Journal of the European Association for Studies on Australia - Special Issue on Voicing Otherness: Reconfiguring Australia's Postcoloniality?

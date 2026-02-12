@@ -5,7 +5,6 @@ tags:
   - religion
   - medical
   - humanities
-paginate: true   
 ---
 The 14th Annual Midwestern Medical Humanities Conference will be on October 25th, 2024 via Microsoft Teams. The theme of this year's meeting is Artificial Intelligence in Medicine, which will comprise (at least) one track. Other track(s) will remain open for general submissions relating to medical humanities. 
 

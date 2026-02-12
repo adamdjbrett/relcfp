@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 ---
 We are pleased to announce that the 3rd annual Duke-UNC Philosophy Graduate Conference will be held on March 29, 2025 at Duke University in Durham, North Carolina. We welcome submissions from all graduate students in any area of philosophy.
 

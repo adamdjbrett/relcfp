@@ -8,7 +8,6 @@ tags:
   - religion 
   - ecology 
   - cosmology
-paginate: true
 ---
 Please see the poster for more information on TGSA’s upcoming Spring 2024 conference, “Doing Theology in a Canadian Context.” Proposals of 300-words are welcome from across theological disciplines, by Friday, March 1, 2024.
 

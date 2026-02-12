@@ -12,7 +12,6 @@ tags:
   - affect
   - acrel
   - religion
-paginate: true
 author: adamdjbrett
 ---
 CFP: The 20th Annual

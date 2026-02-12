@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 ## Details
 God Loves Kitsch! (CAA )

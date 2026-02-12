@@ -4,7 +4,6 @@ image: /assets/images/religions-logo-social.webp
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Situating Religious Cognition
 =============================

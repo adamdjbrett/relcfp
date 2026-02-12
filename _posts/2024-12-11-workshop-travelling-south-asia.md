@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 canonical_url: https://macmillan.yale.edu/southasia/workshop-traveling-expertise-modern-south-asia-and-beyond
 ---
 The South Asian Studies Council at Yale University is seeking applicants from scholars interested in participating in a workshop on "Traveling Expertise" on May 8-9, 2025 in New Haven. This small and informal workshop will provide an opportunity to share ideas and challenges in research the flow of experts and expertise from, to, and through modern South Asia.  

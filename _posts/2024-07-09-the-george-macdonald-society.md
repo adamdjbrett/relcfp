@@ -5,7 +5,6 @@ image: /assets/images/george-macdonald-society.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 2024 Bicentenary Conference (UK)
 --------------------------------

@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 The EIR is thrilled to announce the theme of our 2025 Regional Meeting! Join us from April 4-6 at St. Lawrence University in Canton, NY for a conference around the theme The Futures of Religious Studies. For more information about this topic, see the full text of our Call for Papers below, or view it as a [PDF](https://eiraar.org/images/PDFs/CFP%20EIR%20St%20Lawrence%202025.pdf).
 

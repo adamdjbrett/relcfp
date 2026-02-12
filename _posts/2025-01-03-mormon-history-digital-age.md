@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - history
-paginate: true 
 ---
 
 ## **Call For Proposals: Special Issue of Journal of Mormon History**

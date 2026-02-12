@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 canonical_url: https://urbrel.hypotheses.org/11284
 ---
 

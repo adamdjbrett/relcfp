@@ -6,7 +6,6 @@ tags:
   - humanities
   - history
   - literature
-paginate: true   
 ---
 ## Details
 Event Date: 2024-09-15 Abstract Due: 2024-09-15

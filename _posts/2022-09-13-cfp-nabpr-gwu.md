@@ -13,7 +13,6 @@ tags:
   - sblaar
   - aarsbl
   - Baptists
-paginate: true
 author: adamdjbrett
 
 ---

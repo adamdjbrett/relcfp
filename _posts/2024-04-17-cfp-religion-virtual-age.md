@@ -7,7 +7,6 @@ tags:
   - religion 
   - virtual 
   - UK
-paginate: true
 ---
 ## Details
 Call for Papers

@@ -1,7 +1,6 @@
 ---
 title: "CFP: Special Series on Christianity and Empire"
 image: /assets/images/daniel-gutko-zcri0xH9Ndk-unsplash.jpg
-paginate: true   
 tags:
   - religion
   - Christianity

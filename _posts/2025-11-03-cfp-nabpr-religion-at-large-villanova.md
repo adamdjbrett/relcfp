@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://nabpr.org/cfp-nabpr-religion-at-large-villanova/
 ---
 

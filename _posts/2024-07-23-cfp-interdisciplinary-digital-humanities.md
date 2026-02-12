@@ -6,7 +6,6 @@ tags:
   - humanities
   - history
   - english
-paginate: true   
 ---
 ## Interdisciplinary Research, Digital Humanities, Text Analysis (56th Annual Convention of the Northeast Modern Language Association (March 6-9, Philadelphia, PA). )
 ### Philadelphia, PA

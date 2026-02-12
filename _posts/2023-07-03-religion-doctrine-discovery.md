@@ -12,7 +12,6 @@ tags:
   - AAR
   - acrel
   - religion
-paginate: true
 author: adamdjbrett
 ---
 ## Details

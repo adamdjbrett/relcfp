@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 
 Hybrid International Conference organized by the Archbishop Desmond Tutu Centre for War and Peace Studies in celebration of its 20th Anniversary, Hope Park Campus and online, 1st of July 2024

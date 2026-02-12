@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 ---
 June 17 to 18, 2025 (lunch to lunch)
 

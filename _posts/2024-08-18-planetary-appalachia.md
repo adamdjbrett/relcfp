@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 Spring 2025 Special Issue of Critical Humanities on Planetary Thinking [ ] Appalachia
 -------------------------------------------------------------------------------------

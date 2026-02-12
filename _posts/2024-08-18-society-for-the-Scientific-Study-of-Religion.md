@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 The SSSR+RRA 2024 Annual Meeting will be held at The Westin Convention Center, Pittsburgh, PA on October 18-20, 2024.  The theme of the 2024 Annual Meeting is *Relig**ion: Past, Present, and Future.*
 

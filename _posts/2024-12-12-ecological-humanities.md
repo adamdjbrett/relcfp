@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 canonical_url: https://eventum.upf.edu/124629/detail/2nd-international-congress-of-ecological-humanities.html
 ---
 Conveners

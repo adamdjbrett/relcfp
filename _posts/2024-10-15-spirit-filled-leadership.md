@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 ## ICTL 2024 : International Conference on Theology and Leadership
 

@@ -2,7 +2,6 @@
 title: "The Future of Risale-i Nur Studies in the West"
 date: 2024-06-13 13:36:40
 image: "/assets/images/risale_conf_24_cover.webp"
-paginate: true   
 tags:
   - Islam
   - non-violence

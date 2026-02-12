@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://csr3blog.blogspot.com/2025/05/call-for-submissions-meeting-at.html
 ---
 Laurent Pernot wrote, "Religion is intimately linked with words. Everyone knows that the spoken and written word plays an essential role in religion, as language is necessarily used to address the gods or God, to speak about the divine or the sacred, and to express religious feeling or awareness". Thus, Pernot called for an understanding of the role rhetoric plays in our expression and performance of religion.

@@ -5,7 +5,6 @@ tags:
   - AAR 
   - religion 
   - baptists
-paginate: true   
 ---
 ## Call for Papers - Torbet Prize
 ### Best Essay *in any area of* Baptist History

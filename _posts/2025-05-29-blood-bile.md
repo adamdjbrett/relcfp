@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://call-for-papers.sas.upenn.edu/cfp/2025/05/19/cfp-blood-and-bile-perspectives-from-the-humanities-art-and-gaming-culture-on
 ---
 CFP Blood and Bile: Perspectives from the humanities, art and gaming culture on Blasphemous

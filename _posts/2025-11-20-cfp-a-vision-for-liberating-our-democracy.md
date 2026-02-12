@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://www.unitedlutheranseminary.edu/uls-news/united-lutheran-seminary-to-host-a-vision-for-liberating-our-democracy-conference-february-27-28-2026
 ---
 ## **United Lutheran Seminary to Host "A Vision for Liberating Our Democracy" Conference, February 27--28, 2026**

@@ -6,7 +6,6 @@ tags:
   - AAR 
   - religion 
   - games
-paginate: true
 ---
 Call for Papers
 ===============

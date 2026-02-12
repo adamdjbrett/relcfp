@@ -11,7 +11,6 @@ tags:
   - Canada
   - acrel
   - religion
-paginate: true
 author: adamdjbrett
 ---
 The 28th Annual Graduate Interdisciplinary Conference at Concordia University (Tiohtià:ke/Montréal) is pleased to present the theme of this year’s conference: _**Religion Performed: Insights at the Intersection of Religiosity, Performance, and Performativity**_. This hybrid event will be held over two days in the Winter 2023 semester.

@@ -8,7 +8,6 @@ tags:
   - humanities
   - film
   - television
-paginate: true   
 ---
 ## Details
 School of Culture and Communications, The University of Melbourne

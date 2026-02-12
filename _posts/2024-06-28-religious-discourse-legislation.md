@@ -5,7 +5,6 @@ tags:
   - religion
   - communication
   - rehtoric
-paginate: true   
 ---
 
 ## Call for Abstracts: Special Issue of the Journal of Communication and Religion, "Religious Discourse in Legislative Spaces"

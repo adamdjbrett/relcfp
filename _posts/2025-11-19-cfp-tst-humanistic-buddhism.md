@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://www.trinity.utoronto.ca/study-theology/whats_on_in_divinity/call-for-papers-navigating-conflict-humanistic-buddhism-and-comparative-theology-in-a-divided-world/
 ---
 ## Description

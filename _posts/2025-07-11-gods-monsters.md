@@ -6,7 +6,6 @@ tags:
  - humanities
  - philosophy
  - monsters
-paginate: true 
 ---
 ## Details
 - Call for Papers: The Gods and Monsters Conference 2026

@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - anthropology
-paginate: true   
 ---
 Ethnography
 

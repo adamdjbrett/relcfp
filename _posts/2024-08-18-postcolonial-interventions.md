@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 CFP for Postcolonial Interventions (ISSN 2455-6564) Volume X, Issue 1, January 2025
 -----------------------------------------------------------------------------------

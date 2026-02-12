@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 Catholic Modernity in the Americas: Land, Culture, Politics
 -----------------------------------------------------------

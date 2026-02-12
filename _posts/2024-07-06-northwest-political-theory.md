@@ -6,7 +6,6 @@ tags:
   - religion
   - politics
   - humanities
-paginate: true   
 ---
 Political Theory Conference 2024
 --------------------------------

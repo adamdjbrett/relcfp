@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 canonical_url: https://www.uni-erfurt.de/fileadmin/fakultaet/katholisch-theologische/Professuren/Fundamentaltheologie/Dokumente/Call_for_Papers__Faith_and_spirituality_in_the_wake_of_scandal_-_Google_Docs.pdf
 ---
 

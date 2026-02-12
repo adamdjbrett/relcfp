@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - linguistics
-paginate: true   
 ---
 #### [CFP: Creative Philology: Studies in Speculative Fiction, A Tribute to J. R. R. Tolkien (CFP for an essay collection)](https://www.cfplist.com/CFP/42095)
 

@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://ejournals.bc.edu/index.php/scjr/index
 ---
 ## Subject Fields

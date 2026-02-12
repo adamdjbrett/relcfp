@@ -6,7 +6,6 @@ tags:
   - religion
   - politics
   - humanities
-paginate: true   
 ---
 **Call For Proposals: Encounters with Sara Ahmed**
 

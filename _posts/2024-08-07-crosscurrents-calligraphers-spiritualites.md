@@ -5,7 +5,6 @@ tags:
   - religion
   - humanities
   - history
-paginate: true   
 ---
 ## Call for Papers: Calligraphers and Spiritualities Crossing Cultures (CrossCurrents)
 

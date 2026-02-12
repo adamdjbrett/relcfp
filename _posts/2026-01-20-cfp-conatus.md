@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 ---
 *Conatus: Between Visible & Invisible Worlds: Medieval Forms of Mediation*
 --------------------------------------------------------------------------

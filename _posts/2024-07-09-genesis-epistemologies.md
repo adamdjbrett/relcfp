@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Genesis Epistemologies: Origins, Syncretism, and Human Evolution in Africa
 --------------------------------------------------------------------------

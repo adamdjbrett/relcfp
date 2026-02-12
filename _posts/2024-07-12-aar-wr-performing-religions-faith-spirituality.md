@@ -4,7 +4,6 @@ image: /assets/images/2025-cfp-banner-asu-student-pavilion.png
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 [American Academy of Religion, Western Region 2025 Annual Conference (Performing Religions, Faith, and Spirituality)](https://www.aarwr.com/call-for-papers.html)
 -------------------------------------------------------------------------------------------------------------------

@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Call for papers: a companion to Dennis Wheatley
 -----------------------------------------------

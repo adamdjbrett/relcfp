@@ -6,7 +6,6 @@ tags:
   - humanities
   - history
   - theology
-paginate: true   
 ---
 ## CALL FOR PROPOSALS FOR TOPICAL ISSUES
 ### "OPEN THEOLOGY" vol. 2025

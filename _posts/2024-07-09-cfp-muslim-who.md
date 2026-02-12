@@ -5,7 +5,6 @@ image: /assets/images/relcfp-cover.jpg
 tags:
   - religion
   - humanities
-paginate: true   
 ---
 Muslim Who? (Re)Making Gendered Identities
 ------------------------------------------

@@ -7,7 +7,6 @@ tags:
   - history
   - theology
   - baptist
-paginate: true   
 canonical_url: https://nabpr.org/2025-CFP/
 ---
 2025 NABPR Annual meeting

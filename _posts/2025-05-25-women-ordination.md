@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: http://www.womeninjudaism.org
 ---
 Submissions are invited for a special issue of

@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - philosophy
-paginate: true 
 canonical_url: https://usreligion.substack.com/p/call-for-papers-anthropology-at-the?utm_source=post-email-title&publication_id=1836760&post_id=184797806&utm_campaign=email-post-title&isFreemail=true&r=45v9k&triedRedirect=true&utm_medium=email
 ---
 ## Anthropology at the End of Worlds

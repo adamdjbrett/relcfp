@@ -5,7 +5,6 @@ tags:
  - religion
  - humanities
  - education
-paginate: true 
 ---
 *I Am Here to Fight!*
 ---------------------

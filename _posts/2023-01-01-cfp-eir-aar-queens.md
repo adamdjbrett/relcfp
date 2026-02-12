@@ -12,7 +12,6 @@ tags:
   - AAR
   - acrel
   - religion
-paginate: true
 author: adamdjbrett
 ---
 The EIR is thrilled to announce the theme of our 2023 Regional Meeting! Join us May 6-7 2023 at Queen's University

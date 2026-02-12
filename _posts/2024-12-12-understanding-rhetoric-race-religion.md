@@ -7,7 +7,6 @@ tags:
   - humanities
   - history
   - rhetoric
-paginate: true   
 canonical_url: https://blogs.memphis.edu/csjh/2024/12/02/call-for-papers-understanding-the-intersection-rhetoric-race-and-religion/
 ---
 The Center for the Study of Rhetoric, Race, and Religion is excited to announce a call for submissions for its upcoming virtual conference on March 13-14, 2025. This interdisciplinary conference aims to delve into the intricate interplay between rhetoric, race, and religion, focusing on both historical and contemporary contexts. We seek thought-provoking papers investigating how these three critical domains converge, exert influence, and collectively shape social, cultural, and political landscapes. Participants are encouraged to explore the implications of this dynamic relationship across various scenarios, offering insights that illuminate the complexities and nuances inherent in these vital fields of study.
