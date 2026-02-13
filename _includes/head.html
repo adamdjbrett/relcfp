@@ -12,5 +12,20 @@
   <script type="text/javascript" src="/assets/js/sarissa.js"></script>
   {% seo %}
   {% feed_meta %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Blog",
+    "name": {{ site.title | jsonify }},
+    "description": {{ site.description | strip_newlines | jsonify }},
+    "url": {{ site.url | append: "/posts/" | jsonify }},
+    "publisher": {
+      "@type": "Organization",
+      "name": {{ site.title | jsonify }},
+      "url": {{ site.url | jsonify }}
+    },
+    "inLanguage": "en-US"
+  }
+  </script>
 <!--!Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
 </head>

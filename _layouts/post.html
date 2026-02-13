@@ -5,15 +5,19 @@ pagination:
   enabled: true
 ---
 {%- assign author = site.data.authors[page.author] -%}
-<div class="container">
+<article class="container h-entry">
     <div class="post__header">
-        <h2>{{page.title}}</h2>
+        <h2 class="p-name">{{page.title}}</h2>
         <div class="meta__info">
             <ul class="post__info">
             {%- for posts in page.author -%}
-                <li class="post__author">{{author.name}}</li>
+                <li class="post__author p-author h-card">
+                    <span class="p-name">{{author.name}}</span>
+                </li>
             {%- endfor -%}
-                <li class="posts__time">{{page.date | date_to_long_string}}</li>
+                <li class="posts__time">
+                    <time class="dt-published" datetime="{{page.date | date_to_xmlschema}}">{{page.date | date_to_long_string}}</time>
+                </li>
             </ul>
         </div>
         
@@ -21,15 +25,17 @@ pagination:
     <div class="post__content">
         <div class="post__img">
             {%- if page.image -%}
-                <img src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
+                <img class="u-featured" src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
             {%- endif -%}
         </div>
-        {{content}}
+        <div class="e-content">
+            {{content}}
+        </div>
         <div class="post__tag">
             <h3>Tags:</h3>
             <div class="tags">
                 {%- for tag in page.tags -%}
-                <a href="{{site.baseurl}}/tag.html#{{tag}}">&nbsp;#{{tag}}</a>
+                <a class="p-category" href="{{site.baseurl}}/tag.html#{{tag}}">&nbsp;#{{tag}}</a>
                 {%- endfor -%}
             </div>
         </div>
@@ -37,37 +43,42 @@ pagination:
 
 
     {% if author %}
-    <div class="author__details">
+    <div class="author__details h-card">
         {% if author.author_img %}
         <div class="author__avatar">
-            <img src="{{author.author_img}}" alt="{{author.name}}">
+            <img class="u-photo" src="{{author.author_img}}" alt="{{author.name}}">
         </div>
         {% endif %} 
         <div class="author__description">
-            <h4>{{author.name}}</a></h4>
+            <h4>
+                {% if author.website %}
+                <a class="p-name u-url" href="{{author.website}}" rel="author">{{author.name}}</a>
+                {% else %}
+                <span class="p-name">{{author.name}}</span>
+                {% endif %}
+            </h4>
             {% if author.author_desc %}
-            <p class="author__text">{{author.author_desc}}</p>
+            <p class="author__text p-note">{{author.author_desc}}</p>
             {% endif %} 
             <div class="author__links">
                 {% if author.website %}
-                    <a href="{{author.website}}"><i class="fas fa-globe-americas"></i></a>
+                    <a class="u-url" href="{{author.website}}"><i class="fas fa-globe-americas"></i></a>
                 {% endif %} 
                 {% if author.twitter %}
-                    <a href="{{author.twitter}}"><i class="fab fa-fw fa-twitter-square"></i></a>
+                    <a class="u-url" href="{{author.twitter}}"><i class="fab fa-fw fa-twitter-square"></i></a>
                 {% endif %} 
                 {% if author.instagram %}
-                    <a href="{{author.instagram}}"><i class="fab fa-fw fa-instagram"></i></a>
+                    <a class="u-url" href="{{author.instagram}}"><i class="fab fa-fw fa-instagram"></i></a>
                 {% endif %} 
                 {% if author.github %}
-                    <a href="{{author.github}}"><i class="fab fa-fw fa-github-square"></i></a>
+                    <a class="u-url" href="{{author.github}}"><i class="fab fa-fw fa-github-square"></i></a>
                 {% endif %} 
                 {% if author.linkedin %}
-                    <a href="{{author.linkedin}}"><i class="fab fa-fw fa-linkedin"></i></a>
+                    <a class="u-url" href="{{author.linkedin}}"><i class="fab fa-fw fa-linkedin"></i></a>
                 {% endif %} 
             </div>
         </div>
     </div> 
     {% endif %} 
-</div>
+</article>
 {%- include pagination.html -%}
-

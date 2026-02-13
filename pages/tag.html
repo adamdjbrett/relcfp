@@ -21,10 +21,10 @@ description : Hastag Relcfp
             <h3 id="{{ this_word | cgi_escape }}">{{ this_word }}</h3>
             <div class="tags__items">
                 {% for post in site.tags[this_word] %}{% if post.title != null %}
-                <div class="item">
-                    <span><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
-                    <small><span>| {{ post.date | date_to_string }}</span></small>
-                </div>
+                <article class="item h-entry">
+                    <span><a class="u-url p-name" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+                    <small><span>| <time class="dt-published" datetime="{{post.date | date_to_xmlschema}}">{{ post.date | date_to_string }}</time></span></small>
+                </article>
                 {% endif %}{% endfor %}
             
             </div>

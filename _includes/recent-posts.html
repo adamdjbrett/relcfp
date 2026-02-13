@@ -1,20 +1,22 @@
 <h2 style="text-align:center;">Recent Posts</h2>
 <div class="cards__grid recent" >
     {% for post in site.posts | sort: data | limit: 3 %}
-    <div class="card__item">
+    <article class="card__item h-entry">
         <div class="meta__info">
             <ul>
-                <li class="posts-time">{{post.date | date_to_long_string}}</li>
+                <li class="posts-time">
+                    <time class="dt-published" datetime="{{post.date | date_to_xmlschema}}">{{post.date | date_to_long_string}}</time>
+                </li>
             </ul>
         </div>
         <div class="post__thumb">
-            <a href="{{post.url}}">
-                <img class="post__img" src="https://wsrv.nl/?url={{site.url}}{{post.image}}&w=400&output=webp" alt="{{post.title}}"/>
+            <a class="u-url" href="{{post.url}}">
+                <img class="post__img u-featured" src="https://wsrv.nl/?url={{site.url}}{{post.image}}&w=400&output=webp" alt="{{post.title}}"/>
             </a>
         </div>
-        <a href="{{post.url}}">
-            <h3>{{post.title}}</h3>
+        <a class="u-url" href="{{post.url}}">
+            <h3 class="p-name">{{post.title}}</h3>
         </a>
-    </div>
+    </article>
     {% endfor %}
 </div>
