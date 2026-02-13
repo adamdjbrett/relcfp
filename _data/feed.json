@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-12T01:56:03.000Z",
+        "updated": "2026-02-12T13:48:24.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: Conference \"Old Ideas in New Minds: Strategies of 'Autonomy' from Antiquity to the Renaissance,\u201d Jena (29.03.2026)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141563/call-abstracts-conference-old-ideas-new-minds-strategies-autonomy"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-12T13:48:24.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141563/call-abstracts-conference-old-ideas-new-minds-strategies-autonomy",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
             {
                 "title": "Gadflies, the Golden Rule, and Getting Justice \u201cRight\u201d\u2014The Animating and Cautionary Features of Daredevil: Born Again",
                 "link": {
@@ -36,6 +52,38 @@
                 }
             },
             {
+                "title": "#CFP: The Implicit Religion - US 2026 Challenging Narratives",
+                "link": {
+                    "@href": "https://relcfp.com/2026/02/12/cfp-implicit-religion/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-02-12T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/02/12/cfp-implicit-religion/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Marwa Abdulla - the 2026 Implicit Religion US Keynote"
+                }
+            },
+            {
+                "title": "#CFP: Religion, Digital Media & Politics",
+                "link": {
+                    "@href": "https://relcfp.com/2026/02/12/cfp-uscia-summer-school/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-02-12T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/02/12/cfp-uscia-summer-school/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for papers 2026"
+                }
+            },
+            {
                 "title": "#CFP: Next Journal",
                 "link": {
                     "@href": "https://relcfp.com/2026/02/11/cfp-next-journal-religious-studies/"
@@ -49,6 +97,150 @@
                 "content": {
                     "@type": "html",
                     "#text": "2025\u2013\u201326 Call for Papers"
+                }
+            },
+            {
+                "title": "Ecclesia laborans: Reproductive Labor and the Hidden Work of Liturgical Performance, 1350\u20131600 (Berlin, 6-7 March 2026)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141272/ecclesia-laborans-reproductive-labor-and-hidden-work-liturgical"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T22:15:59.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141272/ecclesia-laborans-reproductive-labor-and-hidden-work-liturgical",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "CFP: Sexual Violence in Judaism (all aspects)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20139973/cfp-sexual-violence-judaism-all-aspects"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T22:09:42.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20139973/cfp-sexual-violence-judaism-all-aspects",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-OralHist: 1 February - 8 February",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141076/h-net-job-guide-weekly-report-h-oralhist-1-february-8-february"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T18:38:32.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141076/h-net-job-guide-weekly-report-h-oralhist-1-february-8-february",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: Jews and the Worlds of the Ancient Mediterranean: Archaeology, Scholarship, and Networks of Collecting (c.1840\u20131940)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141232/call-papers-jews-and-worlds-ancient-mediterranean-archaeology"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T16:15:13.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141232/call-papers-jews-and-worlds-ancient-mediterranean-archaeology",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "Book Publication Latin and Eastern Catholicism in Ottoman Anatolia",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141176/book-publication-latin-and-eastern-catholicism-ottoman-anatolia"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T16:09:56.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141176/book-publication-latin-and-eastern-catholicism-ottoman-anatolia",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Diplo: 1-8 February",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141019/h-net-job-guide-weekly-report-h-diplo-1-february-8-february"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T13:51:14.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141019/h-net-job-guide-weekly-report-h-diplo-1-february-8-february",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "CfP: Consolatio. Zur Medialit\u00e4t des Trostes, Bern (31.06.2026)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141170/consolatio-zur-medialitat-des-trostes"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T13:10:13.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141170/consolatio-zur-medialitat-des-trostes",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Scholar: 1 February - 8 February",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20141092/h-net-job-guide-weekly-report-h-scholar-1-february-8-february"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T05:25:14.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20141092/h-net-job-guide-weekly-report-h-scholar-1-february-8-february",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
+                }
+            },
+            {
+                "title": "POSTDOCTORAL POSITION> University of Toronto, Department for the Study of Religion & The Robert H.N. Ho Family Foundation Centre for Buddhist Studies",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20140643/postdoctoral-fellowship-position-department-study-religion-robert-hn"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-10T01:45:32.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20140643/postdoctoral-fellowship-position-department-study-religion-robert-hn",
+                "content": {
+                    "@type": "html",
+                    "#text": "Slave subjectivities in the Iberian Worlds (15th- 20th centuries) Date: October 31,\u2026"
                 }
             },
             {
@@ -897,38 +1089,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "The onset of the pandemic generated a powerful, universal newfound currency for mobility. Around the\u2026"
-                }
-            },
-            {
-                "title": "#CFP: United Lutheran Seminary to Host \u201cA Vision for Liberating Our Democracy\u201d Conference, February 27\u201328, 2026",
-                "link": {
-                    "@href": "https://relcfp.com/2025/11/20/cfp-a-vision-for-liberating-our-democracy/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-11-20T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/11/20/cfp-a-vision-for-liberating-our-democracy/",
-                "content": {
-                    "@type": "html",
-                    "#text": "United Lutheran Seminary to Host \u201cA Vision for Liberating Our Democracy\u201d Conference, February 27\u201328,\u2026"
-                }
-            },
-            {
-                "title": "#CFP: Navigating Conflict: Humanistic Buddhism and Comparative Theology in a Divided World",
-                "link": {
-                    "@href": "https://relcfp.com/2025/11/19/cfp-tst-humanistic-buddhism/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2025-11-19T00:00:00.000Z",
-                "id": "https://relcfp.com/2025/11/19/cfp-tst-humanistic-buddhism/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Description"
                 }
             },
             {
