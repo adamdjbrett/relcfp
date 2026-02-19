@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-18T05:06:42.000Z",
+        "updated": "2026-02-18T15:53:52.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142326/deadline-approaching-short-term-research-fellowships-massachusetts"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-18T15:53:52.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142326/deadline-approaching-short-term-research-fellowships-massachusetts",
+                "content": {
+                    "@type": "html",
+                    "#text": "Dissertation Fellowship, U.S. Army Center of Military History The U.S. Army Center of\u2026"
+                }
+            },
+            {
+                "title": "Online Symposium on Culture",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142271/online-symposium-culture"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-18T09:17:36.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142271/online-symposium-culture",
+                "content": {
+                    "@type": "html",
+                    "#text": "Dissertation Fellowship, U.S. Army Center of Military History The U.S. Army Center of\u2026"
+                }
+            },
             {
                 "title": "Doctoral school \u201cAnyue Buddhist Sites: Iconography, Inscriptions, and Fieldwork Methodologies\u201d, April 20-24, 2026, Ghent University",
                 "link": {
@@ -142,38 +174,6 @@
                 },
                 "updated": "2026-02-16T17:13:02.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20140993/h-net-job-guide-weekly-report-h-amindian-1-february-8-february",
-                "content": {
-                    "@type": "html",
-                    "#text": "Dissertation Fellowship, U.S. Army Center of Military History The U.S. Army Center of\u2026"
-                }
-            },
-            {
-                "title": "Virtual Lecture: An Unusual Moravian Diary",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20141713/virtual-lecture-unusual-moravian-diary"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-16T15:24:48.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20141713/virtual-lecture-unusual-moravian-diary",
-                "content": {
-                    "@type": "html",
-                    "#text": "Dissertation Fellowship, U.S. Army Center of Military History The U.S. Army Center of\u2026"
-                }
-            },
-            {
-                "title": "Virtual Lecture: \u201d German and American Protestant Pastors in Occupied Germany\u201d",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20141710/virtual-lecture-german-and-american-protestant-pastors-occupied"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-16T15:23:40.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20141710/virtual-lecture-german-and-american-protestant-pastors-occupied",
                 "content": {
                     "@type": "html",
                     "#text": "Dissertation Fellowship, U.S. Army Center of Military History The U.S. Army Center of\u2026"
