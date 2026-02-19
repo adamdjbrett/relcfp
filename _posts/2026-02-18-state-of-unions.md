@@ -1,15 +1,10 @@
 ---
-layout: post
-title: "The State of the Unions"
-date: 2026-02-18
-deadline: 2026-02-28
-event_date: "April 23-25, 2026"
-location: "Gainesville, FL"
-organization: "The 28th Annual University of Florida Critical Theory Reading Group Conference"
-contact_email: "UFCriticalTheoryReadingGroup@gmail.com"
-keynote_speakers: "Sianne Ngai, Anna Kornbluh"
-categories: [cfp, labor, unions, critical-theory]
-tags: [unions, labor, working-class, critical-theory, university-of-florida]
+title: "#CFP: The 28th Annual University of Florida Critical Theory Reading Group Conference: The State of the Unions"
+image: /assets/images/relcfp-cover.webp
+tags:
+ - religion
+ - humanities
+ - philosophy
 ---
 
 DEADLINE EXTENDED TO FEBRUARY 28TH
@@ -51,3 +46,10 @@ Please submit a 250-word abstract with 4-5 keywords, along with contact informat
 We will also consider panel proposals. Individual presentations will be limited to 15-20 minutes. Please indicate any A/V requests.
 
 We would especially ask you to let us know if you have participated in past MRG conferences or if you are a UF-MRG alumnus.
+
+- deadline: 2026-02-28
+- event_date: "April 23-25, 2026"
+- location: "Gainesville, FL"
+- organization: "The 28th Annual University of Florida Critical Theory Reading Group Conference"
+- contact_email: "UFCriticalTheoryReadingGroup@gmail.com"
+- keynote_speakers: "Sianne Ngai, Anna Kornbluh"

@@ -1,14 +1,9 @@
 ---
 layout: post
 title: "Narratives of Resistance and African Literature: Articulating Dissent, Disobedience and Pluriversal Futures"
+image: /assets/images/relcfp-cover.webp
 date: 2026-02-18
-updated: 2026-02-17
-deadline: 2026-03-31
-organization: "English Academy Review (Taylor and Francis)"
-editor: "Goutam Karmakar, University of Hyderabad, India"
-contact_email: "goutamkarmakar@uohyd.ac.in"
-source_url: "https://call-for-papers.sas.upenn.edu/cfp/2026/02/03/narratives-of-resistance-and-african-literature-articulating-dissent-disobedience-and"
-special_issue_link: "https://think.taylorandfrancis.com/special_issues/narratives-of-resistance-and-african-literature-articulating-dissent-disobedience-and-pluriversal-futures/"
+canonical_url: "https://call-for-papers.sas.upenn.edu/cfp/2026/02/03/narratives-of-resistance-and-african-literature-articulating-dissent-disobedience-and"
 categories: [cfp, african-literature, resistance]
 tags: [african-literature, resistance, dissent, pluriversal-futures, postcolonial]
 ---
@@ -23,3 +18,11 @@ Special Issue Editor(s)
 
 **Goutam Karmakar**, *University of Hyderabad, India*  
 <goutamkarmakar@uohyd.ac.in>
+
+
+updated: 2026-02-17
+deadline: 2026-03-31
+organization: "English Academy Review (Taylor and Francis)"
+editor: "Goutam Karmakar, University of Hyderabad, India"
+contact_email: "goutamkarmakar@uohyd.ac.in"
+special_issue_link: https://think.taylorandfrancis.com/special_issues/narratives-of-resistance-and-african-literature-articulating-dissent-disobedience-and-pluriversal-futures/
