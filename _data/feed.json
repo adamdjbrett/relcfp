@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-19T19:33:55.000Z",
+        "updated": "2026-02-20T23:44:28.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "H-Net Job Guide Weekly Report for H-OralHist: 8 February - 15 February",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142036/h-net-job-guide-weekly-report-h-oralhist-8-february-15-february"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-20T23:44:28.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142036/h-net-job-guide-weekly-report-h-oralhist-8-february-15-february",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
+                }
+            },
+            {
+                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142330/deadline-approaching-short-term-research-fellowships-massachusetts"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-20T18:35:52.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142330/deadline-approaching-short-term-research-fellowships-massachusetts",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
+                }
+            },
+            {
+                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142312/deadline-approaching-short-term-research-fellowships-massachusetts"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-20T18:33:41.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142312/deadline-approaching-short-term-research-fellowships-massachusetts",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
+                }
+            },
             {
                 "title": "PODCAST: New Episodes on Readings of the Gateless Barrier",
                 "link": {
@@ -126,54 +174,6 @@
                 },
                 "updated": "2026-02-19T07:29:44.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20142323/deadline-approaching-short-term-research-fellowships-massachusetts",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142325/deadline-approaching-short-term-research-fellowships-massachusetts"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-18T21:50:08.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142325/deadline-approaching-short-term-research-fellowships-massachusetts",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "CfA: USHMM In-Person Faculty Seminar: American Religious Responses to the Holocaust, July 20 - 24, 2026 (deadline March 20, 2026)",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142394/cfa-ushmm-person-faculty-seminar-american-religious-responses"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-18T21:45:23.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142394/cfa-ushmm-person-faculty-seminar-american-religious-responses",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142329/deadline-approaching-short-term-research-fellowships-massachusetts"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-18T20:54:26.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142329/deadline-approaching-short-term-research-fellowships-massachusetts",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
