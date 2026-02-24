@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-22T20:50:28.000Z",
+        "updated": "2026-02-24T06:10:52.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,16 +20,80 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
+                "title": "H-Net Job Guide Weekly Report for H-Scholar: 15 February - 22 February",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142328/deadline-approaching-short-term-research-fellowships-massachusetts"
+                    "@href": "https://networks.h-net.org/group/announcements/20142801/h-net-job-guide-weekly-report-h-scholar-15-february-22-february"
                 },
                 "author": {
                     "name": "H-Net - Religious Studies",
                     "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
                 },
-                "updated": "2026-02-22T20:50:28.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142328/deadline-approaching-short-term-research-fellowships-massachusetts",
+                "updated": "2026-02-24T06:10:52.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142801/h-net-job-guide-weekly-report-h-scholar-15-february-22-february",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
+                }
+            },
+            {
+                "title": "ANN: 2026-27 David M. and Virginia W. Stowe Fund for Mission Research",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142852/2026-27-david-m-and-virginia-w-stowe-fund-mission-research"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-23T23:47:16.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142852/2026-27-david-m-and-virginia-w-stowe-fund-mission-research",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
+                }
+            },
+            {
+                "title": "2026-27 David M. and Virginia W. Stowe Fund for Mission Research",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142847/2026-27-david-m-and-virginia-w-stowe-fund-mission-research"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-23T19:02:10.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142847/2026-27-david-m-and-virginia-w-stowe-fund-mission-research",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
+                }
+            },
+            {
+                "title": "Shapiro Lecture, Catholic Theological Union: Mara Benjamin PhD, \"Dominion, Stewardship and Other Ways of Being Earthling\"",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142697/shapiro-lecture-catholic-theological-union-mara-benjamin-phd-dominion"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-23T18:34:46.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142697/shapiro-lecture-catholic-theological-union-mara-benjamin-phd-dominion",
+                "content": {
+                    "@type": "html",
+                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
+                }
+            },
+            {
+                "title": "2026-27 David M. and Virginia W. Stowe Fund for Mission Research",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20142855/2026-27-david-m-and-virginia-w-stowe-fund-mission-research"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-02-23T18:20:59.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142855/2026-27-david-m-and-virginia-w-stowe-fund-mission-research",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
@@ -38,142 +102,78 @@
             {
                 "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142320/deadline-approaching-short-term-research-fellowships-massachusetts"
+                    "@href": "https://networks.h-net.org/group/announcements/20142324/deadline-approaching-short-term-research-fellowships-massachusetts"
                 },
                 "author": {
                     "name": "H-Net - Religious Studies",
                     "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
                 },
-                "updated": "2026-02-22T16:05:18.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142320/deadline-approaching-short-term-research-fellowships-massachusetts",
+                "updated": "2026-02-23T18:20:31.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142324/deadline-approaching-short-term-research-fellowships-massachusetts",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
                 }
             },
             {
-                "title": "CfA: USHMM In-Person Faculty Seminar: American Religious Responses to the Holocaust, July 20 - 24, 2026 (deadline March 20, 2026)",
+                "title": "2026-27 David M. and Virginia W. Stowe Fund for Mission Research",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142396/cfa-ushmm-person-faculty-seminar-american-religious-responses"
+                    "@href": "https://networks.h-net.org/group/announcements/20142848/2026-27-david-m-and-virginia-w-stowe-fund-mission-research"
                 },
                 "author": {
                     "name": "H-Net - Religious Studies",
                     "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
                 },
-                "updated": "2026-02-22T04:45:44.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142396/cfa-ushmm-person-faculty-seminar-american-religious-responses",
+                "updated": "2026-02-23T17:02:28.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142848/2026-27-david-m-and-virginia-w-stowe-fund-mission-research",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
                 }
             },
             {
-                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
+                "title": "H-Net Job Guide Weekly Report for H-AmIndian: 15 February - 22 February",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142316/deadline-approaching-short-term-research-fellowships-massachusetts"
+                    "@href": "https://networks.h-net.org/group/announcements/20142739/h-net-job-guide-weekly-report-h-amindian-15-february-22-february"
                 },
                 "author": {
                     "name": "H-Net - Religious Studies",
                     "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
                 },
-                "updated": "2026-02-21T19:43:28.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142316/deadline-approaching-short-term-research-fellowships-massachusetts",
+                "updated": "2026-02-23T17:00:34.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142739/h-net-job-guide-weekly-report-h-amindian-15-february-22-february",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
                 }
             },
             {
-                "title": "CFP> Call for Papers: Pacific World Journal",
+                "title": "H-Net Job Guide Weekly Report for H-Catholic: 15 February - 22 February",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142585/call-papers-pacific-world-journal"
+                    "@href": "https://networks.h-net.org/group/announcements/20142756/h-net-job-guide-weekly-report-h-catholic-15-february-22-february"
                 },
                 "author": {
                     "name": "H-Net - Religious Studies",
                     "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
                 },
-                "updated": "2026-02-21T14:55:19.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142585/call-papers-pacific-world-journal",
+                "updated": "2026-02-23T14:22:15.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142756/h-net-job-guide-weekly-report-h-catholic-15-february-22-february",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
                 }
             },
             {
-                "title": "H-Net Job Guide Weekly Report for H-OralHist: 8 February - 15 February",
+                "title": "Call for Panelists (2026 ASA): Personal Transnational Networks of Support: Empowerment or Trap?",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142036/h-net-job-guide-weekly-report-h-oralhist-8-february-15-february"
+                    "@href": "https://networks.h-net.org/group/announcements/20142353/call-panelists-2026-asa-personal-transnational-networks-support"
                 },
                 "author": {
                     "name": "H-Net - Religious Studies",
                     "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
                 },
-                "updated": "2026-02-20T23:44:28.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142036/h-net-job-guide-weekly-report-h-oralhist-8-february-15-february",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142330/deadline-approaching-short-term-research-fellowships-massachusetts"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-20T18:35:52.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142330/deadline-approaching-short-term-research-fellowships-massachusetts",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142312/deadline-approaching-short-term-research-fellowships-massachusetts"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-20T18:33:41.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142312/deadline-approaching-short-term-research-fellowships-massachusetts",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "PODCAST: New Episodes on Readings of the Gateless Barrier",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20140186/podcast-new-episodes-readings-gateless-barrier"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-19T19:33:55.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20140186/podcast-new-episodes-readings-gateless-barrier",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Asia: 25 January - 1 February",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20140074/h-net-job-guide-weekly-report-h-asia-25-january-1-february"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-19T19:29:43.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20140074/h-net-job-guide-weekly-report-h-asia-25-january-1-february",
+                "updated": "2026-02-23T13:07:08.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20142353/call-panelists-2026-asa-personal-transnational-networks-support",
                 "content": {
                     "@type": "html",
                     "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
