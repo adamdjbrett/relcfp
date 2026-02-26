@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-24T19:42:11.000Z",
+        "updated": "2026-02-24T19:19:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,179 +20,483 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "LECTURE: \"Who Wrote Your Bible? Enslaved Scribes and the Material History of Scripture\", Candida Moss | March 18, 5:30PM | Fordham University",
+                "title": "Pleasure and Pain in Women\u2019s Writing",
                 "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142997/lecture-who-wrote-your-bible-enslaved-scribes-and-material-history"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T19:42:11.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142997/lecture-who-wrote-your-bible-enslaved-scribes-and-material-history",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "Deadline Approaching: Short-Term Research Fellowships at the Massachusetts Historical Society",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142318/deadline-approaching-short-term-research-fellowships-massachusetts"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T19:28:49.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142318/deadline-approaching-short-term-research-fellowships-massachusetts",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "LECTURE: \"Who Wrote Your Bible? Enslaved Scribes and the Material History of Scripture\", Candida Moss | March 18, 5:30PM | Fordham University",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142996/lecture-who-wrote-your-bible-enslaved-scribes-and-material-history"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T18:56:51.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142996/lecture-who-wrote-your-bible-enslaved-scribes-and-material-history",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "CALL FOR PAPERS> Open Call for Japanese Religions",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142921/open-call-papers-japanese-religions"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T18:02:09.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142921/open-call-papers-japanese-religions",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "LECTURE> Janet Gyatso on \u201cBeing With Animal Kin: Buddhist Resources for a Posthuman Ethics\u201d - Tue Mar 3, 4-5:30 PT",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142905/janet-gyatso-being-animal-kin-buddhist-resources-posthuman-ethics-tue"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T18:00:02.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142905/janet-gyatso-being-animal-kin-buddhist-resources-posthuman-ethics-tue",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "CALL FOR PAPERS> Asian-Global Networks and Relationship in the Modern Spread of Buddhism",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142729/call-papers-asian-global-networks-and-relationship-modern-spread"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T17:58:29.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142729/call-papers-asian-global-networks-and-relationship-modern-spread",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "NEW PUBLICATIONS> Recent publications from 84000: Translating the Words of the Buddha",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142724/new-publications-recent-publications-84000-translating-words-buddha"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T17:56:07.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142724/new-publications-recent-publications-84000-translating-words-buddha",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Buddhism: 15 February - 22 February",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142752/h-net-job-guide-weekly-report-h-buddhism-15-february-22-february"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T17:55:08.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142752/h-net-job-guide-weekly-report-h-buddhism-15-february-22-february",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "2026-27 David M. and Virginia W. Stowe Fund for Mission Research",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142845/2026-27-david-m-and-virginia-w-stowe-fund-mission-research"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T17:44:20.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142845/2026-27-david-m-and-virginia-w-stowe-fund-mission-research",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "Open Call for Papers for Japanese Religions",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20142922/open-call-papers-japanese-religions"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-02-24T17:19:26.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20142922/open-call-papers-japanese-religions",
-                "content": {
-                    "@type": "html",
-                    "#text": "Treaties and Empire Seminar Series: Tr\u1ea7n Th\u1ecb Xu\u00e2n (Hamburg University) - Interpreters and Foreign\u2026"
-                }
-            },
-            {
-                "title": "Online Panel MLA 2027: The Ludic Subject: Playfulness, Gender, and the Poetics of Emotion",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/online-panel-mla-2027-the-ludic-subject-playfulness-gender-and-the-poetics-of-emotion"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/pleasure-and-pain-in-women%E2%80%99s-writing"
                 },
                 "author": {
                     "name": "UPenn - cultural studies and historical approaches",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
                 },
-                "updated": "2026-02-18T14:44:10.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/online-panel-mla-2027-the-ludic-subject-playfulness-gender-and-the-poetics-of-emotion",
+                "updated": "2026-02-24T19:19:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/pleasure-and-pain-in-women%E2%80%99s-writing",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:21amfull name / name of organization: Haihong Yangcontact\u2026"
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:03pmfull name / name of organization: International Women's\u2026"
+                }
+            },
+            {
+                "title": "International Conference \"Museums Beyond the Beaten Track. Challenges from the Periphery, Communities and Local Heritage\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/international-conference-museums-beyond-the-beaten-track-challenges-from-the"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-24T17:18:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/international-conference-museums-beyond-the-beaten-track-challenges-from-the",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:03pmfull name / name of organization: Universidad Rey Juan\u2026"
+                }
+            },
+            {
+                "title": "Michel Foucault at 100: A Reappraisal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/michel-foucault-at-100-a-reappraisal"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-24T12:22:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/michel-foucault-at-100-a-reappraisal",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Intersections: A\u2026"
+                }
+            },
+            {
+                "title": "Michel Foucault at 100: A Reappraisal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/michel-foucault-at-100-a-reappraisal"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-24T12:22:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/michel-foucault-at-100-a-reappraisal",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Intersections: A\u2026"
+                }
+            },
+            {
+                "title": "Michel Foucault at 100: A Reappraisal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/michel-foucault-at-100-a-reappraisal"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-24T12:22:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/michel-foucault-at-100-a-reappraisal",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Intersections: A\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers:(DEADLINE EXTENDED) Writing the Truth through a Fictional Lens: Comparing Sinophone and Anglophone Literatures and Cultural Products",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-papersdeadline-extended-writing-the-truth-through-a-fictional-lens-comparing"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-24T06:31:58.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-papersdeadline-extended-writing-the-truth-through-a-fictional-lens-comparing",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Dr Kelly Chancontact\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers:(DEADLINE EXTENDED) Writing the Truth through a Fictional Lens: Comparing Sinophone and Anglophone Literatures and Cultural Products",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-papersdeadline-extended-writing-the-truth-through-a-fictional-lens-comparing"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-24T06:31:58.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-papersdeadline-extended-writing-the-truth-through-a-fictional-lens-comparing",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Dr Kelly Chancontact\u2026"
+                }
+            },
+            {
+                "title": "Pet Affect Studies Towards Zootopia",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/pet-affect-studies-towards-zootopia"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-24T01:36:17.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/pet-affect-studies-towards-zootopia",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Nika Mavrodycontact\u2026"
+                }
+            },
+            {
+                "title": "The Art of Storytelling: Archetypes in Focus",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/the-art-of-storytelling-archetypes-in-focus"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-24T00:46:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/the-art-of-storytelling-archetypes-in-focus",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: London Arts-Based\u2026"
+                }
+            },
+            {
+                "title": "The Art of Storytelling: Archetypes in Focus",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/the-art-of-storytelling-archetypes-in-focus"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-24T00:46:12.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/the-art-of-storytelling-archetypes-in-focus",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: London Arts-Based\u2026"
+                }
+            },
+            {
+                "title": "DIGITAL DESIGN & BEYOND: RETHINKING CRITICAL DIGITAL FASHION TRAJECTORIES",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/digital-design-beyond-rethinking-critical-digital-fashion-trajectories"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-23T15:44:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/digital-design-beyond-rethinking-critical-digital-fashion-trajectories",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: University of Florence\u2026"
+                }
+            },
+            {
+                "title": "DIGITAL DESIGN & BEYOND: RETHINKING CRITICAL DIGITAL FASHION TRAJECTORIES",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/digital-design-beyond-rethinking-critical-digital-fashion-trajectories"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-23T15:44:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/digital-design-beyond-rethinking-critical-digital-fashion-trajectories",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: University of Florence\u2026"
+                }
+            },
+            {
+                "title": "\"Justice\" (SCLA, October 29-31 2026, Austin TX)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/justice-scla-october-29-31-2026-austin-tx"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-23T15:41:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/justice-scla-october-29-31-2026-austin-tx",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Society for\u2026"
+                }
+            },
+            {
+                "title": "\"Justice\" (SCLA, October 29-31 2026, Austin TX)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/justice-scla-october-29-31-2026-austin-tx"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-23T15:41:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/justice-scla-october-29-31-2026-austin-tx",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Society for\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: Society of Music Production Research (SMPR) Conference 2026",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/call-for-papers-society-of-music-production-research-smpr-conference-2026"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-23T14:47:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/call-for-papers-society-of-music-production-research-smpr-conference-2026",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Society of Music\u2026"
+                }
+            },
+            {
+                "title": "Bad Vibes Only: Critique Today",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/bad-vibes-only-critique-today"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-23T14:16:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/bad-vibes-only-critique-today",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: The Department\u2026"
+                }
+            },
+            {
+                "title": "Bad Vibes Only: Critique Today",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/bad-vibes-only-critique-today"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-23T14:16:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/bad-vibes-only-critique-today",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: The Department\u2026"
+                }
+            },
+            {
+                "title": "Adivasi Writings in India: History, Memory, and Contemporary Expressions",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/adivasi-writings-in-india-history-memory-and-contemporary-expressions"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-23T11:22:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/adivasi-writings-in-india-history-memory-and-contemporary-expressions",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Guru Gobind Singh\u2026"
+                }
+            },
+            {
+                "title": "Folk and Culture: Tradition, Resistance and Nurture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/folk-and-culture-tradition-resistance-and-nurture"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-23T11:18:11.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/folk-and-culture-tradition-resistance-and-nurture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Guru Gobind Singh\u2026"
+                }
+            },
+            {
+                "title": "Folk and Culture: Tradition, Resistance and Nurture",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/folk-and-culture-tradition-resistance-and-nurture"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-23T11:18:11.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/folk-and-culture-tradition-resistance-and-nurture",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Guru Gobind Singh\u2026"
+                }
+            },
+            {
+                "title": "Renewing Faith, Improving Society. A Comparison of Protestant Reform Movements in Prussia, England, and Georgia (First Half of the 18th Century).",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/renewing-faith-improving-society-a-comparison-of-protestant-reform-movements-in"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2026-02-23T11:00:42.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/renewing-faith-improving-society-a-comparison-of-protestant-reform-movements-in",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Jan Helmig, M.A. /\u2026"
+                }
+            },
+            {
+                "title": "Migrating Minds: Journal of Cultural Cosmopolitanism Vol. 5, Issue 1 (Spring 2027) Call for papers",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/migrating-minds-journal-of-cultural-cosmopolitanism-vol-5-issue-1-spring-2027-call"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-22T17:28:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/migrating-minds-journal-of-cultural-cosmopolitanism-vol-5-issue-1-spring-2027-call",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Migrating Minds:\u2026"
+                }
+            },
+            {
+                "title": "Migrating Minds: Journal of Cultural Cosmopolitanism Vol. 5, Issue 1 (Spring 2027) Call for papers",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/migrating-minds-journal-of-cultural-cosmopolitanism-vol-5-issue-1-spring-2027-call"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-22T17:28:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/migrating-minds-journal-of-cultural-cosmopolitanism-vol-5-issue-1-spring-2027-call",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Migrating Minds:\u2026"
+                }
+            },
+            {
+                "title": "Literature in Language Teaching Articles",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/literature-in-language-teaching-articles"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-22T14:44:40.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/literature-in-language-teaching-articles",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Literature in Language\u2026"
+                }
+            },
+            {
+                "title": "Journeying Between Thresholds And Metamorphoses. International Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/journeying-between-thresholds-and-metamorphoses-international-conference"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2026-02-22T01:39:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/journeying-between-thresholds-and-metamorphoses-international-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Tallinn\u2026"
+                }
+            },
+            {
+                "title": "Australia from Below: Lived Histories and Material Cultures of Everyday Life",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/australia-from-below-lived-histories-and-material-cultures-of-everyday-life"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-21T21:48:26.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/australia-from-below-lived-histories-and-material-cultures-of-everyday-life",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Popular Culture\u2026"
+                }
+            },
+            {
+                "title": "Heated Rivalry: Queer Joy and Intimate Masculinity on Television",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/heated-rivalry-queer-joy-and-intimate-masculinity-on-television"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-21T21:37:02.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/heated-rivalry-queer-joy-and-intimate-masculinity-on-television",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Popular Culture\u2026"
+                }
+            },
+            {
+                "title": "CFP_July 2026 issue (Vol.2, Issue 2) of Entanglements: Journal of Posthumanities",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/cfpjuly-2026-issue-vol2-issue-2-of-entanglements-journal-of-posthumanities"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-21T19:20:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/cfpjuly-2026-issue-vol2-issue-2-of-entanglements-journal-of-posthumanities",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 4:58pmfull name / name of organization: Entanglements: Journal\u2026"
+                }
+            },
+            {
+                "title": "Textual Bodies: Incarnation, Corporeality, and Affective Materialities through Literature 6th Meeting of Young Researchers of the SELGyC",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/19/textual-bodies-incarnation-corporeality-and-affective-materialities-through"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-19T18:54:27.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/19/textual-bodies-incarnation-corporeality-and-affective-materialities-through",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 2:07pmfull name / name of organization: Spanish Comparative\u2026"
+                }
+            },
+            {
+                "title": "Discourse in the Age of Political Upheaval and Artificial Intelligence",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/discourse-in-the-age-of-political-upheaval-and-artificial-intelligence"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-18T23:02:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/discourse-in-the-age-of-political-upheaval-and-artificial-intelligence",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Tuesday, February 24, 2026 - 1:05pmfull name / name of organization: UCLAcontact\u2026"
                 }
             },
             {
@@ -201,22 +505,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/video-game-and-memory"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-18T12:33:18.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/video-game-and-memory",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:19amfull name / name of organization: Leiden University\u2026"
-                }
-            },
-            {
-                "title": "Video Game and Memory",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/video-game-and-memory"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -224,23 +512,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/video-game-and-memory",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:19amfull name / name of organization: Leiden University\u2026"
-                }
-            },
-            {
-                "title": "Criminologies, Borders, and Humanities in North Africa",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/criminologies-borders-and-humanities-in-north-africa"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-18T12:26:09.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/criminologies-borders-and-humanities-in-north-africa",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:19amfull name / name of organization: Rachid\u2026"
+                    "#text": "updated: Wednesday, February 25, 2026 - 6:53amfull name / name of organization: Leiden University\u2026"
                 }
             },
             {
@@ -257,70 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, February 24, 2026 - 8:19amfull name / name of organization: Rachid\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Proposals: Secrecy in Literature and Culture (EUP)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/call-for-book-proposals-secrecy-in-literature-and-culture-eup"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-18T12:04:29.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/call-for-book-proposals-secrecy-in-literature-and-culture-eup",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:18amfull name / name of organization: Edinburgh University\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Proposals: Secrecy in Literature and Culture (EUP)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/call-for-book-proposals-secrecy-in-literature-and-culture-eup"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-18T12:04:29.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/call-for-book-proposals-secrecy-in-literature-and-culture-eup",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:18amfull name / name of organization: Edinburgh University\u2026"
-                }
-            },
-            {
-                "title": "Masterclass on Literary Theory by Prof. Pramod K. Nayar.",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/masterclass-on-literary-theory-by-prof-pramod-k-nayar"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-18T11:57:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/masterclass-on-literary-theory-by-prof-pramod-k-nayar",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:18amfull name / name of organization: Calcutta Comparatists\u2026"
-                }
-            },
-            {
-                "title": "MLA (Online) Special Session: Anglophone Ottoman/Turkish Writers",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/mla-online-special-session-anglophone-ottomanturkish-writers"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-18T10:31:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/mla-online-special-session-anglophone-ottomanturkish-writers",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:18amfull name / name of organization: 2027 MLA Convention\u2026"
                 }
             },
             {
@@ -484,86 +692,6 @@
                 }
             },
             {
-                "title": "Call for Applications: Leary Resource Development Grant",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-applications-leary-resource-development-grant"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-17T21:53:34.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-applications-leary-resource-development-grant",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:47amfull name / name of organization: Research Society for\u2026"
-                }
-            },
-            {
-                "title": "Call for Applications: Mitchell Dissertation Award",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-applications-mitchell-dissertation-award"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-17T21:50:16.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-applications-mitchell-dissertation-award",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:43amfull name / name of organization: Research Society for\u2026"
-                }
-            },
-            {
-                "title": "Mythical Archipelagos: Islands, Narratives, and Imaginaries Across Cultures and Media",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/mythical-archipelagos-islands-narratives-and-imaginaries-across-cultures-and-media"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-17T21:49:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/mythical-archipelagos-islands-narratives-and-imaginaries-across-cultures-and-media",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:42amfull name / name of organization: Universidad de Las\u2026"
-                }
-            },
-            {
-                "title": "Call for Applications: Microgrants for Periodical Studies",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-applications-microgrants-for-periodical-studies"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-17T21:45:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-applications-microgrants-for-periodical-studies",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:42amfull name / name of organization: Research Society for\u2026"
-                }
-            },
-            {
-                "title": "\"Trauma and Nightmare\" - 9th International Interdisciplinary Conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/trauma-and-nightmare-9th-international-interdisciplinary-conference"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-17T21:09:57.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/trauma-and-nightmare-9th-international-interdisciplinary-conference",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:41amfull name / name of organization: InMind Supportcontact\u2026"
-                }
-            },
-            {
                 "title": "Call for Abstracts: Elvis and Philosophy",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-abstracts-elvis-and-philosophy"
@@ -577,38 +705,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, February 24, 2026 - 7:41amfull name / name of organization: Elvis and Philosophy:\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Review Essays - C21 Literature: Journal of 21st-Century Writings",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-book-review-essays-c21-literature-journal-of-21st-century-writings"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-17T14:34:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-book-review-essays-c21-literature-journal-of-21st-century-writings",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:41amfull name / name of organization: C21 Literature:\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Review Essays - C21 Literature: Journal of 21st-Century Writings",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-book-review-essays-c21-literature-journal-of-21st-century-writings"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-17T14:34:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/call-for-book-review-essays-c21-literature-journal-of-21st-century-writings",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:41amfull name / name of organization: C21 Literature:\u2026"
                 }
             },
             {
@@ -628,214 +724,6 @@
                 }
             },
             {
-                "title": "Early Scholars Publication Grants: Translating Cultures",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/early-scholars-publication-grants-translating-cultures"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-17T10:28:05.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/17/early-scholars-publication-grants-translating-cultures",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:40amfull name / name of organization: UNESCO Chair in\u2026"
-                }
-            },
-            {
-                "title": "The Subject and its Estrangements",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/the-subject-and-its-estrangements"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-17T00:03:43.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/the-subject-and-its-estrangements",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:40amfull name / name of organization: Qui Parle: Critical\u2026"
-                }
-            },
-            {
-                "title": "The Subject and its Estrangements",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/the-subject-and-its-estrangements"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-17T00:03:43.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/the-subject-and-its-estrangements",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:40amfull name / name of organization: Qui Parle: Critical\u2026"
-                }
-            },
-            {
-                "title": "The Witch and Queer Possibility",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/the-witch-and-queer-possibility"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-16T17:03:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/the-witch-and-queer-possibility",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:38amfull name / name of organization: Miranda Corcoran and\u2026"
-                }
-            },
-            {
-                "title": "Raymond Williams Society Postgraduate Essay Prize 2026",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/raymond-williams-society-postgraduate-essay-prize-2026"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-16T16:44:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/16/raymond-williams-society-postgraduate-essay-prize-2026",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 7:38amfull name / name of organization: Raymond Williams\u2026"
-                }
-            },
-            {
-                "title": "Call for Submissions: Poetry & Art for Issue #9 (Collaborations!)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/15/call-for-submissions-poetry-art-for-issue-9-collaborations"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-15T16:50:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/15/call-for-submissions-poetry-art-for-issue-9-collaborations",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, February 16, 2026 - 8:58amfull name / name of organization: the\u2026"
-                }
-            },
-            {
-                "title": "One Hundred Years of Gabriel Garc\u00eda M\u00e1rquez",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/15/one-hundred-years-of-gabriel-garc%C3%ADa-m%C3%A1rquez"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-15T09:13:10.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/15/one-hundred-years-of-gabriel-garc%C3%ADa-m%C3%A1rquez",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, February 16, 2026 - 8:57amfull name / name of organization: MELOW: The Society for\u2026"
-                }
-            },
-            {
-                "title": "MLA 2027 Panel: Beyond Emancipation? Stages of Protest, Resistance, and Agency for the 21st Century",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/15/mla-2027-panel-beyond-emancipation-stages-of-protest-resistance-and-agency-for-the"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-15T08:02:39.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/15/mla-2027-panel-beyond-emancipation-stages-of-protest-resistance-and-agency-for-the",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, February 16, 2026 - 8:57amfull name / name of organization: Modern Language\u2026"
-                }
-            },
-            {
-                "title": "Journal of Anime and Manga Studies (JAMS) - Volume 7",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/journal-of-anime-and-manga-studies-jams-volume-7"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-13T19:42:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/journal-of-anime-and-manga-studies-jams-volume-7",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, February 16, 2026 - 8:51amfull name / name of organization: Journal of Anime and\u2026"
-                }
-            },
-            {
-                "title": "[Edited Volume] Nature Remembers: War, Trauma, and Environmental Postmemory in Contemporary Anglophone Literature and Culture",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/edited-volume-nature-remembers-war-trauma-and-environmental-postmemory-in"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-13T18:34:41.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/edited-volume-nature-remembers-war-trauma-and-environmental-postmemory-in",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, February 16, 2026 - 8:51amfull name / name of organization: Nicholas Spengler /\u2026"
-                }
-            },
-            {
-                "title": "1st Indigenous Wisdom International Conference on Indigenous Knowledge Systems",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/1st-indigenous-wisdom-international-conference-on-indigenous-knowledge-systems"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-13T16:24:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/1st-indigenous-wisdom-international-conference-on-indigenous-knowledge-systems",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, February 13, 2026 - 12:13pmfull name / name of organization: INDIGENOUS WISDOM: A\u2026"
-                }
-            },
-            {
-                "title": "South Asia in Transition: A Literary Cartography",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/south-asia-in-transition-a-literary-cartography"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-13T16:20:36.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/13/south-asia-in-transition-a-literary-cartography",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, February 13, 2026 - 12:13pmfull name / name of organization: Editors, South Asia in\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: \u2018Video streaming policy and genre on demand\u2019",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/12/call-for-papers-%E2%80%98video-streaming-policy-and-genre-on-demand%E2%80%99"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-12T16:05:53.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/12/call-for-papers-%E2%80%98video-streaming-policy-and-genre-on-demand%E2%80%99",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, February 13, 2026 - 12:13pmfull name / name of organization: Journal of Digital\u2026"
-                }
-            },
-            {
                 "title": "Gadflies, the Golden Rule, and Getting Justice \u201cRight\u201d\u2014The Animating and Cautionary Features of Daredevil: Born Again",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2026/02/11/gadflies-the-golden-rule-and-getting-justice-right-the-animating-and-cautionary-features-of-daredevil-born-again/"
@@ -849,22 +737,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "By Justin Martin I was raised to believe in grace. That we can be touched by the divine and\u2026"
-                }
-            },
-            {
-                "title": "Call for Chapters Invoking History: Power, Bodies, BDSM Edited Volume (proposed for Routledge)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/10/call-for-chapters-invoking-history-power-bodies-bdsm-edited-volume-proposed-for"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-10T14:33:16.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/10/call-for-chapters-invoking-history-power-bodies-bdsm-edited-volume-proposed-for",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, February 13, 2026 - 10:16amfull name / name of organization: Anna Chiara Corradino\u2026"
                 }
             },
             {
@@ -993,38 +865,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, January 20, 2026 - 1:37pmfull name / name of organization: Western Regional\u2026"
-                }
-            },
-            {
-                "title": "Edited Volume on Religion and the X-Men\u2019s Krakoan Age",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/16/edited-volume-on-religion-and-the-x-men%E2%80%99s-krakoan-age"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2026-01-16T21:00:54.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/16/edited-volume-on-religion-and-the-x-men%E2%80%99s-krakoan-age",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, January 20, 2026 - 1:31pmfull name / name of organization: Editors: Gregory Jones\u2026"
-                }
-            },
-            {
-                "title": "Reminder CFP:",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/13/reminder-cfp"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2026-01-13T15:38:10.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/01/13/reminder-cfp",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, January 20, 2026 - 1:23pmfull name / name of organization: United Lutheran\u2026"
                 }
             },
             {
