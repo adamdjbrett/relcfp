@@ -12,13 +12,109 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-24T19:19:00.000Z",
+        "updated": "2026-02-25T17:08:36.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "CFP: American Assemblages",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/cfp-american-assemblages"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-25T17:08:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/cfp-american-assemblages",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, February 26, 2026 - 10:33amfull name / name of organization: Ampersand: An\u2026"
+                }
+            },
+            {
+                "title": "CFP: American Assemblages",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/cfp-american-assemblages"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-25T17:08:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/cfp-american-assemblages",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, February 26, 2026 - 10:33amfull name / name of organization: Ampersand: An\u2026"
+                }
+            },
+            {
+                "title": "Theme Collection: Sovereign AI and Digital Sovereignty",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/theme-collection-sovereign-ai-and-digital-sovereignty"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-25T06:47:46.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/theme-collection-sovereign-ai-and-digital-sovereignty",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, February 26, 2026 - 9:50amfull name / name of organization: Institute for Digital\u2026"
+                }
+            },
+            {
+                "title": "Call for Streams: 2026 Affect Studies Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-streams-2026-affect-studies-conference"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-24T22:22:09.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-streams-2026-affect-studies-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, February 26, 2026 - 9:50amfull name / name of organization: Society for the Study\u2026"
+                }
+            },
+            {
+                "title": "Call for Streams: 2026 Affect Studies Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-streams-2026-affect-studies-conference"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-02-24T22:22:09.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/call-for-streams-2026-affect-studies-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, February 26, 2026 - 9:50amfull name / name of organization: Society for the Study\u2026"
+                }
+            },
+            {
+                "title": "Time Work. Debt, inheritance, and intergenerational practice.",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/time-work-debt-inheritance-and-intergenerational-practice"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-02-24T22:07:11.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/24/time-work-debt-inheritance-and-intergenerational-practice",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, February 26, 2026 - 9:29amfull name / name of organization: Studies in\u2026"
+                }
+            },
             {
                 "title": "Pleasure and Pain in Women\u2019s Writing",
                 "link": {
@@ -144,7 +240,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/pet-affect-studies-towards-zootopia",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Nika Mavrodycontact\u2026"
+                    "#text": "updated: Wednesday, February 25, 2026 - 7:39pmfull name / name of organization: Nika Mavrodycontact\u2026"
                 }
             },
             {
@@ -265,22 +361,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/bad-vibes-only-critique-today"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-23T14:16:34.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/bad-vibes-only-critique-today",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: The Department\u2026"
-                }
-            },
-            {
-                "title": "Bad Vibes Only: Critique Today",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/bad-vibes-only-critique-today"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -289,38 +369,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: The Department\u2026"
-                }
-            },
-            {
-                "title": "Adivasi Writings in India: History, Memory, and Contemporary Expressions",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/adivasi-writings-in-india-history-memory-and-contemporary-expressions"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-23T11:22:21.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/adivasi-writings-in-india-history-memory-and-contemporary-expressions",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Guru Gobind Singh\u2026"
-                }
-            },
-            {
-                "title": "Folk and Culture: Tradition, Resistance and Nurture",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/folk-and-culture-tradition-resistance-and-nurture"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-02-23T11:18:11.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/23/folk-and-culture-tradition-resistance-and-nurture",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 5:02pmfull name / name of organization: Guru Gobind Singh\u2026"
                 }
             },
             {
@@ -420,38 +468,6 @@
                 }
             },
             {
-                "title": "Australia from Below: Lived Histories and Material Cultures of Everyday Life",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/australia-from-below-lived-histories-and-material-cultures-of-everyday-life"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-21T21:48:26.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/australia-from-below-lived-histories-and-material-cultures-of-everyday-life",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Popular Culture\u2026"
-                }
-            },
-            {
-                "title": "Heated Rivalry: Queer Joy and Intimate Masculinity on Television",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/heated-rivalry-queer-joy-and-intimate-masculinity-on-television"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-21T21:37:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/heated-rivalry-queer-joy-and-intimate-masculinity-on-television",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Popular Culture\u2026"
-                }
-            },
-            {
                 "title": "CFP_July 2026 issue (Vol.2, Issue 2) of Entanglements: Journal of Posthumanities",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/21/cfpjuly-2026-issue-vol2-issue-2-of-entanglements-journal-of-posthumanities"
@@ -513,22 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, February 25, 2026 - 6:53amfull name / name of organization: Leiden University\u2026"
-                }
-            },
-            {
-                "title": "Criminologies, Borders, and Humanities in North Africa",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/criminologies-borders-and-humanities-in-north-africa"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-02-18T12:26:09.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/18/criminologies-borders-and-humanities-in-north-africa",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 8:19amfull name / name of organization: Rachid\u2026"
                 }
             },
             {
