@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-02-25T17:08:36.000Z",
+        "updated": "2026-02-25T18:58:55.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "The Women\u2019s Experience (The American Research Handbook on Diversity, Equity & Inclusion)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/the-women%E2%80%99s-experience-the-american-research-handbook-on-diversity-equity-inclusion"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-02-25T18:58:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/25/the-women%E2%80%99s-experience-the-american-research-handbook-on-diversity-equity-inclusion",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, February 26, 2026 - 12:58pmfull name / name of organization: Michele Ren/Radford\u2026"
+                }
+            },
             {
                 "title": "CFP: American Assemblages",
                 "link": {
@@ -433,22 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Migrating Minds:\u2026"
-                }
-            },
-            {
-                "title": "Literature in Language Teaching Articles",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/literature-in-language-teaching-articles"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-02-22T14:44:40.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/02/22/literature-in-language-teaching-articles",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, February 24, 2026 - 5:01pmfull name / name of organization: Literature in Language\u2026"
                 }
             },
             {
