@@ -74,26 +74,63 @@ def update_null_to_current_date(json_data):
     return feed_data
 
 
+def set_content_changed(changed):
+    """Write workflow output when running in GitHub Actions."""
+    github_output = os.environ.get("GITHUB_OUTPUT")
+    if github_output:
+        with open(github_output, "a", encoding="utf-8") as output_file:
+            output_file.write(f"content_changed={'true' if changed else 'false'}\n")
+
+
+def convert_validate_and_save_json():
+    """Convert XML to JSON and normalize nullable updated fields."""
+    if not convert_xml_to_json(XML_FILE, JSON_FILE):
+        print("Failed to convert")
+        return
+
+    with open(JSON_FILE, "r", encoding="utf-8") as json_file:
+        json_data = json_file.read()
+
+    if not validate_json(json_data):
+        return
+
+    updated_json_data = update_null_to_current_date(json_data)
+    with open(JSON_FILE, "w", encoding="utf-8") as json_file:
+        json.dump(updated_json_data, json_file, indent=4)
+
+
 def main():
     # Backup current feed.xml
-    if os.path.exists(XML_FILE):
-        os.rename(XML_FILE, OLD_XML_FILE)
+    had_existing_feed = os.path.exists(XML_FILE)
+    if had_existing_feed:
+        os.replace(XML_FILE, OLD_XML_FILE)
 
     # Download new feed.xml
     url = "https://input.relcfp.com/feed.xml"
-    response = requests.get(url)
+    try:
+        response = requests.get(url, timeout=30)
+    except requests.RequestException as error:
+        print(f"Error downloading feed: {error}")
+        if had_existing_feed and os.path.exists(OLD_XML_FILE):
+            os.replace(OLD_XML_FILE, XML_FILE)
+        set_content_changed(False)
+        return
     
     # Check if the response is null or empty
-    if response is None or not response.text.strip():
-        print("Response is null or empty. Skipping processing.")
-        return  # Exit early if the response is null or empty
-        
-    if response.status_code == 200:
-        with open(XML_FILE, "w") as file:
-            file.write(response.text)
+    if response.status_code != 200 or not response.text.strip():
+        print(
+            f"Feed request did not return usable content (status: {response.status_code})."
+        )
+        if had_existing_feed and os.path.exists(OLD_XML_FILE):
+            os.replace(OLD_XML_FILE, XML_FILE)
+        set_content_changed(False)
+        return
+
+    with open(XML_FILE, "w", encoding="utf-8") as file:
+        file.write(response.text)
 
     # Perform text replacements
-    with open(XML_FILE, "r+") as file:
+    with open(XML_FILE, "r+", encoding="utf-8") as file:
         xml_content = file.read()
         xml_content = re.sub(r"<!\[CDATA\[", "", xml_content)
         xml_content = re.sub(r"\]\]>", "", xml_content)
@@ -104,26 +141,21 @@ def main():
         file.truncate()
 
     # Compare the old and new feed files
+    if not had_existing_feed:
+        print("No previous feed.xml found; treating as changed")
+        set_content_changed(True)
+        convert_validate_and_save_json()
+        return
+
     if compare_files_by_hash(OLD_XML_FILE, XML_FILE):
         print("Files are identical")
         os.remove(OLD_XML_FILE)
-        # Comment below line if running locally
-        os.system(f'echo "content_changed=false" >> "$GITHUB_OUTPUT"')
+        set_content_changed(False)
     else:
         print("Files are different")
         os.remove(OLD_XML_FILE)
-        # Comment below line if running locally
-        os.system(f'echo "content_changed=true" >> "$GITHUB_OUTPUT"')
-        if convert_xml_to_json(XML_FILE, JSON_FILE):
-            # Validate JSON
-            with open(JSON_FILE, "r") as json_file:
-                json_data = json_file.read()
-            if validate_json(json_data):
-                updated_json_data = update_null_to_current_date(json_data)
-            with open(JSON_FILE, "w") as json_file:
-                json.dump(updated_json_data, json_file, indent=4)
-        else:
-            print("Failed to convert")
+        set_content_changed(True)
+        convert_validate_and_save_json()
 
 
 if __name__ == "__main__":
