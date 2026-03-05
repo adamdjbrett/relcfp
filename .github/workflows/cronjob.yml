@@ -21,11 +21,13 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@main
+      - uses: actions/checkout@v4
       #         with:
       #           repository: adamdjbrett/relcfp
       #           token: ${{ secrets.RELCFPCHRONJOB }}
@@ -41,18 +43,6 @@ jobs:
       - name: Get RSS
         id: check
         run: python get_rss.py
-      - name: Add & Commit
-        if: steps.check.outputs.content_changed == 'true'
-        uses: EndBug/add-and-commit@main
-        with:
-          add: feed.xml
-      - name: Use Github App
-        uses: actions/create-github-app-token@v1
-        if: steps.check.outputs.content_changed == 'true'
-        id: generate-app-token
-        with:
-          app-id: ${{ vars.APP_ID }}
-          private-key: ${{ secrets.APP_PRIVATE_KEY }}
       - name: Print result
         if: steps.check.outputs.content_changed == 'true'
         run: cat _data/feed.json
@@ -64,7 +54,11 @@ jobs:
       - name: Commit and push changes
         if: steps.check.outputs.content_changed == 'true'
         run: |
-          git add _data/feed.json
+          git add feed.xml _data/feed.json
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
           git commit -m 'Save output to file'
           git push
         env:
@@ -78,6 +72,7 @@ jobs:
           always_deploy: true
       - name: Send Bluesky Post
         uses: myConsciousness/bluesky-post@v5
+        if: steps.check.outputs.content_changed == 'true'
         with:
           text: "New posts on relcfp.com #acrel"
           identifier: ${{ secrets.BLUESKY_IDENTIFIER }}
