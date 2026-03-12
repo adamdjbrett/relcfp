@@ -1,5 +1,5 @@
 [build]
-  command = "bundle _2.5.16_ install && bundle _2.5.16_ exec jekyll build && npx pagefind --site \"_site\""
+  command = "gem install bundler -v 2.5.16 --no-document && bundle _2.5.16_ install && bundle _2.5.16_ exec jekyll build && npx pagefind --site \"_site\""
   publish = "_site"
 
 [build.environment]
