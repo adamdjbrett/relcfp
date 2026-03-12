@@ -1,5 +1,5 @@
 ---
-title: "#CFP: "
+title: "#CFP: Philosophy of Communication Conference"
 image: /assets/images/relcfp-cover.webp
 tags:
  - religion
