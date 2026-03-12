@@ -1,0 +1,7 @@
+[build]
+  command = "bundle _2.5.16_ install && bundle _2.5.16_ exec jekyll build && npx pagefind --site \"_site\""
+  publish = "_site"
+
+[build.environment]
+  RUBY_VERSION = "3.0.2"
+  BUNDLER_VERSION = "2.5.16"
