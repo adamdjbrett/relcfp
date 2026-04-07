@@ -27,14 +27,15 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v6
       #         with:
       #           repository: adamdjbrett/relcfp
       #           token: ${{ secrets.RELCFPCHRONJOB }}
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v6
         with:
           python-version: "3.11"
+          cache: pip
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
@@ -43,18 +44,21 @@ jobs:
       - name: Get RSS
         id: check
         run: python get_rss.py
+      - name: Print Run Log
+        if: always()
+        run: cat RUNLOG.MD
       - name: Print result
         if: steps.check.outputs.content_changed == 'true'
         run: cat _data/feed.json
       - name: Configure Git
-        if: steps.check.outputs.content_changed == 'true'
+        if: github.event_name != 'pull_request' && github.actor != 'github-actions[bot]'
         run: |
           git config --global user.name 'adamdjbrett'
           git config --global user.email '22662978+adamdjbrett@users.noreply.github.com'
       - name: Commit and push changes
-        if: steps.check.outputs.content_changed == 'true'
+        if: github.event_name != 'pull_request' && github.actor != 'github-actions[bot]'
         run: |
-          git add feed.xml _data/feed.json
+          git add feed.xml _data/feed.json RUNLOG.MD
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
