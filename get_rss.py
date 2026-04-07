@@ -17,7 +17,10 @@ XML_FILE = Path("feed.xml")
 JSON_FILE = Path("_data/feed.json")
 OLD_XML_FILE = Path("old_feed.xml")
 RUNLOG_FILE = Path("RUNLOG.MD")
-FEED_URL = "https://input.relcfp.com/feed.xml"
+PRIMARY_FEED_URL = "https://input.relcfp.com/feed.xml"
+FALLBACK_FEED_URLS = (
+    "https://input-relcfp.netlify.app/feed.xml",
+)
 REQUEST_TIMEOUT = (15, 60)
 REQUEST_HEADERS = {
     "User-Agent": (
@@ -85,7 +88,7 @@ class RunLogger:
             f"- Completed: `{self.completed_at}`",
             f"- Status: `{self.status}`",
             f"- Content changed: `{str(self.content_changed).lower()}`",
-            f"- Feed URL: `{FEED_URL}`",
+            f"- Feed URL: `{PRIMARY_FEED_URL}`",
             f"- GitHub event: `{github_event}`",
             f"- GitHub actor: `{github_actor}`",
             f"- GitHub ref: `{github_ref}`",
@@ -277,46 +280,48 @@ def fetch_with_curl(url: str) -> tuple[int, str]:
     return status_code, decode_xml_bytes(body)
 
 
-def fetch_feed_xml(url: str, run_log: RunLogger) -> str:
+def fetch_feed_xml(urls: tuple[str, ...], run_log: RunLogger) -> str:
     errors: list[str] = []
 
-    run_log.log(f"Fetching feed with requests from {url}.")
-    try:
-        status_code, response_text = fetch_with_requests(url)
-        run_log.log(f"requests status: {status_code}")
-        if status_code == 200 and response_text.strip():
-            run_log.log("Fetched feed with requests.")
-            return response_text
+    for index, url in enumerate(urls):
+        source_label = "primary" if index == 0 else f"fallback {index}"
+        run_log.log(f"Fetching {source_label} feed with requests from {url}.")
+        try:
+            status_code, response_text = fetch_with_requests(url)
+            run_log.log(f"{source_label} requests status: {status_code}")
+            if status_code == 200 and response_text.strip():
+                run_log.log(f"Fetched {source_label} feed with requests.")
+                return response_text
 
-        if status_code != 200:
-            message = f"requests returned status {status_code}"
-        else:
-            message = "requests returned empty content"
-        run_log.error(message)
-        errors.append(message)
-    except requests.RequestException as error:
-        message = f"requests failed: {error}"
-        run_log.error(message)
-        errors.append(message)
+            if status_code != 200:
+                message = f"{source_label} requests returned status {status_code}"
+            else:
+                message = f"{source_label} requests returned empty content"
+            run_log.error(message)
+            errors.append(message)
+        except requests.RequestException as error:
+            message = f"{source_label} requests failed: {error}"
+            run_log.error(message)
+            errors.append(message)
 
-    run_log.log("Falling back to curl.")
-    try:
-        status_code, response_text = fetch_with_curl(url)
-        run_log.log(f"curl status: {status_code}")
-        if status_code == 200 and response_text.strip():
-            run_log.log("Fetched feed with curl fallback.")
-            return response_text
+        run_log.log(f"Falling back to curl for {source_label} feed.")
+        try:
+            status_code, response_text = fetch_with_curl(url)
+            run_log.log(f"{source_label} curl status: {status_code}")
+            if status_code == 200 and response_text.strip():
+                run_log.log(f"Fetched {source_label} feed with curl fallback.")
+                return response_text
 
-        if status_code != 200:
-            message = f"curl returned status {status_code}"
-        else:
-            message = "curl returned empty content"
-        run_log.error(message)
-        errors.append(message)
-    except (FileNotFoundError, subprocess.CalledProcessError) as error:
-        message = f"curl failed: {error}"
-        run_log.error(message)
-        errors.append(message)
+            if status_code != 200:
+                message = f"{source_label} curl returned status {status_code}"
+            else:
+                message = f"{source_label} curl returned empty content"
+            run_log.error(message)
+            errors.append(message)
+        except (FileNotFoundError, subprocess.CalledProcessError) as error:
+            message = f"{source_label} curl failed: {error}"
+            run_log.error(message)
+            errors.append(message)
 
     raise RuntimeError("; ".join(errors))
 
@@ -383,7 +388,7 @@ def main() -> None:
         run_log.log("No existing feed.xml found before fetch.")
 
     try:
-        downloaded_xml = fetch_feed_xml(FEED_URL, run_log)
+        downloaded_xml = fetch_feed_xml((PRIMARY_FEED_URL, *FALLBACK_FEED_URLS), run_log)
         normalized_xml = normalize_xml_text(downloaded_xml)
         feed_data = convert_xml_to_feed_data(normalized_xml)
         run_log.feed_entries = len(ensure_list(feed_data.get("feed", {}).get("entry")))

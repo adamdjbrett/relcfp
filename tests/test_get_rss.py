@@ -1,8 +1,14 @@
 import unittest
 from pathlib import Path
 from tempfile import TemporaryDirectory
+from unittest.mock import patch
 
-from get_rss import RunLogger, convert_xml_to_feed_data, update_null_to_current_date
+from get_rss import (
+    RunLogger,
+    convert_xml_to_feed_data,
+    fetch_feed_xml,
+    update_null_to_current_date,
+)
 
 
 class GetRssTests(unittest.TestCase):
@@ -60,6 +66,31 @@ class GetRssTests(unittest.TestCase):
         self.assertIn("requests status: 403", content)
         self.assertIn("curl returned status 404", content)
         self.assertIn("## Errors", content)
+
+    def test_fetch_feed_xml_uses_fallback_url_after_primary_403(self) -> None:
+        run_log = RunLogger()
+        xml_text = "<?xml version='1.0'?><feed><updated>2026-04-07T00:00:00Z</updated></feed>"
+
+        with patch(
+            "get_rss.fetch_with_requests",
+            side_effect=[(403, "forbidden"), (200, xml_text)],
+        ) as mock_requests, patch("get_rss.fetch_with_curl") as mock_curl:
+            result = fetch_feed_xml(
+                (
+                    "https://input.relcfp.com/feed.xml",
+                    "https://input-relcfp.netlify.app/feed.xml",
+                ),
+                run_log,
+            )
+
+        self.assertEqual(result, xml_text)
+        self.assertEqual(mock_requests.call_count, 2)
+        mock_requests.assert_any_call("https://input.relcfp.com/feed.xml")
+        mock_requests.assert_any_call("https://input-relcfp.netlify.app/feed.xml")
+        mock_curl.assert_called_once_with("https://input.relcfp.com/feed.xml")
+        self.assertTrue(
+            any("primary requests returned status 403" in entry for entry in run_log.errors)
+        )
 
 
 if __name__ == "__main__":
