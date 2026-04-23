@@ -7,6 +7,7 @@ tags:
  - philosophy
 canonical_url: http://jcrt.org/blog/2026-04-22-religion-politics-and-cognitive-warfare-information-interpretation-conspiracy-and-the-struggle-for-reality/
 ---
+## Religion, Politics, and Cognitive Warfare: Information, Interpretation, Conspiracy, and the Struggle for Reality
 
 ### *Call for Papers and Presentations*
 #### Details 
