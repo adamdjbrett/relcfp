@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-05-05T04:05:45.000Z",
+        "updated": "2026-05-06T20:18:40.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Faith and AI Postdoctoral Fellowship",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20150896/faith-and-ai-postdoctoral-fellowship"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-05-06T20:18:40.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20150896/faith-and-ai-postdoctoral-fellowship",
+                "content": {
+                    "@type": "html",
+                    "#text": "Dear Colleague, The latest Open Access issue of Theoria: A Journal of Social and Political Theory\u2026"
+                }
+            },
             {
                 "title": "H-Net Job Guide Weekly Report for H-Scholar: 26 April - 3 May",
                 "link": {
@@ -158,22 +174,6 @@
                 },
                 "updated": "2026-05-04T09:36:30.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20149802/h-net-job-guide-weekly-report-h-usa-19-april-26-april",
-                "content": {
-                    "@type": "html",
-                    "#text": "Dear Colleague, The latest Open Access issue of Theoria: A Journal of Social and Political Theory\u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Asia: 19 April - 26 April",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20149760/h-net-job-guide-weekly-report-h-asia-19-april-26-april"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-05-01T02:40:47.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20149760/h-net-job-guide-weekly-report-h-asia-19-april-26-april",
                 "content": {
                     "@type": "html",
                     "#text": "Dear Colleague, The latest Open Access issue of Theoria: A Journal of Social and Political Theory\u2026"
@@ -448,7 +448,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/23/cfp-international-journal-of-computer-science-information-technology-ijcsit",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, May 5, 2026 - 8:49amfull name / name of organization: Renaissance Society of\u2026"
+                    "#text": "updated: Wednesday, May 6, 2026 - 8:49amfull name / name of organization: Renaissance Society of\u2026"
                 }
             },
             {
@@ -464,7 +464,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/23/cfp-international-journal-of-artificial-intelligence-and-soft-computing-ijaisc",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, May 5, 2026 - 8:49amfull name / name of organization: Texas Association for Asian\u2026"
+                    "#text": "updated: Wednesday, May 6, 2026 - 8:49amfull name / name of organization: Texas Association for\u2026"
                 }
             },
             {
@@ -480,7 +480,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/23/international-journal-of-humanities-and-social-sciences",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, May 5, 2026 - 8:48amfull name / name of organization: American Academy of\u2026"
+                    "#text": "updated: Wednesday, May 6, 2026 - 8:49amfull name / name of organization: American Academy of\u2026"
                 }
             },
             {
@@ -768,7 +768,7 @@
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/04/13/artificial-intelligence-faith-and-epistemic-coherence",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Tuesday, April 14, 2026 - 4:46pmfull name / name of organization: 5th World Congress on\u2026"
+                    "#text": "updated: Wednesday, May 6, 2026 - 1:02amfull name / name of organization: 5th World Congress on\u2026"
                 }
             },
             {
