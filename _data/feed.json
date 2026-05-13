@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-05-11T15:47:58.000Z",
+        "updated": "2026-05-13T02:00:37.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: Fascism in Comics",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2026/05/12/call-for-papers-fascism-in-comics/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2026-05-13T02:00:37.000Z",
+                "id": "https://popularcultureandtheology.com/2026/05/12/call-for-papers-fascism-in-comics/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Journal of Comics and Culture Volume 12 Call for Papers: Fascism The word \u201cfascism\u201d is a term\u2026"
+                }
+            },
             {
                 "title": "Small Screens, Big Stories: Storytelling, Seriality and Mobile Screen Culture",
                 "link": {
@@ -817,22 +833,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "CFP: Consequential Play \u2013 Theology, Religion and Video Games Volume Editor: Trevor B. Williams\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Religion in Jack Kirby\u2019s Fourth World and Beyond",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/07/23/call-for-papers-religion-in-jack-kirbys-fourth-world-and-beyond/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-07-23T20:20:17.000Z",
-                "id": "https://popularcultureandtheology.com/2025/07/23/call-for-papers-religion-in-jack-kirbys-fourth-world-and-beyond/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Religion in Jack Kirby\u2019s Fourth World and Beyond Editor: Matthew Brake Jack Kirby needs no\u2026"
                 }
             },
             {
