@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-06-10T17:03:43.000Z",
+        "updated": "2026-06-11T16:47:46.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: Spielberg\u2019s Alien Imaginary and American Spirituality",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2026/06/11/call-for-papers-spielbergs-alien-imaginary-and-american-spirituality/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2026-06-11T16:47:46.000Z",
+                "id": "https://popularcultureandtheology.com/2026/06/11/call-for-papers-spielbergs-alien-imaginary-and-american-spirituality/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for Papers From Close Encounters to Disclosure: Spielberg\u2019s Alien Imaginary and American\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: Theology and Religion in the Works of Stephen King",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2026/06/11/call-for-papers-theology-and-religion-in-the-works-of-stephen-king/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2026-06-11T16:43:03.000Z",
+                "id": "https://popularcultureandtheology.com/2026/06/11/call-for-papers-theology-and-religion-in-the-works-of-stephen-king/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Theology and Religion in the Works of Stephen King Call for Papers Stephen King has aptly been\u2026"
+                }
+            },
             {
                 "title": "Call For Papers for an International Conference Georgian Jewry across Two Homelands: History, Heritage, and Identity",
                 "link": {
@@ -404,22 +436,6 @@
                 }
             },
             {
-                "title": "Call for Book Chapters- Plastic and Cinema: Aesthetic, Materiality and Philosophy (to be tentatively published under the book series- Film Studies and Philosophy by Palgrave Macmillan, Springer Nature)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/05/call-for-book-chapters-plastic-and-cinema-aesthetic-materiality-and-philosophy-to-be"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-06-05T11:15:45.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/05/call-for-book-chapters-plastic-and-cinema-aesthetic-materiality-and-philosophy-to-be",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, June 5, 2026 - 7:15amfull name / name of organization: Debarshi Arathdar, Anik\u2026"
-                }
-            },
-            {
                 "title": "\"Live Long and Prosper\": 60 Years of Star Trek in Popular Culture",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/04/live-long-and-prosper-60-years-of-star-trek-in-popular-culture"
@@ -708,6 +724,22 @@
                 }
             },
             {
+                "title": "The Intricacies of Climate Change and Gender",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/30/the-intricacies-of-climate-change-and-gender"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-05-30T05:01:09.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/05/30/the-intricacies-of-climate-change-and-gender",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, May 30, 2026 - 1:01amfull name / name of organization: TENET: The\u2026"
+                }
+            },
+            {
                 "title": "Call for Papers: Gaming Worlds and The Human",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2026/05/20/call-for-papers-gaming-worlds-and-the-human/"
@@ -948,22 +980,6 @@
                 }
             },
             {
-                "title": "Overshadowed: Re-Examining Consent in Divine \u201cVirgin Birth\u201d Narratives from Luke to Xena",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/12/22/overshadowed-re-examining-consent-in-divine-virgin-birth-narratives-from-luke-to-xena/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-12-22T21:19:01.000Z",
-                "id": "https://popularcultureandtheology.com/2025/12/22/overshadowed-re-examining-consent-in-divine-virgin-birth-narratives-from-luke-to-xena/",
-                "content": {
-                    "@type": "html",
-                    "#text": "By Princess O\u2019Nika Auguste The Christmas season centres the story of the Virgin Mary, a narrative of\u2026"
-                }
-            },
-            {
                 "title": "Disruptive Mobilities: Unsettling Law, Space, and Identities through Movement",
                 "link": {
                     "@href": "https://www.socialifeoflaw.com/post/disruptive-mobilities-unsettling-law-space-and-identities-through-movement"
@@ -977,22 +993,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "The onset of the pandemic generated a powerful, universal newfound currency for mobility. Around the\u2026"
-                }
-            },
-            {
-                "title": "Extended Call for Papers: Religion and Peak TV",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2025/10/31/extended-call-for-papers-religion-and-peak-tv/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2025-11-01T00:35:29.000Z",
-                "id": "https://popularcultureandtheology.com/2025/10/31/extended-call-for-papers-religion-and-peak-tv/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Extended Call for Papers: Religion and Peak TV Volume Editor: George Tsakiridis, PhD Abstract and CV\u2026"
                 }
             },
             {
