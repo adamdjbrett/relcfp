@@ -12,13 +12,173 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-06-08T20:12:45.000Z",
+        "updated": "2026-06-10T17:03:43.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call For Papers for an International Conference Georgian Jewry across Two Homelands: History, Heritage, and Identity",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20154098/call-papers-international-conference-georgian-jewry-across-two"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-10T17:03:43.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20154098/call-papers-international-conference-georgian-jewry-across-two",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "Journal of Buddhist Philosophy Volume #8, Issue #1",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20154112/journal-buddhist-philosophy-volume-8-issue-1"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-10T12:39:10.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20154112/journal-buddhist-philosophy-volume-8-issue-1",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153866/h-net-job-guide-weekly-report-h-diplo-31-may-7-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T18:39:09.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153866/h-net-job-guide-weekly-report-h-diplo-31-may-7-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-HOAC: 31 May - 7 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153878/h-net-job-guide-weekly-report-h-hoac-31-may-7-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T09:46:14.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153878/h-net-job-guide-weekly-report-h-hoac-31-may-7-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Interfaith: 31 May - 7 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153881/h-net-job-guide-weekly-report-h-interfaith-31-may-7-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T08:38:12.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153881/h-net-job-guide-weekly-report-h-interfaith-31-may-7-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "JOBS> H-Net Job Guide Weekly Report for H-Buddhism: 31 May - 7 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153862/h-net-job-guide-weekly-report-h-buddhism-31-may-7-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T05:54:22.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153862/h-net-job-guide-weekly-report-h-buddhism-31-may-7-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "LECTURES> Online Buddhist Studies Events (June 9 - July 6)",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153839/talks-online-buddhist-studies-events-june-9-july-6"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T05:52:25.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153839/talks-online-buddhist-studies-events-june-9-july-6",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "LECTURE> Professor Emeritus Takashi Shimosawa, Seminar on \"Buddhist Reform in Nineteenth-Century Chittagong and Its Historical Significance: Reviewing the Reality of Luri Buddhism\"",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153783/mu-crs-seminar-professor-emeritus-takashi-shimosawa-about-buddhist"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T05:50:08.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153783/mu-crs-seminar-professor-emeritus-takashi-shimosawa-about-buddhist",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Asia: 31 May - 7 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153858/h-net-job-guide-weekly-report-h-asia-31-may-7-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T03:55:03.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153858/h-net-job-guide-weekly-report-h-asia-31-may-7-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
+            {
+                "title": "H-Net Job Guide Weekly Report for H-Histsex: 31 May - 7 June",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20153877/h-net-job-guide-weekly-report-h-histsex-31-may-7-june"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-09T00:16:37.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20153877/h-net-job-guide-weekly-report-h-histsex-31-may-7-june",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
             {
                 "title": "CALL FOR SUBMISSIONS \u2014 Mini Plays Review | September 2026 Issue",
                 "link": {
@@ -65,22 +225,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, June 8, 2026 - 1:12pmfull name / name of organization: The Manuscript: Journal of\u2026"
-                }
-            },
-            {
-                "title": "Adventures in Ecocriticism: Call for Contributions",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/08/adventures-in-ecocriticism-call-for-contributions"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-06-08T17:10:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/08/adventures-in-ecocriticism-call-for-contributions",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, June 8, 2026 - 1:10pmfull name / name of organization: Jency Wilson and Will\u2026"
                 }
             },
             {
@@ -433,6 +577,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, June 3, 2026 - 7:43pmfull name / name of organization: Leo Chucontact\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: \u2018Dramatherapy with Children and Young People\u2019",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/03/call-for-papers-%E2%80%98dramatherapy-with-children-and-young-people%E2%80%99"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-06-03T15:49:03.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/03/call-for-papers-%E2%80%98dramatherapy-with-children-and-young-people%E2%80%99",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, June 3, 2026 - 11:49amfull name / name of organization: Dramatherapycontact\u2026"
                 }
             },
             {
