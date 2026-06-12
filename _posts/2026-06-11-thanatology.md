@@ -7,13 +7,13 @@ tags:
  - philosophy
 ---
 ## Call for Contributors:
-### Death and the Chatbot: The Thanatology of Artificial Intelligence
+## Death and the Chatbot: The Thanatology of Artificial Intelligence
 
-### Editors:
+## Editors:
 
 Robert Spinelli (<rspinelli@ncis.org>); Kaylee Alexander (<kaylee.alexander@utah.edu>); Justina Sumilova (<justina.sumilova@protonmail.com>)
 
-### Abstract:
+## Abstract:
 
 Deathbots, griefbots or thanabots are chatbots based on the digital footprint of the deceased that offer mourners the possibility to 'talk' to their loved ones after their death. This Artificial Intelligence&mdash;based thanatechnology raises several philosophical and psychological questions as well as technological ones. The rapid adoption of AI tools has coincided with a rise in AI-based resources for death mediation and grief consolation, and the questioning of mortality's limitations fosters an emphasis on existential questions that do not have a ready precedent.
 
@@ -45,10 +45,10 @@ Suggested topics may include the following:
 
 - Digital hauntology
 
-#### Details
+### Details
 
-Please submit chapter proposals (300--500 words), CVs and brief author bios (50--80 words) to the editorial team by **August 31, 2026.**
+Please submit chapter proposals (300--500 words), CVs and brief author bios (50--80 words) to the editorial team by **August 31, 2026**.
 
-The editors will review all submitted proposals and notify applicants of their status by **September 15, 2026.** Accepted chapters should be approximately 7,000 words (including notes and bibliography), and first drafts of completed manuscripts will be due by **March 31, 2027**. All chapters will be subject to the peer review process; proposal acceptance does not guarantee publication.
+The editors will review all submitted proposals and notify applicants of their status by **September 15, 2026**. Accepted chapters should be approximately 7,000 words (including notes and bibliography), and first drafts of completed manuscripts will be due by **March 31, 2027**. All chapters will be subject to the peer review process; proposal acceptance does not guarantee publication.
 
 Expected publication in late 2027 or early 2028.
