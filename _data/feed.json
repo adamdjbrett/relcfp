@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-06-11T16:47:46.000Z",
+        "updated": "2026-06-12T03:06:06.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "JOURNAL> Journal of Buddhist Philosophy: New Website",
+                "link": {
+                    "@href": "https://networks.h-net.org/group/announcements/20154211/journal-buddhist-philosophy-new-website"
+                },
+                "author": {
+                    "name": "H-Net - Religious Studies",
+                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
+                },
+                "updated": "2026-06-12T03:06:06.000Z",
+                "id": "https://networks.h-net.org/group/announcements/20154211/journal-buddhist-philosophy-new-website",
+                "content": {
+                    "@type": "html",
+                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
+                }
+            },
             {
                 "title": "Call for Papers: Spielberg\u2019s Alien Imaginary and American Spirituality",
                 "link": {
@@ -190,22 +206,6 @@
                 },
                 "updated": "2026-06-09T03:55:03.000Z",
                 "id": "https://networks.h-net.org/group/announcements/20153858/h-net-job-guide-weekly-report-h-asia-31-may-7-june",
-                "content": {
-                    "@type": "html",
-                    "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
-                }
-            },
-            {
-                "title": "H-Net Job Guide Weekly Report for H-Histsex: 31 May - 7 June",
-                "link": {
-                    "@href": "https://networks.h-net.org/group/announcements/20153877/h-net-job-guide-weekly-report-h-histsex-31-may-7-june"
-                },
-                "author": {
-                    "name": "H-Net - Religious Studies",
-                    "uri": "https://networks.h-net.org/subject-fields/religious-studies-and-theology"
-                },
-                "updated": "2026-06-09T00:16:37.000Z",
-                "id": "https://networks.h-net.org/group/announcements/20153877/h-net-job-guide-weekly-report-h-histsex-31-may-7-june",
                 "content": {
                     "@type": "html",
                     "#text": "H-Net Job Guide Weekly Report for H-Diplo: 31 May - 7 June H-Net Job Guide 06/09/2026 - 2:39pm \u2026"
