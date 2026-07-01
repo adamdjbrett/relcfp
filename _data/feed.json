@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-06-27T07:06:10.000Z",
+        "updated": "2026-06-29T09:49:04.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Indian Cultural Heritage: Perspectives",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/indian-cultural-heritage-perspectives"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-06-29T09:49:04.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/indian-cultural-heritage-perspectives",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, June 29, 2026 - 6:10amfull name / name of organization: Hijam Georgie\u2026"
+                }
+            },
+            {
+                "title": "Northeast Indian Writing in English and Cultural Expressions",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/northeast-indian-writing-in-english-and-cultural-expressions"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-06-29T09:35:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/29/northeast-indian-writing-in-english-and-cultural-expressions",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, June 29, 2026 - 6:09amfull name / name of organization: Hijam Georgie\u2026"
+                }
+            },
             {
                 "title": "Digital Dalits and Global Solidarities: Collaborative Action in the 21st Century (Roundtable)",
                 "link": {
@@ -129,6 +161,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, June 25, 2026 - 4:50pmfull name / name of organization: Dr Michael Samuel\u2026"
+                }
+            },
+            {
+                "title": "THE SOUTHEASTERN RENAISSANCE CONFERENCE",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/25/the-southeastern-renaissance-conference"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-06-25T15:51:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/25/the-southeastern-renaissance-conference",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, June 27, 2026 - 11:40pmfull name / name of organization: THE SOUTHEASTERN\u2026"
                 }
             },
             {
@@ -340,38 +388,6 @@
                 }
             },
             {
-                "title": "Inter-American Mobility conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/23/inter-american-mobility-conference"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-06-23T19:55:12.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/23/inter-american-mobility-conference",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, June 23, 2026 - 4:01pmfull name / name of organization: Inter-American Research\u2026"
-                }
-            },
-            {
-                "title": "Rewriting the Canon: A Look at What We Learn from Contemporary Updates of the Classics",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/23/rewriting-the-canon-a-look-at-what-we-learn-from-contemporary-updates-of-the-classics"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-06-23T17:12:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/23/rewriting-the-canon-a-look-at-what-we-learn-from-contemporary-updates-of-the-classics",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, June 23, 2026 - 1:12pmfull name / name of organization: NEMLAcontact\u2026"
-                }
-            },
-            {
                 "title": "Smell Studies Journal Call for Papers",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/23/smell-studies-journal-call-for-papers"
@@ -385,22 +401,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Tuesday, June 23, 2026 - 8:18amfull name / name of organization: Smell Studies\u2026"
-                }
-            },
-            {
-                "title": "The Passage of Time and Generational Conflicts: Theory, Narrative, Thought",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/23/the-passage-of-time-and-generational-conflicts-theory-narrative-thought"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-06-23T09:22:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/23/the-passage-of-time-and-generational-conflicts-theory-narrative-thought",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, June 23, 2026 - 5:22amfull name / name of organization: Between \u2013 The\u2026"
                 }
             },
             {
