@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers: Gaming Fandom - Transformative Works and Culture"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

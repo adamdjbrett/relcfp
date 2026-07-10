@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers: Calligraphers and Spiritualities Crossing Cultures (CrossCurrents)"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

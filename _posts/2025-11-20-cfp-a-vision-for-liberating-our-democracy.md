@@ -1,6 +1,6 @@
 ---
 title: "#CFP: United Lutheran Seminary to Host “A Vision for Liberating Our Democracy” Conference, February 27–28, 2026"
-image: /assets/images/ULS-a-vision-for-liberating-our-democracy.jpg
+image: /assets/images/ULS-a-vision-for-liberating-our-democracy.webp
 tags:
  - religion
  - humanities

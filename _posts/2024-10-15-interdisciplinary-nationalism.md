@@ -1,6 +1,6 @@
 ---
 title: "CFP: Signs of the Times: Interdisciplinary Responses to Religious Nationalism"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

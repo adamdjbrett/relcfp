@@ -1,7 +1,7 @@
 ---
 title: "CFP: Bible and Contemporary Fiction"
 date: 2024-07-09 12:50:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

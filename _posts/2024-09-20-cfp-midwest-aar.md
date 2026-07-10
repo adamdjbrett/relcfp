@@ -1,6 +1,6 @@
 ---
 title: "CFP: Midwest AAR Call for Papers"
-image: /assets/images/midwest-aar.png
+image: /assets/images/midwest-aar.webp
 tags:
   - religion
   - humanities

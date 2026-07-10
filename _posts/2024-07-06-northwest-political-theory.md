@@ -1,7 +1,7 @@
 ---
 title: "CFP: Northwestern Graduate Student Political Theory Conference 2024"
 date: 2024-07-06 10:11:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - politics
@@ -20,7 +20,7 @@ The Northwestern Graduate Student Political Theory Conference is a biennial co
 
 ##### Keynote speaker: Prof. Linda M.G. Zerilli, University of Chicago
 
-[![Poster](/assets/images/Northwestern-PT-2024-CfP-1-768x994.png)](/assets/images/Northwestern-PT-2024-CfP-1-768x994.png)
+[![Poster](/assets/images/Northwestern-PT-2024-CfP-1-768x994.webp)](/assets/images/Northwestern-PT-2024-CfP-1-768x994.webp)
 
 ### Call for papers
 

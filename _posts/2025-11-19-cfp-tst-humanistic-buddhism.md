@@ -67,6 +67,6 @@ Accepted papers will have the opportunity to be included in an edited volume, wh
 We are honoured to welcome [Prof. Francis X. Clooney](https://www.hds.harvard.edu/people/francis-x-clooney), S.J. (Harvard University)---a Fellow of the American Academy of Arts and Sciences and one of the world's foremost voices in Comparative Theology---as our keynote speaker.
 
 ## Flyer
-![flyer](/assets/images/tst-humanistic-buddhism.jpg)
+![flyer](/assets/images/tst-humanistic-buddhism.webp)
 
 [Learn more](https://www.trinity.utoronto.ca/study-theology/whats_on_in_divinity/call-for-papers-navigating-conflict-humanistic-buddhism-and-comparative-theology-in-a-divided-world/)

@@ -1,6 +1,6 @@
 ---
 title: "Note: Society for the Scientific Study of Religion"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

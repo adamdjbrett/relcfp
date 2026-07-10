@@ -1,6 +1,6 @@
 ---
 title: "CFP: Mapping Spaces, Embodying Territories: Spatial Humanities and GIScience Across the Disciplines"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

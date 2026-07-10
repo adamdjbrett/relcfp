@@ -1,7 +1,7 @@
 ---
 title: "Call for Papers: Religion and the Work of Art"
 date: 2024-06-13 13:45:23
-image: "/assets/images/anna-kolosyuk-D5nh6mCW52c-unsplash.jpg"
+image: "/assets/images/anna-kolosyuk-D5nh6mCW52c-unsplash.webp"
 tags:
   - religion
   - art

@@ -1,7 +1,7 @@
 ---
 title: "Call for papers: Conference on the History of Women Religious"
 date: 2024-06-13 13:30:40
-image: "/assets/images/corita_cushwa_web.jpg"
+image: "/assets/images/corita_cushwa_web.webp"
 tags:
   - religion
   - catholic

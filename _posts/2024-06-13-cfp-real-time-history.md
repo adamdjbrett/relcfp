@@ -1,7 +1,7 @@
 ---
 title: "CFP: Real-Time History: Engaging with Living Archives and Temporal Multiplicities"
 date: 2024-06-13 13:31:31
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - history
   - archives

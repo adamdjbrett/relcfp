@@ -1,7 +1,7 @@
 ---
 title: "CFP: Utopian Hawthorne"
 date: 2024-07-09 13:11:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

@@ -1,6 +1,6 @@
 ---
 title: "CFP: 49th Annual Conference of the Australian Association for the Study of Religion: Thinking Religion in Place"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

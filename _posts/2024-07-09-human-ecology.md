@@ -1,7 +1,7 @@
 ---
 title: "CFP: The Future of Human Ecology, Revista Naturaleza y Libertad"
 date: 2024-07-09 09:11:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

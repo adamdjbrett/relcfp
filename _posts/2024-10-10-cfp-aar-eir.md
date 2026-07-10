@@ -1,6 +1,6 @@
 ---
 title: "CFP: The Futures of Religious Studies."
-image: /assets/images/AAR-EIR-graphic-spread-logos-and-map.png
+image: /assets/images/AAR-EIR-graphic-spread-logos-and-map.webp
 tags:
   - religion
   - humanities

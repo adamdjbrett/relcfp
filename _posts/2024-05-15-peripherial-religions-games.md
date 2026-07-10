@@ -1,7 +1,7 @@
 ---
 title:  "CFP: SPECIAL ISSUE 2025 Peripheral Religions and Games"
 excerpt: ""
-image: "/assets/images/gamenvironments.jpg"
+image: "/assets/images/gamenvironments.webp"
 tags:
   - AAR 
   - religion 

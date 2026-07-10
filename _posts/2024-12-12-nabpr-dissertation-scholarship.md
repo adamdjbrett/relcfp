@@ -1,6 +1,6 @@
 ---
 title: "NABPR Dissertation Scholarship competition"
-image: /assets/images/nabpr.jpg
+image: /assets/images/nabpr.webp
 tags:
   - religion
   - humanities

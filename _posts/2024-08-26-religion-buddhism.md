@@ -1,6 +1,6 @@
 ---
 title: "CFP: Reimagining Religion, Rethinking Philosophy: Theories and Methods from Buddhist Sources"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

@@ -1,6 +1,6 @@
 ---
 title: "CFP: International Conference on Decolonizing Social Sciences and Humanities: Islamic and Non-Western Perspectives"
-image: /assets/images/uii-machmuddin-noor.jpg
+image: /assets/images/uii-machmuddin-noor.webp
 tags:
   - religion
   - humanities
@@ -10,7 +10,7 @@ canonical_url: https://fis.uiii.ac.id/activities/events/call-for-papers-the-inte
 ## CALL FOR PAPERS 
 the “International Conference on Decolonizing Social Sciences and Humanities: Islamic and Non-Western Perspectives”, organized by the Faculty of Islamic Studies, UIII and the Institute Social, Türkiye, on April 29–30, 2025, at Universitas Islam Internasional Indonesia (UIII) Depok, Indonesia.
 
-![Poster](/assets/images/cfp-decolonizing-UIII.jpeg)
+![Poster](/assets/images/cfp-decolonizing-UIII.webp)
 
 ## Download the Full Call
 [View PDF](/assets/pdfs/Call-For-Papers_Decolonizing-Social-Sciences-and-Humanities-Islamic-and-Non-Western-Perspectives.pdf)

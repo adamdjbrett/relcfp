@@ -1,7 +1,7 @@
 ---
 title: "CFP: Encounters with Sara Ahmed"
 date: 2024-07-06 08:01:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - politics

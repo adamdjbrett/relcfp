@@ -1,6 +1,6 @@
 ---
 title: "CFP: 2nd International Congress of Ecological Humanities"
-image: /assets/images/ecological-humanities.png
+image: /assets/images/ecological-humanities.webp
 tags:
   - religion
   - humanities

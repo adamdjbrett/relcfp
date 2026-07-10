@@ -1,6 +1,6 @@
 ---
 title: "CFP: AAAR-WR 2025 Performing Religions, Faith, and Spirituality"
-image: /assets/images/2025-cfp-banner-asu-student-pavilion.png
+image: /assets/images/2025-cfp-banner-asu-student-pavilion.webp
 tags:
   - religion
   - humanities

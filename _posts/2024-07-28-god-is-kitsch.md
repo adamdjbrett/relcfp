@@ -1,6 +1,6 @@
 ---
 title: "God Loves Kitsch! (CAA)"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

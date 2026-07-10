@@ -1,7 +1,7 @@
 ---
 title: "CFP: Mindfulness, Movement, and Cultural Revitalization: Indigenous Contemplative Theories and Practices"
 date: 2024-07-09 10:30:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

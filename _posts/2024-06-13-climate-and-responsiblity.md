@@ -1,7 +1,7 @@
 ---
 title: "Climate, Religion and Responsibility"
 date: 2024-06-13 09:26:40
-image: "/assets/images/ijr.jpg"
+image: "/assets/images/ijr.webp"
 tags:
   - interdisciplinary
   - climate

@@ -1,7 +1,7 @@
 ---
 title: "Call for papers: a Companion to Dennis Wheatley"
 date: 2024-07-09 12:45:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

@@ -1,6 +1,6 @@
 ---
 title: "AI and the Ends of Humanity: Thinking Theologically after ChatGPT"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

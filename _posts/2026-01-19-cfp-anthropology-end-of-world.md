@@ -17,4 +17,4 @@ Please submit a CV, a 250‑word abstract, and institutional information by Febr
 
 [RSVP](https://docs.google.com/forms/d/e/1FAIpQLSdtgVZ_6wHZkgkS0B7KimV7HU9kY0sANmPifKcbEDivc26nNQ/viewform)
 
-![cfp-ant-end-of-world.jpg](/assets/images/cfp-ant-end-of-world.jpg)
+![cfp-ant-end-of-world.jpg](/assets/images/cfp-ant-end-of-world.webp)

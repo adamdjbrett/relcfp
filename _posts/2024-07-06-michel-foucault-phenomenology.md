@@ -1,7 +1,7 @@
 ---
 title: "Call for Abstracts: Michel Foucault and Phenomenology"
 date: 2024-07-06 09:03:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - foucault

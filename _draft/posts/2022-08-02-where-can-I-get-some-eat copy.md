@@ -5,7 +5,7 @@ date: 2022-08-10 12:26:40
 title:  "Where can I get some make a type specimen book?"
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: "/assets/images/bg.jpg"
+image: "/assets/images/bg.webp"
 tags:
   - affect 
   - feeling 
@@ -14,7 +14,7 @@ tags:
 author: Iren Bonorum
 author_desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 paginate: true
-author_img: /assets/images/girl.png
+author_img: /assets/images/girl.webp
 socials:
   - link: http://facebook.com
     icon: fas fa-globe-americas

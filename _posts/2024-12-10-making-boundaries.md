@@ -1,6 +1,6 @@
 ---
 title: "CFP: Making Boundaries 2025"
-image: /assets/images/yuanyang-rice-terraces-7247204_1280.jpg
+image: /assets/images/yuanyang-rice-terraces-7247204_1280.webp
 tags:
   - religion
   - humanities

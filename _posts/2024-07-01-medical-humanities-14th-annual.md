@@ -1,6 +1,6 @@
 ---
 title: "Call for Abstracts: Medical Humanities Conference 2024"
-image: /assets/images/medical-humanities.png
+image: /assets/images/medical-humanities.webp
 tags:
   - religion
   - medical

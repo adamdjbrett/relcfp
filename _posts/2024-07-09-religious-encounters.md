@@ -1,7 +1,7 @@
 ---
 title: "CFP: Religious Encounters: Tradition, Text, and Travel (Edited Volume, proposed to be published by Bloomsbury)"
 date: 2024-07-09 11:30:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

@@ -4,7 +4,7 @@
   <xsl:template match="/">
     <html>
       <head>
-        <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/man.png"></link>
+        <link rel="icon" type="image/png" sizes="32x32" href="/assets/images/man.webp"></link>
         <style>
           p {
             margin-block-start: 0.5em;

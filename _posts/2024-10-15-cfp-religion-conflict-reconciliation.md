@@ -1,6 +1,6 @@
 ---
 title: "CFP: Religion, conflict and reconciliation in a fragile world"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

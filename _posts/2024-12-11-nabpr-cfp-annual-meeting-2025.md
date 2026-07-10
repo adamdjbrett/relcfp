@@ -1,6 +1,6 @@
 ---
 title: "CFP: 2025 NABPR Annual meeting"
-image: /assets/images/nabpr.jpg
+image: /assets/images/nabpr.webp
 tags:
   - religion
   - humanities

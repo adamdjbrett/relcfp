@@ -1,7 +1,7 @@
 ---
 title: "CFP: Genesis Epistemologies: Origins, Syncretism, and Human Evolution in Africa"
 date: 2024-07-09 11:00:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

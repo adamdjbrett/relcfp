@@ -1,6 +1,6 @@
 ---
 title: "CFP: Creative Philology: Studies in Speculative Fiction, A Tribute to J. R. R. Tolkien (CFP for an essay collection)"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

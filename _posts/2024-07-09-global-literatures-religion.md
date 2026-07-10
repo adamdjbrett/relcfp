@@ -1,7 +1,7 @@
 ---
 title: "CFP: Palgrave Studies in Global Literatures and Religions"
 date: 2024-07-09 10:11:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

@@ -1,6 +1,6 @@
 ---
 title: "CFP: List of XXIII IAHR World Congress open panels"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

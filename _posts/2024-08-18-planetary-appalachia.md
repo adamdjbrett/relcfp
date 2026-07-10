@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers: Spring 2025 Special Issue of Critical Humanities on Planetary Thinking: Appalachia"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

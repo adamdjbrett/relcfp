@@ -1,7 +1,7 @@
 ---
 title: "Sensing Euphoric and Dysphoric Atmospheres"
 date: 2024-07-09 13:05:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

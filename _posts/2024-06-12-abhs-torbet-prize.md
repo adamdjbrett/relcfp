@@ -1,6 +1,6 @@
 ---
 title: "Call for Papers - ABHS Torbet Prize"
-image: "/assets/images/ABHS__2-color.jpg"
+image: "/assets/images/ABHS__2-color.webp"
 tags:
   - AAR 
   - religion 

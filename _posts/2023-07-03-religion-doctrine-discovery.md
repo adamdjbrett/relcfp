@@ -4,7 +4,7 @@ section_id: posts
 title: "CFP: The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery."
 date: 2023-07-03T14:54:46
 excerpt: "Call for Papers and Artists: The Religious Origins of White Supremacy: Johnson v. M’Intosh and the Doctrine of Christian Discovery. The conference occur at Syracuse University from 8-10 December 2023."
-image: "/assets/images/skanonh-center-colonial-image.width-800.jpg"
+image: "/assets/images/skanonh-center-colonial-image.width-800.webp"
 categories:
   - Blog
 tags:
@@ -31,9 +31,9 @@ In the 200<sup>th</sup> year of *Johnson*, there is an urgent need for global re
 The project's key collaborators include [Syracuse University](https://syracuse.edu), [American Indian Law Alliance (AILA)](https://aila.ngo), [Indigenous Values Initiative (IVI)](https://indigenousvalues.org/), The [Skä-noñh -- Great Law of Peace Center](https://www.skanonhcenter.org/), and others. For more see the [Doctrine of Discovery Project site (doctrineofdiscovery.org)](https://doctrineofdiscovery.org/).
 
 <figure>
-    <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png">
-        <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png"></a>
-    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
+    <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp">
+        <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp"></a>
+    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
 </figcaption>
 </figure>
   
@@ -42,7 +42,7 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
 We are interested in paper and session proposals from scholars, students, activists, artists, lawyers, policy makers, religious leaders, Indigenous leaders, and more. Our conference seeks to bring together a broad coalition of people working on examining not only the Doctrine of Christian Discovery but also the religious origins of white supremacy.
 
 ### Downloads
-  - [Flyer image](/assets/images/Religious-Origins-of-White-Supremacy-Flyer.png)
+  - [Flyer image](/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp)
   - [Flyer PDF](https://doctrineofdiscovery.org/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf)
 
 ## Thematic Panels

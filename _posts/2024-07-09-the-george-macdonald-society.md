@@ -1,7 +1,7 @@
 ---
 title: "CFP: The George MacDonald Society"
 date: 2024-07-09 13:30:03
-image: /assets/images/george-macdonald-society.jpg
+image: /assets/images/george-macdonald-society.webp
 tags:
   - religion
   - humanities

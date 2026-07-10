@@ -1,6 +1,6 @@
 ---
 title: "CFP: Medical Humanities Conference 2024"
-image: /assets/images/meh_hum_14th.jpg
+image: /assets/images/meh_hum_14th.webp
 tags:
   - religion
   - humanities

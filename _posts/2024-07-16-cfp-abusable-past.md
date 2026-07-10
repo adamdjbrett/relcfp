@@ -1,6 +1,6 @@
 ---
 title: "CFP: What is Radical History"
-image: /assets/images/abusablepast.jpeg
+image: /assets/images/abusablepast.webp
 tags:
   - religion
   - humanities

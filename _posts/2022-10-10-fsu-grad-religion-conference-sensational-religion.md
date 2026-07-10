@@ -4,7 +4,7 @@ section_id: posts
 title: "CFP: Sensational Religion: A Religion Graduate Student Symposium at Florida State University"
 date: 2022-09-26-01T14:54:46
 excerpt: "Religion Graduate Student Symposium at Florida State University February 17 & 18, 2023."
-image: "/assets/images/Screen_Shot_2022-10-10_at_10.15.54PM.png"
+image: "/assets/images/Screen_Shot_2022-10-10_at_10.15.54PM.webp"
 categories:
   - Blog
 tags:

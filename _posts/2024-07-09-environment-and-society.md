@@ -1,7 +1,7 @@
 ---
 title: "CFP: Bloomsbury's Environment and Society Book Series"
 date: 2024-07-09 11:45:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

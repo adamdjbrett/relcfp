@@ -5,7 +5,7 @@ date: 2022-08-1 12:26:40
 title:  "What is Lorem Ipsum?"
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: "/assets/images/bg.jpg"
+image: "/assets/images/bg.webp"
 tags:
   - affect 
   - ecology 

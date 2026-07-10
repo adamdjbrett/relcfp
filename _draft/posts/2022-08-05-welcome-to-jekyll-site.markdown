@@ -5,7 +5,7 @@ date: 2021-08-05 12:26:40
 title:  "Welcome to Jekyll"
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: "/assets/images/bg.jpg"
+image: "/assets/images/bg.webp"
 tags:
   - affect 
   - feeling 
@@ -13,7 +13,7 @@ tags:
   - religia
 author: Henrih Stuard
 author_desc: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-author_img: /assets/images/man.png
+author_img: /assets/images/man.webp
 paginate: true
 socials:
   - link: http://facebook.com

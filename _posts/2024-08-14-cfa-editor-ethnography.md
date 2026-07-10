@@ -1,6 +1,6 @@
 ---
 title: "Call for Applications: Editors for the Journal Ethnography"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

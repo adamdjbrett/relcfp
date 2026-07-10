@@ -1,6 +1,6 @@
 ---
 title: "CFP: Martin Luther King, Jr. and the Black Liberal Arts Tradition: A Symposium and Edited Volume"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities
@@ -81,7 +81,7 @@ The Symposium is generously supported by: 
 - **Atlanta, GA**
 
 
-![Flyer Page 1](/assets/images/mlkjr-pg1.jpg)
-![Flyer Page 2](/assets/images/mlkjr-pg2.jpg) 
+![Flyer Page 1](/assets/images/mlkjr-pg1.webp)
+![Flyer Page 2](/assets/images/mlkjr-pg2.webp) 
 
 [Learn More](https://usreligion.substack.com/p/cfp-martin-luther-king-jr-and-the/)

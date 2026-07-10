@@ -1,7 +1,7 @@
 ---
 title: "CFP: FOOD FEST, FEASTS & GATHERINGS"
 date: 2024-07-09 11:50:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

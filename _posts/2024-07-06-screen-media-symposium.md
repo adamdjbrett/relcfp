@@ -1,7 +1,7 @@
 ---
 title: "FYI: Philosophy of Screen Media Symposium"
 date: 2024-07-06 07:11:03
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - politics

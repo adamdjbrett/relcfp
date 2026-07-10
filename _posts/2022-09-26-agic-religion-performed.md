@@ -4,7 +4,7 @@ section_id: posts
 title: "CFP: AGIC 2023 presents: “Religion Performed”"
 date: 2022-09-26-01T14:54:46
 excerpt: "Religion Performed: Insights at the Intersection of Religiosity, Performance, and Performativity."
-image: "/assets/images/reli-gion-per-formed-1.png"
+image: "/assets/images/reli-gion-per-formed-1.webp"
 categories:
   - Blog
 tags:

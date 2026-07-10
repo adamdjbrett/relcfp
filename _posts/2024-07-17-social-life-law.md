@@ -1,6 +1,6 @@
 ---
 title: "Call for papers: Authoritarianism, law, and the remaking of society"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities

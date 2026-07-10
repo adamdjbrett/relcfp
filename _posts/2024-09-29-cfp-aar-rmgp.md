@@ -1,6 +1,6 @@
 ---
 title: "CFP: 2025 Rocky Mountain-Great Plains (RMGP) Regional Meeting"
-image: /assets/images/relcfp-cover.jpg
+image: /assets/images/relcfp-cover.webp
 tags:
   - religion
   - humanities
@@ -20,5 +20,5 @@ We welcome proposals for panels of multiple papers and accept proposals for sing
 
 ## Details
 * [PDF](/assets/pdfs/2024-RMGP.pdf)
-* [Image](/assets/images/2024-RMGP.jpg)
+* [Image](/assets/images/2024-RMGP.webp)
 * [Submission Link](https://forms.gle/KjdxbhunAFWefpkC9)
