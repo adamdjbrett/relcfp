@@ -1,12 +1,15 @@
 ---
 title: "#CFP: How Does Theology Respond to Our Complex World?"
+description: "Call for proposals for the 2026 Toronto School of Theology Conference on how theology responds to a complex world."
+date: 2026-06-15
 image: /assets/images/relcfp-cover.webp
+canonical_url: https://bit.ly/449UrWd
 tags:
  - religion
  - humanities
  - philosophy
 ---
-Submissions are now open for the upcoming #TST Conference to be held on Friday, November 13, 2026, at Knox College, 59 St. George Street, Toronto. Info: <https://bit.ly/449UrWd>
+Proposal submissions are now open for the upcoming #TST Conference, to be held on Friday, November 13, 2026, at Knox College, 59 St. George Street, Toronto. Read the [conference details and Call for Proposals](https://bit.ly/449UrWd).
 
 The theme of the conference is:  **"TST Asks: How Does Theology Respond to Our Complex World?"**
 Here are just a few of the possible topics to consider:
@@ -21,7 +24,7 @@ Here are just a few of the possible topics to consider:
 All areas of theological study are welcome: systematic, historical, practical, ecumenical, interfaith, sacred text, psychotherapy/spiritual care, etc.
 
 TST and non-TST students and faculty may submit a proposal to present a paper and/or organize or participate on a panel.
-For more information about the conference theme and submitting a proposal, see the Call for Proposals flyer here: <https://bit.ly/449UrWd>
+For more information about the conference theme and submitting a proposal, see the [Call for Proposals flyer](https://bit.ly/449UrWd).
 
 Questions? Contact: <tst.conference@utoronto.ca>
 
