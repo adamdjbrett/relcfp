@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-07-24T10:14:52.000Z",
+        "updated": "2026-07-28T18:54:13.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,19 +20,275 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "SAMLA 2026 panel: \"\u201cTo Be or Not To Be\u2026 a Man\u201d: Reading Masculinities in Literature and Culture\"",
+                "title": "The Odyssey Take 2026",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-panel-%E2%80%9Cto-be-or-not-to-be%E2%80%A6-a-man%E2%80%9D-reading-masculinities-in-literature-and"
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/the-odyssey-take-2026"
                 },
                 "author": {
                     "name": "UPenn - cultural studies and historical approaches",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
                 },
-                "updated": "2026-07-24T10:14:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-panel-%E2%80%9Cto-be-or-not-to-be%E2%80%A6-a-man%E2%80%9D-reading-masculinities-in-literature-and",
+                "updated": "2026-07-28T18:54:13.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/the-odyssey-take-2026",
                 "content": {
                     "@type": "html",
-                    "#text": "updated: Friday, July 24, 2026 - 6:14amfull name / name of organization: South Atlantic Modern\u2026"
+                    "#text": "updated: Tuesday, July 28, 2026 - 3:00pmfull name / name of organization: Ennuri Jo / Center for\u2026"
+                }
+            },
+            {
+                "title": "Nineteenth International Conference on Climate Change: Impacts & Responses",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/nineteenth-international-conference-on-climate-change-impacts-responses"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T18:28:52.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/nineteenth-international-conference-on-climate-change-impacts-responses",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Eighteenth International Conference on The Image",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/eighteenth-international-conference-on-the-image"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T16:21:58.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/eighteenth-international-conference-on-the-image",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Twelfth International Conference on Communication & Media Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twelfth-international-conference-on-communication-media-studies"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T16:20:16.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twelfth-international-conference-on-communication-media-studies",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Twentieth International Conference on the Inclusive Museum 2027",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twentieth-international-conference-on-the-inclusive-museum-2027"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T16:16:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twentieth-international-conference-on-the-inclusive-museum-2027",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Twenty-Second International Conference on Interdisciplinary Social Sciences",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twenty-second-international-conference-on-interdisciplinary-social-sciences"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T16:02:22.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twenty-second-international-conference-on-interdisciplinary-social-sciences",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Thirty-Fourth International Conference on Learning",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/thirty-fourth-international-conference-on-learning"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T15:59:24.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/thirty-fourth-international-conference-on-learning",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Seventeenth International Conference on Religion & Spirituality in Society",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/seventeenth-international-conference-on-religion-spirituality-in-society"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T15:57:05.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/seventeenth-international-conference-on-religion-spirituality-in-society",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Seventeenth International Conference on Religion & Spirituality in Society",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/seventeenth-international-conference-on-religion-spirituality-in-society"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2026-07-28T15:57:05.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/seventeenth-international-conference-on-religion-spirituality-in-society",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Eighteenth International Conference on Sport & Society",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/eighteenth-international-conference-on-sport-society"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T15:50:26.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/eighteenth-international-conference-on-sport-society",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "Twelfth International Conference on Tourism & Leisure Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twelfth-international-conference-on-tourism-leisure-studies"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-28T15:48:42.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twelfth-international-conference-on-tourism-leisure-studies",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
+                }
+            },
+            {
+                "title": "\u201cThe Untethering: Empowering People and Communities through Creativity\u201d",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-untethering-empowering-people-and-communities-through-creativity%E2%80%9D"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-07-27T19:35:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-untethering-empowering-people-and-communities-through-creativity%E2%80%9D",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 27, 2026 - 3:35pmfull name / name of organization: Natasha Tinsley/ Northeast\u2026"
+                }
+            },
+            {
+                "title": "\u201cThe Real \u201cTethered\u201d: A Critical Analysis of Double Consciousness, People, and Society\u201d",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-real-%E2%80%9Ctethered%E2%80%9D-a-critical-analysis-of-double-consciousness-people-and-society%E2%80%9D"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-07-27T19:32:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-real-%E2%80%9Ctethered%E2%80%9D-a-critical-analysis-of-double-consciousness-people-and-society%E2%80%9D",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 27, 2026 - 3:32pmfull name / name of organization: Natasha Tinsley/ Northeast\u2026"
+                }
+            },
+            {
+                "title": "Horror Scholarship for Literary Magazine",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/horror-scholarship-for-literary-magazine"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-07-27T14:27:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/horror-scholarship-for-literary-magazine",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, July 27, 2026 - 10:27amfull name / name of organization: Deep Cut Presscontact\u2026"
+                }
+            },
+            {
+                "title": "Call for Proposals: Entries for a Handbook on the Politics of Neurodiversity",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/call-for-proposals-entries-for-a-handbook-on-the-politics-of-neurodiversity"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-07-24T20:21:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/call-for-proposals-entries-for-a-handbook-on-the-politics-of-neurodiversity",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, July 24, 2026 - 4:15pmfull name / name of organization: Dana Lee Bakercontact\u2026"
+                }
+            },
+            {
+                "title": "New Perspectives on Creature Features (additional chapters)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/new-perspectives-on-creature-features-additional-chapters"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-07-24T19:44:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/new-perspectives-on-creature-features-additional-chapters",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, July 24, 2026 - 3:45pmfull name / name of organization: Fernando Gabriel Pagnoni\u2026"
+                }
+            },
+            {
+                "title": "Cripped Ecology, Ill Planet",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/cripped-ecology-ill-planet"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-07-24T15:23:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/cripped-ecology-ill-planet",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, July 24, 2026 - 11:30amfull name / name of organization: The Harbour journalcontact\u2026"
                 }
             },
             {
@@ -57,22 +313,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-roundtable-let-the-wrong-one-in-accommodating-the-intrusive-guest"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-24T05:38:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-roundtable-let-the-wrong-one-in-accommodating-the-intrusive-guest",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, July 24, 2026 - 1:38amfull name / name of organization: SAMLA - South Atlantic\u2026"
-                }
-            },
-            {
-                "title": "SAMLA 2026 Roundtable: Let the Wrong One In: Accommodating the Intrusive Guest",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-roundtable-let-the-wrong-one-in-accommodating-the-intrusive-guest"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -81,22 +321,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, July 24, 2026 - 1:38amfull name / name of organization: SAMLA - South Atlantic\u2026"
-                }
-            },
-            {
-                "title": "Bookstore Communities",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/bookstore-communities"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-23T21:13:42.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/bookstore-communities",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 23, 2026 - 5:13pmfull name / name of organization: Northeast Modern Language\u2026"
                 }
             },
             {
@@ -113,70 +337,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 23, 2026 - 3:08pmfull name / name of organization: American Literary\u2026"
-                }
-            },
-            {
-                "title": "Lines of Enquiry: Graphic Arts and the Afterlives of the Material Past",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/lines-of-enquiry-graphic-arts-and-the-afterlives-of-the-material-past"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-23T13:57:48.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/lines-of-enquiry-graphic-arts-and-the-afterlives-of-the-material-past",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 23, 2026 - 9:57amfull name / name of organization: Society of Antiquaries of\u2026"
-                }
-            },
-            {
-                "title": "Decadence: Rhetoric and Aesthetics of Decline from Ancient Empire to the Age of Polycrisis, conference to be held at the British School at Rome",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/decadence-rhetoric-and-aesthetics-of-decline-from-ancient-empire-to-the-age-of"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-23T11:49:05.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/decadence-rhetoric-and-aesthetics-of-decline-from-ancient-empire-to-the-age-of",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 23, 2026 - 7:49amfull name / name of organization: Ramus International,\u2026"
-                }
-            },
-            {
-                "title": "ACLA 2027 Panel - Literary Edibles (May 20-23, University of Houston)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/acla-2027-panel-literary-edibles-may-20-23-university-of-houston"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-23T11:21:02.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/acla-2027-panel-literary-edibles-may-20-23-university-of-houston",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 23, 2026 - 7:23amfull name / name of organization: Ali Kulezcontact\u2026"
-                }
-            },
-            {
-                "title": "Call for Book Chapters: Digital Trauma: Algorithms, Screens, Memory, and the Affective Self",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/call-for-book-chapters-digital-trauma-algorithms-screens-memory-and-the-affective"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-23T06:04:36.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/23/call-for-book-chapters-digital-trauma-algorithms-screens-memory-and-the-affective",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 23, 2026 - 2:04amfull name / name of organization: Rupkatha Bookscontact\u2026"
                 }
             },
             {
@@ -265,22 +425,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/cfp-nemla-2027-roundtable-against-agency"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-23T03:16:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/cfp-nemla-2027-roundtable-against-agency",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, July 22, 2026 - 11:16pmfull name / name of organization: Northeast Modern\u2026"
-                }
-            },
-            {
-                "title": "CfP | NeMLA 2027 Roundtable | Against Agency",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/cfp-nemla-2027-roundtable-against-agency"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -305,38 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Wednesday, July 22, 2026 - 9:58pmfull name / name of organization: Coastline Collegecontact\u2026"
-                }
-            },
-            {
-                "title": "Spacious Skies: Americana, Vacancy, and Enclosure",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/spacious-skies-americana-vacancy-and-enclosure"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-22T21:55:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/spacious-skies-americana-vacancy-and-enclosure",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, July 22, 2026 - 5:55pmfull name / name of organization: MLA 2027 - Just in Time\u2026"
-                }
-            },
-            {
-                "title": "Sphaira: Journal of Arts and Humanities",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/sphaira-journal-of-arts-and-humanities"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-22T17:41:12.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/sphaira-journal-of-arts-and-humanities",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, July 22, 2026 - 1:41pmfull name / name of organization: Faculty of Arts and\u2026"
                 }
             },
             {
@@ -372,54 +484,6 @@
                 }
             },
             {
-                "title": "JMMLA CFP Spring 2027: Computation, Interdisciplinarity, and the Humanities",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/jmmla-cfp-spring-2027-computation-interdisciplinarity-and-the-humanities"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-22T03:01:04.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/jmmla-cfp-spring-2027-computation-interdisciplinarity-and-the-humanities",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, July 21, 2026 - 11:01pmfull name / name of organization: Midwest Modern Language\u2026"
-                }
-            },
-            {
-                "title": "Woolf and the Affordances of Poetry",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/woolf-and-the-affordances-of-poetry"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-21T13:44:58.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/21/woolf-and-the-affordances-of-poetry",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, July 21, 2026 - 9:44amfull name / name of organization: Virginia Woolf\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers for Journal - dialog Special Issue No. 48",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/call-for-papers-for-journal-dialog-special-issue-no-48"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-20T16:00:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/call-for-papers-for-journal-dialog-special-issue-no-48",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, July 20, 2026 - 12:00pmfull name / name of organization: Department of English and\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers for Journal - dialog Special Issue No. 48",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/call-for-papers-for-journal-dialog-special-issue-no-48"
@@ -433,22 +497,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, July 20, 2026 - 12:00pmfull name / name of organization: Department of English and\u2026"
-                }
-            },
-            {
-                "title": "FEMSPEC - Call for Tributes for Dr. Batya Weinbaum",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/19/femspec-call-for-tributes-for-dr-batya-weinbaum"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-20T00:47:03.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/19/femspec-call-for-tributes-for-dr-batya-weinbaum",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, July 19, 2026 - 8:47pmfull name / name of organization: Femspeccontact\u2026"
                 }
             },
             {
@@ -481,38 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, July 17, 2026 - 6:03pmfull name / name of organization: Lindsay Gillcontact\u2026"
-                }
-            },
-            {
-                "title": "D. H. Lawrence and French Literature, Philosophy and Theory",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/d-h-lawrence-and-french-literature-philosophy-and-theory"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-17T12:35:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/d-h-lawrence-and-french-literature-philosophy-and-theory",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, July 17, 2026 - 8:35amfull name / name of organization: 40th INTERNATIONAL D. H.\u2026"
-                }
-            },
-            {
-                "title": "CFP 24\u00ba SBPJor",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/cfp-24%C2%BA-sbpjor"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-17T11:50:05.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/cfp-24%C2%BA-sbpjor",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, July 17, 2026 - 7:50amfull name / name of organization: Brazilian Association of\u2026"
                 }
             },
             {
@@ -657,22 +673,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, July 2, 2026 - 1:47pmfull name / name of organization: JCRTcontact\u2026"
-                }
-            },
-            {
-                "title": "2027 Imagining Social WorldsOnline Symposium, 17\u201318 March 2027",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/27/2027-imagining-social-worldsonline-symposium-17%E2%80%9318-march-2027"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2026-06-27T19:26:04.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/06/27/2027-imagining-social-worldsonline-symposium-17%E2%80%9318-march-2027",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, July 8, 2026 - 4:04pmfull name / name of organization: Common Ground Research\u2026"
                 }
             },
             {
