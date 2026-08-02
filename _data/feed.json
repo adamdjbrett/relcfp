@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-07-28T18:54:13.000Z",
+        "updated": "2026-07-29T16:50:27.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "\"Memory, Trauma and Recovery\" 7th International Interdisciplinary Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106073"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-07-29T16:50:27.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106073",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: InMind Supportcontact email: conferencememory@gmail.comcategories\u2026"
+                }
+            },
             {
                 "title": "The Odyssey Take 2026",
                 "link": {
@@ -174,22 +190,6 @@
                 },
                 "updated": "2026-07-28T15:50:26.000Z",
                 "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/eighteenth-international-conference-on-sport-society",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
-                }
-            },
-            {
-                "title": "Twelfth International Conference on Tourism & Leisure Studies",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twelfth-international-conference-on-tourism-leisure-studies"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-07-28T15:48:42.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/twelfth-international-conference-on-tourism-leisure-studies",
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
@@ -468,22 +468,6 @@
                 }
             },
             {
-                "title": "Panel: Reimagining Home: Communal Life, Abolition, and Space",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/panel-reimagining-home-communal-life-abolition-and-space"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-22T12:44:25.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/22/panel-reimagining-home-communal-life-abolition-and-space",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 23, 2026 - 10:59amfull name / name of organization: Angela Cai and William\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers for Journal - dialog Special Issue No. 48",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/20/call-for-papers-for-journal-dialog-special-issue-no-48"
@@ -529,6 +513,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, July 17, 2026 - 6:03pmfull name / name of organization: Lindsay Gillcontact\u2026"
+                }
+            },
+            {
+                "title": "D. H. Lawrence and French Literature, Philosophy and Theory",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/d-h-lawrence-and-french-literature-philosophy-and-theory"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-07-17T12:35:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/17/d-h-lawrence-and-french-literature-philosophy-and-theory",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Friday, July 17, 2026 - 8:35amfull name / name of organization: 40th INTERNATIONAL D. H.\u2026"
                 }
             },
             {
