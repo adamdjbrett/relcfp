@@ -17,9 +17,9 @@ XML_FILE = Path("feed.xml")
 JSON_FILE = Path("_data/feed.json")
 OLD_XML_FILE = Path("old_feed.xml")
 RUNLOG_FILE = Path("RUNLOG.MD")
-PRIMARY_FEED_URL = "https://input.relcfp.com/feed.xml"
+PRIMARY_FEED_URL = "https://input-relcfp.netlify.app/feed.xml"
 FALLBACK_FEED_URLS = (
-    "https://input-relcfp.netlify.app/feed.xml",
+    "https://input.relcfp.com/feed.xml",
 )
 REQUEST_TIMEOUT = (15, 60)
 REQUEST_HEADERS = {
