@@ -348,6 +348,23 @@ def convert_xml_to_feed_data(xml_text: str) -> dict[str, Any]:
     return update_null_to_current_date(feed_data)
 
 
+def entry_link(entry: dict[str, Any]) -> str:
+    # Atom permits link to be absent, empty (<link/> -> None), single, or repeated.
+    links = [link for link in ensure_list(entry.get("link")) if isinstance(link, dict)]
+    hrefs = [
+        link.get("@href", "")
+        for link in links
+        if link.get("@rel", "alternate") == "alternate"
+    ]
+    hrefs.extend(link.get("@href", "") for link in links)
+    entry_id = entry.get("id")
+    # ponytail: id is the canonical URL in this feed, so it doubles as the fallback.
+    return next(
+        (href for href in hrefs if href),
+        entry_id if isinstance(entry_id, str) else "",
+    )
+
+
 def newest_entry(feed_data: dict[str, Any]) -> dict[str, Any] | None:
     entries = ensure_list(feed_data.get("feed", {}).get("entry"))
     return entries[0] if entries and isinstance(entries[0], dict) else None
@@ -370,7 +387,7 @@ def set_github_outputs(changed: bool, new_entry: dict[str, Any] | None) -> None:
             output_file.write(f"content_changed={'true' if changed else 'false'}\n")
             output_file.write(f"new_item={'true' if new_entry else 'false'}\n")
             if new_entry:
-                link = new_entry.get("link", {}).get("@href", "")
+                link = entry_link(new_entry)
                 text = f"New post: {new_entry.get('title', 'Untitled')}\n\n{link}\n\n#acrel"
                 output_file.write(f"post_text_json={json.dumps(text)}\n")
                 output_file.write(f"link_json={json.dumps(link)}\n")

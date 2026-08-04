@@ -53,6 +53,9 @@ jobs:
         run: cat _data/feed.json
       - name: Send Bluesky Post
         uses: myConsciousness/bluesky-post@v6
+        # A failed post must not skip the commit/deploy steps below, or the fetched
+        # feed is never saved and every later run retries the same failing post.
+        continue-on-error: true
         if: github.event_name != 'pull_request' && steps.check.outputs.new_item == 'true'
         with:
           text: ${{ fromJSON(steps.check.outputs.post_text_json) }}

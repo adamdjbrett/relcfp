@@ -6,6 +6,7 @@ from unittest.mock import patch
 from get_rss import (
     RunLogger,
     convert_xml_to_feed_data,
+    entry_link,
     fetch_feed_xml,
     find_new_entry,
     newest_entry,
@@ -107,6 +108,30 @@ class GetRssTests(unittest.TestCase):
         self.assertTrue(
             any("primary requests returned status 403" in entry for entry in run_log.errors)
         )
+
+    def test_entry_link_handles_every_atom_link_shape(self) -> None:
+        # An empty uri here is what made Bluesky reject the post with a 400.
+        cases = {
+            "single": ({"link": {"@href": "https://x/1"}, "id": "https://x/1"}, "https://x/1"),
+            "missing": ({"id": "https://x/2"}, "https://x/2"),
+            "empty element": ({"link": None, "id": "https://x/3"}, "https://x/3"),
+            "prefers alternate": (
+                {
+                    "link": [
+                        {"@href": "https://x/4.mp3", "@rel": "enclosure"},
+                        {"@href": "https://x/4", "@rel": "alternate"},
+                    ],
+                    "id": "https://x/4",
+                },
+                "https://x/4",
+            ),
+            "no href attr": ({"link": {"@rel": "alternate"}, "id": "https://x/5"}, "https://x/5"),
+            "nothing usable": ({}, ""),
+        }
+
+        for name, (entry, expected) in cases.items():
+            with self.subTest(name):
+                self.assertEqual(entry_link(entry), expected)
 
 
 if __name__ == "__main__":
