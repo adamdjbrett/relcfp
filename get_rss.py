@@ -348,11 +348,32 @@ def convert_xml_to_feed_data(xml_text: str) -> dict[str, Any]:
     return update_null_to_current_date(feed_data)
 
 
-def set_content_changed(changed: bool) -> None:
+def newest_entry(feed_data: dict[str, Any]) -> dict[str, Any] | None:
+    entries = ensure_list(feed_data.get("feed", {}).get("entry"))
+    return entries[0] if entries and isinstance(entries[0], dict) else None
+
+
+def find_new_entry(
+    old_feed_data: dict[str, Any], new_feed_data: dict[str, Any]
+) -> dict[str, Any] | None:
+    old_entry = newest_entry(old_feed_data)
+    new_entry = newest_entry(new_feed_data)
+    if old_entry and new_entry and old_entry.get("id") != new_entry.get("id"):
+        return new_entry
+    return None
+
+
+def set_github_outputs(changed: bool, new_entry: dict[str, Any] | None) -> None:
     github_output = os.environ.get("GITHUB_OUTPUT")
     if github_output:
         with open(github_output, "a", encoding="utf-8") as output_file:
             output_file.write(f"content_changed={'true' if changed else 'false'}\n")
+            output_file.write(f"new_item={'true' if new_entry else 'false'}\n")
+            if new_entry:
+                link = new_entry.get("link", {}).get("@href", "")
+                text = f"New post: {new_entry.get('title', 'Untitled')}\n\n{link}\n\n#acrel"
+                output_file.write(f"post_text_json={json.dumps(text)}\n")
+                output_file.write(f"link_json={json.dumps(link)}\n")
 
 
 def write_feed_files(xml_text: str, feed_data: dict[str, Any]) -> None:
@@ -379,6 +400,7 @@ def main() -> None:
     had_existing_feed = XML_FILE.exists()
     old_feed_bytes = b""
     content_changed = False
+    new_entry = None
 
     if had_existing_feed:
         old_feed_bytes = XML_FILE.read_bytes()
@@ -404,6 +426,10 @@ def main() -> None:
             run_log.status = "success"
             return
 
+        if had_existing_feed:
+            old_feed_data = convert_xml_to_feed_data(decode_xml_bytes(old_feed_bytes))
+            new_entry = find_new_entry(old_feed_data, feed_data)
+
         run_log.log(
             "Files are different." if had_existing_feed else "No previous feed.xml found; writing initial feed."
         )
@@ -418,7 +444,7 @@ def main() -> None:
         restore_previous_feed(had_existing_feed)
     finally:
         run_log.content_changed = content_changed
-        set_content_changed(content_changed)
+        set_github_outputs(content_changed, new_entry)
         run_log.write()
 
 

@@ -7,11 +7,25 @@ from get_rss import (
     RunLogger,
     convert_xml_to_feed_data,
     fetch_feed_xml,
+    find_new_entry,
+    newest_entry,
     update_null_to_current_date,
 )
 
 
 class GetRssTests(unittest.TestCase):
+    def test_newest_entry_returns_first_atom_entry(self) -> None:
+        entry = {"id": "new", "title": "Newest"}
+
+        self.assertEqual(newest_entry({"feed": {"entry": [entry, {"id": "old"}]}}), entry)
+
+    def test_find_new_entry_only_returns_changed_top_entry(self) -> None:
+        old_feed = {"feed": {"entry": [{"id": "old"}]}}
+        new_entry = {"id": "new", "title": "Newest"}
+
+        self.assertEqual(find_new_entry(old_feed, {"feed": {"entry": [new_entry]}}), new_entry)
+        self.assertIsNone(find_new_entry(old_feed, old_feed))
+
     def test_update_null_to_current_date_handles_single_entry_dict(self) -> None:
         feed_data = {
             "feed": {
@@ -74,7 +88,9 @@ class GetRssTests(unittest.TestCase):
         with patch(
             "get_rss.fetch_with_requests",
             side_effect=[(403, "forbidden"), (200, xml_text)],
-        ) as mock_requests, patch("get_rss.fetch_with_curl") as mock_curl:
+        ) as mock_requests, patch(
+            "get_rss.fetch_with_curl", return_value=(403, "forbidden")
+        ) as mock_curl:
             result = fetch_feed_xml(
                 (
                     "https://input.relcfp.com/feed.xml",
