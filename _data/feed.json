@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-08-04T17:17:22.000Z",
+        "updated": "2026-08-05T01:29:46.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Critical Nonbinary Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106337"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T01:29:46.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106337",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: M\u00ed\u0161a Stekl / CSUcontact email: m.stekl@colostate.educategories (up\u2026"
+                }
+            },
             {
                 "title": "NeMLA 2027 Panel | American Solidarities: Bridging Latin American Studies and Latinx Studies",
                 "link": {
@@ -164,22 +180,6 @@
                 }
             },
             {
-                "title": "PCA 2026 Neurodivergent Studies",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106268"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-03T19:09:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106268",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Popular Culture Association/American Culture Associationcontact\u2026"
-                }
-            },
-            {
                 "title": "History, Myth and Orality: Reconceptualizing the Past through the lens of Literary and Cultural Texts",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/106264"
@@ -321,6 +321,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, August 3, 2026 - 5:00pmfull name / name of organization: American University in\u2026"
+                }
+            },
+            {
+                "title": "CFP: Serial Killers: Fact into fiction (Peter Lang) \u2013 Urgent chapters required",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106241"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-03T07:15:13.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106241",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: University of Worcestercontact\u2026"
                 }
             },
             {
@@ -513,22 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, July 24, 2026 - 6:14amfull name / name of organization: South Atlantic Modern\u2026"
-                }
-            },
-            {
-                "title": "SAMLA 2026 Roundtable: Let the Wrong One In: Accommodating the Intrusive Guest",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-roundtable-let-the-wrong-one-in-accommodating-the-intrusive-guest"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-24T05:38:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-roundtable-let-the-wrong-one-in-accommodating-the-intrusive-guest",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, July 24, 2026 - 1:38amfull name / name of organization: SAMLA - South Atlantic\u2026"
                 }
             },
             {
