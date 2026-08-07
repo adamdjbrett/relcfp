@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-08-05T01:29:46.000Z",
+        "updated": "2026-08-06T15:52:28.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -20,51 +20,419 @@
         "id": "https://input.relcfp.com/",
         "entry": [
             {
-                "title": "Critical Nonbinary Studies",
+                "title": "Empathy and Storytelling Conference November 20-21, 2026",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106337"
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106398"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-06T15:52:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106398",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: St. Bonaventure Universitycontact email: empathy@sbu.educategories\u2026"
+                }
+            },
+            {
+                "title": "Empathy and Storytelling Conference November 20-21, 2026",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106398"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2026-08-06T15:52:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106398",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: St. Bonaventure Universitycontact email: empathy@sbu.educategories\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers: 'Painted Garments'",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106395"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-08-06T12:13:38.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106395",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Thursday, August 6, 2026 - 8:15pmfull name / name of organization: Journal of Contemporary\u2026"
+                }
+            },
+            {
+                "title": "Thinking Stupidity: Literature, Philosophy, and Critical Theory",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106393"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-06T08:03:03.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106393",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: John Bolin/University of Exetercontact\u2026"
+                }
+            },
+            {
+                "title": "Thinking Stupidity: Literature, Philosophy, and Critical Theory",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106393"
                 },
                 "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
-                "updated": "2026-08-05T01:29:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106337",
+                "updated": "2026-08-06T08:03:03.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106393",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: John Bolin/University of Exetercontact\u2026"
+                }
+            },
+            {
+                "title": "Vampire Studies (PCA/ACA National Conference, March 24-27 2027)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106381"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-05T21:49:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106381",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Popular Culture Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "Proposed ACLA Seminar - The Enaction of Thought in Interactive Storytelling",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106380"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-05T19:34:15.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106380",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Justin R. Carpenter and Erick Verrancontact\u2026"
+                }
+            },
+            {
+                "title": "Proposed ACLA Seminar - The Enaction of Thought in Interactive Storytelling",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106380"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T19:34:15.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106380",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Justin R. Carpenter and Erick Verrancontact\u2026"
+                }
+            },
+            {
+                "title": "Sappho\u2019s Mirror: Images of Female Desire in Literature, Music & the Visual Arts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106375"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-05T18:09:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106375",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Diana Shaffer /NeMLA\u2019s 58th Annual Convention March 6-9, 2027 /\u2026"
+                }
+            },
+            {
+                "title": "Sappho\u2019s Mirror: Images of Female Desire in Literature, Music & the Visual Arts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106375"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T18:09:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106375",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Diana Shaffer /NeMLA\u2019s 58th Annual Convention March 6-9, 2027 /\u2026"
+                }
+            },
+            {
+                "title": "ACLA 2027 : Digital Visibility: Resistance, Marginalization and Platform Power",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106372"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-05T17:56:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106372",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Atousa Kavianicontact email: akaviani@binghamton.educategories (up\u2026"
+                }
+            },
+            {
+                "title": "ACLA 2027 : Digital Visibility: Resistance, Marginalization and Platform Power",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106372"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T17:56:55.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106372",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Atousa Kavianicontact email: akaviani@binghamton.educategories (up\u2026"
+                }
+            },
+            {
+                "title": "Mirrors of Desire: Ekphrasis & Mise en Abyme in Literature, Music & the Visual Arts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106369"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-05T17:55:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106369",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Diana Shaffer / NeMLA\u2019s 58th Annual Convention/ March 6-9, 2027 /\u2026"
+                }
+            },
+            {
+                "title": "Mirrors of Desire: Ekphrasis & Mise en Abyme in Literature, Music & the Visual Arts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106369"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T17:55:08.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106369",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Diana Shaffer / NeMLA\u2019s 58th Annual Convention/ March 6-9, 2027 /\u2026"
+                }
+            },
+            {
+                "title": "ACLA 2027 Virtual Symposium: What We Are Going to Become?: Dysphoria Mundi, Weird , Excess",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106368"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-05T17:42:35.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106368",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Elif Sendur/ACLA 2027contact\u2026"
+                }
+            },
+            {
+                "title": "Irony: Dramatic and Otherwise",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106358"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-08-05T14:46:23.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106358",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Connotations: A Journal for Critical Debate - University of\u2026"
+                }
+            },
+            {
+                "title": "Irony: Dramatic and Otherwise",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106358"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T14:46:23.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106358",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Connotations: A Journal for Critical Debate - University of\u2026"
+                }
+            },
+            {
+                "title": "Communal Life, Abolition, and Space",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106350"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T13:05:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106350",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: American Comparative Literature Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "Shakespeare Here, Shakespeare Now",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106346"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-05T08:16:02.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106346",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Shakespeare Society of Southern Africa (SSOSA)contact\u2026"
+                }
+            },
+            {
+                "title": "Haunted Memory: Trauma and Spectrality Across the Globe",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106343"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T07:16:54.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106343",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, August 5, 2026 - 9:15amfull name / name of organization: American Comparative\u2026"
+                }
+            },
+            {
+                "title": "ACLA SEMINAR: Becoming Monster: Representation and Rights",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106340"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T04:46:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106340",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: American Comparative Literature Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "'00s Alternative and Philosophy: Every Thought in Its Right Place",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106339"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-08-05T03:17:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106339",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Wallace & Jacobs Presscontact\u2026"
+                }
+            },
+            {
+                "title": "'00s Alternative and Philosophy: Every Thought in Its Right Place",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106339"
+                },
+                "author": {
+                    "name": "UPenn - Religion",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
+                },
+                "updated": "2026-08-05T03:17:34.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106339",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Wallace & Jacobs Presscontact\u2026"
+                }
+            },
+            {
+                "title": "Critical Nonbinary Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106338"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-08-05T01:29:50.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106338",
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: M\u00ed\u0161a Stekl / CSUcontact email: m.stekl@colostate.educategories (up\u2026"
                 }
             },
             {
-                "title": "NeMLA 2027 Panel | American Solidarities: Bridging Latin American Studies and Latinx Studies",
+                "title": "Call for Papers - The Politics of Love: Recognition, Belonging, and Intimate Life - Edited Volume",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106315"
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106336"
                 },
                 "author": {
                     "name": "UPenn - cultural studies and historical approaches",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
                 },
-                "updated": "2026-08-04T17:17:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106315",
+                "updated": "2026-08-05T00:01:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106336",
                 "content": {
                     "@type": "html",
-                    "#text": "full name / name of organization: Northeast Modern Language Association (NeMLA)contact\u2026"
+                    "#text": "full name / name of organization: Penn State: The Pennsylvania State Universitycontact\u2026"
                 }
             },
             {
-                "title": "The \"Forms\" of Academic Work",
+                "title": "Call for Papers - The Politics of Love: Recognition, Belonging, and Intimate Life - Edited Volume",
                 "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106310"
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106336"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
-                "updated": "2026-08-04T14:51:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106310",
+                "updated": "2026-08-05T00:01:36.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106336",
                 "content": {
                     "@type": "html",
-                    "#text": "full name / name of organization: Fabio Dur\u00e3o (UNICAMP) and Tim Lanzend\u00f6rfer (Frankfurt\u2026"
+                    "#text": "full name / name of organization: Penn State: The Pennsylvania State Universitycontact\u2026"
                 }
             },
             {
@@ -81,22 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Fabio Dur\u00e3o (UNICAMP) and Tim Lanzend\u00f6rfer (Frankfurt\u2026"
-                }
-            },
-            {
-                "title": "Neighboring Textual and Intellectual Traditions: Dialogues, Polemics, and Translations",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106302"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-04T13:24:54.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106302",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: LOEWE Centre Dynamics of Religion (DynaRel), Goethe University\u2026"
                 }
             },
             {
@@ -116,102 +468,6 @@
                 }
             },
             {
-                "title": "A Golden Age? Global Historical Fictions and Political Nostalgia",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106287"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-04T05:24:27.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106287",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Historical Fictions Research Networkcontact\u2026"
-                }
-            },
-            {
-                "title": "Untameable Texts: The Eternal Return of Indigenous Cosmogonies and Their Myths",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106275"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-03T22:41:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106275",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Alejandro L\u00f3pez / Boston Universitycontact\u2026"
-                }
-            },
-            {
-                "title": "Untameable Texts: The Eternal Return of Indigenous Cosmogonies and Their Myths",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106275"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-08-03T22:41:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106275",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Alejandro L\u00f3pez / Boston Universitycontact\u2026"
-                }
-            },
-            {
-                "title": "Can Literary Criticism Break Free of the Silos Trap\u2014and Carry Literature Along?",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106269"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-03T21:28:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106269",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Alejandro L\u00f3pez / Boston Universitycontact\u2026"
-                }
-            },
-            {
-                "title": "History, Myth and Orality: Reconceptualizing the Past through the lens of Literary and Cultural Texts",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106264"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-03T16:00:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106264",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, August 3, 2026 - 9:30pmfull name / name of organization: PANCHLA\u2026"
-                }
-            },
-            {
-                "title": "History, Myth and Orality: Reconceptualizing the Past through the lens of Literary and Cultural Texts",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106264"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-08-03T16:00:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106264",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, August 3, 2026 - 9:30pmfull name / name of organization: PANCHLA\u2026"
-                }
-            },
-            {
                 "title": "Breaking Commentary for the Pittsburgh Review of Books",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/106260"
@@ -222,38 +478,6 @@
                 },
                 "updated": "2026-08-03T15:01:08.000Z",
                 "id": "https://call-for-papers.sas.upenn.edu/node/106260",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 9, 2026 - 7:15pmfull name / name of organization: Carnegie Mellon\u2026"
-                }
-            },
-            {
-                "title": "Breaking Commentary for the Pittsburgh Review of Books",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106260"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-08-03T15:01:08.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106260",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 9, 2026 - 7:15pmfull name / name of organization: Carnegie Mellon\u2026"
-                }
-            },
-            {
-                "title": "The Pittsburgh Review of Books",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106258"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-03T14:58:44.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106258",
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 9, 2026 - 7:15pmfull name / name of organization: Carnegie Mellon\u2026"
@@ -273,70 +497,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, January 9, 2026 - 7:15pmfull name / name of organization: Carnegie Mellon\u2026"
-                }
-            },
-            {
-                "title": "The Pittsburgh Review of Books",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106258"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-08-03T14:58:44.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106258",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, January 9, 2026 - 7:15pmfull name / name of organization: Carnegie Mellon\u2026"
-                }
-            },
-            {
-                "title": "Maps, Mechanics and Mobilities: Landscape & the Geographic Imagination in Video Games",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106247"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-03T11:05:05.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106247",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Newcastle University, UKcontact\u2026"
-                }
-            },
-            {
-                "title": "Anglophone Literary Studies in Bulgaria: Philology to Theory and Everything In Between",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106246"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-08-03T09:07:50.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106246",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, August 3, 2026 - 5:00pmfull name / name of organization: American University in\u2026"
-                }
-            },
-            {
-                "title": "CFP: Serial Killers: Fact into fiction (Peter Lang) \u2013 Urgent chapters required",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106241"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-03T07:15:13.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106241",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: University of Worcestercontact\u2026"
                 }
             },
             {
@@ -388,70 +548,6 @@
                 }
             },
             {
-                "title": "The \"Forms\" of Academic Work",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106147"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-31T12:14:31.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106147",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Tim Lanzend\u00f6rfer, Fabio Duraocontact\u2026"
-                }
-            },
-            {
-                "title": "Beyond Pathology: Interdisciplinary Approaches to Dementia Studies in Humanities",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106131"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-30T14:48:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106131",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, July 30, 2026 - 6:30pmfull name / name of organization: National Institute of\u2026"
-                }
-            },
-            {
-                "title": "Last Call: Abstracts for \"Bodies of Culture: Somaesthetic Explorations\" conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106130"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-30T14:45:56.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106130",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, March 5, 2026 - 1:30amfull name / name of organization: Center for Body Mind and\u2026"
-                }
-            },
-            {
-                "title": "Last Call: Abstracts for \"Bodies of Culture: Somaesthetic Explorations\" conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106130"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-30T14:45:56.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106130",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, March 5, 2026 - 1:30amfull name / name of organization: Center for Body Mind and\u2026"
-                }
-            },
-            {
                 "title": "Seventeenth International Conference on Religion & Spirituality in Society",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/28/seventeenth-international-conference-on-religion-spirituality-in-society"
@@ -465,70 +561,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Common Ground Research Networkscontact\u2026"
-                }
-            },
-            {
-                "title": "\u201cThe Untethering: Empowering People and Communities through Creativity\u201d",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-untethering-empowering-people-and-communities-through-creativity%E2%80%9D"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-27T19:35:41.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-untethering-empowering-people-and-communities-through-creativity%E2%80%9D",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, July 27, 2026 - 3:35pmfull name / name of organization: Natasha Tinsley/ Northeast\u2026"
-                }
-            },
-            {
-                "title": "\u201cThe Real \u201cTethered\u201d: A Critical Analysis of Double Consciousness, People, and Society\u201d",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-real-%E2%80%9Ctethered%E2%80%9D-a-critical-analysis-of-double-consciousness-people-and-society%E2%80%9D"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-27T19:32:55.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/%E2%80%9Cthe-real-%E2%80%9Ctethered%E2%80%9D-a-critical-analysis-of-double-consciousness-people-and-society%E2%80%9D",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, July 27, 2026 - 3:32pmfull name / name of organization: Natasha Tinsley/ Northeast\u2026"
-                }
-            },
-            {
-                "title": "Horror Scholarship for Literary Magazine",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/horror-scholarship-for-literary-magazine"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-07-27T14:27:34.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/27/horror-scholarship-for-literary-magazine",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, July 27, 2026 - 10:27amfull name / name of organization: Deep Cut Presscontact\u2026"
-                }
-            },
-            {
-                "title": "SAMLA 2026 panel: \"\u201cTo Be or Not To Be\u2026 a Man\u201d: Reading Masculinities in Literature and Culture\"",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-panel-%E2%80%9Cto-be-or-not-to-be%E2%80%A6-a-man%E2%80%9D-reading-masculinities-in-literature-and"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-07-24T10:14:52.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/24/samla-2026-panel-%E2%80%9Cto-be-or-not-to-be%E2%80%A6-a-man%E2%80%9D-reading-masculinities-in-literature-and",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Friday, July 24, 2026 - 6:14amfull name / name of organization: South Atlantic Modern\u2026"
                 }
             },
             {
@@ -641,38 +673,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Friday, July 10, 2026 - 10:28amfull name / name of organization: The Goldstein-Goren\u2026"
-                }
-            },
-            {
-                "title": "The Chorus: Blackness, Visitation, and the Poetics of Enclosure (ACLA '27)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/04/the-chorus-blackness-visitation-and-the-poetics-of-enclosure-acla-27"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2026-07-04T21:02:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/04/the-chorus-blackness-visitation-and-the-poetics-of-enclosure-acla-27",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, July 4, 2026 - 5:02pmfull name / name of organization: Andrew Santana Kaplan,\u2026"
-                }
-            },
-            {
-                "title": "Imagining the Global Past: Antiquities, Early Modernities, and the Humanities Today (Research Symposium, May 17\u201318, 2027)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/04/imagining-the-global-past-antiquities-early-modernities-and-the-humanities-today"
-                },
-                "author": {
-                    "name": "UPenn - Religion",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/religion"
-                },
-                "updated": "2026-07-04T07:41:24.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/cfp/2026/07/04/imagining-the-global-past-antiquities-early-modernities-and-the-humanities-today",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, July 4, 2026 - 3:41amfull name / name of organization: Rhema Hokama / University\u2026"
                 }
             },
             {
