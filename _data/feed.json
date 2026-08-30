@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-08-26T13:36:39.000Z",
+        "updated": "2026-08-26T23:40:04.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Asia in the Caribbean (Online)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107177"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-08-26T23:40:04.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107177",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: American Comparative Literature Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "Call for New JCMS Editor(s)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107169"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-08-26T20:07:15.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107169",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Society for Cinema and Media Studies / JCMScontact\u2026"
+                }
+            },
             {
                 "title": "Medieval Queerphobia, Homophobia, and Transphobia: Hatred and Fear as a Category of Analysis",
                 "link": {
@@ -292,22 +324,6 @@
                 }
             },
             {
-                "title": "Tellings and Retellings: Rewriting the Canon",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107108"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-08-25T13:30:05.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107108",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, March 31, 2026 - 9:45amfull name / name of organization: North Atlantic Modern\u2026"
-                }
-            },
-            {
                 "title": "Imagining Decolonial Ecologies - special issue",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107093"
@@ -433,22 +449,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Hungarian Journal of English and American Studies (HJEAS)contact\u2026"
-                }
-            },
-            {
-                "title": "New Achievement!: A Call for Chapters on Dungeon Crawler Carl",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107045"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-08-23T18:20:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107045",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Edward Ardeneaux (U of the Ozarks) and Juliette Kitchens (Nova\u2026"
                 }
             },
             {
