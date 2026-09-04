@@ -12,13 +12,157 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-09-02T17:15:15.000Z",
+        "updated": "2026-09-03T17:44:10.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "The Spenser Review 56.3: Spenser and the Weather",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107536"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-09-03T17:44:10.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107536",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: The Spenser Reviewcontact\u2026"
+                }
+            },
+            {
+                "title": "Northeast Victorian Studies Association 2027: Trash",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107533"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-03T15:28:43.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107533",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Northeast Victorian Studies Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "CFP: Global Asias 8 Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107531"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-03T15:03:59.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107531",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Global Asias Initiativecontact email: gai@psu.educategories (up to\u2026"
+                }
+            },
+            {
+                "title": "Poetry and Pop",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107529"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-03T14:15:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107529",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: American Comparative Literature Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "Captivating Criminality 14: Methods of Murder",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107524"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-03T04:12:25.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107524",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, August 3, 2026 - 12:15amfull name / name of organization: The International Crime\u2026"
+                }
+            },
+            {
+                "title": "Watching Cinema Theoretically: Psychoanalytic Perspectives on Film",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107519"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-03T01:13:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107519",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, September 2, 2026 - 9:15pmfull name / name of organization: Chris Vanderwees\u2026"
+                }
+            },
+            {
+                "title": "Watching Cinema Theoretically: Psychoanalytic Perspectives on Film",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107519"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-09-03T01:13:21.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107519",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Wednesday, September 2, 2026 - 9:15pmfull name / name of organization: Chris Vanderwees\u2026"
+                }
+            },
+            {
+                "title": "Circuits: Transpacific Technologies and Speculative Futures in the Asian American South",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107511"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-02T23:15:04.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107511",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Texas Association for Asian American Diaspora Studies\u2026"
+                }
+            },
+            {
+                "title": "\"Human Rights, Violence and Dictatorship\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107508"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-02T20:39:23.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107508",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: InMind Supportcontact\u2026"
+                }
+            },
             {
                 "title": "Punishment and Privilege: The Cinema of Peter Watkins",
                 "link": {
@@ -164,102 +308,6 @@
                 }
             },
             {
-                "title": "Seeking Papers on the American West",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107435"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-01T22:07:08.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107435",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Tuesday, September 1, 2026 - 6:00pmfull name / name of organization: Southwest Popular and\u2026"
-                }
-            },
-            {
-                "title": "Taylor Swift and Swiftie Studies - SWPACA 2027",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107433"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-01T19:30:20.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107433",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Southwest Popular/American Culture Associationcontact\u2026"
-                }
-            },
-            {
-                "title": "MVSA 2027: Detection (Minneapolis, April 1-3)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107428"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-01T18:00:51.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107428",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Midwest Victorian Studies Associationcontact\u2026"
-                }
-            },
-            {
-                "title": "Narrative Entomology",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107427"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-01T17:45:33.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107427",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Thomas Bryantcontact email: thomasabryant4@gmail.comcategories (up\u2026"
-                }
-            },
-            {
-                "title": "Utopias in Dystopias: Finding Hope and Inspiration in Dystopian Fiction",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107420"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-01T17:38:58.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107420",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Dan Marijanovic/Northeast Modern Language Association (NeMLA)\u2026"
-                }
-            },
-            {
-                "title": "REMINDER: History and the Black Renaissance Seminar at NeMLA",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107409"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-01T16:02:30.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107409",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 2, 2026 - 12:00amfull name / name of organization: NeMLAcontact\u2026"
-                }
-            },
-            {
                 "title": "ICLA Translation Studies Committee Seminar Proposal at 2027 ACLA Houston",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107408"
@@ -273,22 +321,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: ICLA Translation Committeecontact\u2026"
-                }
-            },
-            {
-                "title": "Medieval and Early Modern People and their Things",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107404"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-01T14:20:16.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107404",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: CSULB Center for Medieval and Renaissance Studiescontact\u2026"
                 }
             },
             {
@@ -481,38 +513,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Central University of Punjab, India contact\u2026"
-                }
-            },
-            {
-                "title": "ALA 2027: Roundtable on James Finley\u2019s Abolition and the Rise of US Environmentalism",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107225"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-08-27T14:59:38.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107225",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: The Thoreau Societycontact\u2026"
-                }
-            },
-            {
-                "title": "Fragments II: Worlds Rebuilt - Relaunched JMW Seeking Short Essay Submissions",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107221"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-08-27T14:36:50.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107221",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Journal of Medieval Worldscontact\u2026"
                 }
             },
             {
