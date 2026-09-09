@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-09-03T17:44:10.000Z",
+        "updated": "2026-09-04T14:58:28.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Looking for book reviewers!",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107577"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-09-04T14:58:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107577",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: FEMSPECcontact email: moniqueattrux@gmail.comcategories (up to\u2026"
+                }
+            },
             {
                 "title": "The Spenser Review 56.3: Spenser and the Weather",
                 "link": {
@@ -497,22 +513,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: International Research in Children's Literaturecontact\u2026"
-                }
-            },
-            {
-                "title": "Co(n)texts: Journal of Language, Literature and Culture",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107236"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-08-27T17:23:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107236",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Central University of Punjab, India contact\u2026"
                 }
             },
             {
