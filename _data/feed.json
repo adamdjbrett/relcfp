@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-09-04T14:58:28.000Z",
+        "updated": "2026-09-04T19:38:04.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Bloomsbury's Cultural History of Countercultures in the Long-Nineteenth Century",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107600"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-04T19:38:04.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107600",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Gabrielle Miller (Baylor U)contact\u2026"
+                }
+            },
+            {
+                "title": "Earth and Other Alien Worlds: Cinematic Representations of Planeterity [NEMLA 2027]",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107598"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-04T18:59:42.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107598",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Randy Laist/NEMLAcontact email: rlaist@bridgeport.educategories\u2026"
+                }
+            },
+            {
+                "title": "Journal Submissions: Indiana English",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107580"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-04T16:08:56.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107580",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Indiana College English Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "Journal Submissions: Indiana English",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107580"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-09-04T16:08:56.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107580",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Indiana College English Associationcontact\u2026"
+                }
+            },
             {
                 "title": "Looking for book reviewers!",
                 "link": {
@@ -185,22 +249,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107504"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-02T17:15:15.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107504",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: 2026 American Comparative Literature Association Conferencecontact\u2026"
-                }
-            },
-            {
-                "title": "Punishment and Privilege: The Cinema of Peter Watkins",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107504"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -233,22 +281,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107499"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-02T14:13:40.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107499",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 2, 2026 - 10:15amfull name / name of organization: Editors: Sara\u2026"
-                }
-            },
-            {
-                "title": "PROPOSED EDITED VOLUME: Women Who Wander: Gender, Mobility, and the Cultural Imagination",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107499"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -273,22 +305,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: W. Franklin Evans Honors College /Voorhees University contact\u2026"
-                }
-            },
-            {
-                "title": "Scraps\u2026 Reading Residuality. International Conference | Krak\u00f3w | 13\u201315 April 2027",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107471"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-02T05:53:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107471",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 2, 2026 - 7:45amfull name / name of organization: Doctoral School in\u2026"
                 }
             },
             {
@@ -465,22 +481,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Victorians Institute Journalcontact\u2026"
-                }
-            },
-            {
-                "title": "Imagining Decolonial Ecologies - special issue",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107256"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-08-28T08:21:57.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107256",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Hungarian Journal of English and American Studies (HJEAS) Q2, open\u2026"
                 }
             },
             {
