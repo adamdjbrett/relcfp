@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-09-08T15:51:37.000Z",
+        "updated": "2026-09-09T09:04:56.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Coaching, Psychology and the Art of Leadership: A Transdisciplinary Conference Inspired by Ted Lasso",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107715"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-09T09:04:56.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107715",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: London Arts-Based Research Centrecontact\u2026"
+                }
+            },
+            {
+                "title": "CfP: Deleuze and Laruelle - A Special Issue of Deleuze and Guattari Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107709"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-09-09T08:40:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107709",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Andrija Filipoviccontact\u2026"
+                }
+            },
+            {
+                "title": "CfP: Deleuze and Laruelle - A Special Issue of Deleuze and Guattari Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107709"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-09-09T08:40:19.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107709",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Andrija Filipoviccontact\u2026"
+                }
+            },
+            {
+                "title": "Learning Communities that Work",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107701"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-09-08T23:11:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107701",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Randy Laist/University of Bridgeportcontact\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: \u2018Media Ecologies, Identity and Community: family, culture and discourse in the digital era\u2019",
                 "link": {
@@ -233,22 +297,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107656"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-07T04:20:15.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107656",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Animesh Roy and Scott Sloviccontact\u2026"
-                }
-            },
-            {
-                "title": "Ecological Migration: Culture, Ecology, and Mobility",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107656"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -372,38 +420,6 @@
                 }
             },
             {
-                "title": "Looking for book reviewers!",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107577"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-09-04T14:58:28.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107577",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: FEMSPECcontact email: moniqueattrux@gmail.comcategories (up to\u2026"
-                }
-            },
-            {
-                "title": "The Spenser Review 56.3: Spenser and the Weather",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107536"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-09-03T17:44:10.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107536",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: The Spenser Reviewcontact\u2026"
-                }
-            },
-            {
                 "title": "Watching Cinema Theoretically: Psychoanalytic Perspectives on Film",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107519"
@@ -497,22 +513,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, August 31, 2026 - 1:30pmfull name / name of organization: Jim Goar / American\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: \"Sounding Resistance: African American Voices and Politics of Representation\" (Remote Only)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107330"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-08-30T18:54:11.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107330",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Northeast Modern Language Association (NeMLA)contact\u2026"
                 }
             },
             {
