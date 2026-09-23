@@ -12,13 +12,109 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-09-14T12:56:14.000Z",
+        "updated": "2026-09-14T15:18:07.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Horror Studies Special Issue (2027) CFP: \"What Did Get Out Get Us?\"",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107892"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-09-14T15:18:07.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107892",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Horror Studiescontact email: ashleyrsmith@ithaca.educategories (up\u2026"
+                }
+            },
+            {
+                "title": "The Corporate Uncanny",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107890"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-14T14:06:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107890",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Saramanda Swigartcontact email: sswigart@ucsc.educategories (up to\u2026"
+                }
+            },
+            {
+                "title": "The Corporate Uncanny",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107890"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-09-14T14:06:57.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107890",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Saramanda Swigartcontact email: sswigart@ucsc.educategories (up to\u2026"
+                }
+            },
+            {
+                "title": "CFP: Carson McCullers Panels at 2027 ALA",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107888"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-14T13:58:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107888",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Monday, September 14, 2026 - 10:00pmfull name / name of organization: The Carson McCullers\u2026"
+                }
+            },
+            {
+                "title": "Composition & Rhetoric: Practice (CEA 4/1/27-4/3/27)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107887"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-09-14T13:40:07.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107887",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: College English Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "Writing Centers (CEA 4/1/27-4/3/27)",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107886"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-09-14T13:37:41.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107886",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: College English Associationcontact\u2026"
+                }
+            },
             {
                 "title": "CFP: Adaptations and Retellings 2027",
                 "link": {
@@ -281,22 +377,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107792"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-11T13:44:42.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107792",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Haihong Yangcontact email: hyang@udel.educategories (up to\u2026"
-                }
-            },
-            {
-                "title": "ACLA Online Panel: Case Studies in Feeling: Toward New Theories of Emotion Across Media",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107792"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -329,22 +409,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/node/107788"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-11T08:47:44.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107788",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Editorial Board, History and Art Journalcontact\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: History and Art Journal (Volume 2) \u2013 Submissions Open",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107788"
-                },
-                "author": {
                     "name": "UPenn - Journals and Collections of Essays",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
                 },
@@ -353,22 +417,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Editorial Board, History and Art Journalcontact\u2026"
-                }
-            },
-            {
-                "title": "Call for Chapter Abstracts: K-Pop and Philosophy",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107784"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-09-11T01:34:22.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107784",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, September 10, 2026 - 9:30pmfull name / name of organization: The Blackwell\u2026"
                 }
             },
             {
@@ -481,54 +529,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, September 7, 2026 - 1:15pmfull name / name of organization: American Comparative\u2026"
-                }
-            },
-            {
-                "title": "Ecological Migration: Culture, Ecology, and Mobility",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107656"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-09-07T04:20:15.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107656",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Animesh Roy and Scott Sloviccontact\u2026"
-                }
-            },
-            {
-                "title": "The Lives and Memory of Objects",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107622"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-09-05T15:26:01.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107622",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Word and Text - A Journal of Literary Studies and\u2026"
-                }
-            },
-            {
-                "title": "Watching Cinema Theoretically: Psychoanalytic Perspectives on Film",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107519"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-09-03T01:13:21.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107519",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, September 2, 2026 - 9:15pmfull name / name of organization: Chris Vanderwees\u2026"
                 }
             },
             {
