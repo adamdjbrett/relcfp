@@ -12,13 +12,45 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-09-18T16:58:49.000Z",
+        "updated": "2026-09-18T19:29:23.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: Mystery, Suspense, and True Crime at CEA 2027",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/108202"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-18T19:29:23.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/108202",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: College English Association contact\u2026"
+                }
+            },
+            {
+                "title": "36th Annual British Commonwealth and Postcolonial Studies (BCPS) Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/108198"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-09-18T17:53:22.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/108198",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Annual British Commonwealth and Postcolonial Studies contact\u2026"
+                }
+            },
             {
                 "title": "BIPOC & Asian American Literature (CEA 4/1-4/3/27)",
                 "link": {
@@ -228,22 +260,6 @@
                 }
             },
             {
-                "title": "Plasticity \u2013 Here, There, and Everywhere",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/108089"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-17T12:28:46.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/108089",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: The plasticity consortiumcontact\u2026"
-                }
-            },
-            {
                 "title": "Call for Chapters: Digital Assessment Ecosystems and Learning Analytics (IGI Global)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/108081"
@@ -273,22 +289,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Good Medicine Presscontact\u2026"
-                }
-            },
-            {
-                "title": "Sonic mismatches in contemporary audiovisual media",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/108044"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-09-16T17:13:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/108044",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: ACLA virtual seminar contact\u2026"
                 }
             },
             {
