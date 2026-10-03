@@ -5,7 +5,7 @@ pagination:
   enabled: true
 ---
 {%- assign author = site.data.authors[page.author] -%}
-<article class="container h-entry">
+<article class="container h-entry" data-pagefind-body>
     <div class="post__header">
         <h2 class="p-name">{{page.title}}</h2>
         <div class="meta__info">

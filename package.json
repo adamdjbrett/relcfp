@@ -1,0 +1,11 @@
+{
+  "name": "relcfp",
+  "private": true,
+  "scripts": {
+    "dev": "bundle exec jekyll serve --port 8080 --livereload",
+    "build": "bundle exec jekyll build && pagefind --site _site"
+  },
+  "devDependencies": {
+    "pagefind": "^1.3.0"
+  }
+}
