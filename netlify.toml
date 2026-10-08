@@ -1,5 +1,6 @@
 [build]
-  command = "npm run build"
+  # ponytail: Netlify skips bundle install when Gemfile.lock matches its (gem-less) cache
+  command = "bundle install && npm run build"
   publish = "_site"
 
 [build.environment]
