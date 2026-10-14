@@ -1,6 +1,6 @@
 ---
 title: "Workshop on Traveling Expertise in Modern South Asia and Beyond"
-image: /assets/images/hebert-kostan-GluoM2H6O4w-unsplash.webp
+image: /assets/images/hebert-kostan-gluom2h6o4w-unsplash.webp
 tags:
   - religion
   - humanities

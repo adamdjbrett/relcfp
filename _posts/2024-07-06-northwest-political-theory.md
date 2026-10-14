@@ -20,7 +20,7 @@ The Northwestern Graduate Student Political Theory Conference is a biennial co
 
 ##### Keynote speaker: Prof. Linda M.G. Zerilli, University of Chicago
 
-[![Poster](/assets/images/Northwestern-PT-2024-CfP-1-768x994.webp)](/assets/images/Northwestern-PT-2024-CfP-1-768x994.webp)
+[![Poster](/assets/images/northwestern-pt-2024-cfp-1-768x994.webp)](/assets/images/northwestern-pt-2024-cfp-1-768x994.webp)
 
 ### Call for papers
 

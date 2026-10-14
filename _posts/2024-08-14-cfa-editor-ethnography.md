@@ -67,4 +67,4 @@ An editorial remuneration is offered.
 
 [To apply, please send a brief CV and cover email. Outline any experience that you have which supports your application. Please send this into Zahra Ahmed (she/her), ](mailto:zahra.ahmed@sagepub.co.uk)<zahra.ahmed@sagepub.co.uk>
 
-[View PDF](/assets/pdfs/Ethnography+Call+for+Editor+2023.pdf)
+[View PDF](/assets/pdfs/ethnographycallforeditor2023.pdf)

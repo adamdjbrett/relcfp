@@ -31,9 +31,9 @@ In the 200<sup>th</sup> year of *Johnson*, there is an urgent need for global re
 The project's key collaborators include [Syracuse University](https://syracuse.edu), [American Indian Law Alliance (AILA)](https://aila.ngo), [Indigenous Values Initiative (IVI)](https://indigenousvalues.org/), The [Skä-noñh -- Great Law of Peace Center](https://www.skanonhcenter.org/), and others. For more see the [Doctrine of Discovery Project site (doctrineofdiscovery.org)](https://doctrineofdiscovery.org/).
 
 <figure>
-    <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp">
-        <img src="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp"></a>
-    <figcaption>Event flyer. <a href="/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
+    <a href="/assets/images/religious-origins-of-white-supremacy-flyer.webp">
+        <img src="/assets/images/religious-origins-of-white-supremacy-flyer.webp"></a>
+    <figcaption>Event flyer. <a href="/assets/images/religious-origins-of-white-supremacy-flyer.webp" target="_blank" rel="noopener">⤓ Download Image</a>, <a href="/assets/pdfs/cfp-religious-origins-conference-flyer-8.5x11-rev2.pdf" target="_blank" rel="noopener">⤓ Download PDF</a>.
 </figcaption>
 </figure>
   
@@ -42,8 +42,8 @@ The project's key collaborators include [Syracuse University](https://syracuse.e
 We are interested in paper and session proposals from scholars, students, activists, artists, lawyers, policy makers, religious leaders, Indigenous leaders, and more. Our conference seeks to bring together a broad coalition of people working on examining not only the Doctrine of Christian Discovery but also the religious origins of white supremacy.
 
 ### Downloads
-  - [Flyer image](/assets/images/Religious-Origins-of-White-Supremacy-Flyer.webp)
-  - [Flyer PDF](https://doctrineofdiscovery.org/assets/pdfs/CFP-Religious-Origins-Conference-Flyer-8.5x11-rev2.pdf)
+  - [Flyer image](/assets/images/religious-origins-of-white-supremacy-flyer.webp)
+  - [Flyer PDF](/assets/pdfs/cfp-religious-origins-conference-flyer-8.5x11-rev2.pdf)
 
 ## Thematic Panels
 

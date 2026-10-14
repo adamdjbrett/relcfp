@@ -10,10 +10,10 @@ canonical_url: https://fis.uiii.ac.id/activities/events/call-for-papers-the-inte
 ## CALL FOR PAPERS 
 the “International Conference on Decolonizing Social Sciences and Humanities: Islamic and Non-Western Perspectives”, organized by the Faculty of Islamic Studies, UIII and the Institute Social, Türkiye, on April 29–30, 2025, at Universitas Islam Internasional Indonesia (UIII) Depok, Indonesia.
 
-![Poster](/assets/images/cfp-decolonizing-UIII.webp)
+![Poster](/assets/images/cfp-decolonizing-uiii.webp)
 
 ## Download the Full Call
-[View PDF](/assets/pdfs/Call-For-Papers_Decolonizing-Social-Sciences-and-Humanities-Islamic-and-Non-Western-Perspectives.pdf)
+[View PDF](/assets/pdfs/call-for-papers_decolonizing-social-sciences-and-humanities-islamic-and-non-western-perspectives.pdf)
 
 ## Details
 This conference aims to challenge Eurocentric paradigms by showcasing diverse intellectual traditions from Islamic, African, Asian, and Indigenous perspectives, fostering innovative decolonial approaches in the social sciences and humanities.

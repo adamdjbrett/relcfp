@@ -4,7 +4,7 @@ section_id: posts
 title: "CFP: McGill University's Journal of the Council for Research on Religion (JCREOR)"
 date: 2022-09-14-01T14:54:46
 excerpt: "- What Does the United Nations Represent?"
-image: "/assets/images/Flag_of_the_United_Nations.svg"
+image: "/assets/images/flag_of_the_united_nations.svg"
 categories:
   - Blog
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Call for Abstracts: Special Issue of the Journal of Communication and Religion, 'Religious Discourse in Legislative Spaces'"
-image: /assets/images/inaki-del-olmo-NIJuEQw0RKg-unsplash.webp
+image: /assets/images/inaki-del-olmo-nijueqw0rkg-unsplash.webp
 tags:
   - religion
   - communication

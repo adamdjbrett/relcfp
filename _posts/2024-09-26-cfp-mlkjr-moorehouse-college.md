@@ -82,6 +82,6 @@ The Symposium is generously supported by: 
 
 
 ![Flyer Page 1](/assets/images/mlkjr-pg1.webp)
-![Flyer Page 2](/assets/images/mlkjr-pg2.webp) 
+![Flyer Page 2](/assets/images/mlkjr-pg2.webp)
 
 [Learn More](https://usreligion.substack.com/p/cfp-martin-luther-king-jr-and-the/)

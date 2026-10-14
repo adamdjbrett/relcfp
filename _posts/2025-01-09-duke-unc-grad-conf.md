@@ -14,4 +14,4 @@ Please submit abstracts of max 300 words by **February 3** to dukeuncgradcon
 
 Acceptances will be communicated by February 14.
 
-[Poster](/assets/pdfs/2025-Duke-UNC-CFP-Poster.pdf)
+[Poster](/assets/pdfs/2025-duke-unc-cfp-poster.pdf)

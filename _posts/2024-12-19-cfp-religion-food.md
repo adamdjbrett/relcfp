@@ -66,4 +66,4 @@ Submission Guidelines
 - Each  panelist  will  have  20  minutes  to  present,  and  10  minutes  to  take  Q  &  A.
 - Each  panel  will  have  a  respondent  who  will  present  concluding  remarks  and  questions, followed by open questions and conversation.
 
-[Read CFP](/assets/pdfs/CFP-religion-plate-food-religion-critical-perspective.pdf)
+[Read CFP](/assets/pdfs/cfp-religion-plate-food-religion-critical-perspective.pdf)

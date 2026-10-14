@@ -1,6 +1,6 @@
 ---
 title: "#CFP: United Lutheran Seminary to Host “A Vision for Liberating Our Democracy” Conference, February 27–28, 2026"
-image: /assets/images/ULS-a-vision-for-liberating-our-democracy.webp
+image: /assets/images/uls-a-vision-for-liberating-our-democracy.webp
 tags:
  - religion
  - humanities
@@ -96,7 +96,7 @@ Proposals should include a 300-word abstract and a 100-word biography. The submi
 
 ## Registration
 
-* [Download the Flyer as a PDF](/assets/pdfs/ULS-a-vision-for-liberating-our-democracy.pdf)
+* [Download the Flyer as a PDF](/assets/pdfs/uls-a-vision-for-liberating-our-democracy.pdf)
 * [Learn More](https://www.unitedlutheranseminary.edu/uls-news/united-lutheran-seminary-to-host-a-vision-for-liberating-our-democracy-conference-february-27-28-2026)
 * [Registration](https://ulsforms.wufoo.com/forms/q18pafoo1rjzis3/)
 

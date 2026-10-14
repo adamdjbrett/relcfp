@@ -1,6 +1,6 @@
 ---
 title: "CFP: Special Series on Christianity and Empire"
-image: /assets/images/daniel-gutko-zcri0xH9Ndk-unsplash.webp
+image: /assets/images/daniel-gutko-zcri0xh9ndk-unsplash.webp
 tags:
   - religion
   - Christianity
@@ -32,7 +32,7 @@ As Religion Compass only accepts articles on commission, please do not write you
 Religion Compass is an online-only journal unique in its vision to publish original, peer-reviewed surveys of current research from across the entire discipline, with the aim of providing topical and significant research on a monthly basis. Religion Compass provides an ideal starting point for both specialist and non-specialist, offering pointers for researchers, teachers, and students alike, to help them find and interpret the best research in the field.
 
 ## Download
-- [CFP as a PDF](/assets/pdfs/Christianity-and-Empire.pdf)
+- [CFP as a PDF](/assets/pdfs/christianity-and-empire.pdf)
 
 Photo by <a href="https://unsplash.com/@whatsupitsdan?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Daniel Gutko</a> on <a href="https://unsplash.com/photos/text-zcri0xH9Ndk?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   

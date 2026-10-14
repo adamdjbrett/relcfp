@@ -19,6 +19,6 @@ We welcome proposals dealing with any aspect of the fields of religious studies 
 We welcome proposals for panels of multiple papers and accept proposals for single papers or other types of sessions, such as roundtables or book panels involving structured discussions of pre-circulated questions.
 
 ## Details
-* [PDF](/assets/pdfs/2024-RMGP.pdf)
-* [Image](/assets/images/2024-RMGP.webp)
+* [PDF](/assets/pdfs/2024-rmgp.pdf)
+* [Image](/assets/images/2024-rmgp.webp)
 * [Submission Link](https://forms.gle/KjdxbhunAFWefpkC9)
