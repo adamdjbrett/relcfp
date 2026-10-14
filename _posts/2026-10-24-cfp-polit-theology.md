@@ -15,7 +15,7 @@ tags:
 
 ## Political Theologies of Tradition and Rootedness
 
-**April 5-7, 2027 | New College, University of Oxford**
+### **April 5-7, 2027 - New College, University of Oxford**
 
 [Download the full call for papers (PDF)](/assets/pdfs/cfp_political_theologies_of_tradition_and_rootedness.pdf)
 
