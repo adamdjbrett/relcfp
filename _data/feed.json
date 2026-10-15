@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-09T22:00:00.000Z",
+        "updated": "2026-10-14T17:59:33.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Lake Institute Doctoral Dissertation Fellowship",
+                "link": {
+                    "@href": "https://www.churchhistory.org/lake-institute-doctoral-dissertation-fellowship"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2026-10-14T17:59:33.000Z",
+                "id": "https://www.churchhistory.org/lake-institute-doctoral-dissertation-fellowship",
+                "content": {
+                    "@type": "html",
+                    "#text": "2027-2028 Lake Doctoral Dissertation Fellowship \u2026"
+                }
+            },
+            {
+                "title": "#CFP: The 2nd IHBTP Conference on Humanistic Buddhism and Comparative Theology",
+                "link": {
+                    "@href": "https://relcfp.com/2026/10/14/cfp-ihbpt-uoft/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-10-14T15:58:22.000Z",
+                "id": "https://relcfp.com/2026/10/14/cfp-ihbpt-uoft/",
+                "content": {
+                    "@type": "html",
+                    "#text": "What does it mean to become human in a religiously plural and rapidly changing world?"
+                }
+            },
+            {
+                "title": "#CFP: Political Theologies of Tradition and Rootedness",
+                "link": {
+                    "@href": "https://relcfp.com/2026/10/14/cfp-polit-theology/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-10-14T15:58:22.000Z",
+                "id": "https://relcfp.com/2026/10/14/cfp-polit-theology/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The seventh Political Theologies conference will take place at New College, Oxford, April 5-7, 2027.\u2026"
+                }
+            },
             {
                 "title": "American Literature Association 38th Annual Conference May 26-29, 2027: Boston, MA",
                 "link": {
@@ -900,22 +948,6 @@
                 }
             },
             {
-                "title": "#CFP: Death and the Chatbot: The Thanatology of Artificial Intelligence",
-                "link": {
-                    "@href": "https://relcfp.com/2026/06/11/thanatology/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2026-06-11T00:00:00.000Z",
-                "id": "https://relcfp.com/2026/06/11/thanatology/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Contributors: Death and the Chatbot: The Thanatology of Artificial Intelligence"
-                }
-            },
-            {
                 "title": "Religion and Culture in the Americas Seminar",
                 "link": {
                     "@href": "https://www.churchhistory.org/religion-and-culture-in-the-americas-seminar"
@@ -993,22 +1025,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call for interest: The Catholic Church and the Environment \u2013 CATCH,\u2026"
-                }
-            },
-            {
-                "title": "#CFP: The Common Good in our Common Home: World Christianity, Earth Community, and the Realm of God",
-                "link": {
-                    "@href": "https://relcfp.com/2026/04/26/cfp-world-christianity/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2026-04-26T00:00:00.000Z",
-                "id": "https://relcfp.com/2026/04/26/cfp-world-christianity/",
-                "content": {
-                    "@type": "html",
-                    "#text": "CALL FOR PAPERS - 2026"
                 }
             },
             {
@@ -1137,22 +1153,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Douglas Sweeney, dean of Beeson Divinity School of Samford University and author of The American\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers for The Association for the Study of Eastern Christian History and Culture, Inc.",
-                "link": {
-                    "@href": "https://www.churchhistory.org/call-for-papers-for-the-association-for-the-study-of-eastern-christian-history-and-culture-inc"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2025-10-07T02:35:00.000Z",
-                "id": "https://www.churchhistory.org/call-for-papers-for-the-association-for-the-study-of-eastern-christian-history-and-culture-inc",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers: The Association for the Study of Eastern Christian History and Culture, Inc. (ASEC)\u2026"
                 }
             },
             {
