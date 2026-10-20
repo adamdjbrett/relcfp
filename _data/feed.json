@@ -12,29 +12,13 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-16T17:12:16.000Z",
+        "updated": "2026-10-16T12:21:30.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
-            {
-                "title": "The Museum of Fiction: Materialising Imaginary Worlds as Narratives",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109266"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-16T17:12:16.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109266",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Mus\u00e9aLitt\u00e9contact email: caroline.marie.up8@gmail.comcategories\u2026"
-                }
-            },
             {
                 "title": "2027 Society for Textual Scholarship Conference Call for Papers: Cultural Connectivity",
                 "link": {
@@ -241,6 +225,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Becky McLaughlin, University of South Alabama (Mobile, AL)contact\u2026"
+                }
+            },
+            {
+                "title": "Plurilingualism in the New World Special Issue \u2013 eHumanista",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109212"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-14T21:57:06.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109212",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Saturday, November 14, 2026 - 6:00pmfull name / name of organization: eHumanistacontact\u2026"
                 }
             },
             {
