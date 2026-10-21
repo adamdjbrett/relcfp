@@ -12,13 +12,93 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-16T12:21:30.000Z",
+        "updated": "2026-10-17T05:26:49.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Journal Submission: Essays and Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109283"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-17T05:26:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109283",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Department of English, Jadavpur Universitycontact\u2026"
+                }
+            },
+            {
+                "title": "Call for Journal Submission: Essays and Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109283"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-10-17T05:26:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109283",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Department of English, Jadavpur Universitycontact\u2026"
+                }
+            },
+            {
+                "title": "Call for Journal Submission: Essays and Studies",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109283"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-10-17T05:26:49.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109283",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Department of English, Jadavpur Universitycontact\u2026"
+                }
+            },
+            {
+                "title": "Media Under Fascism",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109272"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-17T01:03:53.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109272",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: SFSU Cinema Studies Graduate Research Conference contact\u2026"
+                }
+            },
+            {
+                "title": "vol. 14 of KINO: the Western Undergraduate Film Studies Journal",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109267"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-10-16T19:56:26.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109267",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Film Studies Departmental Committee at Western Universitycontact\u2026"
+                }
+            },
             {
                 "title": "2027 Society for Textual Scholarship Conference Call for Papers: Cultural Connectivity",
                 "link": {
@@ -201,22 +281,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/node/109225"
                 },
                 "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-15T11:58:57.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109225",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Becky McLaughlin, University of South Alabama (Mobile, AL)contact\u2026"
-                }
-            },
-            {
-                "title": "Loving Roland Barthes",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109225"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -225,22 +289,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Becky McLaughlin, University of South Alabama (Mobile, AL)contact\u2026"
-                }
-            },
-            {
-                "title": "Plurilingualism in the New World Special Issue \u2013 eHumanista",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109212"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-14T21:57:06.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109212",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Saturday, November 14, 2026 - 6:00pmfull name / name of organization: eHumanistacontact\u2026"
                 }
             },
             {
@@ -537,22 +585,6 @@
                     "@href": "https://call-for-papers.sas.upenn.edu/node/108943"
                 },
                 "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-10-09T08:45:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/108943",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Angelaki: Journal of the Theoretical Humanitiescontact\u2026"
-                }
-            },
-            {
-                "title": "Angelaki Theme Issue: Baudrillard Reconsidered (Call for Abstracts)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/108943"
-                },
-                "author": {
                     "name": "UPenn - Theory",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
                 },
@@ -580,22 +612,6 @@
                 }
             },
             {
-                "title": "Call for Papers: What Is the Relationship between Regional Integration Spaces and Emerging Technologies? \u2013 Temas de Integra\u00e7\u00e3o Journal (Issue 47)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/108924"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-10-08T23:00:26.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/108924",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Thursday, October 8, 2026 - 7:00pmfull name / name of organization: Association of European\u2026"
-                }
-            },
-            {
                 "title": "\"Moveable Feasts: Biblical Allusions and Uses of the Spiritual in Welty\u2019s Work\": Panel at American Literature Association Annual Conference May 26-29, 2027 in Boston",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/108914"
@@ -609,22 +625,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Thursday, October 8, 2026 - 6:30pmfull name / name of organization: Eudora Welty\u2026"
-                }
-            },
-            {
-                "title": "6th Singapore Literature Conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/107255"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-10-08T21:45:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/107255",
-                "content": {
-                    "@type": "html",
-                    "#text": "5th Singapore Literature Conference July 31, 2027 Poetry Festival Singapore (PFS) and the Singapore\u2026"
                 }
             },
             {
