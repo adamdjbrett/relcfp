@@ -12,13 +12,93 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-17T05:26:49.000Z",
+        "updated": "2026-10-23T01:45:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-23T01:45:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
+                "content": {
+                    "@type": "html",
+                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
+                }
+            },
+            {
+                "title": "Call for Papers \u2014 AI and Sovereignty",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109290"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-10-17T13:35:09.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109290",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Exetasiscontact email: editorial@exetasis.netcategories (up to\u2026"
+                }
+            },
+            {
+                "title": "Writing as Though Translated - Poetry and linguistic encounter in nineteenth-century German literature - Proposal for a special number of German Life and Letters",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109288"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-10-17T09:38:58.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109288",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Eran Horowitz and Yarden Ben-Zurcontact\u2026"
+                }
+            },
+            {
+                "title": "Writing as Though Translated",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109287"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-17T09:37:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109287",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Eran Horowitz and Yarden Ben-Zurcontact\u2026"
+                }
+            },
+            {
+                "title": "Writing as Though Translated",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109287"
+                },
+                "author": {
+                    "name": "UPenn - Theory",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
+                },
+                "updated": "2026-10-17T09:37:51.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109287",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Eran Horowitz and Yarden Ben-Zurcontact\u2026"
+                }
+            },
             {
                 "title": "Call for Journal Submission: Essays and Studies",
                 "link": {
@@ -132,22 +212,6 @@
                 }
             },
             {
-                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-16T01:30:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
-                "content": {
-                    "@type": "html",
-                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
-                }
-            },
-            {
                 "title": "\"Lost and Found\"-Univeristy of Maryland Graduate English Conference 2027",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/109248"
@@ -241,22 +305,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Dr Matthew Melia / Kingston University, UKcontact\u2026"
-                }
-            },
-            {
-                "title": "Film Reviews",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109226"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-15T12:00:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109226",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Wednesday, October 14, 2026 - 3:00pmfull name / name of organization: Dr. Antonio\u2026"
                 }
             },
             {
@@ -532,22 +580,6 @@
                 }
             },
             {
-                "title": "Paranoid Planet: Environmental Conspiracy Theories and the Crisis of Knowledge",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/108971"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-10-09T20:24:54.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/108971",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Matthew Hannah / University of Wisconsin-Madisoncontact\u2026"
-                }
-            },
-            {
                 "title": "Call for Papers: RELIGION AND MIGRATION UNIT \u2014 American Academy of Religion Western Region 2027 Annual Conference",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/108966"
@@ -577,38 +609,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: American Academy of Religion \u2014 Western Regioncontact\u2026"
-                }
-            },
-            {
-                "title": "Angelaki Theme Issue: Baudrillard Reconsidered (Call for Abstracts)",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/108943"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-10-09T08:45:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/108943",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Angelaki: Journal of the Theoretical Humanitiescontact\u2026"
-                }
-            },
-            {
-                "title": "Eco-Imaginaries: Geography, Materiality, and Philosophy in South Asian Literature",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/108938"
-                },
-                "author": {
-                    "name": "UPenn - Theory",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/theory"
-                },
-                "updated": "2026-10-09T05:12:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/108938",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Routledge - 'South Asian Literature in Focus' Seriescontact\u2026"
                 }
             },
             {
