@@ -55,4 +55,5 @@ Send **abstracts of 250 words** to the guest editors by **January 1, 2027**.
 - **Aaron W Hughes:** [aaron.hughes@rochester.edu](mailto:aaron.hughes@rochester.edu)
  
  ## Nota Bene
+ 
  *Religion* and *Religions* are two entirely separate journals.
