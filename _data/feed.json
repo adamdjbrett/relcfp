@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-27T14:15:00.000Z",
+        "updated": "2026-10-28T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Decolonisation and the Study of Religion \u2014 Religion Special Issue",
+                "link": {
+                    "@href": "https://relcfp.com/2026/10/28/cfp-religion-decolonisation-study-of-religion/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-10-28T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/10/28/cfp-religion-decolonisation-study-of-religion/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Religion invites articles on decolonisation and the study of religion, examining theory, methods and\u2026"
+                }
+            },
             {
                 "title": "Acta Eruditorum \u2014 Call for Papers: Interdisciplinary Scholarship, Knowledge, and Critical Inquiry (2027)",
                 "link": {
@@ -564,6 +580,38 @@
                 }
             },
             {
+                "title": "#CFP: The 2nd IHBTP Conference on Humanistic Buddhism and Comparative Theology",
+                "link": {
+                    "@href": "https://relcfp.com/2026/10/14/cfp-ihbpt-uoft/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-10-14T15:58:22.000Z",
+                "id": "https://relcfp.com/2026/10/14/cfp-ihbpt-uoft/",
+                "content": {
+                    "@type": "html",
+                    "#text": "What does it mean to become human in a religiously plural and rapidly changing world?"
+                }
+            },
+            {
+                "title": "#CFP: Political Theologies of Tradition and Rootedness",
+                "link": {
+                    "@href": "https://relcfp.com/2026/10/14/cfp-polit-theology/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-10-14T15:58:22.000Z",
+                "id": "https://relcfp.com/2026/10/14/cfp-polit-theology/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The seventh Political Theologies conference will take place at New College, Oxford, April 5-7, 2027.\u2026"
+                }
+            },
+            {
                 "title": "Flannery O\u2019Connor Society Panel at ALA 2027",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/109051"
@@ -660,6 +708,38 @@
                 }
             },
             {
+                "title": "#CFP: NABPR 2027 Annual Meeting \u2014 Faith, Health, and Human Flourishing",
+                "link": {
+                    "@href": "https://relcfp.com/2026/10/03/cfp-nabpr-raleigh-27/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-10-03T15:35:05.000Z",
+                "id": "https://relcfp.com/2026/10/03/cfp-nabpr-raleigh-27/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The National Association of Baptist Professors of Religion invites paper and panel proposals for its\u2026"
+                }
+            },
+            {
+                "title": "#CFP: EuARe 2027 \u2014 Being Human: Religions between Peace and Conflict",
+                "link": {
+                    "@href": "https://relcfp.com/2026/10/03/cfp-euare2027/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-10-03T15:32:26.000Z",
+                "id": "https://relcfp.com/2026/10/03/cfp-euare2027/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The European Academy of Religion invites proposals and papers for its Tenth Annual Conference, held\u2026"
+                }
+            },
+            {
                 "title": "Deus et Machina: Technology, Politics, and Theology in the Age of AI",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/108715"
@@ -692,6 +772,22 @@
                 }
             },
             {
+                "title": "TIDEL Scholarly Symposium Faith, Ethics, and Digital Transformation",
+                "link": {
+                    "@href": "https://relcfp.com/2026/08/25/cfp-tidel/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-08-25T15:16:00.000Z",
+                "id": "https://relcfp.com/2026/08/25/cfp-tidel/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Join TIDEL for a two-day convening exploring the ethical, theological, social, and institutional\u2026"
+                }
+            },
+            {
                 "title": "Call for Papers: Comics and Romance",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2026/08/14/call-for-papers-comics-and-romance/"
@@ -705,6 +801,22 @@
                 "content": {
                     "@type": "html",
                     "#text": "Call for Papers 2028! Romance! The twelfth volume of Pace University\u2019s Journal of Comics and Culture\u2026"
+                }
+            },
+            {
+                "title": "#CFP: JCRT Book Reviews \u2014 Reviewers Wanted in Religion, Theology, and Critical Theory",
+                "link": {
+                    "@href": "https://relcfp.com/2026/08/11/cfp-jcrt-book-reviews/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-08-11T15:16:00.000Z",
+                "id": "https://relcfp.com/2026/08/11/cfp-jcrt-book-reviews/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Journal for Cultural and Religious Theory has relaunched its book review section and is seeking\u2026"
                 }
             },
             {
@@ -737,6 +849,54 @@
                 "content": {
                     "@type": "html",
                     "#text": "At this stage, while proposals across all areas remain welcome, we are particularly interested in\u2026"
+                }
+            },
+            {
+                "title": "#CFP: The Bible, Animal Studies, and the Sciences",
+                "link": {
+                    "@href": "https://relcfp.com/2026/07/09/cfp-bible-animal-studies-sciences/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-07-09T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/07/09/cfp-bible-animal-studies-sciences/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for papers for a Journal for Interdisciplinary Biblical Studies special issue on biblical\u2026"
+                }
+            },
+            {
+                "title": "#CFP: Special Issue of Mortality: Hauntology",
+                "link": {
+                    "@href": "https://relcfp.com/2026/07/09/cfp-hauntology/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-07-09T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/07/09/cfp-hauntology/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for contributors for a special issue of Mortality on hauntology, death studies, memory, trauma,\u2026"
+                }
+            },
+            {
+                "title": "#CFP: From Blueprints to Praxis",
+                "link": {
+                    "@href": "https://relcfp.com/2026/07/09/cfp-joaa-fall-2026/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-07-09T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/07/09/cfp-joaa-fall-2026/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Call for papers for the Fall 2026 Journal of Auto-Academia issue on practical disruption, praxis,\u2026"
                 }
             },
             {
