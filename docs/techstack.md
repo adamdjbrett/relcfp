@@ -1,3 +1,5 @@
+> Historical generated report (2023); see the root README for the current stack.
+
 <!--
 &lt;--- Readme.md Snippet without images Start ---&gt;
 ## Tech Stack

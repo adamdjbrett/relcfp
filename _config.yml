@@ -13,20 +13,16 @@ bksy_url: https://bsky.app/profile/relcfp.com
 
 
 # Build settings
+keep_files: [pagefind]
 markdown: kramdown
-theme: minima
 
 plugins:
   - jekyll-feed
-  - jekyll-include-cache
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-paginate
   - jekyll-redirect-from
 
 permalink: pretty
-paginate: 6
-paginate_path: "/posts/page:num/"
 
 feed:
   path: /posts/feed.atom
@@ -43,7 +39,6 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      paginate: true
   - scope:
       path: ""
     values:
@@ -67,18 +62,11 @@ exclude:
   - vendor/
   - README.md
   - LICENSE
-  - RUNLOG.MD
-  - techstack.md
-  - techstack.yml
-  - get_rss.py
-  - requirements.txt
+  - docs/
+  - scripts/
   - tests/
   - __pycache__/
   - .venv/
   - netlify.toml
   - package.json
   - package-lock.json
-  - pagefind.yml
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/

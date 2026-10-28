@@ -13,10 +13,11 @@ import xmltodict
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 
-XML_FILE = Path("feed.xml")
+XML_FILE = Path("pages/feed/feed.xml")
 JSON_FILE = Path("_data/feed.json")
-OLD_XML_FILE = Path("old_feed.xml")
-RUNLOG_FILE = Path("RUNLOG.MD")
+OLD_XML_FILE = Path("_data/old_feed.xml")
+RUNLOG_FILE = Path("docs/RUNLOG.md")
+FEED_FRONT_MATTER = '---\nlayout: null\npermalink: /feed.xml\nsitemap: false\n---\n'
 PRIMARY_FEED_URL = "https://input-relcfp.netlify.app/feed.xml"
 FALLBACK_FEED_URLS = (
     "https://input.relcfp.com/feed.xml",
@@ -394,7 +395,7 @@ def set_github_outputs(changed: bool, new_entry: dict[str, Any] | None) -> None:
 
 
 def write_feed_files(xml_text: str, feed_data: dict[str, Any]) -> None:
-    XML_FILE.write_text(xml_text, encoding="utf-8")
+    XML_FILE.write_text(FEED_FRONT_MATTER + xml_text, encoding="utf-8")
     JSON_FILE.write_text(json.dumps(feed_data, indent=4), encoding="utf-8")
 
 
@@ -420,7 +421,7 @@ def main() -> None:
     new_entry = None
 
     if had_existing_feed:
-        old_feed_bytes = XML_FILE.read_bytes()
+        old_feed_bytes = XML_FILE.read_bytes().split(b"\n---\n", 1)[-1]
         os.replace(XML_FILE, OLD_XML_FILE)
         run_log.log("Backed up existing feed.xml to old_feed.xml.")
     else:
@@ -459,6 +460,8 @@ def main() -> None:
         run_log.status = "failed"
         run_log.error(f"Feed update failed: {error}")
         restore_previous_feed(had_existing_feed)
+        new_entry = None
+        raise
     finally:
         run_log.content_changed = content_changed
         set_github_outputs(content_changed, new_entry)

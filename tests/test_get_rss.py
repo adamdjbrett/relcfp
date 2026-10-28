@@ -3,18 +3,57 @@ from pathlib import Path
 from tempfile import TemporaryDirectory
 from unittest.mock import patch
 
-from get_rss import (
+from scripts.get_rss import (
     RunLogger,
     convert_xml_to_feed_data,
     entry_link,
     fetch_feed_xml,
     find_new_entry,
     newest_entry,
+    main,
+    FEED_FRONT_MATTER,
     update_null_to_current_date,
 )
 
 
 class GetRssTests(unittest.TestCase):
+    def test_feed_update_preserves_template_metadata_and_detects_unchanged_xml(self) -> None:
+        xml = '<feed><updated>2026-10-28T12:00:00Z</updated><entry><id>https://example.org/1</id><title>A &amp; B</title></entry></feed>'
+        with TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            saved = root / "feed.xml"
+            with patch("scripts.get_rss.XML_FILE", saved), patch(
+                "scripts.get_rss.JSON_FILE", root / "feed.json"
+            ), patch("scripts.get_rss.OLD_XML_FILE", root / "old_feed.xml"), patch(
+                "scripts.get_rss.fetch_feed_xml", return_value=xml
+            ), patch(
+                "scripts.get_rss.RunLogger", side_effect=lambda: RunLogger(root / "RUNLOG.md")
+            ), patch("scripts.get_rss.set_github_outputs") as outputs:
+                main()
+                self.assertEqual(saved.read_text(), FEED_FRONT_MATTER + xml)
+                outputs.assert_called_with(True, None)
+                main()
+                outputs.assert_called_with(False, None)
+            self.assertEqual(saved.read_text(), FEED_FRONT_MATTER + xml)
+            self.assertFalse((root / "old_feed.xml").exists())
+
+    def test_failed_fetch_preserves_feed_and_reports_failure(self) -> None:
+        with TemporaryDirectory() as tmpdir:
+            root = Path(tmpdir)
+            xml = root / "feed.xml"
+            xml.write_text("original feed")
+            with patch("scripts.get_rss.XML_FILE", xml), patch(
+                "scripts.get_rss.OLD_XML_FILE", root / "old_feed.xml"
+            ), patch("scripts.get_rss.fetch_feed_xml", side_effect=RuntimeError("offline")), patch(
+                "scripts.get_rss.RunLogger", return_value=RunLogger(root / "RUNLOG.MD")
+            ), patch("scripts.get_rss.set_github_outputs") as outputs:
+                with self.assertRaisesRegex(RuntimeError, "offline"):
+                    main()
+            self.assertEqual(xml.read_text(), "original feed")
+            self.assertFalse((root / "old_feed.xml").exists())
+            outputs.assert_called_once_with(False, None)
+            self.assertIn("failed", (root / "RUNLOG.MD").read_text())
+
     def test_newest_entry_returns_first_atom_entry(self) -> None:
         entry = {"id": "new", "title": "Newest"}
 
@@ -87,10 +126,10 @@ class GetRssTests(unittest.TestCase):
         xml_text = "<?xml version='1.0'?><feed><updated>2026-04-07T00:00:00Z</updated></feed>"
 
         with patch(
-            "get_rss.fetch_with_requests",
+            "scripts.get_rss.fetch_with_requests",
             side_effect=[(403, "forbidden"), (200, xml_text)],
         ) as mock_requests, patch(
-            "get_rss.fetch_with_curl", return_value=(403, "forbidden")
+            "scripts.get_rss.fetch_with_curl", return_value=(403, "forbidden")
         ) as mock_curl:
             result = fetch_feed_xml(
                 (

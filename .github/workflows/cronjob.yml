@@ -36,18 +36,18 @@ jobs:
         with:
           python-version: "3.11"
           cache: pip
-          cache-dependency-path: requirements.txt
+          cache-dependency-path: scripts/requirements.txt
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r requirements.txt
+          pip install -r scripts/requirements.txt
       # Runs a single command using the runners shell
       - name: Get RSS
         id: check
-        run: python get_rss.py
+        run: python scripts/get_rss.py
       - name: Print Run Log
         if: always() && steps.check.conclusion != ''
-        run: cat RUNLOG.MD
+        run: cat docs/RUNLOG.md
       - name: Print result
         if: steps.check.outputs.content_changed == 'true'
         run: cat _data/feed.json
@@ -70,7 +70,7 @@ jobs:
       - name: Commit and push changes
         if: github.event_name != 'pull_request' && github.actor != 'github-actions[bot]'
         run: |
-          git add feed.xml _data/feed.json RUNLOG.MD
+          git add pages/feed/feed.xml _data/feed.json docs/RUNLOG.md
           if git diff --cached --quiet; then
             echo "No changes to commit."
             exit 0
@@ -81,7 +81,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
       - name: Deploy to Netlify
         uses: lwojcik/github-action-deploy-static-site@v1
-        if: steps.check.outputs.content_changed == 'true'
+        if: github.event_name != 'pull_request' && steps.check.outputs.content_changed == 'true'
         with:
           platform: netlify
           netlify_deploy_hook_url: ${{ secrets.NETLIFY_DEPLOY_HOOK_URL }}

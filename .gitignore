@@ -7,6 +7,7 @@ _site/
 .jekyll-metadata
 .bundle/
 *.gem
-*.rb
 .venv
 node_modules/
+__pycache__/
+*.pyc

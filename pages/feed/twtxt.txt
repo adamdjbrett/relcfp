@@ -1,0 +1,11 @@
+---
+layout: null
+permalink: /twtxt.txt
+sitemap: false
+---
+# nick = relcfp
+# url = {{ '/twtxt.txt' | absolute_url }}
+# description = {{ site.description | normalize_whitespace }}
+{% for post in site.posts reversed -%}
+{{ post.date | date_to_xmlschema }}	{{ post.title | strip_html | normalize_whitespace }} {{ post.url | absolute_url }}
+{% endfor -%}

@@ -15,15 +15,15 @@ section_id: submission
         All submissions are reviewed before posting.</p>
       </div>
         <div class="submission-form">
-          <form name="fileForm" enctype="multipart/form-data" data-netlify="true">
+          <form name="fileForm" method="POST" enctype="multipart/form-data" data-netlify="true">
             <label>
-              <input name="name" placeholder="Name" type="text"/>
+              <input aria-label="Name" name="name" placeholder="Name" type="text"/>
             </label>
             <label>
-              <input name="email" placeholder="Email" type="email"/>
+              <input aria-label="Email" name="email" placeholder="Email" type="email"/>
             </label>
             <label>
-              <label><textarea rows="5" placeholder="Message" name="message"></textarea></label>
+              <textarea aria-label="Message" rows="5" placeholder="Message" name="message"></textarea>
             </label>
             <p>
               <label>
@@ -32,8 +32,6 @@ section_id: submission
               </label>
             </p>
             <button>Submit</button>
-          </form>
-          <p class="results"></p>
           </form>
         </div>
     </div>

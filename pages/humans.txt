@@ -1,39 +1,32 @@
 ---
 layout: null
-permalink: humans.txt
----             
-
+permalink: /humans.txt
+sitemap: false
+---
 /* TEAM */
-
-Religion Call for Papers
-                            
-Site: relcfp.com    
-Twitter: @relcfp
-email: contact@relcfp.com
-                         
-                 
-[...]
-						
-
-							
+Religion Call for Papers (RELCFP)
+Site: https://relcfp.com/
+Contact: contact@relcfp.com
+{% for person in site.data.contributors.humans %}
+Name: {{ person.name }}
+Role: {{ person.role }}
+GitHub: https://github.com/{{ person.login }}
+{% endfor %}
 /* THANKS */
-Github: @https://creativitas.dev/
-Website: htttps://https://creativitas.dev/
-							
-Github: @leno4ka94 
-Website: https://github.com/leno4ka94
+{% for person in site.data.contributors.thanks %}
+{{ person.name }}: {{ person.url }}
+Credit: {{ person.role }}
+{% endfor %}
+Image credit from README: https://pixabay.com/images/id-2846221/
+Contributor artwork: https://contrib.rocks/
 
-Github @imAjeetYadav
-Website: https://github.com/@imAjeetYadav
+/* SOURCES */
+GitHub contributors: https://github.com/adamdjbrett/relcfp/graphs/contributors
+README: https://github.com/adamdjbrett/relcfp/blob/main/README.md
+Checked: {{ site.data.contributors.checked_on }}
+Automation accounts are not listed as human contributors.
 
-
-[...]
-
-                            
 /* SITE */
-    
-Last update: 2022/08/24   
-Standards: HTML5, CSS3, JS
-Components: Modernizr, jQuery, etc.      
-Software: Ruby, Jekyll
-   
+Standards: HTML, CSS, JavaScript, RSS 2.0, JSON Feed 1.1, Atom, twtxt
+Software: Jekyll, Pagefind
+Hosting: Netlify

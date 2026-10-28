@@ -1,6 +1,6 @@
 <h2 style="text-align:center;">Recent Posts</h2>
 <div class="cards__grid recent" >
-    {% for post in site.posts | sort: data | limit: 3 %}
+    {% for post in site.posts limit:3 %}
     <article class="card__item h-entry">
         <div class="meta__info">
             <ul>
@@ -11,7 +11,7 @@
         </div>
         <div class="post__thumb">
             <a class="u-url" href="{{post.url}}">
-                <img class="post__img u-featured" src="https://wsrv.nl/?url={{site.url}}{{post.image}}&w=400&output=webp" alt="{{post.title}}"/>
+                <img decoding="async" width="400" height="250" class="post__img u-featured" src="https://wsrv.nl/?url={{site.url}}{{post.image}}&w=400&output=webp" alt="{{post.title}}"/>
             </a>
         </div>
         <a class="u-url" href="{{post.url}}">

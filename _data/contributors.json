@@ -1,0 +1,37 @@
+{
+  "checked_on": "2026-10-28",
+  "source": "https://api.github.com/repos/adamdjbrett/relcfp/contributors?per_page=100",
+  "humans": [
+    {
+      "login": "adamdjbrett",
+      "name": "Adam DJ Brett",
+      "role": "Maintainer and contributor"
+    },
+    {
+      "login": "imajeetyadav",
+      "name": "Ajeet Yadav",
+      "role": "Contributor"
+    },
+    {
+      "login": "mesinkasir",
+      "name": "Mesin Kasir",
+      "role": "Contributor"
+    },
+    {
+      "login": "Leno4ka94",
+      "name": "Leno4ka",
+      "role": "Theme author and contributor; thanked in README"
+    }
+  ],
+  "automation": [
+    "ImgBotApp",
+    "stacksharebot"
+  ],
+  "thanks": [
+    {
+      "name": "Creativitas",
+      "url": "https://creativitas.dev/",
+      "role": "Existing site acknowledgment"
+    }
+  ]
+}

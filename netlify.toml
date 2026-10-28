@@ -6,3 +6,33 @@
 [build.environment]
   RUBY_VERSION = "3.3.6"
   BUNDLER_VERSION = "2.5.16"
+
+[[redirects]]
+  from = "/posts/page*"
+  to = "/posts/"
+  status = 301
+
+[[redirects]]
+  from = "/tag.html"
+  to = "/tag/"
+  status = 301
+
+[[headers]]
+  for = "/feed.rss"
+  [headers.values]
+    Content-Type = "application/rss+xml; charset=utf-8"
+
+[[headers]]
+  for = "/feed.json"
+  [headers.values]
+    Content-Type = "application/feed+json; charset=utf-8"
+
+[[headers]]
+  for = "/twtxt.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"
+
+[[headers]]
+  for = "/humans.txt"
+  [headers.values]
+    Content-Type = "text/plain; charset=utf-8"

@@ -1,8 +1,6 @@
 ---
 layout: default
 section_id: page
-pagination:
-  enabled: false
 ---
 <div class="container" data-pagefind-body>
     <div class="post__header">
@@ -15,15 +13,7 @@ pagination:
         {%- endif -%}
       </div>
   
-      <div class="post__content">
-        <div class="post__img">
-          {%- if page.image -%}
-          <img src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
-          {%- endif -%}
-        </div>
         {{content}}
-  
-      </div>
   
     </div>
   

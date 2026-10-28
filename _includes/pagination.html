@@ -1,7 +1,4 @@
 <div class="container">
-  {% for post in paginator.posts %}
-          <h2>{{post.title}}</h2>
-      {%- endfor -%}
       <div class="pagination">
           <div class="previous">
               {% if page.previous.url %}

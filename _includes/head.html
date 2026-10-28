@@ -3,15 +3,16 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="fediverse:creator" content="@relcfp@mastodon.social">
-  <link rel="dns-prefetch" href="https://cdnjs.cloudflare.com" />
-  <title>{% if page.title %}{{ page.title | escape }}{% else %}{{ site.title | escape }}{% endif %} | {{ site.title }} </title>
   <link rel="stylesheet" href="/assets/main.css">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>📕</text></svg>">
   <link href="/pagefind/pagefind-ui.css" rel="stylesheet">
   <link href="https://mastodon.social/@relcfp" rel="me">
-  <script type="text/javascript" src="/assets/js/sarissa.js"></script>
   {% seo %}
   {% feed_meta %}
+  <link rel="alternate" type="application/rss+xml" title="RELCFP RSS" href="{{ '/feed.rss' | relative_url }}">
+  <link rel="alternate" type="application/feed+json" title="RELCFP JSON Feed" href="{{ '/feed.json' | relative_url }}">
+  <link rel="alternate" type="text/plain" title="RELCFP twtxt" href="{{ '/twtxt.txt' | relative_url }}">
+  <link rel="author" type="text/plain" href="{{ '/humans.txt' | relative_url }}">
   <script type="application/ld+json">
   {
     "@context": "https://schema.org",
@@ -27,5 +28,4 @@
     "inLanguage": "en-US"
   }
   </script>
-<!--!Font Awesome Free 6.7.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free Copyright 2024 Fonticons, Inc.-->
 </head>

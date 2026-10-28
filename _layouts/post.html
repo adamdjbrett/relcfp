@@ -1,8 +1,6 @@
 ---
 layout: default
 section_id: posts
-pagination:
-  enabled: true
 ---
 {%- assign author = site.data.authors[page.author] -%}
 <article class="container h-entry" data-pagefind-body>
@@ -25,7 +23,7 @@ pagination:
     <div class="post__content">
         <div class="post__img">
             {%- if page.image -%}
-                <img class="u-featured" src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
+                <img decoding="async" class="u-featured" src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
             {%- endif -%}
         </div>
         <div class="e-content">
@@ -35,7 +33,7 @@ pagination:
             <h3>Tags:</h3>
             <div class="tags">
                 {%- for tag in page.tags -%}
-                <a class="p-category" href="{{site.baseurl}}/tag.html#{{tag}}">&nbsp;#{{tag}}</a>
+                <a class="p-category" href="{{site.baseurl}}/tag/#{{tag | cgi_escape}}">&nbsp;#{{tag}}</a>
                 {%- endfor -%}
             </div>
         </div>
@@ -46,7 +44,7 @@ pagination:
     <div class="author__details h-card">
         {% if author.author_img %}
         <div class="author__avatar">
-            <img class="u-photo" src="{{author.author_img}}" alt="{{author.name}}">
+            <img loading="lazy" decoding="async" class="u-photo" src="{{author.author_img}}" alt="{{author.name}}">
         </div>
         {% endif %} 
         <div class="author__description">
@@ -62,19 +60,19 @@ pagination:
             {% endif %} 
             <div class="author__links">
                 {% if author.website %}
-                    <a class="u-url" href="{{author.website}}"><i class="fas fa-globe-americas"></i></a>
+                    <a class="u-url" href="{{author.website}}">Website</a>
                 {% endif %} 
                 {% if author.twitter %}
-                    <a class="u-url" href="{{author.twitter}}"><i class="fab fa-fw fa-twitter-square"></i></a>
+                    <a class="u-url" href="{{author.twitter}}">Twitter</a>
                 {% endif %} 
                 {% if author.instagram %}
-                    <a class="u-url" href="{{author.instagram}}"><i class="fab fa-fw fa-instagram"></i></a>
+                    <a class="u-url" href="{{author.instagram}}">Instagram</a>
                 {% endif %} 
                 {% if author.github %}
-                    <a class="u-url" href="{{author.github}}"><i class="fab fa-fw fa-github-square"></i></a>
+                    <a class="u-url" href="{{author.github}}">GitHub</a>
                 {% endif %} 
                 {% if author.linkedin %}
-                    <a class="u-url" href="{{author.linkedin}}"><i class="fab fa-fw fa-linkedin"></i></a>
+                    <a class="u-url" href="{{author.linkedin}}">LinkedIn</a>
                 {% endif %} 
             </div>
         </div>

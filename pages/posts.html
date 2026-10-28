@@ -19,7 +19,7 @@ permalink: "/posts/"
             <div class="post__thumb">
 
                 <a class="u-url" href="{{post.url}}">
-                    <img class="post__img u-featured" src="https://wsrv.nl/?url={{site.url}}{{post.image}}&w=400&output=webp" alt="{{post.title}}"/>
+                    <img loading="lazy" decoding="async" width="400" height="250" class="post__img u-featured" src="https://wsrv.nl/?url={{site.url}}{{post.image}}&w=400&output=webp" alt="{{post.title}}"/>
                 </a>
             </div>
             <h3 class="p-name">{{post.title}}</h3>
@@ -27,7 +27,7 @@ permalink: "/posts/"
             
             <div class="post__tag">
                 {%- for tag in post.tags -%}
-                <a class="p-category" href="{{site.baseurl}}/tag.html#{{tag}}">&nbsp;#{{tag}}</a>
+                <a class="p-category" href="{{site.baseurl}}/tag/#{{tag | cgi_escape}}">&nbsp;#{{tag}}</a>
                 {%- endfor -%}
             </div>
             
@@ -37,23 +37,6 @@ permalink: "/posts/"
         </article>
         {% endfor %}
     </div>
-    <div id="loadMore">
-        Load More
-    </div>
+    <button id="loadMore" type="button" hidden>Load More</button>
 </div>
-<script>
-let loadMoreBtn = document.querySelector('#loadMore');
-let currentItem = 6;
-
-loadMoreBtn.onclick = () =>{
-   let boxes = [...document.querySelectorAll('.cards__grid .card__item')];
-   for (var i = currentItem; i < currentItem + 3; i++){
-      boxes[i].style.display = 'inline-block';
-   }
-   currentItem += 3;
-   if(currentItem >= boxes.length){
-      loadMoreBtn.style.display = 'none';
-   }
-
-}
-</script>
+<script src="/assets/js/posts.js" defer></script>
