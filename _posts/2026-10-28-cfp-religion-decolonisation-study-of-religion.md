@@ -1,5 +1,6 @@
 ---
 title: "#CFP: Decolonisation and the Study of Religion — Religion Special Issue"
+image: /assets/images/relcfp-cover.webp
 description: "Religion invites articles on decolonisation and the study of religion, examining theory, methods and empirical cases. Abstracts due on January 1, 2027"
 date: 2026-10-28
 tags:
@@ -52,3 +53,6 @@ Send **abstracts of 250 words** to the guest editors by **January 1, 2027**.
 
 - **Jørn Borup:** [jb@cas.au.dk](mailto:jb@cas.au.dk)
 - **Aaron W Hughes:** [aaron.hughes@rochester.edu](mailto:aaron.hughes@rochester.edu)
+ 
+ ## Nota Bene
+ *Religion* and *Religions* are two entirely separate journals.
