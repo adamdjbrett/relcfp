@@ -99,3 +99,99 @@ Not checked: Production deploy, Netlify form delivery and redirects, external fe
 
 The subsequent [CSS and responsive pass](responsive-checks.md) records the current
 stylesheet size and mobile/laptop/wide-screen verification.
+
+## Lighthouse fixes — October 29, 2026
+
+The supplied desktop report for https://relcfp.com/ (Lighthouse run at
+2026-10-29T14:28:54Z) scored performance 99, accessibility 98, best practices 100,
+and SEO 100. It reported LCP 0.9 seconds.
+
+- Added one main landmark around page content in the shared layout, covering
+  the homepage, archive, posts, and information pages.
+- Added `fetchpriority="high"` to the three homepage recent-post images. The
+  middle image was the reported desktop LCP; all three can be visible together.
+  Archive thumbnails remain lazy-loaded.
+- Recompressed `assets/images/bg.webp` with `cwebp -q 75`, preserving its URL and
+  1060 × 722 dimensions: 156,916 to 37,532 bytes (76% smaller).
+- Extended the built-site checks for main landmarks, eager priority images,
+  and the background size budget.
+
+Jekyll built with the project's Ruby 3.3.6; Pagefind indexed 216 pages. All eight
+Node tests and the built-site checks passed. A local desktop Lighthouse audit
+scored accessibility, best practices, and SEO 100 with no failing audits. This
+audit tool does not score performance. A local cold-load trace confirmed CLS 0
+and no LCP discovery warning; local timings are not comparable to production.
+The rendered desktop page and 390px mobile layout were checked for overflow.
+
+The reported unminified/unused JavaScript belongs entirely to browser extensions.
+The cache warnings refer to Cloudflare's injected analytics and email-protection
+scripts, whose headers are outside this repository. Stylesheet changes were
+skipped because Lighthouse estimated zero FCP/LCP savings. No new dependency or
+Cloudflare setting was introduced. Changes are local and need a deployed audit.
+
+Implementation guidance: [Chrome LCP request discovery](https://developer.chrome.com/docs/performance/insights/lcp-discovery)
+and [image delivery](https://developer.chrome.com/docs/performance/insights/image-delivery).
+
+Follow-up: the shared head preconnects to `static.cloudflareinsights.com`.
+The email-decoder prefetch was subsequently removed at the user's request:
+the homepage needs no speculative email-decoder download. Cloudflare manages
+decoder injection for protected email addresses; the templates add no decoder
+script or prefetch in either the head or footer. The decoder uses the existing
+same-origin connection, so it needs no preconnect. Resource hints do not change
+Cloudflare cache lifetimes.
+
+## Keyboard accessibility — October 29, 2026
+
+- The first tab stop is now a high-contrast “Skip to content” link. It appears
+  on focus and moves focus to `main#main-content` on Enter, without JavaScript.
+  The next Tab reaches the first content link. The target uses `tabindex="-1"`
+  so it does not add an extra stop to ordinary tab navigation.
+- Main navigation has an accessible name and marks the active link with
+  `aria-current="page"`. Native links and buttons retain normal tab order and
+  visible focus indicators; no positive tabindex values were added.
+- Load More focuses the first newly revealed post link, including the final
+  partial batch, so users can continue through new content instead of skipping
+  to the footer. The eight archive tests now check this focus handoff.
+- Submission fields have persistent visible labels; name and email expose
+  standard autocomplete purposes.
+
+Browser checks verified the skip link's first Tab, visibility, Enter activation,
+and next Tab; archive Enter activation (six to nine posts, focus on post seven);
+forward/reverse tabbing through form fields; and tabbing to search results and
+keyboard activation of Clear. Built-site checks verify skip links, unique main
+targets, and no positive tabindex on every page using the shared layout.
+The build, Pagefind index, eight Node tests, and built-site checks pass.
+
+Local Lighthouse accessibility is 100 for the desktop homepage and mobile
+submission page. Both audits logged the expected local 404 for the previously
+requested Cloudflare decoder prefetch: `/cdn-cgi/` is served by Cloudflare in
+production, not the local preview. These results do not certify full WCAG 2.2 AA
+conformance across all historical post content, assistive technologies, or
+browsers. No screen-reader session or production deployment was performed.
+
+The skip link follows [W3C technique G1](https://www.w3.org/WAI/WCAG22/Techniques/general/G1);
+focus behavior follows [WCAG focus-order guidance](https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html).
+
+## Local render-blocking requests — October 29, 2026
+
+At the user's request, the shared head now inlines the small site stylesheet
+and asynchronously preloads Pagefind CSS, with a noscript stylesheet fallback.
+`_includes/main.css` is the single editable source; `/assets/main.css` remains
+available from that source for existing links. Inlining adds about 8 KB to each
+HTML document in exchange for eliminating the separate blocking CSS request.
+
+`pages/devtools.json` publishes `{}` at
+`/.well-known/appspecific/com.chrome.devtools.json`, excluded from the sitemap.
+This answers Chrome's workspace probe without exposing a local path or enabling
+automatic workspace mapping.
+
+Verified against the running Jekyll server at http://localhost:4000/: the probe
+returns HTTP 200 and valid JSON; main CSS makes no network request; Pagefind CSS
+applies successfully; search renders; and there is no horizontal overflow.
+A cold-load trace reports CLS 0 and no RenderBlocking or NetworkDependencyTree
+insights. Local desktop Lighthouse scores accessibility, best practices, and SEO
+100, with zero failed audits. The build, Pagefind index, eight Node tests, and
+built-site assertions pass. Production performance has not been remeasured.
+
+References: [asynchronous CSS loading](https://web.dev/articles/defer-non-critical-css)
+and [Chrome automatic workspaces](https://developer.chrome.com/docs/devtools/automatic-workspaces).

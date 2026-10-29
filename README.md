@@ -29,7 +29,9 @@ npm run dev
 
 `npm run build` generates `_site/` and then the Pagefind search index. After a new
 checkout, build once before starting the development server so search assets exist.
-Edit `assets/main.css` directly; there is no Sass compilation step for site styles.
+Edit `_includes/main.css`; the shared head inlines it to avoid a render-blocking
+request. `assets/main.css` publishes the same source for existing external links.
+There is no Sass compilation step for site styles.
 Jekyll 3 still installs its own Sass converter as a transitive dependency.
 
 ## Repository layout

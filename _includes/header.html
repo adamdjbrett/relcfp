@@ -29,7 +29,7 @@
         </div>
 
         <div class="header__navigation">
-            <nav id="nav" >
+            <nav id="nav" aria-label="Main navigation">
                 <div class="navbar" id="myNavbar">
                   {% for item in site.data.navigation %}
                   {% if item.section_id == page.section_id %}
@@ -37,7 +37,7 @@
                   {% else %}
                   {% assign active_class = "" %}
                   {% endif %}
-                  <a href="{{item.path}}" class="nav_link {{active_class}}">{{item.name}}</a>
+                  <a href="{{item.path}}" class="nav_link {{active_class}}"{% if item.section_id == page.section_id %} aria-current="page"{% endif %}>{{item.name}}</a>
                   {% endfor %}
                 </div>
             </nav>

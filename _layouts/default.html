@@ -2,8 +2,11 @@
 <html lang="en-US">
 {% include head.html %}
 <body>
+    <a class="skip-link" href="#main-content">Skip to content</a>
     {% include header.html %}
-    {{content}}
+    <main id="main-content" tabindex="-1">
+      {{content}}
+    </main>
     {% include footer.html %}
   <script src="/pagefind/pagefind-ui.js" defer onload="new PagefindUI({ element: '#search' });"></script>
 </body>

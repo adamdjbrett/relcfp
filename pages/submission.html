@@ -17,13 +17,16 @@ section_id: submission
         <div class="submission-form">
           <form name="fileForm" method="POST" enctype="multipart/form-data" data-netlify="true">
             <label>
-              <input aria-label="Name" name="name" placeholder="Name" type="text"/>
+              <span>Name</span>
+              <input autocomplete="name" name="name" placeholder="Name" type="text"/>
             </label>
             <label>
-              <input aria-label="Email" name="email" placeholder="Email" type="email"/>
+              <span>Email</span>
+              <input autocomplete="email" name="email" placeholder="Email" type="email"/>
             </label>
             <label>
-              <textarea aria-label="Message" rows="5" placeholder="Message" name="message"></textarea>
+              <span>Message</span>
+              <textarea rows="5" placeholder="Message" name="message"></textarea>
             </label>
             <p>
               <label>
