@@ -81,6 +81,11 @@ The imported feed remains at `/feed.xml`, its stylesheet at `/feed.xsl`, and the
 existing curated Atom feed at `/posts/feed.atom`. Feed templates have no HTML layout
 and are excluded from the sitemap. Netlify sets the feed content types.
 
+[Firehose Atom](https://relcfp.com/firehose.xml) combines both Atom feeds on every
+Jekyll build, newest updates first. Entries linking to the same URL are included
+once, preferring the curated post's full content. Its template lives in
+`pages/feed/firehose.xml`; `_plugins/firehose.rb` merges the rendered source feeds.
+
 [humans.txt](https://relcfp.com/humans.txt) credits all human GitHub contributors
 checked on October 28, 2026, the theme author thanked in this README, and the
 existing Creativitas acknowledgment. `_data/contributors.json` records the source

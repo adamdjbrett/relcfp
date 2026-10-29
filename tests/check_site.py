@@ -29,7 +29,7 @@ assert len(recent_images) == 3
 assert all(a.get('fetchpriority') == 'high' and a.get('loading') != 'lazy' for a in recent_images)
 assert (site / 'assets/images/bg.webp').stat().st_size < 50_000
 for path in ['posts/index.html', 'about/index.html', 'submission/index.html', 'tag/index.html',
-             'feed.xml', 'feed.xsl', 'feed.rss', 'feed.json', 'twtxt.txt', 'humans.txt', 'posts/feed.atom', 'sitemap.xml', '404.html', 'assets/main.css',
+             'feed.xml', 'firehose.xml', 'feed.xsl', 'feed.rss', 'feed.json', 'twtxt.txt', 'humans.txt', 'posts/feed.atom', 'sitemap.xml', '404.html', 'assets/main.css',
              'assets/js/posts.js', 'pagefind/pagefind-ui.js', 'pagefind/pagefind-ui.css']:
     assert (site / path).is_file(), path
 for path in ['docs', 'scripts', 'tests', 'vendor', 'node_modules', 'assets/main.scss']:
@@ -100,6 +100,36 @@ for line, item in zip(lines, reversed(items)):
     assert datetime.fromisoformat(timestamp).isoformat() == datetime.fromisoformat(item['date_published']).isoformat()
     assert text.endswith(' ' + item['url'])
 assert ET.parse(site / 'feed.xml').getroot().tag == '{http://www.w3.org/2005/Atom}feed'
+atom = {'a': 'http://www.w3.org/2005/Atom'}
+firehose = ET.parse(site / 'firehose.xml').getroot()
+assert firehose.tag == '{http://www.w3.org/2005/Atom}feed'
+assert firehose.findtext('a:id', namespaces=atom) == 'https://relcfp.com/firehose.xml'
+assert firehose.find('a:link[@rel="self"]', atom).attrib['href'] == 'https://relcfp.com/firehose.xml'
+assert datetime.fromisoformat(firehose.findtext('a:updated', namespaces=atom)).tzinfo
+
+
+def entry_url(entry):
+    link = next((link for link in entry.findall('a:link', atom)
+                 if link.get('rel') in (None, 'alternate')), None)
+    return (link.attrib['href'] if link is not None else entry.findtext('a:id', namespaces=atom)).rstrip('/')
+
+
+expected_entries = {}
+for path in ['posts/feed.atom', 'feed.xml']:
+    for entry in ET.parse(site / path).getroot().findall('a:entry', atom):
+        expected_entries.setdefault(entry_url(entry), entry)
+combined_entries = firehose.findall('a:entry', atom)
+assert len(combined_entries) == len(expected_entries)
+assert {entry_url(entry) for entry in combined_entries} == expected_entries.keys()
+updated = [datetime.fromisoformat(entry.findtext('a:updated', namespaces=atom)) for entry in combined_entries]
+assert updated == sorted(updated, reverse=True)
+for entry in combined_entries:
+    expected = expected_entries[entry_url(entry)]
+    for field in ['id', 'title', 'content']:
+        assert entry.findtext('a:' + field, namespaces=atom) == expected.findtext('a:' + field, namespaces=atom)
+    assert entry.find('a:author/a:name', atom) is not None
+assert any(tag == 'a' and attrs.get('href') == '/firehose.xml' for tag, attrs in home.elements)
+assert 'https://relcfp.com/firehose.xml' not in (site / 'sitemap.xml').read_text()
 assert ET.parse(site / 'feed.xsl').getroot().tag == '{http://www.w3.org/1999/XSL/Transform}stylesheet'
 contributors = json.loads(Path('_data/contributors.json').read_text())
 humans = (site / 'humans.txt').read_text()

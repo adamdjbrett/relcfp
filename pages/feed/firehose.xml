@@ -1,0 +1,14 @@
+---
+layout: null
+permalink: /firehose.xml
+sitemap: false
+---
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>{{ site.title | xml_escape }} — Firehose</title>
+  <id>{{ '/firehose.xml' | absolute_url | xml_escape }}</id>
+  <link href="{{ '/firehose.xml' | absolute_url | xml_escape }}" rel="self" type="application/atom+xml"/>
+  <link href="{{ '/' | absolute_url | xml_escape }}" rel="alternate"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <author><name>RELCFP</name></author>
+</feed>
