@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-28T00:00:00.000Z",
+        "updated": "2026-10-29T02:45:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-29T02:45:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
+                "content": {
+                    "@type": "html",
+                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
+                }
+            },
             {
                 "title": "#CFP: Decolonisation and the Study of Religion \u2014 Religion Special Issue",
                 "link": {
@@ -385,22 +401,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Er(r)go Theory-Literature-Culturecontact\u2026"
-                }
-            },
-            {
-                "title": "CFP: The Post-apocalypse in Cinema and Television (edited book) - extended deadline",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109576"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-24T08:17:59.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109576",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Dr Christina Lee (Curtin University)contact\u2026"
                 }
             },
             {
