@@ -12,7 +12,7 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-29T02:45:00.000Z",
+        "updated": "2026-10-31T02:30:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
@@ -28,11 +28,27 @@
                     "name": "UPenn - cultural studies and historical approaches",
                     "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
                 },
-                "updated": "2026-10-29T02:45:00.000Z",
+                "updated": "2026-10-31T02:30:00.000Z",
                 "id": "https://call-for-papers.sas.upenn.edu/node/106208",
                 "content": {
                     "@type": "html",
                     "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
+                }
+            },
+            {
+                "title": "\u201cAcross Time and Space\u201d - Stony Brook University English/WGSS CFP, New York Graduate Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109238"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-30T15:30:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109238",
+                "content": {
+                    "@type": "html",
+                    "#text": "Stony Brook University\u2019s English Graduate Department, in collaboration with the Women\u2019s, Gender, &\u2026"
                 }
             },
             {
@@ -369,22 +385,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Australasian Journal of Popular Culturecontact\u2026"
-                }
-            },
-            {
-                "title": "Margaret Fuller Society 2027 ALA CFPs",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109589"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-24T19:56:09.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109589",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Margaret Fuller Society / American Literature Associationcontact\u2026"
                 }
             },
             {
