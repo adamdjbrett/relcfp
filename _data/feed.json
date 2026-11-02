@@ -12,13 +12,61 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-10-28T00:00:00.000Z",
+        "updated": "2026-11-02T00:19:14.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Call for Papers: X-Men and Theology",
+                "link": {
+                    "@href": "https://popularcultureandtheology.com/2026/11/01/call-for-papers-x-men-and-theology/"
+                },
+                "author": {
+                    "name": "Pop Culture and Theology",
+                    "uri": "https://popularcultureandtheology.com/"
+                },
+                "updated": "2026-11-02T00:19:14.000Z",
+                "id": "https://popularcultureandtheology.com/2026/11/01/call-for-papers-x-men-and-theology/",
+                "content": {
+                    "@type": "html",
+                    "#text": "X-Men and Theology Matthew Le Brasseur and Angelo J. Letizia We invite contributions to an edited\u2026"
+                }
+            },
+            {
+                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-31T02:30:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
+                "content": {
+                    "@type": "html",
+                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
+                }
+            },
+            {
+                "title": "\u201cAcross Time and Space\u201d - Stony Brook University English/WGSS CFP, New York Graduate Conference",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109238"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-10-30T15:30:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109238",
+                "content": {
+                    "@type": "html",
+                    "#text": "Stony Brook University\u2019s English Graduate Department, in collaboration with the Women\u2019s, Gender, &\u2026"
+                }
+            },
             {
                 "title": "#CFP: Decolonisation and the Study of Religion \u2014 Religion Special Issue",
                 "link": {
@@ -356,22 +404,6 @@
                 }
             },
             {
-                "title": "Margaret Fuller Society 2027 ALA CFPs",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109589"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-24T19:56:09.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109589",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Margaret Fuller Society / American Literature Associationcontact\u2026"
-                }
-            },
-            {
                 "title": "Plastic/plasticity/plasticness Er(r)go 56 (1/2028)",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/109580"
@@ -385,22 +417,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Er(r)go Theory-Literature-Culturecontact\u2026"
-                }
-            },
-            {
-                "title": "CFP: The Post-apocalypse in Cinema and Television (edited book) - extended deadline",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109576"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-24T08:17:59.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109576",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Dr Christina Lee (Curtin University)contact\u2026"
                 }
             },
             {
@@ -1073,22 +1089,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "By Justin Martin I was raised to believe in grace. That we can be touched by the divine and\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Religion, X-Men, and Krakoa",
-                "link": {
-                    "@href": "https://popularcultureandtheology.com/2026/01/31/call-for-papers-religion-x-men-and-krakoa/"
-                },
-                "author": {
-                    "name": "Pop Culture and Theology",
-                    "uri": "https://popularcultureandtheology.com/"
-                },
-                "updated": "2026-02-01T03:09:37.000Z",
-                "id": "https://popularcultureandtheology.com/2026/01/31/call-for-papers-religion-x-men-and-krakoa/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for Papers: Edited Volume on Religion and the X-Men\u2019s Krakoan Age Editors: Gregory Jones and\u2026"
                 }
             },
             {
