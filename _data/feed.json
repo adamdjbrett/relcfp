@@ -12,13 +12,77 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-11-02T00:19:14.000Z",
+        "updated": "2026-11-03T20:44:49.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "EHS Post-Graduate Online Symposium Call for Papers New Directions in Church History: How to Think about Conversion?",
+                "link": {
+                    "@href": "https://www.churchhistory.org/ehs-post-graduate-online-symposium-call-for-papers-new-directions-in-church-history-how-to-think-about-conversion"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2026-11-03T20:44:49.000Z",
+                "id": "https://www.churchhistory.org/ehs-post-graduate-online-symposium-call-for-papers-new-directions-in-church-history-how-to-think-about-conversion",
+                "content": {
+                    "@type": "html",
+                    "#text": "Date: 9 April 2027 Location: Online only \u2026"
+                }
+            },
+            {
+                "title": "Winter Seminar The Archives of the Holy See and the Roman Catholicism: instructions for use and new research perspectives",
+                "link": {
+                    "@href": "https://www.churchhistory.org/winter-seminar-the-archives-of-the-holy-see-and-the-roman-catholicism-instructions-for-use-and-new-research-perspectives"
+                },
+                "author": {
+                    "name": "Church History",
+                    "uri": "https://churchhistory.org/"
+                },
+                "updated": "2026-11-03T20:42:58.000Z",
+                "id": "https://www.churchhistory.org/winter-seminar-the-archives-of-the-holy-see-and-the-roman-catholicism-instructions-for-use-and-new-research-perspectives",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Sangalli Institute for the religious history and cultures of Florence is pleased to announce its\u2026"
+                }
+            },
+            {
+                "title": "EXTENDED DEADLINE: \"War & Culture\" at SWPACA, Albuquerque, Feb. 17-20, 2027",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107610"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-03T19:30:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107610",
+                "content": {
+                    "@type": "html",
+                    "#text": "DEADLINE EXTENDED! Call for Papers \u201cWar & Culture\u201d Southwest Popular / American Culture Association\u2026"
+                }
+            },
+            {
+                "title": "EXTENDED DEADLINE: \"Horror\" at SWPACA, Albuquerque, Feb. 17-20, 2027",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/107608"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-03T19:30:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/107608",
+                "content": {
+                    "@type": "html",
+                    "#text": "DEADLINE EXTENDED! Call for Papers \u201cHorror (Literary & Cinematic)\u201d Southwest Popular / American\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: X-Men and Theology",
                 "link": {
@@ -356,22 +420,6 @@
                 }
             },
             {
-                "title": "2027 Herman C. Hudson Symposium",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109628"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-25T19:50:03.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109628",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Sunday, October 25, 2026 - 3:45pmfull name / name of organization: Indiana University\u2026"
-                }
-            },
-            {
                 "title": "Beethoven 1827\u20132027. Soundscapes of a Cultural Icon Beethoven in Literature, Theatre, Comics and the Contemporary Sonic Imagination,",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/109622"
@@ -385,22 +433,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Suoni. Journal on Soundscapes and Musico-Literary Studiescontact\u2026"
-                }
-            },
-            {
-                "title": "Beyond Climate Crisis: Multidisciplinary Perspectives on Human-Environment Relationships in a Warming World",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109601"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-25T09:01:37.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109601",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Loreto College (Autonomous), Kolkatacontact\u2026"
                 }
             },
             {
@@ -1121,38 +1153,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "The onset of the pandemic generated a powerful, universal newfound currency for mobility. Around the\u2026"
-                }
-            },
-            {
-                "title": "Call for Participation: Help ACLS Understand Public Scholarship on Religion",
-                "link": {
-                    "@href": "https://www.churchhistory.org/call-for-participation-help-acls-understand-public-scholarship-on-religion"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2025-11-17T18:08:00.000Z",
-                "id": "https://www.churchhistory.org/call-for-participation-help-acls-understand-public-scholarship-on-religion",
-                "content": {
-                    "@type": "html",
-                    "#text": "The Publicly Engaged Religion Mapping Project invites scholars, practitioners, and community\u2026"
-                }
-            },
-            {
-                "title": "Sweeney, noted scholar of Great Awakening and American Evangelicalism, in Arlington Nov. 17-18",
-                "link": {
-                    "@href": "https://www.churchhistory.org/sweeney-noted-scholar-of-great-awakening-and-american-evangelicalism-in-arlington-nov-17-18"
-                },
-                "author": {
-                    "name": "Church History",
-                    "uri": "https://churchhistory.org/"
-                },
-                "updated": "2025-11-03T17:16:00.000Z",
-                "id": "https://www.churchhistory.org/sweeney-noted-scholar-of-great-awakening-and-american-evangelicalism-in-arlington-nov-17-18",
-                "content": {
-                    "@type": "html",
-                    "#text": "Douglas Sweeney, dean of Beeson Divinity School of Samford University and author of The American\u2026"
                 }
             },
             {
