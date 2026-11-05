@@ -29,10 +29,10 @@ assert len(recent_images) == 3
 assert all(a.get('fetchpriority') == 'high' and a.get('loading') != 'lazy' for a in recent_images)
 assert (site / 'assets/images/bg.webp').stat().st_size < 50_000
 for path in ['posts/index.html', 'about/index.html', 'submission/index.html', 'tag/index.html',
-             'feed.xml', 'firehose.xml', 'feed.xsl', 'feed.rss', 'feed.json', 'twtxt.txt', 'humans.txt', 'posts/feed.atom', 'sitemap.xml', '404.html', 'assets/main.css',
+             'feed.xml', 'firehose.xml', 'feed.rss', 'feed.json', 'twtxt.txt', 'humans.txt', 'posts/feed.atom', 'sitemap.xml', '404.html', 'assets/main.css',
              'assets/js/posts.js', 'pagefind/pagefind-ui.js', 'pagefind/pagefind-ui.css']:
     assert (site / path).is_file(), path
-for path in ['docs', 'scripts', 'tests', 'vendor', 'node_modules', 'assets/main.scss']:
+for path in ['docs', 'scripts', 'tests', 'vendor', 'node_modules', 'assets/main.scss', 'feed.xsl']:
     assert not (site / path).exists(), path
 assert not list((site / 'posts').glob('page*/index.html'))
 for tag, attrs in home.elements:
@@ -119,6 +119,8 @@ for path in ['posts/feed.atom', 'feed.xml']:
     for entry in ET.parse(site / path).getroot().findall('a:entry', atom):
         expected_entries.setdefault(entry_url(entry), entry)
 combined_entries = firehose.findall('a:entry', atom)
+ids = [entry.findtext('a:id', namespaces=atom) for entry in combined_entries]
+assert all(ids) and len(ids) == len(set(ids)), 'Firehose entry IDs must be present and unique'
 assert len(combined_entries) == len(expected_entries)
 assert {entry_url(entry) for entry in combined_entries} == expected_entries.keys()
 updated = [datetime.fromisoformat(entry.findtext('a:updated', namespaces=atom)) for entry in combined_entries]
@@ -127,10 +129,18 @@ for entry in combined_entries:
     expected = expected_entries[entry_url(entry)]
     for field in ['id', 'title', 'content']:
         assert entry.findtext('a:' + field, namespaces=atom) == expected.findtext('a:' + field, namespaces=atom)
-    assert entry.find('a:author/a:name', atom) is not None
+    authors = entry.findall('a:author', atom)
+    assert authors and all((author.findtext('a:name', default='', namespaces=atom)).strip()
+                           for author in authors), entry_url(entry)
+    for field in ['content', 'summary']:
+        content = entry.find('a:' + field, atom)
+        if content is not None and content.get('type') == 'html':
+            assert not re.search(r'&(?!#\d+;|#x[0-9A-Fa-f]+;|[A-Za-z][A-Za-z0-9]+;)',
+                                 content.text or ''), entry_url(entry)
 assert any(tag == 'a' and attrs.get('href') == '/firehose.xml' for tag, attrs in home.elements)
 assert 'https://relcfp.com/firehose.xml' not in (site / 'sitemap.xml').read_text()
-assert ET.parse(site / 'feed.xsl').getroot().tag == '{http://www.w3.org/1999/XSL/Transform}stylesheet'
+for path in ['feed.xml', 'firehose.xml']:
+    assert '<?xml-stylesheet' not in (site / path).read_text(), path
 contributors = json.loads(Path('_data/contributors.json').read_text())
 humans = (site / 'humans.txt').read_text()
 for person in contributors['humans']:

@@ -5,8 +5,10 @@ import json
 import os
 import re
 import subprocess
+import xml.etree.ElementTree as ET
 from pathlib import Path
 from typing import Any
+from xml.sax.saxutils import escape
 
 import requests
 import xmltodict
@@ -38,6 +40,12 @@ HTML_ENTITY_RE = re.compile(r"&([A-Za-z][A-Za-z0-9]+);")
 UNESCAPED_AMP_RE = re.compile(
     r"&(?!#\d+;|#x[0-9A-Fa-f]+;|(?:amp|lt|gt|apos|quot);)"
 )
+HTML_CONTENT_RE = re.compile(
+    r"(?P<open><(?P<tag>content|summary)\b[^>]*\btype=[\"']html[\"'][^>]*>)"
+    r".*?(?P<close></(?P=tag)>)",
+    re.DOTALL,
+)
+UNESCAPED_HTML_AMP_RE = re.compile(r"&(?!#\d+;|#x[0-9A-Fa-f]+;|[A-Za-z][A-Za-z0-9]+;)")
 VOID_ELEMENT_RE = re.compile(
     r"<(?P<tag>area|base|br|col|embed|hr|img|input|link|meta|param|source|track|wbr)"
     r"(?P<attrs>(?:\s[^<>]*?)?)>",
@@ -153,12 +161,22 @@ def self_close_void_element(match: re.Match[str]) -> str:
     return f"<{match.group('tag')}{attrs}/>"
 
 
+def escape_html_content(match: re.Match[str]) -> str:
+    content = ET.fromstring(match.group(0)).text or ""
+    repaired = UNESCAPED_HTML_AMP_RE.sub("&amp;", content)
+    if repaired == content:
+        return match.group(0)
+    # HTML entities must survive the outer XML decoding step.
+    return match.group("open") + escape(repaired) + match.group("close")
+
+
 def normalize_xml_text(xml_text: str) -> str:
     normalized_text = xml_text.lstrip("\ufeff").replace("\r\n", "\n").replace("\r", "\n")
     normalized_text = INVALID_XML_CHARS_RE.sub("", normalized_text)
     normalized_text = HTML_ENTITY_RE.sub(replace_html_entity, normalized_text)
     normalized_text = UNESCAPED_AMP_RE.sub("&amp;", normalized_text)
     normalized_text = VOID_ELEMENT_RE.sub(self_close_void_element, normalized_text)
+    normalized_text = HTML_CONTENT_RE.sub(escape_html_content, normalized_text)
     return normalized_text
 
 

@@ -3,7 +3,9 @@
   <article class="feed-card">
     <h3><a href="{{ entry.id | escape }}">{{ entry.title | escape }}</a></h3>
     <p>URL: <a href="{{ entry.id | escape }}">{{ entry.id | escape }}</a></p>
-    <p>{{ entry.content['#text'] | strip_html | escape }}</p>
+    {% assign preview = entry.content['#text'] | strip_html %}
+    {% if entry.content['@type'] == 'html' %}{% assign preview = preview | replace: '&amp;', '&' %}{% endif %}
+    <p>{{ preview | escape }}</p>
     <p>Author: <a href="{{ entry.author.uri | escape }}">{{ entry.author.name | escape }}</a></p>
   </article>
   {% endfor %}

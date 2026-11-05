@@ -9,8 +9,17 @@ Jekyll::Hooks.register :site, :post_render do |site|
     page = site.pages.find { |candidate| candidate.url == url }
     feed = REXML::Document.new(page.output).root
     feed.get_elements("entry").each do |entry|
-      if !entry.elements["author"] && feed.elements["author"]
-        entry.add_element(feed.elements["author"].deep_clone)
+      authors = entry.get_elements("author")
+      authors.each do |author|
+        entry.delete_element(author) if author.elements["name"]&.text.to_s.strip.empty?
+      end
+      if entry.get_elements("author").empty?
+        fallback = feed.get_elements("author").find { |author| !author.elements["name"]&.text.to_s.strip.empty? }
+        if fallback
+          entry.add_element(fallback.deep_clone)
+        else
+          entry.add_element("author").add_element("name").text = site.config.dig("author", "name")
+        end
       end
     end
   end

@@ -50,6 +50,7 @@ Jekyll 3 still installs its own Sass converter as a transitive dependency.
 python3 -m venv .venv
 .venv/bin/python -m pip install -r scripts/requirements.txt
 .venv/bin/python -m unittest discover -s tests -v
+bundle exec ruby tests/test_firehose.rb
 npm test
 npm run build
 python3 tests/check_site.py
@@ -77,8 +78,9 @@ The production build publishes every curated post in three formats:
 - [JSON Feed 1.1](https://relcfp.com/feed.json)
 - [twtxt](https://relcfp.com/twtxt.txt), with the oldest posts first
 
-The imported feed remains at `/feed.xml`, its stylesheet at `/feed.xsl`, and the
-existing curated Atom feed at `/posts/feed.atom`. Feed templates have no HTML layout
+The imported feed remains at `/feed.xml`, and the existing curated Atom feed at
+`/posts/feed.atom`. The Atom feeds are published without an XSL stylesheet.
+Feed templates have no HTML layout
 and are excluded from the sitemap. Netlify sets the feed content types.
 
 [Firehose Atom](https://relcfp.com/firehose.xml) combines both Atom feeds on every

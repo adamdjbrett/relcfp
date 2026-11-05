@@ -4,6 +4,8 @@ gem "jekyll", "~> 3.9.5"
 gem "kramdown-parser-gfm", "~> 1.1"
 gem "webrick"
 gem "csv"
+gem "base64"
+gem "bigdecimal"
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.17"

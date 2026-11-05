@@ -1,3 +1,4 @@
+import json
 import unittest
 from pathlib import Path
 from tempfile import TemporaryDirectory
@@ -12,13 +13,32 @@ from scripts.get_rss import (
     newest_entry,
     main,
     FEED_FRONT_MATTER,
+    normalize_xml_text,
     update_null_to_current_date,
 )
 
 
 class GetRssTests(unittest.TestCase):
+    def test_html_content_escapes_ampersands_without_changing_text_or_markup(self) -> None:
+        xml = '''<feed><updated>2026-11-03T19:30:00Z</updated><entry>
+          <updated>2026-11-03T19:30:00Z</updated>
+          <title>War &amp; Culture</title>
+          <content type="html">&lt;p&gt;War &amp; Culture &amp;amp; Society &amp;nbsp; &amp;#169;&lt;/p&gt;</content>
+          <summary type="html"><![CDATA[Horror &amp; Cinema]]></summary>
+        </entry><entry><content type="text">War &amp; Culture</content></entry></feed>'''
+        normalized = normalize_xml_text(xml)
+        self.assertEqual(normalize_xml_text(normalized), normalized)
+        feed = convert_xml_to_feed_data(normalized)['feed']
+        entry = feed['entry'][0]
+        self.assertEqual(entry['title'], 'War & Culture')
+        self.assertEqual(entry['updated'], '2026-11-03T19:30:00Z')
+        self.assertEqual(entry['content']['#text'], '<p>War &amp; Culture &amp; Society &nbsp; &#169;</p>')
+        self.assertEqual(entry['summary']['#text'], 'Horror &amp; Cinema')
+        self.assertEqual(feed['entry'][1]['content']['#text'], 'War & Culture')
+
     def test_feed_update_preserves_template_metadata_and_detects_unchanged_xml(self) -> None:
-        xml = '<feed><updated>2026-10-28T12:00:00Z</updated><entry><id>https://example.org/1</id><title>A &amp; B</title></entry></feed>'
+        xml = '<feed><updated>2026-10-28T12:00:00Z</updated><entry><id>https://example.org/1</id><title>A &amp; B</title><content type="html">War &amp; Culture</content></entry></feed>'
+        expected_xml = xml.replace('>War &amp; Culture<', '>War &amp;amp; Culture<')
         with TemporaryDirectory() as tmpdir:
             root = Path(tmpdir)
             saved = root / "feed.xml"
@@ -30,11 +50,13 @@ class GetRssTests(unittest.TestCase):
                 "scripts.get_rss.RunLogger", side_effect=lambda: RunLogger(root / "RUNLOG.md")
             ), patch("scripts.get_rss.set_github_outputs") as outputs:
                 main()
-                self.assertEqual(saved.read_text(), FEED_FRONT_MATTER + xml)
+                self.assertEqual(saved.read_text(), FEED_FRONT_MATTER + expected_xml)
+                data = json.loads((root / 'feed.json').read_text())
+                self.assertEqual(data['feed']['entry'][0]['content']['#text'], 'War &amp; Culture')
                 outputs.assert_called_with(True, None)
                 main()
                 outputs.assert_called_with(False, None)
-            self.assertEqual(saved.read_text(), FEED_FRONT_MATTER + xml)
+            self.assertEqual(saved.read_text(), FEED_FRONT_MATTER + expected_xml)
             self.assertFalse((root / "old_feed.xml").exists())
 
     def test_failed_fetch_preserves_feed_and_reports_failure(self) -> None:
