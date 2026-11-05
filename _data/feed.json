@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-11-03T20:44:49.000Z",
+        "updated": "2026-11-04T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: How to Think about Conversion? \u2014 EHS Post-Graduate Online Symposium",
+                "link": {
+                    "@href": "https://relcfp.com/2026/11/04/cfp-ehs-how-to-think-about-conversion/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-11-04T00:00:00.000Z",
+                "id": "https://relcfp.com/2026/11/04/cfp-ehs-how-to-think-about-conversion/",
+                "content": {
+                    "@type": "html",
+                    "#text": "The Ecclesiastical History Society invites postgraduate proposals on the methodological challenges\u2026"
+                }
+            },
             {
                 "title": "EHS Post-Graduate Online Symposium Call for Papers New Directions in Church History: How to Think about Conversion?",
                 "link": {
@@ -929,22 +945,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "At this stage, while proposals across all areas remain welcome, we are particularly interested in\u2026"
-                }
-            },
-            {
-                "title": "#CFP: The Bible, Animal Studies, and the Sciences",
-                "link": {
-                    "@href": "https://relcfp.com/2026/07/09/cfp-bible-animal-studies-sciences/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2026-07-09T00:00:00.000Z",
-                "id": "https://relcfp.com/2026/07/09/cfp-bible-animal-studies-sciences/",
-                "content": {
-                    "@type": "html",
-                    "#text": "Call for papers for a Journal for Interdisciplinary Biblical Studies special issue on biblical\u2026"
                 }
             },
             {
