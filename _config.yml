@@ -10,7 +10,9 @@ twitter_url:  https://twitter.com/relcfp
 bksy_url: https://bsky.app/profile/relcfp.com
 
 
-
+author:
+  name: RELCFP
+  uri: https://relcfp.com
 
 # Build settings
 keep_files: [pagefind]
