@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-11-04T22:15:00.000Z",
+        "updated": "2026-11-06T02:45:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-06T02:45:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
+                "content": {
+                    "@type": "html",
+                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
+                }
+            },
             {
                 "title": "Children in Partition Literature of Indian Subcontinent",
                 "link": {
@@ -116,6 +132,38 @@
                 }
             },
             {
+                "title": "ICSSR-Sponsored Two-Day National Conference on \u201cGender Discourses and Viksit Bharat\u201d",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109807"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-02T09:35:28.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109807",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Purbasthali College, Parulia, Purba Bardhaman, West Bengal\u2026"
+                }
+            },
+            {
+                "title": "CFP ASLE 2026 -- Riparian Terrors, Borderline Terroirs: Transboundary Waters and Critical Border Zones",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109804"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-02T00:45:17.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109804",
+                "content": {
+                    "@type": "html",
+                    "#text": "updated: Sunday, November 1, 2026 - 7:45pmfull name / name of organization: THE ASSOCIATION FOR THE\u2026"
+                }
+            },
+            {
                 "title": "Call for Papers: X-Men and Theology",
                 "link": {
                     "@href": "https://popularcultureandtheology.com/2026/11/01/call-for-papers-x-men-and-theology/"
@@ -161,6 +209,54 @@
                 "content": {
                     "@type": "html",
                     "#text": "The Maston Foundation provides a $5,000 scholarship annually to a PhD, ThD, or DMin student whose\u2026"
+                }
+            },
+            {
+                "title": "UPDATED True Crime CFP - PCA Annual Conference 2027",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109803"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-01T16:54:40.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109803",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: Popular Culture Associationcontact\u2026"
+                }
+            },
+            {
+                "title": "Behind the Scenes: Higher Education and Pedagogy in Dance, Theatre, and Performance across Europe",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109800"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-01T15:45:33.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109800",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: European Journal of Theatre and Performance (EJTP)contact\u2026"
+                }
+            },
+            {
+                "title": "Behind the Scenes: Higher Education and Pedagogy in Dance, Theatre, and Performance across Europe",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109800"
+                },
+                "author": {
+                    "name": "UPenn - Journals and Collections of Essays",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
+                },
+                "updated": "2026-11-01T15:45:33.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109800",
+                "content": {
+                    "@type": "html",
+                    "#text": "full name / name of organization: European Journal of Theatre and Performance (EJTP)contact\u2026"
                 }
             },
             {
@@ -212,22 +308,6 @@
                 }
             },
             {
-                "title": "Midwest Perspectives: A Symposium of Scholars and Creative Writers",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109794"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-31T21:47:58.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109794",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: The Society for the Study of Midwestern Literature (SSML)contact\u2026"
-                }
-            },
-            {
                 "title": "CALL FOR SUBMISSIONS THE CHRISTMAS BETWEEN US An International Anthology of Micro Fiction",
                 "link": {
                     "@href": "https://call-for-papers.sas.upenn.edu/node/109793"
@@ -273,70 +353,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Fresh Words-An International Literary Journal contact\u2026"
-                }
-            },
-            {
-                "title": "Women In(ter)text",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109790"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-31T17:31:19.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109790",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Association of Canadian College and University Teachers of\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Theatre Academy: Journal of World",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109788"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-31T14:53:44.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109788",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Theatre Academy: Journal of World Theatrecontact\u2026"
-                }
-            },
-            {
-                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-31T02:30:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
-                "content": {
-                    "@type": "html",
-                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
-                }
-            },
-            {
-                "title": "CFP for PNRS 2027, 21-23 October Sidney, BC: Renaissance Bodies of Knowledge: Human Ingenuity in Ages of Artifice",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109786"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-10-30T22:15:04.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109786",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Pacific Northwest Renaissance Society (PNRS)contact\u2026"
                 }
             },
             {
@@ -561,22 +577,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "full name / name of organization: Brian Wolfel/ University of New Hampshirecontact\u2026"
-                }
-            },
-            {
-                "title": "Call for Papers: Special Issue 19.2, Production and Technical Training for Theatre and Live Productions",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/109649"
-                },
-                "author": {
-                    "name": "UPenn - Journals and Collections of Essays",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/journals-and-collections-of-essays"
-                },
-                "updated": "2026-10-26T17:35:48.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/109649",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: Theatre, Dance and Performance Training contact\u2026"
                 }
             },
             {
