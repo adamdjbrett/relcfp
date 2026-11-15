@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-11-13T02:45:00.000Z",
+        "updated": "2026-11-14T23:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Plurilingualism in the New World Special Issue \u2013 eHumanista",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109212"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-14T23:00:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109212",
+                "content": {
+                    "@type": "html",
+                    "#text": "Dear colleagues, We are pleased to greet you. We would like to invite you to contribute to a dossier\u2026"
+                }
+            },
             {
                 "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
                 "link": {
@@ -273,22 +289,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, November 9, 2026 - 1:15pmfull name / name of organization: University of\u2026"
-                }
-            },
-            {
-                "title": "Migrations and Metamorphoses",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/110170"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-11-09T18:00:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/110170",
-                "content": {
-                    "@type": "html",
-                    "#text": "updated: Monday, November 9, 2026 - 1:00pmfull name / name of organization: Shiv Nadar Institute of\u2026"
                 }
             },
             {
