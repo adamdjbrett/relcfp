@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-11-14T23:00:00.000Z",
+        "updated": "2026-11-15T02:30:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-15T02:30:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
+                "content": {
+                    "@type": "html",
+                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
+                }
+            },
             {
                 "title": "Plurilingualism in the New World Special Issue \u2013 eHumanista",
                 "link": {
@@ -33,22 +49,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "Dear colleagues, We are pleased to greet you. We would like to invite you to contribute to a dossier\u2026"
-                }
-            },
-            {
-                "title": "Revolutions & Revisions in Popular Culture (in Collecting)-PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/106208"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-11-13T02:45:00.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/106208",
-                "content": {
-                    "@type": "html",
-                    "#text": "PCA Annual Conference, March 24-27, 2027: Boston, Massachusetts The Collecting and Collectibles\u2026"
                 }
             },
             {
