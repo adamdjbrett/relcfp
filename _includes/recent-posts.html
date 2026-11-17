@@ -1,4 +1,5 @@
-<h2 style="text-align:center;">Recent Posts</h2>
+<section class="h-feed">
+<h2 class="p-name" style="text-align:center;">Recent Posts</h2>
 <div class="cards__grid recent" >
     {% for post in site.posts limit:3 %}
     <article class="card__item h-entry">
@@ -7,16 +8,19 @@
                 <li class="posts-time">
                     <time class="dt-published" datetime="{{post.date | date_to_xmlschema}}">{{post.date | date_to_long_string}}</time>
                 </li>
+                <li>{% include authors.html entry=post %}</li>
             </ul>
         </div>
         <div class="post__thumb">
+            {% assign image = post.image.path | default: post.image | absolute_url %}
             <a class="u-url" href="{{post.url}}">
-                <img fetchpriority="high" decoding="async" width="400" height="250" class="post__img u-featured" src="https://wsrv.nl/?url={{site.url}}{{post.image}}&w=400&output=webp" alt="{{post.title}}"/>
+                <img fetchpriority="high" decoding="async" width="400" height="250" class="post__img u-featured" src="https://wsrv.nl/?url={{ image | cgi_escape | escape }}&amp;w=400&amp;output=webp" alt="{{ post.image.alt | default: post.title | escape }}"/>
             </a>
         </div>
-        <a class="u-url" href="{{post.url}}">
-            <h3 class="p-name">{{post.title}}</h3>
+        <a class="u-url u-uid" href="{{post.url}}">
+            <h3 class="p-name">{{post.title | escape}}</h3>
         </a>
     </article>
     {% endfor %}
 </div>
+</section>

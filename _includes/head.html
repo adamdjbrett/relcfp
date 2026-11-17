@@ -9,25 +9,10 @@
   <link rel="preload" href="/pagefind/pagefind-ui.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
   <noscript><link rel="stylesheet" href="/pagefind/pagefind-ui.css"></noscript>
   <link href="https://mastodon.social/@relcfp" rel="me">
-  {% seo %}
+  {% include metadata.html %}
   {% feed_meta %}
   <link rel="alternate" type="application/rss+xml" title="RELCFP RSS" href="{{ '/feed.rss' | relative_url }}">
   <link rel="alternate" type="application/feed+json" title="RELCFP JSON Feed" href="{{ '/feed.json' | relative_url }}">
   <link rel="alternate" type="text/plain" title="RELCFP twtxt" href="{{ '/twtxt.txt' | relative_url }}">
   <link rel="author" type="text/plain" href="{{ '/humans.txt' | relative_url }}">
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Blog",
-    "name": {{ site.title | jsonify }},
-    "description": {{ site.description | strip_newlines | jsonify }},
-    "url": {{ site.url | append: "/posts/" | jsonify }},
-    "publisher": {
-      "@type": "Organization",
-      "name": {{ site.title | jsonify }},
-      "url": {{ site.url | jsonify }}
-    },
-    "inLanguage": "en-US"
-  }
-  </script>
 </head>

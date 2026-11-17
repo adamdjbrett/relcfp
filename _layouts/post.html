@@ -2,20 +2,17 @@
 layout: default
 section_id: posts
 ---
-{%- assign author = site.data.authors[page.author] -%}
+{%- assign authors = page.author | metadata_authors -%}
 <article class="container h-entry" data-pagefind-body>
     <div class="post__header">
-        <h2 class="p-name">{{page.title}}</h2>
+        <h2 class="p-name"><a class="u-url u-uid" href="{{ page.url | absolute_url | escape }}">{{page.title | escape}}</a></h2>
         <div class="meta__info">
             <ul class="post__info">
-            {%- for posts in page.author -%}
-                <li class="post__author p-author h-card">
-                    <span class="p-name">{{author.name}}</span>
-                </li>
-            {%- endfor -%}
+                <li class="post__author">{% include authors.html entry=page %}</li>
                 <li class="posts__time">
                     <time class="dt-published" datetime="{{page.date | date_to_xmlschema}}">{{page.date | date_to_long_string}}</time>
                 </li>
+                {% if page.last_modified_at %}<li>Updated <time class="dt-updated" datetime="{{ page.last_modified_at | date_to_xmlschema }}">{{ page.last_modified_at | date_to_long_string }}</time></li>{% endif %}
             </ul>
         </div>
         
@@ -23,9 +20,11 @@ section_id: posts
     <div class="post__content">
         <div class="post__img">
             {%- if page.image -%}
-                <img decoding="async" class="u-featured" src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
+                {% assign image = page.image.path | default: page.image | absolute_url %}
+                <img decoding="async" class="u-featured" src="https://wsrv.nl/?url={{ image | cgi_escape | escape }}&amp;output=webp" alt="{{ page.image.alt | default: page.title | escape }}">
             {%- endif -%}
         </div>
+        {% if page.description %}<p class="p-summary">{{ page.description | escape }}</p>{% endif %}
         <div class="e-content">
             {{content}}
         </div>
@@ -40,23 +39,23 @@ section_id: posts
     </div>
 
 
-    {% if author %}
+    {% for author in authors %}{% if author.author_desc or author.author_img %}
     <div class="author__details h-card">
         {% if author.author_img %}
         <div class="author__avatar">
-            <img loading="lazy" decoding="async" class="u-photo" src="{{author.author_img}}" alt="{{author.name}}">
+            <img loading="lazy" decoding="async" class="u-photo" src="{{ author.author_img | relative_url | escape }}" alt="{{ author.name | escape }}">
         </div>
         {% endif %} 
         <div class="author__description">
             <h4>
-                {% if author.website %}
-                <a class="p-name u-url" href="{{author.website}}" rel="author">{{author.name}}</a>
+                {% if author.url %}
+                <a class="p-name u-url" href="{{ author.url | absolute_url | escape }}" rel="author">{{ author.name | escape }}</a>
                 {% else %}
-                <span class="p-name">{{author.name}}</span>
+                <span class="p-name">{{ author.name | escape }}</span>
                 {% endif %}
             </h4>
             {% if author.author_desc %}
-            <p class="author__text p-note">{{author.author_desc}}</p>
+            <p class="author__text p-note">{{ author.author_desc | escape }}</p>
             {% endif %} 
             <div class="author__links">
                 {% if author.website %}
@@ -77,6 +76,6 @@ section_id: posts
             </div>
         </div>
     </div> 
-    {% endif %} 
+    {% endif %}{% endfor %}
 </article>
 {%- include pagination.html -%}

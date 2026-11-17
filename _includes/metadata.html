@@ -1,0 +1,67 @@
+<title>{{ metadata.title | escape }}{% if metadata.title != site.title %} | {{ site.title | escape }}{% endif %}</title>
+<meta name="description" content="{{ metadata.description | escape }}">
+<link rel="canonical" href="{{ metadata.canonical | escape }}">
+<meta property="og:title" content="{{ metadata.title | escape }}">
+<meta property="og:description" content="{{ metadata.description | escape }}">
+<meta property="og:url" content="{{ metadata.canonical | escape }}">
+<meta property="og:site_name" content="{{ site.title | escape }}">
+<meta property="og:locale" content="{{ metadata.language | replace: '-', '_' | escape }}">
+<meta property="og:type" content="{% if metadata.post %}article{% else %}website{% endif %}">
+<meta name="twitter:site" content="@relcfp">
+<meta name="twitter:title" content="{{ metadata.title | escape }}">
+<meta name="twitter:description" content="{{ metadata.description | escape }}">
+{% if metadata.image %}
+<meta property="og:image" content="{{ metadata.image | escape }}">
+<meta property="og:image:alt" content="{{ metadata.image_alt | escape }}">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:image" content="{{ metadata.image | escape }}">
+<meta name="twitter:image:alt" content="{{ metadata.image_alt | escape }}">
+{% else %}
+<meta name="twitter:card" content="summary">
+{% endif %}
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/">
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/">
+<link rel="schema.z" href="http://www.zotero.org/namespaces/export#">
+<meta name="DC.title" content="{{ metadata.title | escape }}">
+<meta name="DC.description" content="{{ metadata.description | escape }}">
+<meta name="DC.identifier" content="{{ metadata.url | escape }}">
+<meta name="DC.language" content="{{ metadata.language | escape }}">
+<meta name="DC.publisher" content="{{ site.author.name | escape }}">
+<meta name="DC.type" content="Text">
+<meta name="DC.format" content="text/html">
+<meta name="DC.rights" content="https://creativecommons.org/licenses/by/4.0/">
+<meta name="DCTERMS.isPartOf" content="{{ '/' | absolute_url | escape }}">
+<meta name="z.itemType" content="{% if metadata.post %}blogPost{% else %}webpage{% endif %}">
+{% for author in metadata.authors %}
+<meta name="author" content="{{ author.name | escape }}">
+<meta name="DC.creator" content="{{ author.name | escape }}">
+{% if author.url %}<link rel="author" href="{{ author.url | absolute_url | escape }}">{% endif %}
+{% endfor %}
+{% if metadata.published %}
+<meta name="DC.date" content="{{ metadata.published | escape }}">
+<meta name="DCTERMS.issued" content="{{ metadata.published | escape }}">
+<meta property="article:published_time" content="{{ metadata.published | escape }}">
+{% endif %}
+{% if metadata.modified %}
+<meta name="DCTERMS.modified" content="{{ metadata.modified | escape }}">
+{% if metadata.post %}<meta property="article:modified_time" content="{{ metadata.modified | escape }}">{% endif %}
+{% endif %}
+{% for tag in page.tags %}
+<meta name="DC.subject" content="{{ tag | escape }}">
+{% if metadata.post %}<meta property="article:tag" content="{{ tag | escape }}">{% endif %}
+{% endfor %}
+{% if metadata.post %}
+<meta name="citation_title" content="{{ metadata.title | escape }}">
+<meta name="citation_publication_date" content="{{ page.date | date: '%Y/%m/%d' }}">
+<meta name="citation_public_url" content="{{ metadata.url | escape }}">
+<meta name="citation_abstract_html_url" content="{{ metadata.url | escape }}">
+<meta name="citation_language" content="{{ metadata.language | escape }}">
+<meta name="citation_publisher" content="{{ site.author.name | escape }}">
+<meta name="citation_abstract" content="{{ metadata.description | escape }}">
+{% for author in metadata.authors %}<meta name="citation_author" content="{{ author.name | escape }}">{% endfor %}
+{% if page.tags.size > 0 %}<meta name="citation_keywords" content="{{ page.tags | join: '; ' | escape }}">{% endif %}
+{% endif %}
+{% if page.url == '/404.html' %}<meta name="robots" content="noindex, follow">{% endif %}
+<script type="application/ld+json">
+{{ metadata.schema | metadata_json }}
+</script>

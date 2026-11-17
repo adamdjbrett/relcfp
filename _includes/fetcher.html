@@ -1,12 +1,17 @@
+<section class="h-feed">
+<h2 class="p-name" style="text-align: center; margin-top: 50px;">Newest Calls for Papers</h2>
 <div class="feed">
   {% for entry in site.data.feed.feed.entry %}
-  <article class="feed-card">
-    <h3><a href="{{ entry.id | escape }}">{{ entry.title | escape }}</a></h3>
+  <article class="feed-card h-entry">
+    <h3 class="p-name"><a class="u-url u-uid" href="{{ entry.id | escape }}">{{ entry.title | escape }}</a></h3>
     <p>URL: <a href="{{ entry.id | escape }}">{{ entry.id | escape }}</a></p>
     {% assign preview = entry.content['#text'] | strip_html %}
     {% if entry.content['@type'] == 'html' %}{% assign preview = preview | replace: '&amp;', '&' %}{% endif %}
-    <p>{{ preview | escape }}</p>
-    <p>Author: <a href="{{ entry.author.uri | escape }}">{{ entry.author.name | escape }}</a></p>
+    <p class="p-summary">{{ preview | escape }}</p>
+    {% if entry.published %}<time class="dt-published" datetime="{{ entry.published | date_to_xmlschema }}">{{ entry.published | date_to_long_string }}</time>{% endif %}
+    {% if entry.updated %}<time class="dt-updated" datetime="{{ entry.updated | date_to_xmlschema }}">{{ entry.updated | date_to_long_string }}</time>{% endif %}
+    <p>Author: {% include authors.html entry=entry %}</p>
   </article>
   {% endfor %}
 </div>
+</section>

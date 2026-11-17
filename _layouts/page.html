@@ -9,7 +9,8 @@ section_id: page
     <div class="post__content">
       <div class="post__img">
         {%- if page.image -%}
-        <img src="https://wsrv.nl/?url={{site.url}}{{page.image}}&output=webp" alt="{{page.title}}">
+        {% assign image = page.image.path | default: page.image | absolute_url %}
+        <img src="https://wsrv.nl/?url={{ image | cgi_escape | escape }}&amp;output=webp" alt="{{ page.image.alt | default: page.title | escape }}">
         {%- endif -%}
       </div>
   

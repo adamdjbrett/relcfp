@@ -1,0 +1,4 @@
+{%- assign entry_authors = include.entry.author | metadata_authors -%}
+{%- for entry_author in entry_authors -%}
+<span class="p-author h-card">{% if entry_author.url %}<a class="p-name u-url{% if entry_author.type == 'Organization' %} p-org{% endif %}" rel="author" href="{{ entry_author.url | absolute_url | escape }}">{{ entry_author.name | escape }}</a>{% else %}<span class="p-name{% if entry_author.type == 'Organization' %} p-org{% endif %}">{{ entry_author.name | escape }}</span>{% endif %}</span>{% unless forloop.last %}, {% endunless %}
+{%- endfor -%}

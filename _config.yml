@@ -13,6 +13,9 @@ bksy_url: https://bsky.app/profile/relcfp.com
 author:
   name: RELCFP
   uri: https://relcfp.com
+  type: Organization
+
+lang: en-US
 
 # Build settings
 keep_files: [pagefind]

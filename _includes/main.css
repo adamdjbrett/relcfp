@@ -17,6 +17,10 @@ h3 { font-size: clamp(1.25rem, 2.2vw, 1.5rem); padding-block: .6rem; }
 h4, h5, h6 { font-size: 1.15rem; padding-block: .5rem; }
 .container { width: calc(100% - 2rem); max-width: 1200px; margin: 1.25rem auto; padding: clamp(1rem, 3vw, 2.5rem); border-radius: 5px; background: #ffffffeb; }
 .container > *, .cards__grid > *, .feed > *, .pagination > *, .author__details > *, .tags__items > * { min-width: 0; }
+.breadcrumbs { max-width: 1200px; margin: 1rem auto; padding-inline: 1rem; font-size: .875rem; }
+.breadcrumbs ol { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; }
+.breadcrumbs li + li::before { content: "/"; margin-right: .5rem; }
+.breadcrumbs a { text-decoration: underline; }
 
 header, footer, .post__header { text-align: center; }
 .header__title h1 { padding-bottom: 1rem; }

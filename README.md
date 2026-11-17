@@ -51,6 +51,7 @@ python3 -m venv .venv
 .venv/bin/python -m pip install -r scripts/requirements.txt
 .venv/bin/python -m unittest discover -s tests -v
 bundle exec ruby tests/test_firehose.rb
+bundle exec ruby tests/test_metadata.rb
 npm test
 npm run build
 python3 tests/check_site.py
@@ -69,6 +70,35 @@ scripts are deferred, and `keep_files` preserves the generated search bundle dur
 Jekyll's local rebuilds. Run a production build again to refresh search content.
 
 See [responsive checks](docs/responsive-checks.md) for screen sizes and browser results.
+
+## Page metadata
+
+The shared head uses `_plugins/metadata.rb` and `_includes/metadata.html` to publish
+one formatted, script-safe Schema.org JSON-LD graph per page. It connects the
+organization, website, page, visible breadcrumbs, and (on posts) blog and
+BlogPosting. Open Graph, Twitter cards, Dublin Core, and Zotero-compatible
+Highwire citation tags use the same values. Citation tags appear only on posts;
+`z.itemType` identifies them as blog posts rather than journal articles.
+
+Set `author` to a key in `_data/authors.yml`, a name, a mapping with `name` and
+`url` (or `website`/`uri`), or a list of those values. Missing authors use the
+RELCFP organization. Author bylines use the standard `p-author h-card`
+microformat; posts and listing entries use `h-entry`, with `e-content` around
+the full post text. There is no standard `h-author` root microformat.
+
+Optional `description`, `image` (path or mapping with `path` and `alt`), `lang`,
+`tags`, and `last_modified_at` enrich the metadata. Dates come from content,
+never build time. Existing external `canonical_url` values remain search
+canonicals and are recorded as `isBasedOn` in the post schema; citations and
+microformat identifiers refer to the local curated post. No journal, event,
+deadline, or scholarly-paper details are inferred from the text of a CFP.
+
+The RELCFP profile has an organization `h-card` with `p-org` and a canonical
+`u-uid`; listing feeds use their visible headings as `p-name`. Reference guides:
+[Microformats](https://microformats.org/), [h-card](https://microformats.org/wiki/h-card),
+[h-entry](https://microformats.org/wiki/h-entry), [h-feed](https://microformats.org/wiki/h-feed),
+and [IndieWebify.Me](https://indiewebify.me/). These cover identity and publishing
+markup; Webmention sending/receiving requires a separate service or backend.
 
 ## Feeds and credits
 

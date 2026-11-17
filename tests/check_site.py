@@ -12,17 +12,47 @@ class Page(HTMLParser):
     def __init__(self, path):
         super().__init__()
         self.elements = []
+        self.json_ld = []
+        self.in_head = False
+        self.script = None
+        self.entries = []
+        self.entry = None
         self.feed(path.read_text())
 
     def handle_starttag(self, tag, attrs):
+        assert len(attrs) == len(dict(attrs)), ('Duplicate HTML attribute', tag, attrs)
         self.elements.append((tag, dict(attrs)))
+        classes = set(dict(attrs).get('class', '').split())
+        if tag == 'article' and 'h-entry' in classes:
+            self.entry = set()
+            self.entries.append(self.entry)
+        if self.entry is not None:
+            self.entry.update(classes)
+        if tag == 'head':
+            self.in_head = True
+        if tag == 'script' and dict(attrs).get('type') == 'application/ld+json':
+            assert self.in_head, 'JSON-LD must be in the head'
+            self.script = ''
+
+    def handle_data(self, data):
+        if self.script is not None:
+            self.script += data
+
+    def handle_endtag(self, tag):
+        if tag == 'article':
+            self.entry = None
+        if tag == 'head':
+            self.in_head = False
+        if tag == 'script' and self.script is not None:
+            self.json_ld.append(json.loads(self.script))
+            self.script = None
 
 
 site = Path('_site')
 home = Page(site / 'index.html')
 assert sum(tag == 'title' for tag, _ in home.elements) == 1
 entries = json.loads(Path('_data/feed.json').read_text())['feed']['entry']
-assert sum(a.get('class') == 'feed-card' for _, a in home.elements) == len(entries)
+assert sum('feed-card' in a.get('class', '').split() for _, a in home.elements) == len(entries)
 assert sum(a.get('class') == 'card__item h-entry' for _, a in home.elements) == 3
 recent_images = [a for tag, a in home.elements if tag == 'img' and a.get('class') == 'post__img u-featured']
 assert len(recent_images) == 3
@@ -40,9 +70,62 @@ for tag, attrs in home.elements:
         url = attrs.get('src', attrs.get('href', ''))
         assert 'bootstrap' not in url and 'sarissa' not in url, url
 tag_ids = {attrs['id'] for _, attrs in Page(site / 'tag/index.html').elements if 'id' in attrs}
+metadata_pages = 0
+metadata_posts = 0
 for page in site.rglob('*.html'):
     html = Page(page)
     if any(tag == 'header' for tag, _ in html.elements):
+        metadata_pages += 1
+        profiles = [a for tag, a in html.elements if tag == 'a'
+                    and {'u-uid', 'p-name', 'p-org'} <= set(a.get('class', '').split())]
+        assert len(profiles) == 1 and profiles[0]['href'] == 'https://relcfp.com/', page
+        assert len(html.json_ld) == 1, page
+        data = html.json_ld[0]
+        assert data['@context'] == 'https://schema.org', page
+        graph = data['@graph']
+        nodes = {node['@type']: node for node in graph}
+        assert len({node['@id'] for node in graph}) == len(graph), page
+        assert {'Organization', 'WebSite'} <= nodes.keys(), page
+        webpage = next(node for node in graph if node['@type'] in ('WebPage', 'AboutPage', 'CollectionPage'))
+        assert webpage['url'].startswith('https://relcfp.com/'), page
+        meta = {}
+        for tag, attrs in html.elements:
+            if tag == 'meta':
+                meta.setdefault(attrs.get('name', attrs.get('property')), []).append(attrs.get('content'))
+        for key in ['description', 'author', 'DC.title', 'DC.description', 'DC.creator',
+                    'DC.identifier', 'DC.language', 'DC.publisher', 'DC.type', 'DC.rights', 'z.itemType']:
+            assert all(meta[key]), (page, key)
+        assert meta['DC.title'] == [webpage['name']], page
+        assert meta['DC.description'] == meta['description'] == [webpage['description']], page
+        assert meta['DC.identifier'] == [webpage['url']], page
+        canonicals = [a['href'] for tag, a in html.elements if tag == 'link' and a.get('rel') == 'canonical']
+        assert len(canonicals) == 1 and meta['og:url'] == canonicals, page
+        assert sum(tag == 'title' for tag, _ in html.elements) == 1, page
+        assert ('BreadcrumbList' in nodes) == any(a.get('aria-label') == 'Breadcrumb' for _, a in html.elements), page
+        if 'BreadcrumbList' in nodes:
+            crumbs = nodes['BreadcrumbList']['itemListElement']
+            assert [c['position'] for c in crumbs] == list(range(1, len(crumbs) + 1)), page
+            assert crumbs[-1]['item'] == webpage['url'], page
+        if 'BlogPosting' in nodes:
+            metadata_posts += 1
+            article = nodes['BlogPosting']
+            assert meta['z.itemType'] == ['blogPost'], page
+            assert meta['citation_title'] == [article['headline']], page
+            assert meta['citation_public_url'] == [article['url']] == meta['DC.identifier'], page
+            names = [author['name'] for author in article['author']]
+            assert names == meta['citation_author'] == meta['DC.creator'] == meta['author'], page
+            assert article['mainEntityOfPage']['@id'] == webpage['@id'], page
+            assert article['datePublished'] == meta['article:published_time'][0], page
+            assert datetime.fromisoformat(article['datePublished']).tzinfo, page
+            assert datetime.fromisoformat(article['dateModified']).tzinfo, page
+            assert len(html.entries) == 1, page
+            assert {'h-entry', 'p-name', 'p-author', 'h-card', 'u-uid', 'dt-published', 'e-content'} <= html.entries[0], page
+            if 'image' in article:
+                assert meta['og:image'] == meta['twitter:image'] == [article['image']], page
+                assert article['image'].startswith('https://'), page
+            assert 'citation_journal_title' not in meta, page
+        else:
+            assert meta['z.itemType'] == ['webpage'] and 'citation_title' not in meta, page
         assert sum(tag == 'main' for tag, _ in html.elements) == 1, page
         main = next(a for tag, a in html.elements if tag == 'main')
         assert main.get('id') == 'main-content' and main.get('tabindex') == '-1', page
@@ -56,6 +139,12 @@ for page in site.rglob('*.html'):
             assert attrs['href'].split('#', 1)[1] in tag_ids, (page, attrs)
 forms = [attrs for tag, attrs in Page(site / 'submission/index.html').elements if tag == 'form']
 assert len(forms) == 1 and forms[0].get('method') == 'POST'
+assert metadata_posts > 0
+for path in ['index.html', 'posts/index.html', 'tag/index.html']:
+    for classes in Page(site / path).entries:
+        assert {'h-entry', 'p-name', 'p-author', 'h-card', 'u-uid'} <= classes, (path, classes)
+        assert {'dt-published', 'dt-updated'} & classes, (path, classes)
+print(f'Metadata verified: {metadata_pages} HTML pages, {metadata_posts} blog posts, JSON-LD, Dublin Core, citation tags, and microformats.')
 
 archive = Page(site / 'posts/index.html')
 assert all(a.get('loading') == 'lazy' for tag, a in archive.elements if tag == 'img')

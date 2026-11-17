@@ -18,13 +18,14 @@ description : Hastag Relcfp
     <div class="tags__row">
         {% for tag in sorted_tags %}
         {% assign this_word = tag[0] %}
-        <div class="tags__results">
-            <h3 id="{{ this_word | cgi_escape }}">{{ this_word }}</h3>
+        <div class="tags__results h-feed">
+            <h3 class="p-name" id="{{ this_word | cgi_escape }}">{{ this_word | escape }}</h3>
             <div class="tags__items">
                 {% for post in tag[1] %}{% if post.title != null %}
                 <article class="item h-entry">
-                    <span><a class="u-url p-name" href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></span>
+                    <span><a class="u-url u-uid p-name" href="{{ post.url | relative_url }}">{{ post.title | escape }}</a></span>
                     <small><span>| <time class="dt-published" datetime="{{post.date | date_to_xmlschema}}">{{ post.date | date_to_string }}</time></span></small>
+                    <small>{% include authors.html entry=post %}</small>
                 </article>
                 {% endif %}{% endfor %}
             
