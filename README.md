@@ -27,11 +27,15 @@ npm run build
 npm run dev
 ```
 
-`npm run build` generates `_site/` and then the Pagefind search index. After a new
+`npm run build` generates `_site/`, minifies HTML, inline and standalone CSS/JS,
+and then generates the Pagefind search index. After a new
 checkout, build once before starting the development server so search assets exist.
 Edit `_includes/main.css`; the shared head inlines it to avoid a render-blocking
 request. `assets/main.css` publishes the same source for existing external links.
-There is no Sass compilation step for site styles.
+`scripts/minify.cjs` changes only generated files; source remains readable.
+It preserves whitespace in code blocks and form fields. Pagefind's optimized,
+hashed assets are left to Pagefind. JSON-LD is serialized compactly with safe
+script escaping. There is no Sass compilation step for site styles.
 Jekyll 3 still installs its own Sass converter as a transitive dependency.
 
 ## Repository layout
@@ -74,7 +78,7 @@ See [responsive checks](docs/responsive-checks.md) for screen sizes and browser 
 ## Page metadata
 
 The shared head uses `_plugins/metadata.rb` and `_includes/metadata.html` to publish
-one formatted, script-safe Schema.org JSON-LD graph per page. It connects the
+one compact, script-safe Schema.org JSON-LD graph per page. It connects the
 organization, website, page, visible breadcrumbs, and (on posts) blog and
 BlogPosting. Open Graph, Twitter cards, Dublin Core, and Zotero-compatible
 Highwire citation tags use the same values. Citation tags appear only on posts;

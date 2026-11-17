@@ -30,6 +30,7 @@ check.call(data["description"] == "A & B with markup", "Description must be plai
 check.call(data["url"] == "https://relcfp.com/preview/example/", "Lost baseurl")
 check.call(data["authors"][0]["type"] == "Organization", "Site author is an organization")
 raw = render.call("{{ page | page_metadata | metadata_json }}", base)
+check.call(!raw.include?("\n"), "JSON-LD must be compact")
 check.call(!raw.include?("</script>"), "JSON-LD can close its script element")
 check.call(JSON.parse(raw)["title"].include?('Quotes " & Unicode —'), "JSON escaping changed text")
 unsafe_author = 'An "author" & </script><script>alert(1)</script>'

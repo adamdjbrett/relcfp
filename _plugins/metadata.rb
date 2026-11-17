@@ -99,7 +99,7 @@ module RelcfpMetadata
 
   def metadata_json(value)
     # Script contents use JSON escapes, since HTML entities would corrupt JSON-LD.
-    JSON.pretty_generate(value).gsub("<", '\\u003c').gsub(">", '\\u003e').gsub("&", '\\u0026')
+    JSON.generate(value).gsub("<", '\\u003c').gsub(">", '\\u003e').gsub("&", '\\u0026')
   end
 end
 

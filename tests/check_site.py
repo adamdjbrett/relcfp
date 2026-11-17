@@ -129,6 +129,8 @@ for page in site.rglob('*.html'):
         assert sum(tag == 'main' for tag, _ in html.elements) == 1, page
         main = next(a for tag, a in html.elements if tag == 'main')
         assert main.get('id') == 'main-content' and main.get('tabindex') == '-1', page
+        assert 'container' in main.get('class', '').split(), page
+        assert ('post-layout' in main.get('class', '').split()) == ('BlogPosting' in nodes), page
         first_link = next(a for tag, a in html.elements if tag == 'a' and 'href' in a)
         assert first_link.get('class') == 'skip-link' and first_link['href'] == '#main-content', page
         assert sum(a.get('id') == 'main-content' for _, a in html.elements) == 1, page
@@ -157,8 +159,11 @@ for page in [site / 'index.html', site / 'posts/index.html', site / '404.html']:
     assert any(tag == 'link' and a.get('rel') == 'preload' and a.get('as') == 'style'
                and a.get('href') == '/pagefind/pagefind-ui.css' and 'onload' in a
                for tag, a in html.elements)
-    assert '<style>' + Path('_includes/main.css').read_text() + '</style>' in page.read_text()
-assert (site / 'assets/main.css').read_text().strip() == Path('_includes/main.css').read_text().strip()
+    inline_css = re.search(r'<style>(.*?)</style>', page.read_text(), re.S)[1]
+    assert inline_css == (site / 'assets/main.css').read_text(), page
+    assert '\n' not in inline_css, page
+assert (site / 'assets/main.css').stat().st_size < Path('_includes/main.css').stat().st_size
+assert (site / 'assets/js/posts.js').stat().st_size < Path('assets/js/posts.js').stat().st_size
 assert json.loads((site / '.well-known/appspecific/com.chrome.devtools.json').read_text()) == {}
 
 # Parse the formats as feed readers do, including escaping, dates, and identifiers.

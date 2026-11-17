@@ -15,9 +15,12 @@ h1 { font-size: clamp(1.8rem, 4vw, 3rem); }
 h2 { font-size: clamp(1.5rem, 3vw, 2rem); padding-block: .6rem; }
 h3 { font-size: clamp(1.25rem, 2.2vw, 1.5rem); padding-block: .6rem; }
 h4, h5, h6 { font-size: 1.15rem; padding-block: .5rem; }
-.container { width: calc(100% - 2rem); max-width: 1200px; margin: 1.25rem auto; padding: clamp(1rem, 3vw, 2.5rem); border-radius: 5px; background: #ffffffeb; }
+.container { width: calc(100% - 2rem); max-width: 1200px; margin: 1.25rem auto; padding: clamp(1rem, 3vw, 2.5rem); border-radius: 5px; background: #fff; }
+main.post-layout { max-width: 1000px; }
+main.container > .container { width: 100%; max-width: none; margin: 0; padding: 0; background: none; border-radius: 0; }
+main.container > .container + .container { margin-top: 2rem; padding-top: 1.5rem; border-top: 1px solid #01204426; }
 .container > *, .cards__grid > *, .feed > *, .pagination > *, .author__details > *, .tags__items > * { min-width: 0; }
-.breadcrumbs { max-width: 1200px; margin: 1rem auto; padding-inline: 1rem; font-size: .875rem; }
+.breadcrumbs { margin-bottom: 1.5rem; padding-bottom: 1rem; border-bottom: 1px solid #01204426; font-size: .875rem; }
 .breadcrumbs ol { display: flex; flex-wrap: wrap; gap: .5rem; list-style: none; }
 .breadcrumbs li + li::before { content: "/"; margin-right: .5rem; }
 .breadcrumbs a { text-decoration: underline; }
@@ -39,6 +42,7 @@ footer .container { margin-bottom: 1.25rem; }
 
 .cards__grid, .feed { display: grid; grid-template-columns: minmax(0, 1fr); gap: 1.5rem; }
 .card__item, .feed-card { padding: 1.25rem; border: 1px solid #012044; border-radius: 5px; box-shadow: 2px 4px 16px #ddd; }
+.card__item { display: flex; flex-direction: column; }
 .card__item img { display: block; width: 100%; aspect-ratio: 16 / 10; object-fit: contain; background: #fff; }
 .card__item h3 { margin-top: .25rem; }
 .card__item p { margin-bottom: .5rem; }
@@ -46,7 +50,7 @@ footer .container { margin-bottom: 1.25rem; }
 .cards__grid .meta__info, .cards__grid .post__tag { font-size: .875rem; }
 .cards__grid .post__tag { margin-block: .5rem; }
 .cards__grid .post__tag a { display: inline-block; }
-.link__box { margin-top: .75rem; }
+.link__box { margin-top: auto; padding-top: .75rem; }
 .link__box a, .feed-card a { text-decoration: underline; text-underline-offset: .15em; }
 .feed { margin-top: 1.25rem; }
 .feed-card p { margin-top: .75rem; }

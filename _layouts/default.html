@@ -5,7 +5,7 @@
 <body>
     <a class="skip-link" href="#main-content">Skip to content</a>
     {% include header.html %}
-    <main id="main-content" tabindex="-1">
+    <main id="main-content" class="container{% if metadata.post %} post-layout{% endif %}" tabindex="-1">
       {% if metadata.breadcrumbs.size > 0 %}
       <nav class="breadcrumbs" aria-label="Breadcrumb">
         <ol>{% for crumb in metadata.breadcrumbs %}<li>{% if forloop.last %}<span aria-current="page">{{ crumb.name | escape }}</span>{% else %}<a href="{{ crumb.url | escape }}">{{ crumb.name | escape }}</a>{% endif %}</li>{% endfor %}</ol>
