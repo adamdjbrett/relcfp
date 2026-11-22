@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-11-20T01:15:00.000Z",
+        "updated": "2026-11-22T01:30:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "Gothic Speculations in Multicultural American Literature",
+                "link": {
+                    "@href": "https://call-for-papers.sas.upenn.edu/node/109444"
+                },
+                "author": {
+                    "name": "UPenn - cultural studies and historical approaches",
+                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
+                },
+                "updated": "2026-11-22T01:30:00.000Z",
+                "id": "https://call-for-papers.sas.upenn.edu/node/109444",
+                "content": {
+                    "@type": "html",
+                    "#text": "DEADLINE HAS BEEN EXTENDED TO DECEMBER 6! Gothic Speculations: MELUS Women of Color Caucus (WOCC)\u2026"
+                }
+            },
             {
                 "title": "Between Theology and Physiology: Religious, Secular, and Post-Secular Health Imaginaries in the Long Nineteenth Century",
                 "link": {
@@ -337,22 +353,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "updated: Monday, November 16, 2026 - 5:30pmfull name / name of organization: Mart\u00edn Praga, Paula\u2026"
-                }
-            },
-            {
-                "title": "Memory, Forgetting and Creating - 11th International Interdisciplinary Conference",
-                "link": {
-                    "@href": "https://call-for-papers.sas.upenn.edu/node/110401"
-                },
-                "author": {
-                    "name": "UPenn - cultural studies and historical approaches",
-                    "uri": "https://call-for-papers.sas.upenn.edu/category/cultural-studies-and-historical-approaches"
-                },
-                "updated": "2026-11-16T20:09:17.000Z",
-                "id": "https://call-for-papers.sas.upenn.edu/node/110401",
-                "content": {
-                    "@type": "html",
-                    "#text": "full name / name of organization: InMind Supportcontact email: conferencememory@gmail.comcategories\u2026"
                 }
             },
             {
