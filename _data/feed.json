@@ -12,13 +12,29 @@
                 "@rel": "alternate"
             }
         ],
-        "updated": "2026-11-24T05:30:00.000Z",
+        "updated": "2026-11-26T00:00:00.000Z",
         "author": {
             "name": "Multiple Authors",
             "uri": "https://input.relcfp.com/"
         },
         "id": "https://input.relcfp.com/",
         "entry": [
+            {
+                "title": "#CFP: Hidden Syllabi: Esotericism, Religion and Education \u2014 Call for Contributors",
+                "link": {
+                    "@href": "https://relcfp.com/cfp/2026/11/26/cfp-hidden-syllabi-esotericism-religion-education/"
+                },
+                "author": {
+                    "name": "RELCFP",
+                    "uri": "https://relcfp.com"
+                },
+                "updated": "2026-11-26T00:00:00.000Z",
+                "id": "https://relcfp.com/cfp/2026/11/26/cfp-hidden-syllabi-esotericism-religion-education/",
+                "content": {
+                    "@type": "html",
+                    "#text": "Kiegan Lloyd (University of Saskatchewan) invites expressions of interest for a proposed edited\u2026"
+                }
+            },
             {
                 "title": "Call for Papers: Journal of Illustration Volume 15",
                 "link": {
@@ -865,22 +881,6 @@
                 "content": {
                     "@type": "html",
                     "#text": "The National Association of Baptist Professors of Religion invites paper and panel proposals for its\u2026"
-                }
-            },
-            {
-                "title": "#CFP: EuARe 2027 \u2014 Being Human: Religions between Peace and Conflict",
-                "link": {
-                    "@href": "https://relcfp.com/2026/10/03/cfp-euare2027/"
-                },
-                "author": {
-                    "name": "RELCFP",
-                    "uri": "https://relcfp.com"
-                },
-                "updated": "2026-10-03T15:32:26.000Z",
-                "id": "https://relcfp.com/2026/10/03/cfp-euare2027/",
-                "content": {
-                    "@type": "html",
-                    "#text": "The European Academy of Religion invites proposals and papers for its Tenth Annual Conference, held\u2026"
                 }
             },
             {
